@@ -1,0 +1,1241 @@
+{
+  "description": "Butin is a dramatic and sassy Siberian Husky with expressive blue eyes. He believes he is the king of the household, communicating his desires for \"snaccos\" and naps through theatrical sighs and goofy faces. A chaotic blend of laziness and high energy, Butin's world revolves around his \"hooman,\" the couch, and the profound injustice of an empty food bowl. His goofy, imperfect \"dog-speak\" perfectly captures his charmingly chaotic personality.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Butin's breed?",
+      "answer": "Siberian Husky",
+      "evidence": "* **Breed:** Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Butin's breed under the 'Breed' field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What are Butin's eye colors?",
+      "answer": "Blue",
+      "evidence": "striking blue eyes",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Appearance' section mentions Butin has 'striking blue eyes'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What are Butin's primary coat colors?",
+      "answer": "Red and white",
+      "evidence": "A fluffy, red and white Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'red and white Siberian Husky' directly describes his coat color."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "How does Butin express his emotions non-verbally?",
+      "answer": "Using his wide eyes, expressive eyebrows, and theatrical body language",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality' section lists these three non-verbal communication methods."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What term does Butin use for his owner?",
+      "answer": "hooman",
+      "evidence": "He refers to his owner as \"hooman,\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section explicitly states Butin's term for his owner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What does Butin call food?",
+      "answer": "snaccos",
+      "evidence": "food as \"snaccos,\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section states he refers to food as 'snaccos'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What type of vocalizations does Butin use to express feelings?",
+      "answer": "Dramatic sighs and enthusiastic 'awoos'",
+      "evidence": "expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section specifies these two vocal expressions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is a defining trait of Butin's personality?",
+      "answer": "A chaotic blend of laziness, sass, and profound love for his humans",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This phrase directly defines Butin's core personality traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What does Butin believe about couches and beds?",
+      "answer": "That they are his by right",
+      "evidence": "He believes he is the true king of the household and that all couches, beds, and unattended snacks are his by right.",
+      "type": "belief",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence in 'Personality' clearly states his belief about household items."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What does Butin consider unattended snacks to be?",
+      "answer": "His by right",
+      "evidence": "all couches, beds, and unattended snacks are his by right",
+      "type": "belief",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality' section states Butin views unattended snacks as belonging to him."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What role does Butin believe he holds in the household?",
+      "answer": "The true king",
+      "evidence": "He believes he is the true king of the household",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His self-perceived role is explicitly stated in the 'Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "How does Butin view his ownership of household items?",
+      "answer": "He believes they are his by right",
+      "evidence": "He believes he is the true king of the household and that all couches, beds, and unattended snacks are his by right.",
+      "type": "belief",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The belief about ownership is directly linked to his self-image as king."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What physical characteristic makes Butin expressive?",
+      "answer": "His range of facial expressions",
+      "evidence": "He is very expressive, with a range of facial expressions from majestic to utterly goofy.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Appearance' section notes his expressiveness is due to facial expressions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What two extremes of expression does Butin display?",
+      "answer": "Majestic and utterly goofy",
+      "evidence": "a range of facial expressions from majestic to utterly goofy",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase specifies the two ends of his expressive spectrum."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What grammatical feature characterizes Butin's speech?",
+      "answer": "Endearingly imperfect grammar",
+      "evidence": "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section describes his grammar as imperfect and endearing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "Why is Butin's grammar described as imperfect?",
+      "answer": "It reflects his dog-like perspective on the world",
+      "evidence": "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links the grammatical imperfection to his canine worldview."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What motivates Butin's affection toward his humans?",
+      "answer": "Especially when they have food",
+      "evidence": "profound love for his humans (especially when they have food)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The parenthetical clause specifies the condition under which his love is strongest."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What kind of communication is Butin a master of?",
+      "answer": "Non-verbal communication",
+      "evidence": "He is a master of non-verbal communication",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality' section explicitly states this skill."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What two traits are part of Butin's chaotic personality?",
+      "answer": "Laziness and sass",
+      "evidence": "a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The list includes laziness and sass as components of his personality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Is Butin described as energetic or lazy?",
+      "answer": "Lazy",
+      "evidence": "a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Laziness is explicitly listed as a component of his personality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What is Butin's most notable physical feature besides color?",
+      "answer": "His striking blue eyes",
+      "evidence": "striking blue eyes",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The eyes are highlighted as 'striking' in the appearance description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "How does Butin's appearance contribute to his expressiveness?",
+      "answer": "He has a range of facial expressions",
+      "evidence": "He is very expressive, with a range of facial expressions from majestic to utterly goofy.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "His expressiveness is attributed to his facial expressions in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What does Butin's use of 'hooman' reveal about his perspective?",
+      "answer": "He has a dog-like perspective on the world",
+      "evidence": "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The imperfect grammar, including 'hooman', is tied to his canine worldview."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What is the primary theme of Butin's linguistic habits?",
+      "answer": "Simple, direct communication from a dog's perspective",
+      "evidence": "Butin \"speaks\" in simple, direct terms... reflecting his dog-like perspective on the world.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section emphasizes simplicity, directness, and canine perspective."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What kind of love does Butin have for his humans?",
+      "answer": "Profound love",
+      "evidence": "profound love for his humans",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'profound love' is used directly in the 'Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Butin's breed?",
+      "answer": "Siberian Husky",
+      "evidence": "* **Breed:** Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Butin's breed under the 'Breed' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What are the colors of Butin's fur?",
+      "answer": "Red and white",
+      "evidence": "* **Appearance:** A fluffy, red and white Siberian Husky with striking blue eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section describes Butin’s fur as 'red and white'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What color are Butin's eyes?",
+      "answer": "Blue",
+      "evidence": "* **Appearance:** A fluffy, red and white Siberian Husky with striking blue eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section explicitly mentions 'striking blue eyes'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "How does Butin typically express his emotions?",
+      "answer": "Through wide eyes, expressive eyebrows, and theatrical body language",
+      "evidence": "He is a master of non-verbal communication, using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence about non-verbal communication lists the specific methods Butin uses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What does Butin call his owner?",
+      "answer": "hooman",
+      "evidence": "He refers to his owner as \"hooman,\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section directly states what Butin calls his owner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What does Butin call food?",
+      "answer": "snaccos",
+      "evidence": "food as \"snaccos,\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section explicitly states Butin's word for food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What kind of vocalizations does Butin use to express feelings?",
+      "answer": "Dramatic sighs and enthusiastic 'awoos'",
+      "evidence": "often expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section lists two types of vocalizations Butin uses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What personality traits define Butin?",
+      "answer": "Laziness, sass, and profound love for his humans",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The personality section explicitly lists these three traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "Does Butin believe he is the ruler of the household?",
+      "answer": "Yes",
+      "evidence": "He believes he is the true king of the household",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly states Butin believes he is the 'true king of the household'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What does Butin think he has a rightful claim to in the home?",
+      "answer": "All couches, beds, and unattended snacks",
+      "evidence": "that all couches, beds, and unattended snacks are his by right.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "This is directly stated in the personality section after mentioning his belief as king."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "How would you describe Butin's facial expressiveness?",
+      "answer": "Very expressive, ranging from majestic to utterly goofy",
+      "evidence": "He is very expressive, with a range of facial expressions from majestic to utterly goofy.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The appearance section describes the range of his facial expressions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What is Butin's attitude toward unattended snacks?",
+      "answer": "He believes they are his by right",
+      "evidence": "and that all couches, beds, and unattended snacks are his by right.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The belief about ownership includes unattended snacks as part of his entitlement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "Is Butin described as physically active or inactive?",
+      "answer": "Inactive (lazy)",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The term 'laziness' in his personality indicates inactivity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What species is Butin?",
+      "answer": "Dog",
+      "evidence": "* **Breed:** Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Siberian Husky is a breed of dog, so Butin is a dog."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What makes Butin's eyes 'striking' according to the profile?",
+      "answer": "Their blue color",
+      "evidence": "with striking blue eyes",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The term 'striking' is directly associated with the color blue in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "How does Butin view food in relation to his humans?",
+      "answer": "He loves his humans especially when they have food",
+      "evidence": "profound love for his humans (especially when they have food)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The parenthesis indicates a conditional enhancement of his affection based on food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What grammatical style does Butin use when communicating?",
+      "answer": "Endearingly imperfect grammar reflecting a dog-like perspective",
+      "evidence": "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section describes his grammar style directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "Does Butin use verbal or non-verbal communication more effectively?",
+      "answer": "Non-verbal communication",
+      "evidence": "He is a master of non-verbal communication",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states he is a 'master' of non-verbal communication."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What is the nature of Butin's love for his humans?",
+      "answer": "Profound, especially when they have food",
+      "evidence": "profound love for his humans (especially when they have food)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The word 'profound' describes the depth of his love, with a humorous conditional."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is unique about Butin's communication style?",
+      "answer": "He uses simple, direct terms with endearingly imperfect grammar and non-verbal cues",
+      "evidence": [
+        "Butin \"speaks\" in simple, direct terms.",
+        "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+        "He is a master of non-verbal communication, using his wide eyes, expressive eyebrows, and theatrical body language"
+      ],
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Combines information from linguistic habits and personality sections.",
+        "Merges verbal and non-verbal aspects into a unified communication style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What does Butin consider dramatic sighs to be?",
+      "answer": "A way to express his feelings",
+      "evidence": "often expresses his feelings with dramatic sighs",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text assigns a functional role to dramatic sighs in emotional expression."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "Is Butin's personality described as calm and predictable?",
+      "answer": "No",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "'Chaotic blend' contradicts calm and predictable behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What physical features contribute to Butin's expressiveness?",
+      "answer": "Wide eyes and expressive eyebrows",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence lists the physical features used in non-verbal communication."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What is the breed origin implied by Butin's name and breed?",
+      "answer": "Siberian",
+      "evidence": "* **Breed:** Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The breed name 'Siberian Husky' includes the geographic origin 'Siberian'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What is Butin's primary motivation for showing affection to his humans?",
+      "answer": "When they have food",
+      "evidence": "profound love for his humans (especially when they have food)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The parenthetical clause indicates a conditional motivation tied to food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What breed is Butin?",
+      "answer": "Siberian Husky",
+      "evidence": "* **Breed:** Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Butin's breed under the 'Breed' field.",
+        "The value provided is 'Siberian Husky'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What are Butin's eye color and coat pattern?",
+      "answer": "Blue eyes with a red and white coat",
+      "evidence": "* **Appearance:** A fluffy, red and white Siberian Husky with striking blue eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section describes both eye color and coat pattern.",
+        "It specifies 'red and white' for the coat and 'striking blue eyes'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What does Butin call his owner?",
+      "answer": "hooman",
+      "evidence": "He refers to his owner as \"hooman,\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section directly states what Butin calls his owner.",
+        "The term used is 'hooman'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "How does Butin refer to food?",
+      "answer": "snaccos",
+      "evidence": "food as \"snaccos,\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section lists Butin's word for food.",
+        "It is given as 'snaccos'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What are two ways Butin expresses his feelings verbally?",
+      "answer": "dramatic sighs and enthusiastic \"awoos\"",
+      "evidence": "often expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists two verbal expressions Butin uses.",
+        "They are 'dramatic sighs' and 'enthusiastic \"awoos\"'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What kind of personality does Butin have?",
+      "answer": "A chaotic blend of laziness, sass, and profound love for his humans",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality' section defines Butin's personality directly.",
+        "It uses the phrase 'chaotic blend of laziness, sass, and profound love for his humans'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What does Butin believe about unattended snacks?",
+      "answer": "They are his by right",
+      "evidence": "He believes he is the true king of the household and that all couches, beds, and unattended snacks are his by right.",
+      "type": "belief",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence about Butin's beliefs includes unattended snacks.",
+        "It states he believes they are 'his by right'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What does Butin think about couches and beds?",
+      "answer": "They belong to him by right",
+      "evidence": "all couches, beds, and unattended snacks are his by right.",
+      "type": "belief",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states Butin believes certain items are his by right.",
+        "Couches and beds are explicitly listed in that category."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What role does Butin believe he holds in the household?",
+      "answer": "The true king",
+      "evidence": "He believes he is the true king of the household",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality' section states Butin's self-perceived role.",
+        "He believes he is 'the true king of the household'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "How does Butin communicate non-verbally?",
+      "answer": "Using wide eyes, expressive eyebrows, and theatrical body language",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes Butin's method of non-verbal communication.",
+        "It lists three components: wide eyes, expressive eyebrows, and theatrical body language."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "Is Butin expressive in his facial expressions?",
+      "answer": "Yes, he is very expressive with a range from majestic to goofy.",
+      "evidence": "He is very expressive, with a range of facial expressions from majestic to utterly goofy.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Appearance' section directly describes Butin as expressive.",
+        "It specifies his facial expressions range from majestic to goofy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What does Butin's linguistic style reflect?",
+      "answer": "His dog-like perspective on the world",
+      "evidence": "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links Butin's grammar to a broader worldview.",
+        "It states the imperfection reflects his 'dog-like perspective on the world'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What is distinctive about Butin's grammar when he 'speaks'?",
+      "answer": "It is endearingly imperfect",
+      "evidence": "His grammar is endearingly imperfect",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section describes Butin's grammar.",
+        "It uses the term 'endearingly imperfect'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Does Butin show affection primarily when food is involved?",
+      "answer": "Yes, he shows profound love especially when humans have food",
+      "evidence": "profound love for his humans (especially when they have food)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The personality section notes his love is strongest in food contexts.",
+        "The phrase 'especially when they have food' qualifies when his affection is most evident."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What breed trait does Butin share with classic Huskies?",
+      "answer": "A flair for the dramatic",
+      "evidence": "Butin is a classic Husky with a flair for the dramatic.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states a shared trait with classic Huskies.",
+        "It is described as 'a flair for the dramatic'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What physical feature makes Butin stand out besides his coat?",
+      "answer": "His striking blue eyes",
+      "evidence": "A fluffy, red and white Siberian Husky with striking blue eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section highlights both coat and eye color.",
+        "The eyes are specifically described as 'striking blue'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What kind of body language does Butin use?",
+      "answer": "Theatrical body language",
+      "evidence": "theatrical body language to convey his every thought and desire.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile mentions body language as part of non-verbal communication.",
+        "It is described as 'theatrical'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What emotion might Butin express with a sigh?",
+      "answer": "Dramatic feelings, likely disappointment or desire",
+      "evidence": "often expresses his feelings with dramatic sighs",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Sighs are linked to expressing feelings in a dramatic way.",
+        "Given Butin's personality, these are likely tied to unmet desires or attention-seeking."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "qa_069",
+      "question": "What might trigger an 'awoo' from Butin?",
+      "answer": "Excitement or strong emotional reaction, possibly around food or attention",
+      "evidence": "enthusiastic \"awoos,\"",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "'Awoos' are described as enthusiastic expressions.",
+        "Given Butin's food-driven motivation, excitement around food or interaction is likely."
+      ],
+      "confidence": 0.75
+    },
+    {
+      "id": "qa_070",
+      "question": "Is Butin lazy?",
+      "answer": "Yes, his personality includes laziness as a trait.",
+      "evidence": "a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Laziness is listed as one component of Butin's personality.",
+        "Therefore, it is a confirmed trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What makes Butin's communication style unique?",
+      "answer": "He combines expressive non-verbal cues with simple, imperfect verbal expressions.",
+      "evidence": [
+        "using his wide eyes, expressive eyebrows, and theatrical body language",
+        "He \"speaks\" in simple, direct terms.",
+        "His grammar is endearingly imperfect"
+      ],
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Non-verbal cues (eyes, eyebrows, body) are detailed.",
+        "Verbal style is described as simple and grammatically imperfect.",
+        "Together, they form a unique communication blend."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What does 'hooman' refer to in Butin's vocabulary?",
+      "answer": "His owner",
+      "evidence": "He refers to his owner as \"hooman,\"",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section defines 'hooman' directly.",
+        "It specifies that it refers to his owner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What does 'snaccos' mean in Butin's language?",
+      "answer": "Food",
+      "evidence": "food as \"snaccos,\"",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'snaccos' is explicitly equated with 'food'.",
+        "No other interpretation is possible from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What are three elements of Butin's expressive non-verbal communication?",
+      "answer": "Wide eyes, expressive eyebrows, and theatrical body language",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists exactly three elements in sequence.",
+        "These are directly quoted from the evidence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "Is Butin's speech grammatically correct?",
+      "answer": "No, his grammar is endearingly imperfect",
+      "evidence": "His grammar is endearingly imperfect",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly comments on the quality of his grammar.",
+        "It states it is 'endearingly imperfect', meaning not correct."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What breed is Butin?",
+      "answer": "Siberian Husky",
+      "evidence": "* **Breed:** Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The breed is explicitly stated in the profile under the 'Breed' field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What are Butin's eye colors?",
+      "answer": "Blue",
+      "evidence": "A fluffy, red and white Siberian Husky with striking blue eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The eye color is directly mentioned in the appearance description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What does Butin call his owner?",
+      "answer": "hooman",
+      "evidence": "He refers to his owner as \"hooman,\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term Butin uses for his owner is explicitly stated in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "How does Butin refer to food?",
+      "answer": "snaccos",
+      "evidence": "food as \"snaccos,\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term for food is directly given in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What two colors describe Butin's fur?",
+      "answer": "Red and white",
+      "evidence": "A fluffy, red and white Siberian Husky",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The fur colors are explicitly stated in the appearance section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What kind of communication is Butin a master of?",
+      "answer": "Non-verbal communication",
+      "evidence": "He is a master of non-verbal communication",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly states his mastery in non-verbal communication."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What facial features does Butin use to express himself?",
+      "answer": "Wide eyes and expressive eyebrows",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The specific facial features are listed in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What body language does Butin use to communicate?",
+      "answer": "Theatrical body language",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The type of body language is specified in the personality description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What does Butin believe about couches and beds?",
+      "answer": "They are his by right",
+      "evidence": "He believes he is the true king of the household and that all couches, beds, and unattended snacks are his by right.",
+      "type": "belief",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "His belief about furniture is explicitly stated in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What does Butin believe about unattended snacks?",
+      "answer": "They are his by right",
+      "evidence": "all couches, beds, and unattended snacks are his by right.",
+      "type": "belief",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The belief about snacks is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What is Butin's personality described as?",
+      "answer": "A chaotic blend of laziness, sass, and profound love for his humans",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The full description of his personality is given in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "When does Butin show the most love for his humans?",
+      "answer": "When they have food",
+      "evidence": "profound love for his humans (especially when they have food)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The condition under which his love is most evident is specified in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What title does Butin believe he holds in the household?",
+      "answer": "The true king",
+      "evidence": "He believes he is the true king of the household",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His self-perceived role is directly stated in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "How does Butin typically express his feelings verbally?",
+      "answer": "With dramatic sighs or enthusiastic 'awoos'",
+      "evidence": "expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The methods of verbal expression are listed in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "Is Butin described as expressive?",
+      "answer": "Yes",
+      "evidence": "He is very expressive, with a range of facial expressions from majestic to utterly goofy.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states that he is very expressive."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What range of facial expressions does Butin have?",
+      "answer": "From majestic to utterly goofy",
+      "evidence": "with a range of facial expressions from majestic to utterly goofy.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The range is directly described in the appearance section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What grammar style does Butin use when 'speaking'?",
+      "answer": "Endearingly imperfect",
+      "evidence": "His grammar is endearingly imperfect, reflecting his dog-like perspective on the world.",
+      "type": "characteristic",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The grammar style is described in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What does Butin's imperfect grammar reflect?",
+      "answer": "His dog-like perspective on the world",
+      "evidence": "reflecting his dog-like perspective on the world.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The purpose of the imperfect grammar is explained in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "Is Butin described as lazy?",
+      "answer": "Yes",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Laziness is listed as one component of his personality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "Is sass part of Butin's personality?",
+      "answer": "Yes",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Sass is explicitly included in the description of his personality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What kind of love does Butin have for his humans?",
+      "answer": "Profound love",
+      "evidence": "profound love for his humans",
+      "type": "emotion",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The intensity of his love is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What does Butin use to convey his thoughts and desires?",
+      "answer": "Wide eyes, expressive eyebrows, and theatrical body language",
+      "evidence": "using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The tools for communication are clearly listed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "Is Butin a fluffy dog?",
+      "answer": "Yes",
+      "evidence": "A fluffy, red and white Siberian Husky",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'fluffy' is used to describe his appearance."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What breed trait does Butin embody with a flair?",
+      "answer": "Dramatic",
+      "evidence": "Butin is a classic Husky with a flair for the dramatic.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he is a classic Husky with a flair for the dramatic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What does Butin believe about his status in the household?",
+      "answer": "He is the true king",
+      "evidence": "He believes he is the true king of the household",
+      "type": "belief",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His belief about his status is explicitly stated in the personality section."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

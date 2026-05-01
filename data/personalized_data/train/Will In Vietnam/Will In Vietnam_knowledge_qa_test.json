@@ -1,0 +1,146 @@
+{
+  "description": "Will Courageux, known as 'Will in Vietnam,' is a French-Belgian content creator who traded his IT career for a life in Hanoi. With a master's in IT and business, he now dedicates himself to exploring Vietnamese culture, especially its rich culinary landscape. His adventurous, sincere, and humorous personality shines through in his videos, where he documents his foodie adventures across the country. He is passionate about trying everything, sharing his experiences to bridge cultural connections between Vietnam and the world.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Will Courageux's nationality according to the profile?",
+      "options": {
+        "A": "French only",
+        "B": "Belgian only",
+        "C": "French and Belgian",
+        "D": "Swedish and Vietnamese"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Nationality: French, Belgian",
+      "rationale": "The profile explicitly states that Will Courageux's nationality is French and Belgian. Therefore, option C is correct based on direct evidence from the text."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Where was Will Courageux born?",
+      "options": {
+        "A": "Hanoi, Vietnam",
+        "B": "Stockholm, Sweden",
+        "C": "Paris, France",
+        "D": "Brussels, Belgium"
+      },
+      "answer_key": "D",
+      "difficulty": "easy",
+      "evidence": "Place of Birth: Brussels, Belgium",
+      "rationale": "The profile clearly states that Will was born in Brussels, Belgium, making option D the correct answer."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is Will Courageux's current occupation?",
+      "options": {
+        "A": "IT Manager",
+        "B": "Graphic Designer",
+        "C": "Content Creator (YouTuber, TikToker)",
+        "D": "University Professor"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Occupation: Content Creator (YouTuber, TikToker)",
+      "rationale": "The profile explicitly lists Will's current occupation as Content Creator (YouTuber, TikToker), making option C the correct answer."
+    },
+    {
+      "id": "mcq_004",
+      "question": "Which city does Will Courageux currently reside in?",
+      "options": {
+        "A": "Brussels",
+        "B": "Stockholm",
+        "C": "Hanoi",
+        "D": "Ho Chi Minh City"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Current Residence: Hanoi, Vietnam",
+      "rationale": "The profile states that Will's current residence is Hanoi, Vietnam, which directly supports option C as correct."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What motivated Will Courageux to move to Vietnam?",
+      "options": {
+        "A": "A job offer in IT",
+        "B": "A family trip in 2014",
+        "C": "Marriage to a Vietnamese citizen",
+        "D": "Desire to learn French in Asia"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature and his desire for new experiences over monetary gain.",
+      "rationale": "The profile states that Will moved to Vietnam after a family trip in 2014, which directly led to his decision. This makes option B correct. The other options are not mentioned in the text."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What type of content is Will Courageux primarily known for creating?",
+      "options": {
+        "A": "Tech reviews and software tutorials",
+        "B": "Travel vlogs across Europe",
+        "C": "Experiences as a foreigner in Vietnam, especially food exploration",
+        "D": "Fitness and wellness routines"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration.",
+      "rationale": "The profile clearly states that his content centers on being a foreigner in Vietnam and exploring food, making option C the correct answer. The other options are not supported by the text."
+    },
+    {
+      "id": "mcq_007",
+      "question": "What educational background does Will Courageux have?",
+      "options": {
+        "A": "Only a bachelor’s in graphic design",
+        "B": "Master's degrees in business and IT, and a bachelor's in graphic and 3D design",
+        "C": "PhD in Information Technology",
+        "D": "Diploma in Culinary Arts"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Background: Former IT engineer with master's degrees in business and IT, and a bachelor's degree in graphic and 3D design.",
+      "rationale": "The profile explicitly lists his educational qualifications, which include master's degrees in business and IT and a bachelor's in graphic and 3D design. This makes option B correct."
+    },
+    {
+      "id": "mcq_008",
+      "question": "Which personality trait is Will Courageux NOT described as having?",
+      "options": {
+        "A": "Adventurous",
+        "B": "Sincere",
+        "C": "Reserved",
+        "D": "Humorous"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Will is an adventurous, open-minded, and enthusiastic individual... He is often described as sincere, humorous, and witty...",
+      "rationale": "The profile describes Will as adventurous, sincere, humorous, and witty, but does not mention being reserved. Since 'reserved' contradicts the described openness and enthusiasm, option C is the correct answer as the trait he is NOT described as having."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What languages does Will Courageux likely speak fluently, according to the profile?",
+      "options": {
+        "A": "Vietnamese and French",
+        "B": "English and Swedish",
+        "C": "French and English",
+        "D": "French, English, and Vietnamese"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "His linguistic habits likely include speaking fluent French and English, with a developing proficiency in Vietnamese...",
+      "rationale": "The profile states he speaks fluent French and English, and is developing proficiency in Vietnamese—meaning he is not yet fluent in Vietnamese. Therefore, only French and English are confirmed as fluent, making option C correct. This is a hard question because it requires distinguishing between 'fluent' and 'developing proficiency'."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What was Will Courageux's profession before becoming a content creator?",
+      "options": {
+        "A": "Graphic designer in Belgium",
+        "B": "IT manager in Sweden",
+        "C": "Chef in France",
+        "D": "Travel blogger in Vietnam"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "rationale": "The profile explicitly states that he worked as an IT manager in Sweden before moving to Vietnam and transitioning to content creation. This makes option B correct. The difficulty lies in recalling a specific past role that is mentioned only once in the profile."
+    }
+  ]
+}

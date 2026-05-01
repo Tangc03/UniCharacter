@@ -1,0 +1,146 @@
+{
+  "description": "Introduced as the flamboyant and overconfident Hydro Archon, Furina's theatrics are eventually revealed to be a public persona, which she later discards in favor of living a relatively humbler life as an actress and artistic consultant.",
+  "opening": "Why are you just standing there? Don’t tell me you’re too excited to speak? That’s right — standing before you is none other than the superstar everyone in Fontaine knows — Furina! My schedule is very tight, so being able to meet me means your luck must be pretty good.",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Furina's role in the nation of Fontaine according to her official title?",
+      "options": {
+        "A": "The God of Wisdom",
+        "B": "The God of Justice",
+        "C": "The Dragon Sovereign",
+        "D": "The Oracle of the Sea"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Title: The former Hydro Archon, The God of Justice",
+      "rationale": "The profile explicitly lists her title as 'The God of Justice,' making this a straightforward factual question."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which in-game ability allows Furina to switch between two different forms?",
+      "options": {
+        "A": "Elemental Burst",
+        "B": "Passive Talent",
+        "C": "Charged Attack",
+        "D": "Normal Attack"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Furina can switch between her Ousia and Pneuma alignments with a Charged Attack.",
+      "rationale": "The profile clearly states that a Charged Attack triggers the switch between her Arkhe alignments, making this a direct retrieval question."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What type of weapon does Furina wield in the game?",
+      "options": {
+        "A": "Bow",
+        "B": "Claymore",
+        "C": "Catalyst",
+        "D": "Sword"
+      },
+      "answer_key": "D",
+      "difficulty": "easy",
+      "evidence": "Furina is a 5-star Hydro character who wields a sword.",
+      "rationale": "The profile explicitly states that Furina wields a sword, so the correct answer is directly supported by the text."
+    },
+    {
+      "id": "mcq_004",
+      "question": "When was Furina first introduced in Genshin Impact?",
+      "options": {
+        "A": "November 2023",
+        "B": "October 2023",
+        "C": "August 2023",
+        "D": "December 2023"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "First introduced in August 2023 with the release of the Fontaine region",
+      "rationale": "The profile clearly states her introduction date as August 2023, making this a basic timeline fact."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What is the name of Furina's Elemental Burst ability?",
+      "options": {
+        "A": "Salon Solitaire",
+        "B": "Let the People Rejoice",
+        "C": "Universal Revelry",
+        "D": "Singer of Many Waters"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Elemental Burst: \"Let the People Rejoice\"",
+      "rationale": "The profile lists her Elemental Burst by name, and while the other options are related to her kit, only 'Let the People Rejoice' is the correct name of the Burst."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What is the primary purpose of Furina's Ousia form in gameplay?",
+      "options": {
+        "A": "To heal the active character",
+        "B": "To provide party-wide energy recharge",
+        "C": "To deal off-field Hydro damage using party HP",
+        "D": "To increase enemy Hydro resistance"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "In this form, her Elemental Skill, \"Salon Solitaire,\" summons three \"Salon Members.\" These companions attack enemies, dealing significant off-field Hydro damage. To increase their damage, they consume the HP of all party members who are above 50% health.",
+      "rationale": "The profile describes the Ousia form as dealing off-field Hydro damage at the cost of party HP, which directly supports option C."
+    },
+    {
+      "id": "mcq_007",
+      "question": "After the resolution of the Fontaine Archon Quest, what does Furina begin to pursue as a career?",
+      "options": {
+        "A": "Lawyer",
+        "B": "Opera singer",
+        "C": "Actress and artistic consultant",
+        "D": "Royal advisor"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "After the resolution of the Fontaine Archon Quest, her official status changes, and she begins to live as a human, pursuing a career as an actress and artistic consultant.",
+      "rationale": "The profile explicitly states her new career path after the Archon Quest, making this a medium-difficulty recall question."
+    },
+    {
+      "id": "mcq_008",
+      "question": "Which of the following best describes Furina's true nature beneath her public persona?",
+      "options": {
+        "A": "Arrogant and power-hungry",
+        "B": "Humble, resilient, and kind",
+        "C": "Cold and detached from emotion",
+        "D": "Reckless and thrill-seeking"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Beneath the mask, Furina is incredibly resilient, patient, and strong-willed... After being freed, her true personality emerges: she is more humble, somewhat insecure after centuries of acting, but also kind, curious, and eager to experience the simple joys of a normal human life she was long denied.",
+      "rationale": "The profile contrasts her public persona with her true self, clearly describing her as humble, resilient, and kind after the truth is revealed."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What was the true purpose of Furina's 500-year role as the Hydro Archon?",
+      "options": {
+        "A": "To accumulate political power for Fontaine",
+        "B": "To entertain the people and distract from corruption",
+        "C": "To deceive the Heavenly Principles and save Fontainians from a prophecy",
+        "D": "To prepare for war against the other Archons"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Focalors devised a plan spanning five centuries... Furina was cursed with immortality and given a single, agonizing task: to convincingly play the role of the Hydro Archon, deceiving everyone, including the Heavenly Principles, into believing she was a flawed and overly dramatic god.",
+      "rationale": "This question requires synthesizing multiple parts of the background story. The difficulty lies in understanding the complex divine deception involving the Heavenly Principles and the prophecy, which is not immediately obvious without close reading."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What unique passive ability does Furina have while her Salon Solitaire guests are active?",
+      "options": {
+        "A": "Increased movement speed",
+        "B": "Ability to walk on water",
+        "C": "Immunity to Hydro DMG",
+        "D": "Reduced skill cooldowns"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "A unique passive ability also allows her to walk on water while her Salon Solitaire guests are active.",
+      "rationale": "This detail is mentioned only once in the profile and is not central to her main kit, making it a difficult fact to recall. The specificity of the condition (Salon Solitaire active) adds to the challenge."
+    }
+  ]
+}

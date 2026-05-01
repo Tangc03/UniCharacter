@@ -1,0 +1,75 @@
+# 个性化T2I + BAGEL训练配置文件
+# 用于配置 personalized_t2i_bagel (full版本)
+
+# 基础配置
+gpu_number: 8
+dataset: "Chandler_pure_t2i_new_with_vqa_singleline.jsonl"  # 相对于项目根目录的路径
+
+# 模型配置
+model:
+  local_path: "models/BAGEL-7B-MoT"
+  remote_oss_path: "models/BAGEL-7B-MoT"
+  huggingface_id: "ByteDance-Seed/BAGEL-7B-MoT"
+
+# 采样配置
+sample:
+  num_steps: 15
+  eval_num_steps: 50
+  guidance_scale: 4.0
+  eval_guidance_scale: 4.0
+  train_batch_size: 6
+  num_image_per_prompt: 8  # GRPO一次生成一组图像
+  test_batch_size: 1
+  same_latent: false
+  global_std: false
+  noise_level: 1.3
+  sde_window_size: 3  # full版本使用3
+  sde_window_range: [0, null]  # null会被替换为 num_steps//2
+
+# 训练配置
+train:
+  cfg: true
+  ema: false
+  batch_size: null  # null会被替换为 sample.train_batch_size
+  gradient_accumulation_steps: null  # null会被替换为 num_batches_per_epoch//2
+  num_inner_epochs: 1
+  clip_range_lt: 0.00001  # 1e-5
+  clip_range_gt: 0.00001  # 1e-5
+  beta: 0
+  learning_rate: 0.00001  # 1e-5
+
+# 其他配置
+resolution: 1024
+mixed_precision: "bf16"
+use_lora: false  # full版本
+activation_checkpointing: true
+fsdp_optimizer_offload: true
+
+# 保存和评估配置
+save_freq: 10  # epoch
+eval_freq: 5
+num_epochs: 101  # 总训练epoch数（如果不设置，将使用默认值100000）
+save_dir:
+  full: flow_grpo/logs/personalized_t2i/Chandler/bagel-20260106-full
+
+# Run名称
+run_name:
+  full: "[bagel-personalized-t2i-Chandler]-8gpu"
+
+# 奖励函数配置
+reward_fn:
+  personalized_t2i: 1.0
+
+# 奖励权重配置
+reward_weights:
+  vqa: 0.3                    # VQA分数权重
+  clip_t: 0.45                # CLIP-T分数权重
+  diversity_lpips: 0.1       # LPIPS多样性权重
+  dino_penalty: 0.15          # DINO相似度惩罚权重（正值）
+  dino_threshold_high: 0.9   # DINO高阈值（超过此值惩罚，防止过拟合）
+  dino_threshold_low: 0.5    # DINO低阈值（低于此值惩罚，防止偏离太远）
+
+# Prompt函数
+prompt_fn: "personalized_t2i"
+per_prompt_stat_tracking: true
+

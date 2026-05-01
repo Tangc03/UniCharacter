@@ -1,0 +1,146 @@
+{
+  "description": "Chandler Bing is defined by his sharp, sarcastic wit, often a defense mechanism from his parents' divorce. Initially struggling with commitment and a mundane data processing job, his journey is one of emotional growth. He's a loyal, caring friend, especially to his roommate Joey, and eventually finds happiness with his wife, Monica. His unique, emphatic way of speaking is one of his most memorable traits, often punctuated with the catchphrase, 'Could that BE any more...'",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Chandler Bing's full name according to the profile?",
+      "options": {
+        "A": "Chandler Michael Bing",
+        "B": "Chandler Muriel Bing",
+        "C": "Chandler Matthew Bing",
+        "D": "Chandler Joseph Bing"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "* **Full Name:** Chandler Muriel Bing",
+      "rationale": "The profile explicitly states Chandler's full name as 'Chandler Muriel Bing.' This information is directly provided in the 'Personal Details' section."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which of the following best describes Chandler's father's profession?",
+      "options": {
+        "A": "A novelist who writes mystery fiction",
+        "B": "A stage actor in Broadway musicals",
+        "C": "A gay female impersonator in a Las Vegas drag show",
+        "D": "A corporate executive in statistical analysis"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "rationale": "The profile clearly states that Chandler's father, Charles Bing, is a gay female impersonator who performs in a Las Vegas drag show. This detail is specific and directly stated."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is Chandler known for using as a defense mechanism?",
+      "options": {
+        "A": "Silence and withdrawal",
+        "B": "Aggressive arguments",
+        "C": "Sarcastic sense of humor",
+        "D": "Excessive spending"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Chandler is best known for his sarcastic sense of humor, often making jokes when he is uncomfortable. This is a coping mechanism he developed after his parents' divorce.",
+      "rationale": "The profile explicitly identifies Chandler's sarcastic sense of humor as a defense mechanism developed after his parents' divorce. The term 'coping mechanism' is used directly in relation to his sarcasm."
+    },
+    {
+      "id": "mcq_004",
+      "question": "Who is Chandler's college roommate and one of his closest friends?",
+      "options": {
+        "A": "Joey Tribbiani",
+        "B": "Mike Hannigan",
+        "C": "Ross Geller",
+        "D": "Phoebe Buffay"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "* **Relationships:** Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "rationale": "The profile clearly states that Ross Geller is Chandler's college roommate and one of his closest friends. This is a direct factual statement in the 'Relationships' section."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What was Chandler's job for most of the series?",
+      "options": {
+        "A": "Advertising executive",
+        "B": "Junior copywriter",
+        "C": "Statistical analysis and data reconfiguration",
+        "D": "Actor in a Las Vegas show"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "* **Occupation:** For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\" a job he dislikes.",
+      "rationale": "The profile explicitly states that Chandler worked in 'statistical analysis and data reconfiguration' for most of the series. This is a verbatim detail from the 'Occupation' section."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What significant event in Chandler's childhood contributed to his emotional issues?",
+      "options": {
+        "A": "His parents' remarriage",
+        "B": "His mother's career success",
+        "C": "His father leaving to join a circus",
+        "D": "His parents' divorce announced over Thanksgiving dinner"
+      },
+      "answer_key": "D",
+      "difficulty": "medium",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "rationale": "The profile directly identifies the announcement of his parents' divorce over Thanksgiving dinner as a significant source of Chandler's emotional issues. This is a specific, stated event."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which linguistic habit is Chandler known for, including a distinctive cadence and a specific catchphrase?",
+      "options": {
+        "A": "Using British slang phrases",
+        "B": "Frequently quoting Shakespeare",
+        "C": "Saying 'Could that BE any more...'",
+        "D": "Ending sentences with 'man!'"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "He has a distinctive, often-imitated cadence, particularly with his catchphrase, \"Could that BE any more...\"",
+      "rationale": "The profile specifically mentions Chandler's catchphrase 'Could that BE any more...' as part of his distinctive speech pattern. This is a verbatim quote from the 'Linguistic Habits' section."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What major career change does Chandler make during the series?",
+      "options": {
+        "A": "From advertising to data analysis",
+        "B": "From acting to writing novels",
+        "C": "From data reconfiguration to advertising",
+        "D": "From teaching to stand-up comedy"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "He later transitions to a career in advertising as a junior copywriter.",
+      "rationale": "The profile states that after working in statistical analysis and data reconfiguration, Chandler transitions to a career in advertising as a junior copywriter. This describes a clear career shift from one field to another."
+    },
+    {
+      "id": "mcq_009",
+      "question": "Which of the following is NOT mentioned as a trait of Chandler's personality?",
+      "options": {
+        "A": "Intelligent and affable",
+        "B": "Caring and supportive",
+        "C": "Arrogant and dismissive",
+        "D": "Insecure with commitment issues"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "He is intelligent, affable, and caring towards his friends, often providing financial support to Joey. However, he also struggles with insecurity and commitment issues for a significant portion of the series.",
+      "rationale": "The profile positively describes Chandler as intelligent, affable, caring, and supportive, while acknowledging his insecurities and commitment issues. 'Arrogant and dismissive' is not mentioned and contradicts the described traits. This is a hard question because it requires recognizing what is *not* stated by evaluating all listed traits."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What real-world influence is cited for Chandler's distinctive speech pattern?",
+      "options": {
+        "A": "A regional New York accent",
+        "B": "The influence of stand-up comedians",
+        "C": "Actor Matthew Perry's own way of speaking",
+        "D": "Improvisation by the show's writers"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "This speech pattern was reportedly inspired by actor Matthew Perry's own way of speaking.",
+      "rationale": "The profile explicitly states that Chandler's distinctive cadence was inspired by Matthew Perry's own speech. This is a subtle detail that connects the character to the actor, making it harder to recall without close reading."
+    }
+  ]
+}

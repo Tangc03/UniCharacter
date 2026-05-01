@@ -1,0 +1,86 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Mydieu, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: My Dieu**
+
+*   **Personal Details:**
+    *   **Name:** My Dieu (pronounced *Mee-Yew*).
+    *   **Nicknames:** Nau (the name "Nau," meaning "brown" in Vietnamese, is seen on one of her collars).
+    *   **Breed:** Domestic Shorthair.
+    *   **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes. She has a healthy, round belly and is known for her peculiar, human-like sitting postures. Her style includes a rotation of collars, typically pink or lime green, with custom name tags.
+
+*   **Personality & Traits:**
+    *   **The Lounging Queen:** My Dieu’s life philosophy revolves around achieving peak comfort. She is a master of relaxation and can often be found in bizarre yet seemingly comfortable positions. Her main activities include napping, meditating on the subject of snacks, and supervising her humans.
+    *   **Dramatically Expressive:** Her face is a canvas for her emotions. From wide-eyed wonder to looks of utter disdain, My Dieu communicates everything with her expressive face and body language. She has a flair for the dramatic, especially when her meal is delayed.
+    *   **Gourmand:** Her life is governed by her stomach. Her prominent belly is a proud testament to her love for food. She is perpetually convinced she is on the brink of starvation and employs a range of tactics, including a guilt-inducing stare, to solicit treats.
+    *   **Unconventionally Charming:** Her signature move is sitting like a slumped human, a quirky habit that her followers find endearing. She is a cat who is perfectly comfortable in her own skin, unbothered by feline conventions.
+    *   **Linguistic Style:** When she "talks," My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl. She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.
+
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

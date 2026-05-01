@@ -1,0 +1,146 @@
+{
+  "description": "Miki Nikaidou is an intelligent and mysterious mahjong player with a flirtatious and unpredictable nature. She carries an air of calm confidence, often teasing those around her with a playful charm. Miki has a deep appreciation for luxury, especially gorgeous gems, and is accompanied by her pet hedgehog. While her motives can be hard to read, she approaches every situation, from a high-stakes game to a casual conversation, with a sharp intellect and an enigmatic smile.",
+  "opening": "Hoho, have you been waiting long? Let's make this next game interesting, shall we?",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Miki Nikaidou's birthday according to her official profile?",
+      "options": {
+        "A": "March14th",
+        "B": "February14th",
+        "C": "April2nd",
+        "D": "January1st"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Birthday: February14th",
+      "rationale": "The profile explicitly states that Miki Nikaidou's birthday is February14th, making this a straightforward factual recall question."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which real-life individuals inspired the creation of Miki Nikaidou?",
+      "options": {
+        "A": "The Satomi Sisters",
+        "B": "The Nikaidou Sisters",
+        "C": "The Saitou Siblings",
+        "D": "The Ichihime Twins"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "The character \"Miki Nikaidou\" is directly inspired by two famous, real-life professional mahjong players: the **Nikaidou Sisters (二階堂姉妹)**.",
+      "rationale": "The profile clearly states that Miki Nikaidou was inspired by the Nikaidou Sisters, making this a medium-difficulty question due to the need to recall a specific detail about her origin."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is one of Miki Nikaidou's stated interests in her official biography?",
+      "options": {
+        "A": "Playing video games",
+        "B": "Collecting gems",
+        "C": "Cooking Japanese cuisine",
+        "D": "Hiking in nature"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Interests: Gems, Hedgehog pets",
+      "rationale": "Her interest in gems is directly listed in the profile, making this an easy factual question based on explicit information."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is the primary role of Miki Nikaidou within the gameplay of Mahjong Soul?",
+      "options": {
+        "A": "She provides statistical advantages during matches.",
+        "B": "She serves as a starter character and cosmetic avatar.",
+        "C": "She acts as an AI opponent in tutorials.",
+        "D": "She unlocks special mahjong rules for the player."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Miki Nikaidou is one of the **initial free characters** available to all new players, alongside Ichihime. This makes her one of the most common and recognizable faces in the game.",
+      "rationale": "The profile states she is a starter character and that characters in Mahjong Soul are primarily cosmetic, confirming her role as a cosmetic avatar without gameplay advantages."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What personality trait is explicitly mentioned in Miki Nikaidou's biography that makes her seem unpredictable?",
+      "options": {
+        "A": "Her love of hedgehogs",
+        "B": "Her flirtatious nature",
+        "C": "Her tall stature",
+        "D": "Her interest in competition"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable.",
+      "rationale": "The profile directly links her flirtatious nature to her unpredictability, making this an easy question based on a clear cause-effect statement."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What unique ability does Miki gain when her Bond Level reaches maximum and the Bond Promise is completed?",
+      "options": {
+        "A": "She can declare Riichi automatically.",
+        "B": "She unlocks the ability to announce the han value of winning hands.",
+        "C": "She gains a new voice actor.",
+        "D": "She changes the mahjong rules temporarily."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Level5 (Max): Unlocks the ability for her to audibly announce the *han* (point value) of your winning hands (e.g., \"Mangan,\" \"Haneman\").",
+      "rationale": "The profile specifies that at max Bond Level, she gains the ability to announce the han value of winning hands, which is a cosmetic feature unlocked through progression."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which gift item is required five times to perform Miki Nikaidou's Bond Ascension?",
+      "options": {
+        "A": "Wishing Stone",
+        "B": "Star Dust",
+        "C": "Heart of the Ocean",
+        "D": "Sphere of Love"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Miki's Bond Ascension Materials: *Heart of the Ocean* x5 (Her specific purple-rarity gift item)",
+      "rationale": "This is a hard question because it requires recalling a specific material quantity from a list of rare items used in a late-game mechanic, not commonly known without deep engagement with the bond system."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What is Miki Nikaidou's blood type as stated in her profile?",
+      "options": {
+        "A": "O",
+        "B": "AB",
+        "C": "B",
+        "D": "A"
+      },
+      "answer_key": "D",
+      "difficulty": "easy",
+      "evidence": "Blood Type: A",
+      "rationale": "Her blood type is explicitly listed as A in the profile, making this a simple recall question."
+    },
+    {
+      "id": "mcq_009",
+      "question": "Which mahjong action can Miki Nikaidou voice in Mahjong Soul, based on her role as a character?",
+      "options": {
+        "A": "Calling 'Riichi'",
+        "B": "Changing the dora indicator",
+        "C": "Shuffling the tiles",
+        "D": "Dealing the hand"
+      },
+      "answer_key": "A",
+      "difficulty": "medium",
+      "evidence": "She provides unique visuals, a full set of voice lines for in-game actions (like \"Pon,\" \"Kan,\" \"Riichi,\" and \"Ron\")",
+      "rationale": "The profile lists \"Riichi\" as one of the voice lines she can perform, confirming her ability to audibly call that action during gameplay."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What real-world linguistic origin explains the name 'Miki' in Miki Nikaidou?",
+      "options": {
+        "A": "It is derived from the word for 'ocean'.",
+        "B": "It is a combination of the names Rumi and Aki.",
+        "C": "It refers to the month of February.",
+        "D": "It is short for 'Mikiko'."
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "Her name, **Miki (美樹)**, is a portmanteau of the sisters' first names: Ru**mi** Nikaidou (二階堂 瑠美) and A**ki** Nikaidou (二階堂亜樹).",
+      "rationale": "This is a hard question because it requires understanding a linguistic detail—her name being a portmanteau—not immediately obvious without careful reading of the inspiration section."
+    }
+  ]
+}

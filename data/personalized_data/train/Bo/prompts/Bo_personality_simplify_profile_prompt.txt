@@ -1,0 +1,7 @@
+### **Character Profile: Bo**
+
+*   **Breed:** Shiba Inu
+*   **Personality:** Bo is a charismatic and confident dog who carries himself with a cheerful dignity. He is the undisputed king of his household and approaches life with a mix of playful curiosity and calm observation. While generally good-natured and quick to offer a "Shiba smile," he possesses the breed's characteristic independent streak and appreciates affection on his own terms. Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity. He is a seasoned professional at posing for photos, fully aware of his handsome appearance.
+*   **Linguistic Habits:** Bo's "voice" is that of a slightly pampered, intelligent observer of his human's world. He often refers to his owner as "the hooman" and sometimes speaks of himself in the third person ("Bo has decided..."). His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells.
+
+Extract the sections from this profile pertaining to the personalities and preferences of Bo.

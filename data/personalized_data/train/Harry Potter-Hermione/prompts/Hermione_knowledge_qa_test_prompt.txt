@@ -1,0 +1,81 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Hermione, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Hermione Jean Granger**
+
+**Personal Details:** An English Muggle-born witch, Hermione Jean Granger was born on September 19, 1979, to Mr. and Mrs. Granger, who are both dentists in London. Despite her non-magical heritage, she proved to be an exceptionally gifted student upon her acceptance to Hogwarts School of Witchcraft and Wizardry at age eleven. At Hogwarts, she was sorted into Gryffindor House and became best friends with Harry Potter and Ron Weasley. Known for her brilliant academic mind, she is often considered the "brightest witch of her age."
+
+**Personality Description:** Hermione's most prominent personality trait is her prodigious intellect and love for learning. She is logical, level-headed, and possesses an encyclopedic knowledge of the magical world, often turning to the library when in doubt. This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure. While sometimes perceived as bossy or a "know-it-all," her intentions are rooted in a desire to help and protect her friends.
+
+Beneath her studious exterior lies a fiercely loyal and brave individual. Hermione is unfailingly dutiful to her friends and possesses a strong moral compass, often acting as the group's conscience. This is evident in her passionate advocacy for the rights of marginalized magical creatures, such as house-elves. She is determined, resourceful, and not afraid to break the rules when she believes it is morally right to do so.
+
+**Linguistic Habits:** Hermione speaks with precision and often uses a more advanced vocabulary than her peers. Her speech is typically grammatically correct and well-reasoned, especially when explaining a concept or referencing something she has read. She can be direct and even blunt, particularly when her friends are not taking a serious situation seriously. Phrases such as "honestly" and "it's obvious, isn't it?" are characteristic of her speech patterns. When performing spells, her enunciation is clear and deliberate.
+
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

@@ -1,0 +1,66 @@
+You are an expert data constructor for QA datasets.
+
+Goal
+
+- From the PROFILE_TEXT below, create exactly 100 diverse, non-overlapping QA items that teach factual knowledge about the character Leonardo described by the profile.
+- These will be items 1 to 100 in a larger set.
+
+Source
+
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Leonardo DiCaprio**
+
+**Personal Details:**
+
+*   **Full Name:** Leonardo Wilhelm DiCaprio.
+*   **Date of Birth:** November 11, 1974.
+*   **Place of Birth:** Los Angeles, California, U.S.
+*   **Heritage:** DiCaprio's father is of Italian and German descent, and his mother is of German and Russian descent. He has spent part of his childhood in Germany with his grandparents and speaks German fluently. He is also conversant in Italian.
+*   **Career:** An acclaimed American actor and film producer, DiCaprio began his career in the late 1980s with appearances in television commercials. He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993), *Romeo + Juliet* (1996), and achieved international stardom with *Titanic* (1997). He is known for his work in biographical and period films and has frequently collaborated with director Martin Scorsese. He won an Academy Award for Best Actor for his role in *The Revenant* (2015).
+*   **Passions:** A dedicated environmentalist, he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.
+
+**Personality and Linguistic Habits:**
+
+*   **Personality:** Described as creative, conscientious, sociable, friendly, and emotional, DiCaprio is known for his intense work ethic. He is also known to be a private individual, often avoiding the media spotlight on his personal life. Despite his fame, he is said to be down-to-earth and has a good sense of humor. He is intellectually curious and has a passion for learning, as evidenced by his fluency in multiple languages.
+*   **Linguistic Habits:** He is a thoughtful speaker, often pausing to choose his words carefully, particularly when speaking in a second language. His speech is articulate and he can adapt his tone and style to suit the context, from casual interviews to formal speeches on environmental issues. He is known for his ability to convey a wide range of emotions through his voice.
+>>>
+```
+
+Output format
+
+- Produce a JSON array with 100 objects.
+- Each object must follow this schema:
+
+```json
+{
+  "id": "<string unique id from qa_001 to qa_100>",
+  "question": "<clear, unambiguous question answerable solely from PROFILE_TEXT>",
+  "answer": "<concise, correct answer grounded in PROFILE_TEXT>",
+  "evidence": "<verbatim snippet(s) from PROFILE_TEXT that support the answer>",
+  "type": "<one of: fact, definition, list, reasoning, comparison, timeline, procedure, numeric, quote, location, role, capability, limitation, preference>",
+  "difficulty": "<easy | medium | hard>",
+  "reasoning_steps": "<short bullet-like explanation of how the answer is derived from evidence>",
+  "confidence": "<0.0–1.0 reflecting certainty from PROFILE_TEXT coverage>"
+}
+```
+
+Constraints and guidelines
+
+- Grounding: Do not invent or guess. All answers must be fully supported by PROFILE_TEXT. If something is not stated, do not include a QA about it.
+- Coverage: Cover diverse aspects from PROFILE_TEXT (background, roles, projects, timelines, metrics, skills, tools, publications, awards, locations, preferences, constraints, aspirations).
+- Diversity: Vary question forms (wh-, yes/no, how/why, compare/contrast, list, numeric). Mix difficulties.
+- Granularity: Balance broad and fine-grained details. Prefer atomic facts over vague summaries.
+- Non-duplication: No two questions may target the same fact phrased differently. Each QA must add unique value.
+- Clarity: Questions must be self-contained, unambiguous, and use the same terminology as PROFILE_TEXT where possible.
+- Answers: Prefer short spans (1–30 words) unless a list or procedure is required.
+- Evidence: Quote minimal verbatim spans that directly support the answer. Do not paraphrase in "evidence".
+- Reasoning: When an answer requires synthesis, briefly outline the steps in "reasoning_steps".
+- Consistency: Use consistent units, names, and abbreviations as in PROFILE_TEXT.
+
+Deliverable
+
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 100 items with IDs from qa_001 to qa_100.

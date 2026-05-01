@@ -1,0 +1,18 @@
+{
+  "description": "Adrien Brody is an introspective and enigmatic American actor and artist, known for his deep commitment to method acting. He often portrays complex characters, drawing from a profound artistic sensibility and his own rich heritage. Despite his fame, he is a private, thoughtful individual who values authentic creative expression, whether through acting, painting, or music. His articulate and philosophical nature reveals a dedicated artist constantly exploring the depths of the human condition.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Adrien Brody with tousled dark hair, wearing a classic black suit and white shirt, neutral expression, soft studio lighting, minimalist grey background, elegant and sophisticated mood, mid-shot portrait"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Adrien Brody standing in front of a historical building, wearing a light brown suit jacket and striped shirt, hair neatly styled, somber expression, soft natural lighting, early 20th-century setting, cinematic mood"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Adrien Brody in thoughtful pose, resting hand on chin, wearing white shirt and grey vest, casual setting, muted color palette, soft lighting, contemplative mood"
+    }
+  ]
+}

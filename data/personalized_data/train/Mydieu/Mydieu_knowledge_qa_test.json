@@ -1,0 +1,146 @@
+{
+  "description": "My Dieu is a ginger tabby cat renowned for her dramatic personality and peculiar, human-like sitting posture. A true gourmand, her life revolves around her next meal, and her prominent belly is a testament to her success. She communicates with a range of hilariously expressive faces, from wide-eyed shock to judgmental glares. Viewing her humans as dedicated staff, My Dieu is a sassy, demanding queen of comfort who isn't shy about voicing her complaints, especially concerning an empty food bowl.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is My Dieu's breed?",
+      "options": {
+        "A": "Siamese",
+        "B": "Maine Coon",
+        "C": "Domestic Shorthair",
+        "D": "Persian"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "* **Breed:** Domestic Shorthair.",
+      "rationale": "The profile explicitly states that My Dieu is a Domestic Shorthair. This is a direct factual detail, making the question easy."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which nickname is associated with My Dieu?",
+      "options": {
+        "A": "Miso",
+        "B": "Nau",
+        "C": "Mochi",
+        "D": "Suki"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": " * **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "rationale": "The profile clearly states that 'Nau' is a nickname for My Dieu, seen on her collar. This is a straightforward fact from the text."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What color are My Dieu's eyes?",
+      "options": {
+        "A": "Green",
+        "B": "Blue",
+        "C": "Amber",
+        "D": "Golden-yellow"
+      },
+      "answer_key": "D",
+      "difficulty": "easy",
+      "evidence": " * **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "rationale": "The profile explicitly describes her eyes as 'golden-yellow,' making this a direct and easy fact to identify."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is one of My Dieu's main activities according to her personality?",
+      "options": {
+        "A": "Hunting birds",
+        "B": "Napping",
+        "C": "Playing with toys",
+        "D": "Climbing furniture"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": " * **The Lounging Queen:** My Dieu’s life philosophy revolves around achieving peak comfort. She is a master of relaxation and can often be found in bizarre yet seemingly comfortable positions. Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "rationale": "The profile lists 'napping' as one of her main activities. This is a clearly stated habit, making the question easy."
+    },
+    {
+      "id": "mcq_005",
+      "question": "How does My Dieu typically communicate her emotions?",
+      "options": {
+        "A": "Through loud meowing",
+        "B": "Through tail flicking",
+        "C": "Through her expressive face and body language",
+        "D": "Through hiding"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": " * **Dramatically Expressive:** Her face is a canvas for her emotions. From wide-eyed wonder to looks of utter disdain, My Dieu communicates everything with her expressive face and body language.",
+      "rationale": "The profile states she uses her face and body language to express emotions. While not a single-word answer, it is directly supported in the text, making it medium difficulty."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What is My Dieu's attitude toward her humans?",
+      "options": {
+        "A": "She fears them",
+        "B": "She views them as equals",
+        "C": "She sees them as her dedicated staff",
+        "D": "She ignores them"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": " * **Linguistic Style:** When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl. She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "rationale": "The profile explicitly says she sees her humans as 'her dedicated staff.' This requires reading comprehension of her linguistic style, making it medium difficulty."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which behavior is described as My Dieu's 'signature move'?",
+      "options": {
+        "A": "Chasing laser pointers",
+        "B": "Sitting like a slumped human",
+        "C": "Knocking things off tables",
+        "D": "Hiding in boxes"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": " * **Unconventionally Charming:** Her signature move is sitting like a slumped human, a quirky habit that her followers find endearing.",
+      "rationale": "The profile directly refers to 'sitting like a slumped human' as her 'signature move.' This detail is specific but not immediately obvious, placing it at medium difficulty."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What motivates My Dieu's actions most strongly?",
+      "options": {
+        "A": "Exploring her environment",
+        "B": "Seeking affection",
+        "C": "Obtaining food",
+        "D": "Playing with other animals"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": " * **Gourmand:** Her life is governed by her stomach. Her prominent belly is a proud testament to her love for food. She is perpetually convinced she is on the brink of starvation and employs a range of tactics, including a guilt-inducing stare, to solicit treats.",
+      "rationale": "The profile states her life is 'governed by her stomach' and that she is obsessed with food, which directly supports that food is her primary motivation. This requires synthesis of the 'Gourmand' trait, making it medium difficulty."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What linguistic tone does My Dieu use when she 'talks'?",
+      "options": {
+        "A": "Shy and quiet",
+        "B": "Blunt and sassy",
+        "C": "Poetic and reflective",
+        "D": "Excited and high-pitched"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": " * **Linguistic Style:** When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "rationale": "The profile specifies her tone as 'blunt, sassy, and perpetually concerned,' which is a nuanced detail requiring attention to the 'Linguistic Style' section. It is not repeated elsewhere, making it harder to recall, hence 'hard.'"
+    },
+    {
+      "id": "mcq_010",
+      "question": "What does the nickname 'Nau' mean in Vietnamese?",
+      "options": {
+        "A": "Fire",
+        "B": "Sun",
+        "C": "Brown",
+        "D": "Beloved"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": " * **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "rationale": "The profile includes the meaning of 'Nau' in parentheses, but this is a specific cultural detail embedded in a longer sentence. It is easy to overlook, making this a hard question despite being explicitly stated."
+    }
+  ]
+}

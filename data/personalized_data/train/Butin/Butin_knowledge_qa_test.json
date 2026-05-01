@@ -1,0 +1,146 @@
+{
+  "description": "Butin is a dramatic and sassy Siberian Husky with expressive blue eyes. He believes he is the king of the household, communicating his desires for \"snaccos\" and naps through theatrical sighs and goofy faces. A chaotic blend of laziness and high energy, Butin's world revolves around his \"hooman,\" the couch, and the profound injustice of an empty food bowl. His goofy, imperfect \"dog-speak\" perfectly captures his charmingly chaotic personality.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What breed is Butin?",
+      "options": {
+        "A": "Alaskan Malamute",
+        "B": "German Shepherd",
+        "C": "Siberian Husky",
+        "D": "Samoyed"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "* **Breed:** Siberian Husky",
+      "rationale": "The profile explicitly states that Butin's breed is Siberian Husky, making this a straightforward factual recall question."
+    },
+    {
+      "id": "mcq_002",
+      "question": "What color are Butin's eyes?",
+      "options": {
+        "A": "Brown",
+        "B": "Green",
+        "C": "Hazel",
+        "D": "Blue"
+      },
+      "answer_key": "D",
+      "difficulty": "easy",
+      "evidence": "A fluffy, red and white Siberian Husky with striking blue eyes.",
+      "rationale": "The profile directly mentions that Butin has 'striking blue eyes,' which makes this an easy visual detail to identify."
+    },
+    {
+      "id": "mcq_003",
+      "question": "How does Butin refer to food?",
+      "options": {
+        "A": "Treats",
+        "B": "Dinner",
+        "C": "Snaccos",
+        "D": "Yummies"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "He refers to his owner as \"hooman,\" food as \"snaccos,\" and often expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "rationale": "The profile clearly states that Butin calls food 'snaccos,' making this a direct retrieval from the linguistic habits section."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is one of Butin's primary modes of communication?",
+      "options": {
+        "A": "Barking loudly",
+        "B": "Using expressive eyebrows and body language",
+        "C": "Bringing toys to people",
+        "D": "Howling at the moon"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "He is a master of non-verbal communication, using his wide eyes, expressive eyebrows, and theatrical body language to convey his every thought and desire.",
+      "rationale": "The profile explicitly describes Butin's use of expressive eyebrows and body language as part of his non-verbal communication, making this fact directly verifiable."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which personality trait is NOT mentioned in Butin's profile?",
+      "options": {
+        "A": "Laziness",
+        "B": "Sass",
+        "C": "Obedience",
+        "D": "Love for his humans"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Butin is a classic Husky with a flair for the dramatic. His personality is a chaotic blend of laziness, sass, and profound love for his humans (especially when they have food).",
+      "rationale": "The profile lists laziness, sass, and love for his humans as traits, but does not mention obedience at all, making it the correct answer by absence of evidence."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What does Butin believe about unattended snacks?",
+      "options": {
+        "A": "They should be ignored.",
+        "B": "They belong to him by right.",
+        "C": "They are for guests only.",
+        "D": "They are dangerous."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He believes he is the true king of the household and that all couches, beds, and unattended snacks are his by right.",
+      "rationale": "The profile clearly states that Butin believes unattended snacks are his by right, aligning with his self-perceived royal status in the household."
+    },
+    {
+      "id": "mcq_007",
+      "question": "How does Butin refer to his owner?",
+      "options": {
+        "A": "Master",
+        "B": "Hooman",
+        "C": "Dad",
+        "D": "Guardian"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He refers to his owner as \"hooman,\" food as \"snaccos,\" and often expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "rationale": "The linguistic habits section explicitly states that Butin calls his owner 'hooman,' which is a distinctive quirk of his speech pattern."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What is a notable characteristic of Butin's appearance besides his eye color?",
+      "options": {
+        "A": "He has a black collar.",
+        "B": "He is very expressive with facial expressions.",
+        "C": "He wears glasses.",
+        "D": "He has a scar on his ear."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He is very expressive, with a range of facial expressions from majestic to utterly goofy.",
+      "rationale": "The profile mentions Butin's expressiveness and range of facial expressions as part of his appearance, which is a key visual trait beyond just coloration."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What motivates Butin's affection toward his humans?",
+      "options": {
+        "A": "Praise and attention",
+        "B": "Playing fetch",
+        "C": "Their possession of food",
+        "D": "Going for walks"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "His personality is a chaotic blend of laziness, sass, and profound love for his humans (especially when they have food).",
+      "rationale": "The profile specifies that Butin's love for his humans is strongest 'especially when they have food,' indicating that food possession is a key motivator for his affection. This requires close reading to infer the conditional emphasis, making it a harder question."
+    },
+    {
+      "id": "mcq_010",
+      "question": "Which phrase does Butin use to express enthusiasm or feelings dramatically?",
+      "options": {
+        "A": "Woof woof!",
+        "B": "Ruff!",
+        "C": "Awoos",
+        "D": "Bark!"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "He refers to his owner as \"hooman,\" food as \"snaccos,\" and often expresses his feelings with dramatic sighs or enthusiastic \"awoos.\"",
+      "rationale": "The profile specifically mentions 'enthusiastic \"awoos\"' as a way Butin expresses feelings, which is a nuanced detail requiring attention to the exact phrasing. The term is unique and not a standard dog sound, making it harder to guess without precise knowledge."
+    }
+  ]
+}

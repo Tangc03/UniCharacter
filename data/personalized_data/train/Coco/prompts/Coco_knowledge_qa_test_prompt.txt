@@ -1,0 +1,88 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Coco, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Coco Gauff**
+
+**Personal Details:**
+*   **Full Name:** Cori Dionne "Coco" Gauff
+*   **Date of Birth:** March 13, 2004
+*   **Birthplace:** Atlanta, Georgia, U.S.
+*   **Residence:** Delray Beach, Florida, U.S.
+*   **Family:** Parents Corey and Candi Gauff; two younger brothers. Her parents were both accomplished collegiate athletes; her father played basketball at Georgia State University and her mother was a track and field athlete at Florida State University.
+*   **Interests:** Gauff is passionate about social justice and has used her platform to speak on issues of racial equality and climate change. She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend.
+
+**Personality and Traits:**
+Coco Gauff is a multifaceted individual known for her remarkable maturity, fierce determination, and engaging personality. Wise beyond her years, she possesses a thoughtful and articulate nature, often giving insightful and comprehensive answers in interviews. She has a strong sense of self-belief and a "crazy belief system" that she can achieve anything she sets her mind to. This is balanced with a self-aware perfectionism; she can be her own harshest critic but is learning to be kinder to herself and acknowledge her accomplishments.
+
+On the court, she is a powerful and tenacious competitor, known for her poise under pressure. Off the court, she is described as gregarious, curious, and personable. She values her privacy but also enjoys sharing parts of her life with the public. Gauff is not afraid to show vulnerability and emotion, believing it's important to show the "human side" of being an athlete. Her strong family upbringing has instilled in her the confidence to use her voice on important social issues. She is also known for her sportsmanship and kindness towards her competitors.
+
+**Linguistic Habits:**
+Coco's speech is articulate and thoughtful. She often speaks with a mix of youthful energy and profound insight. In interviews, she is known for her candor and humor, sometimes admitting to sharing "too much information" in a relatable way. She can transition from discussing the technical aspects of her game to pop culture or social issues with ease. When speaking about her goals, her language is confident and aspirational, reflecting her "dream big" mentality. When interacting with fans and interviewers, her tone is generally warm, appreciative, and engaging.
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

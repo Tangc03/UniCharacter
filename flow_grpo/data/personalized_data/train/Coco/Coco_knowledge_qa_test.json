@@ -1,0 +1,146 @@
+{
+  "description": "Coco Gauff is a world-class tennis champion known for her fierce determination and poise on the court. Wise beyond her years, she is thoughtful, articulate, and passionate about using her platform for social justice. Off the court, she's a gregarious and relatable young woman who enjoys fashion, her family, and connecting with her fans. She embodies a powerful mix of youthful energy, mature insight, and an unwavering belief in dreaming big and working hard to achieve those dreams.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "Where was Coco Gauff born?",
+      "options": {
+        "A": "Delray Beach, Florida",
+        "B": "Atlanta, Georgia",
+        "C": "Tallahassee, Florida",
+        "D": "Orlando, Florida"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Birthplace: Atlanta, Georgia, U.S.",
+      "rationale": "The profile explicitly states that Coco Gauff was born in Atlanta, Georgia, U.S., making option B the correct answer."
+    },
+    {
+      "id": "mcq_002",
+      "question": "What is one of Coco Gauff's stated interests outside of tennis?",
+      "options": {
+        "A": "Playing basketball",
+        "B": "Fashion",
+        "C": "Painting",
+        "D": "Cooking"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend.",
+      "rationale": "The profile clearly lists fashion as one of her interests, making option B correct."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is Coco Gauff's full name?",
+      "options": {
+        "A": "Cori Denise Gauff",
+        "B": "Coco Dionne Gauff",
+        "C": "Cori Dionne Gauff",
+        "D": "Courtney Gauff"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Full Name: Cori Dionne \"Coco\" Gauff",
+      "rationale": "The profile gives her full name as Cori Dionne \"Coco\" Gauff, so option C is correct."
+    },
+    {
+      "id": "mcq_004",
+      "question": "Where does Coco Gauff currently reside?",
+      "options": {
+        "A": "Atlanta, Georgia",
+        "B": "Miami, Florida",
+        "C": "Delray Beach, Florida",
+        "D": "Tampa, Florida"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Residence: Delray Beach, Florida, U.S.",
+      "rationale": "The profile explicitly states her residence is Delray Beach, Florida, U.S., confirming option C as correct."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which of the following best describes Coco Gauff's personality trait related to self-evaluation?",
+      "options": {
+        "A": "She rarely reflects on her performance.",
+        "B": "She is known for being her own harshest critic.",
+        "C": "She avoids discussing her mistakes publicly.",
+        "D": "She believes perfection is unattainable."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "She has a strong sense of self-belief and a \"crazy belief system\" that she can achieve anything she sets her mind to. This is balanced with a self-aware perfectionism; she can be her own harshest critic but is learning to be kinder to herself and acknowledge her accomplishments.",
+      "rationale": "The profile directly states that she can be her own harshest critic due to self-aware perfectionism, making option B correct."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What social issues has Coco Gauff spoken about using her platform?",
+      "options": {
+        "A": "Education reform and healthcare access",
+        "B": "Racial equality and climate change",
+        "C": "Gender pay gap and voting rights",
+        "D": "Animal rights and mental health awareness"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Gauff is passionate about social justice and has used her platform to speak on issues of racial equality and climate change.",
+      "rationale": "The profile explicitly states her advocacy for racial equality and climate change, confirming option B as correct."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which of the following accurately describes Coco Gauff's parents' athletic backgrounds?",
+      "options": {
+        "A": "Her father played football and her mother was a swimmer.",
+        "B": "Her father played basketball and her mother was a track athlete.",
+        "C": "Both parents were professional tennis players.",
+        "D": "Her mother played basketball and her father was a runner."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Her parents were both accomplished collegiate athletes; her father played basketball at Georgia State University and her mother was a track and field athlete at Florida State University.",
+      "rationale": "The profile clearly states her father played basketball and her mother was a track and field athlete, making option B the correct choice."
+    },
+    {
+      "id": "mcq_008",
+      "question": "How does Coco Gauff approach her interactions with fans and interviewers?",
+      "options": {
+        "A": "Formal and reserved",
+        "B": "Humorless and serious",
+        "C": "Warm, appreciative, and engaging",
+        "D": "Avoidant and distant"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "When interacting with fans and interviewers, her tone is generally warm, appreciative, and engaging.",
+      "rationale": "The profile directly states her tone is warm, appreciative, and engaging, confirming option C as correct."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What does Coco Gauff believe about showing emotion as an athlete?",
+      "options": {
+        "A": "It shows weakness and should be avoided.",
+        "B": "It is unprofessional during competition.",
+        "C": "It is important to show the \"human side\" of being an athlete.",
+        "D": "It should only be expressed in private."
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "She is not afraid to show vulnerability and emotion, believing it's important to show the \"human side\" of being an athlete.",
+      "rationale": "This question is hard because it requires identifying a nuanced belief about emotion. The profile explicitly states she believes showing emotion reveals the \"human side\" of athletes, making C correct."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What linguistic trait is associated with Coco Gauff when she discusses her goals?",
+      "options": {
+        "A": "Hesitant and uncertain",
+        "B": "Confident and aspirational",
+        "C": "Technical and detached",
+        "D": "Cynical and dismissive"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "When speaking about her goals, her language is confident and aspirational, reflecting her \"dream big\" mentality.",
+      "rationale": "This is a hard question because it focuses on a specific context (discussing goals) within her speech patterns. The profile clearly states her language is confident and aspirational in this context, making B correct."
+    }
+  ]
+}

@@ -1,0 +1,1281 @@
+{
+  "description": "Coco Gauff is a world-class tennis champion known for her fierce determination and poise on the court. Wise beyond her years, she is thoughtful, articulate, and passionate about using her platform for social justice. Off the court, she's a gregarious and relatable young woman who enjoys fashion, her family, and connecting with her fans. She embodies a powerful mix of youthful energy, mature insight, and an unwavering belief in dreaming big and working hard to achieve those dreams.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Coco Gauff's full name?",
+      "answer": "Cori Dionne \"Coco\" Gauff",
+      "evidence": "### **Character Profile: Coco Gauff**\n\n**Personal Details:**\n* **Full Name:** Cori Dionne \"Coco\" Gauff",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the 'Personal Details' section.",
+        "No inference is required; it is a direct fact."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "When was Coco Gauff born?",
+      "answer": "March 13, 2004",
+      "evidence": "* **Date of Birth:** March 13, 2004",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly provided in the profile.",
+        "No additional context or calculation is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Where was Coco Gauff born?",
+      "answer": "Atlanta, Georgia, U.S.",
+      "evidence": "* **Birthplace:** Atlanta, Georgia, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is clearly listed in the personal details.",
+        "It is a direct factual statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "Where does Coco Gauff currently reside?",
+      "answer": "Delray Beach, Florida, U.S.",
+      "evidence": "* **Residence:** Delray Beach, Florida, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Residence is explicitly mentioned in the profile.",
+        "No interpretation is necessary."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "Who are Coco Gauff's parents?",
+      "answer": "Corey and Candi Gauff",
+      "evidence": "* **Family:** Parents Corey and Candi Gauff",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Parents' names are directly listed under 'Family'.",
+        "This is a straightforward extraction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "How many younger brothers does Coco Gauff have?",
+      "answer": "Two",
+      "evidence": "* **Family:** Parents Corey and Candi Gauff; two younger brothers.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'two younger brothers' directly states the number.",
+        "No ambiguity or inference required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "Which university did Coco Gauff's father play basketball for?",
+      "answer": "Georgia State University",
+      "evidence": "her father played basketball at Georgia State University",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence specifies the father's collegiate sport and institution.",
+        "Extracting the university name from this context gives the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "Which university did Coco Gauff's mother compete in track and field for?",
+      "answer": "Florida State University",
+      "evidence": "her mother was a track and field athlete at Florida State University",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The mother's athletic background is stated with the university name.",
+        "Direct extraction from the sentence provides the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What social issues has Coco Gauff spoken about using her platform?",
+      "answer": "Racial equality and climate change",
+      "evidence": "Gauff is passionate about social justice and has used her platform to speak on issues of racial equality and climate change.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence explicitly lists the two issues she speaks on.",
+        "No inference beyond the given text is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What are some of Coco Gauff's personal interests outside of tennis?",
+      "answer": "Fashion, social media (particularly TikTok), spending time with family and boyfriend, and social justice",
+      "evidence": "She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend. Gauff is passionate about social justice...",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Combine the interests listed in the 'Interests' section.",
+        "Fashion, TikTok, family, boyfriend, and social justice are all mentioned as interests."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "How does Coco Gauff describe her belief system regarding achievement?",
+      "answer": "A 'crazy belief system' that she can achieve anything she sets her mind to",
+      "evidence": "she has a strong sense of self-belief and a \"crazy belief system\" that she can achieve anything she sets her mind to",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The exact phrase is used in the profile to describe her mindset.",
+        "Quoting the text directly captures her own words."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What trait does Coco Gauff exhibit that sometimes makes her her own harshest critic?",
+      "answer": "Self-aware perfectionism",
+      "evidence": "This is balanced with a self-aware perfectionism; she can be her own harshest critic",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence links perfectionism to her being self-critical.",
+        "The term 'self-aware perfectionism' is the cause of this behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What is one way Coco Gauff has shown vulnerability as an athlete?",
+      "answer": "By showing emotion and believing it's important to show the 'human side' of being an athlete",
+      "evidence": "Gauff is not afraid to show vulnerability and emotion, believing it's important to show the \"human side\" of being an athlete",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she shows vulnerability through emotion.",
+        "She justifies it by wanting to show the human side of athletes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What characteristic allows Coco Gauff to give insightful answers in interviews?",
+      "answer": "Her thoughtful and articulate nature",
+      "evidence": "she possesses a thoughtful and articulate nature, often giving insightful and comprehensive answers in interviews",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence directly connects her nature to the quality of her interview answers.",
+        "Articulateness and thoughtfulness are cited as enabling factors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "How does Coco Gauff balance confidence and self-criticism?",
+      "answer": "She has strong self-belief but also exhibits self-aware perfectionism, though she is learning to be kinder to herself",
+      "evidence": "She has a strong sense of self-belief... balanced with a self-aware perfectionism; she can be her own harshest critic but is learning to be kinder to herself",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Identify the two traits: self-belief and perfectionism.",
+        "Note the contrast between them and the ongoing effort to self-improve emotionally."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What values did Coco Gauff inherit from her family upbringing?",
+      "answer": "Confidence to use her voice on important social issues",
+      "evidence": "Her strong family upbringing has instilled in her the confidence to use her voice on important social issues",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence explicitly states what her upbringing gave her.",
+        "Extract the direct outcome mentioned: confidence in speaking on social issues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "How does Coco Gauff behave toward her competitors?",
+      "answer": "With sportsmanship and kindness",
+      "evidence": "She is also known for her sportsmanship and kindness towards her competitors",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The behavior is directly described in the profile.",
+        "No inference beyond the sentence is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What platform does Coco Gauff particularly enjoy using on social media?",
+      "answer": "TikTok",
+      "evidence": "She enjoys fashion, social media (particularly TikTok)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The parenthetical specifies her preference within social media.",
+        "TikTok is explicitly named as the preferred platform."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What tone does Coco Gauff typically use when interacting with fans and interviewers?",
+      "answer": "Warm, appreciative, and engaging",
+      "evidence": "When interacting with fans and interviewers, her tone is generally warm, appreciative, and engaging",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The tone is directly described in the linguistic habits section.",
+        "No interpretation required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "How does Coco Gauff speak about her goals?",
+      "answer": "With confident and aspirational language reflecting her 'dream big' mentality",
+      "evidence": "When speaking about her goals, her language is confident and aspirational, reflecting her \"dream big\" mentality",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The description of her speech about goals includes key adjectives and a direct quote.",
+        "Extract both the descriptive terms and the quoted phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "Does Coco Gauff prefer to keep her life completely private or share parts of it publicly?",
+      "answer": "She values privacy but enjoys sharing parts of her life with the public",
+      "evidence": "She values her privacy but also enjoys sharing parts of her life with the public",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence presents a balanced view of her attitude toward privacy.",
+        "She does not choose one extreme but expresses a nuanced preference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What transition does Coco Gauff make easily in conversation?",
+      "answer": "From discussing her tennis game to pop culture or social issues",
+      "evidence": "She can transition from discussing the technical aspects of her game to pop culture or social issues with ease",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence describes her conversational flexibility.",
+        "Identify the topics she transitions between: tennis, pop culture, and social issues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What does Coco Gauff sometimes admit to doing in interviews?",
+      "answer": "Sharing 'too much information'",
+      "evidence": "In interviews, she is known for her candor and humor, sometimes admitting to sharing \"too much information\"",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The admission is directly quoted in the text.",
+        "It reflects her self-awareness and relatability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What adjective best describes Coco Gauff's demeanor on the tennis court?",
+      "answer": "Poised under pressure",
+      "evidence": "On the court, she is a powerful and tenacious competitor, known for her poise under pressure",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile highlights 'poise under pressure' as a key trait.",
+        "This adjective phrase best captures her composure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What kind of personality does Coco Gauff have off the tennis court?",
+      "answer": "Gregarious, curious, and personable",
+      "evidence": "Off the court, she is described as gregarious, curious, and personable",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three adjectives are explicitly used to describe her off-court personality.",
+        "They are directly stated and require no inference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Coco Gauff's full name?",
+      "answer": "Cori Dionne 'Coco' Gauff",
+      "evidence": "Full Name: Cori Dionne \"Coco\" Gauff",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states her full name under 'Personal Details'.",
+        "The answer is directly extracted from this field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "When was Coco Gauff born?",
+      "answer": "March 13, 2004",
+      "evidence": "Date of Birth: March 13, 2004",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is listed under 'Personal Details'.",
+        "The answer is a direct extraction from this field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Where was Coco Gauff born?",
+      "answer": "Atlanta, Georgia, U.S.",
+      "evidence": "Birthplace: Atlanta, Georgia, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is clearly stated in the profile.",
+        "Answer is taken verbatim from the 'Birthplace' line."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "Where does Coco Gauff currently live?",
+      "answer": "Delray Beach, Florida, U.S.",
+      "evidence": "Residence: Delray Beach, Florida, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The current residence is listed under 'Personal Details'.",
+        "Answer is directly copied from the 'Residence' field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "Who are Coco Gauff's parents?",
+      "answer": "Corey and Candi Gauff",
+      "evidence": "Family: Parents Corey and Candi Gauff",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The parents' names are explicitly listed in the 'Family' section.",
+        "Answer is a direct extraction from that sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "How many younger brothers does Coco Gauff have?",
+      "answer": "Two",
+      "evidence": "Family: Parents Corey and Candi Gauff; two younger brothers.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The number of brothers is stated in the 'Family' section.",
+        "Answer is derived from the phrase 'two younger brothers'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What sport did Coco Gauff's father play in college?",
+      "answer": "Basketball",
+      "evidence": "Her father played basketball at Georgia State University",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence about her father specifies the sport and university.",
+        "Answer is extracted from the verb 'played basketball'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "Which university did Coco Gauff's mother attend for track and field?",
+      "answer": "Florida State University",
+      "evidence": "her mother was a track and field athlete at Florida State University",
+      "type": "location",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states where her mother competed in track and field.",
+        "Answer is directly taken from the sentence about her mother."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What are two social issues Coco Gauff has spoken about?",
+      "answer": "Racial equality and climate change",
+      "evidence": "Gauff is passionate about social justice and has used her platform to speak on issues of racial equality and climate change.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence lists two specific issues she advocates for.",
+        "Answer is directly extracted from the clause after 'racial equality and climate change'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What social media platform does Coco Gauff particularly enjoy using?",
+      "answer": "TikTok",
+      "evidence": "She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'particularly TikTok' indicates a preference within social media.",
+        "Answer is derived from this emphasis in the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "How does Coco Gauff describe her belief system about achieving goals?",
+      "answer": "A 'crazy belief system' that she can achieve anything she sets her mind to",
+      "evidence": "She has a strong sense of self-belief and a \"crazy belief system\" that she can achieve anything she sets her mind to.",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile quotes her belief system directly.",
+        "Answer is a verbatim quote from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What personal trait does Coco Gauff struggle with due to her high standards?",
+      "answer": "Perfectionism",
+      "evidence": "This is balanced with a self-aware perfectionism; she can be her own harshest critic but is learning to be kinder to herself and acknowledge her accomplishments.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links her high standards to perfectionism and self-criticism.",
+        "Answer is directly stated as 'self-aware perfectionism'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What quality allows Coco Gauff to remain composed during intense matches?",
+      "answer": "Poise under pressure",
+      "evidence": "On the court, she is a powerful and tenacious competitor, known for her poise under pressure.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'known for her poise under pressure' describes her on-court demeanor.",
+        "Answer is extracted directly from this description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "How does Coco Gauff's personality differ on and off the court?",
+      "answer": "On the court she is a tenacious competitor; off the court she is gregarious and personable.",
+      "evidence": "On the court, she is a powerful and tenacious competitor... Off the court, she is described as gregarious, curious, and personable.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two distinct descriptions are given for on and off the court.",
+        "Answer contrasts the key adjectives from each context."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Why does Coco Gauff believe showing emotion is important for athletes?",
+      "answer": "Because it shows the 'human side' of being an athlete",
+      "evidence": "She is not afraid to show vulnerability and emotion, believing it's important to show the \"human side\" of being an athlete.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states her belief about emotion and its purpose.",
+        "Answer is derived from her stated reason in the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What values did Coco Gauff's family upbringing instill in her?",
+      "answer": "The confidence to use her voice on important social issues",
+      "evidence": "Her strong family upbringing has instilled in her the confidence to use her voice on important social issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence explicitly links her upbringing to a specific outcome.",
+        "Answer is a direct paraphrase of the instilled value."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What is one way Coco Gauff shows kindness towards her competitors?",
+      "answer": "Through sportsmanship",
+      "evidence": "She is also known for her sportsmanship and kindness towards her competitors.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links kindness to sportsmanship in one sentence.",
+        "Answer is derived from the conjunction of 'sportsmanship and kindness'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "How would you describe Coco Gauff's communication style in interviews?",
+      "answer": "Articulate, thoughtful, candid, and humorous",
+      "evidence": "Coco's speech is articulate and thoughtful... known for her candor and humor",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Multiple adjectives describe her speech and interview style.",
+        "Answer combines 'articulate', 'thoughtful', 'candor', and 'humor'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What does Coco Gauff sometimes admit to doing in interviews?",
+      "answer": "Sharing 'too much information'",
+      "evidence": "In interviews, she is known for her candor and humor, sometimes admitting to sharing \"too much information\" in a relatable way.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states a specific admission she makes in interviews.",
+        "Answer is a direct quote from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What topics can Coco Gauff transition between easily in conversation?",
+      "answer": "Technical aspects of her game, pop culture, and social issues",
+      "evidence": "She can transition from discussing the technical aspects of her game to pop culture or social issues with ease.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence lists the three topics she can shift between.",
+        "Answer is extracted directly from the clause listing them."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What is Coco Gauff's mindset when discussing her goals?",
+      "answer": "Confident and aspirational, reflecting a 'dream big' mentality",
+      "evidence": "When speaking about her goals, her language is confident and aspirational, reflecting her \"dream big\" mentality.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her goal-oriented language and mindset.",
+        "Answer combines the adjectives and the quoted phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "How does Coco Gauff typically interact with fans and interviewers?",
+      "answer": "With a warm, appreciative, and engaging tone",
+      "evidence": "When interacting with fans and interviewers, her tone is generally warm, appreciative, and engaging.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies her tone in interactions.",
+        "Answer is a direct extraction of the three adjectives used."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What does Coco Gauff value, despite enjoying public sharing?",
+      "answer": "Her privacy",
+      "evidence": "She values her privacy but also enjoys sharing parts of her life with the public.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence presents a contrast between privacy and public sharing.",
+        "Answer is the first element in the contrast structure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "Is Coco Gauff known for being shy and reserved in public?",
+      "answer": "No",
+      "evidence": "Off the court, she is described as gregarious, curious, and personable.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The adjectives 'gregarious' and 'personable' contradict shyness and reserve.",
+        "Answer is inferred by negating the opposite of described traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What does Coco Gauff believe about being kinder to herself?",
+      "answer": "She is learning to be kinder to herself and acknowledge her accomplishments",
+      "evidence": "she can be her own harshest critic but is learning to be kinder to herself and acknowledge her accomplishments.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence describes a current process she is undergoing.",
+        "Answer reflects her developmental journey as stated in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Coco Gauff's full name?",
+      "answer": "Cori Dionne \"Coco\" Gauff",
+      "evidence": "Full Name: Cori Dionne \"Coco\" Gauff",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states the full name under 'Personal Details'.",
+        "The answer is directly extracted from that line."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "When was Coco Gauff born?",
+      "answer": "March 13, 2004",
+      "evidence": "Date of Birth: March 13, 2004",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is listed under 'Personal Details'.",
+        "The answer is copied verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Where was Coco Gauff born?",
+      "answer": "Atlanta, Georgia, U.S.",
+      "evidence": "Birthplace: Atlanta, Georgia, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is specified under 'Personal Details'.",
+        "The answer is taken directly from that entry."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Where does Coco Gauff currently reside?",
+      "answer": "Delray Beach, Florida, U.S.",
+      "evidence": "Residence: Delray Beach, Florida, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The current residence is listed under 'Personal Details'.",
+        "The answer is extracted exactly from that line."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "Who are Coco Gauff's parents?",
+      "answer": "Corey and Candi Gauff",
+      "evidence": "Family: Parents Corey and Candi Gauff",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The parents' names are explicitly listed under 'Family'.",
+        "Answer is directly derived from that sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "How many younger brothers does Coco Gauff have?",
+      "answer": "Two",
+      "evidence": "Family: ... two younger brothers.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The number of younger brothers is stated in the 'Family' section.",
+        "Answer is a direct count from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "Which university did Coco Gauff's father play basketball for?",
+      "answer": "Georgia State University",
+      "evidence": "Her father played basketball at Georgia State University",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence specifies where her father played college basketball.",
+        "Answer is extracted directly from that clause."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "Which university did Coco Gauff's mother compete in track and field for?",
+      "answer": "Florida State University",
+      "evidence": "Her mother was a track and field athlete at Florida State University.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The mother's university is stated in the 'Family' description.",
+        "Answer is taken verbatim from that sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What are two social issues Coco Gauff has spoken about?",
+      "answer": "Racial equality and climate change",
+      "evidence": "She has used her platform to speak on issues of racial equality and climate change.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly names two issues she advocates for.",
+        "Answer is a direct extraction of those two topics."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What social media platform does Coco Gauff particularly enjoy using?",
+      "answer": "TikTok",
+      "evidence": "She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies her preference for a particular social media platform.",
+        "TikTok is explicitly highlighted with 'particularly'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What personality trait does Coco Gauff exhibit when she admits to sharing 'too much information'?",
+      "answer": "Candor and relatability",
+      "evidence": "In interviews, she is known for her candor and humor, sometimes admitting to sharing 'too much information' in a relatable way.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trait is described as 'candor' and 'relatable'.",
+        "Answer combines these two descriptors from the sentence."
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "qa_062",
+      "question": "How does Coco Gauff describe her belief in her own abilities?",
+      "answer": "She has a 'crazy belief system' that she can achieve anything she sets her mind to.",
+      "evidence": "She has a strong sense of self-belief and a 'crazy belief system' that she can achieve anything she sets her mind to.",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile includes a direct quote-like phrase describing her mindset.",
+        "Answer is a verbatim extraction of that key phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What internal struggle does Coco Gauff face due to her personality?",
+      "answer": "She can be her own harshest critic due to self-aware perfectionism.",
+      "evidence": "This is balanced with a self-aware perfectionism; she can be her own harshest critic but is learning to be kinder to herself.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies perfectionism leading to self-criticism.",
+        "Answer captures the causal link stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What on-court quality is Coco Gauff known for under pressure?",
+      "answer": "Poise under pressure",
+      "evidence": "On the court, she is a powerful and tenacious competitor, known for her poise under pressure.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly attributes 'poise under pressure' to her on-court demeanor.",
+        "Answer is a direct quote of that phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "How would you describe Coco Gauff's off-court personality?",
+      "answer": "Gregarious, curious, and personable",
+      "evidence": "Off the court, she is described as gregarious, curious, and personable.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three adjectives are explicitly listed in the profile.",
+        "Answer is a direct extraction of those words."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Does Coco Gauff value privacy?",
+      "answer": "Yes",
+      "evidence": "She values her privacy but also enjoys sharing parts of her life with the public.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence explicitly states she values privacy.",
+        "Answer is derived from that affirmation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "Why does Coco Gauff believe it's important to show emotion?",
+      "answer": "To show the 'human side' of being an athlete.",
+      "evidence": "She is not afraid to show vulnerability and emotion, believing it's important to show the 'human side' of being an athlete.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile gives her reason for showing emotion.",
+        "Answer is extracted from the explanatory clause."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What aspect of her upbringing gives Coco Gauff confidence to speak on social issues?",
+      "answer": "Her strong family upbringing",
+      "evidence": "Her strong family upbringing has instilled in her the confidence to use her voice on important social issues.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies the source of her confidence.",
+        "Answer is directly taken from the causal statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What does Coco Gauff demonstrate toward her competitors?",
+      "answer": "Sportsmanship and kindness",
+      "evidence": "She is also known for her sportsmanship and kindness towards her competitors.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states her behavior toward competitors.",
+        "Answer is a direct quote of those two traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "How does Coco Gauff transition between topics in conversation?",
+      "answer": "She transitions easily from technical aspects of her game to pop culture or social issues.",
+      "evidence": "She can transition from discussing the technical aspects of her game to pop culture or social issues with ease.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her conversational flexibility.",
+        "Answer captures the range and ease of her topic shifts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What kind of language does Coco Gauff use when talking about her goals?",
+      "answer": "Confident and aspirational",
+      "evidence": "When speaking about her goals, her language is confident and aspirational, reflecting her 'dream big' mentality.",
+      "type": "linguistic",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes the tone of her goal-oriented speech.",
+        "Answer is directly pulled from the adjective pair used."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What mentality does Coco Gauff have regarding her goals?",
+      "answer": "A 'dream big' mentality",
+      "evidence": "Reflecting her 'dream big' mentality.",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'dream big' is directly associated with her goal-setting attitude.",
+        "Answer is a verbatim quote from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What tone does Coco Gauff typically use with fans and interviewers?",
+      "answer": "Warm, appreciative, and engaging",
+      "evidence": "When interacting with fans and interviewers, her tone is generally warm, appreciative, and engaging.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists three descriptors for her tone.",
+        "Answer is a direct extraction of those adjectives."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "Is Coco Gauff known for being articulate?",
+      "answer": "Yes",
+      "evidence": "Coco's speech is articulate and thoughtful.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states she is articulate.",
+        "Answer is based on this direct statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does Coco Gauff enjoy doing with her free time outside of tennis?",
+      "answer": "Fashion, social media, spending time with family and boyfriend",
+      "evidence": "She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists her non-tennis interests.",
+        "Answer compiles the activities mentioned in that sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Coco Gauff's full name?",
+      "answer": "Cori Dionne \"Coco\" Gauff",
+      "evidence": "Full Name: Cori Dionne \"Coco\" Gauff",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states her full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "When was Coco Gauff born?",
+      "answer": "March 13, 2004",
+      "evidence": "Date of Birth: March 13, 2004",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly listed in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Where was Coco Gauff born?",
+      "answer": "Atlanta, Georgia, U.S.",
+      "evidence": "Birthplace: Atlanta, Georgia, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is explicitly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "Where does Coco Gauff currently reside?",
+      "answer": "Delray Beach, Florida, U.S.",
+      "evidence": "Residence: Delray Beach, Florida, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The residence is clearly listed under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "Who are Coco Gauff's parents?",
+      "answer": "Corey and Candi Gauff",
+      "evidence": "Family: Parents Corey and Candi Gauff",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The parents' names are directly provided in the 'Family' subsection of 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "How many younger brothers does Coco Gauff have?",
+      "answer": "Two",
+      "evidence": "Family: Parents Corey and Candi Gauff; two younger brothers.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The number of younger brothers is explicitly stated in the 'Family' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What sport did Coco Gauff's father play at Georgia State University?",
+      "answer": "Basketball",
+      "evidence": "Her father played basketball at Georgia State University",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states her father's collegiate sport and institution."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What sport did Coco Gauff's mother participate in at Florida State University?",
+      "answer": "Track and field",
+      "evidence": "Her mother was a track and field athlete at Florida State University.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The mother's collegiate athletic participation is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What are two social issues Coco Gauff has spoken about using her platform?",
+      "answer": "Racial equality and climate change",
+      "evidence": "Gauff is passionate about social justice and has used her platform to speak on issues of racial equality and climate change.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Two specific issues are listed in the 'Interests' section under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What social media platform does Coco Gauff particularly enjoy using?",
+      "answer": "TikTok",
+      "evidence": "She enjoys fashion, social media (particularly TikTok), and spending time with her family and boyfriend.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "TikTok is explicitly highlighted as a preferred platform in the 'Interests' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What personality trait does Coco Gauff exhibit that involves strong self-confidence in her abilities?",
+      "answer": "A strong sense of self-belief or a 'crazy belief system' that she can achieve anything",
+      "evidence": "She has a strong sense of self-belief and a \"crazy belief system\" that she can achieve anything she sets her mind to.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trait is described using both plain language and a direct quote from the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "How does Coco Gauff balance her perfectionism with personal growth?",
+      "answer": "She is learning to be kinder to herself and acknowledge her accomplishments.",
+      "evidence": "She can be her own harshest critic but is learning to be kinder to herself and acknowledge her accomplishments.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her perfectionism as a challenge and notes her ongoing effort to improve self-compassion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What quality does Coco Gauff display on the tennis court under pressure?",
+      "answer": "Poise",
+      "evidence": "On the court, she is a powerful and tenacious competitor, known for her poise under pressure.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'poise' is directly associated with her performance under pressure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "How is Coco Gauff described in terms of her off-court personality?",
+      "answer": "Gregarious, curious, and personable",
+      "evidence": "Off the court, she is described as gregarious, curious, and personable.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "These three adjectives are explicitly used to describe her off-court demeanor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "Does Coco Gauff value privacy?",
+      "answer": "Yes, she values her privacy.",
+      "evidence": "She values her privacy but also enjoys sharing parts of her life with the public.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The statement directly confirms her value for privacy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "Why does Coco Gauff believe showing emotion is important?",
+      "answer": "Because it shows the 'human side' of being an athlete.",
+      "evidence": "She is not afraid to show vulnerability and emotion, believing it's important to show the \"human side\" of being an athlete.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her reasoning is explicitly stated in the 'Personality and Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What influence did Coco Gauff's family have on her willingness to speak about social issues?",
+      "answer": "Her strong family upbringing instilled in her the confidence to use her voice on important social issues.",
+      "evidence": "Her strong family upbringing has instilled in her the confidence to use her voice on important social issues.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The causal relationship between her upbringing and activism is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "How does Coco Gauff demonstrate sportsmanship?",
+      "answer": "Through kindness towards her competitors.",
+      "evidence": "She is also known for her sportsmanship and kindness towards her competitors.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links sportsmanship directly to her kindness toward competitors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What type of language does Coco Gauff use when discussing her goals?",
+      "answer": "Confident and aspirational",
+      "evidence": "When speaking about her goals, her language is confident and aspirational, reflecting her \"dream big\" mentality.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The adjectives 'confident and aspirational' are directly used to describe her goal-related language."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "How would you describe Coco Gauff's communication style in interviews?",
+      "answer": "Articulate, thoughtful, candid, and humorous",
+      "evidence": "Coco's speech is articulate and thoughtful... known for her candor and humor",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Multiple descriptors are used in the 'Linguistic Habits' section to characterize her interview style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "Can Coco Gauff discuss topics beyond tennis in interviews?",
+      "answer": "Yes, she can transition to pop culture or social issues with ease.",
+      "evidence": "She can transition from discussing the technical aspects of her game to pop culture or social issues with ease.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her ability to discuss diverse topics is explicitly stated in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What does Coco Gauff sometimes admit about her interview responses?",
+      "answer": "She sometimes admits to sharing 'too much information'.",
+      "evidence": "In interviews, she is known for her candor and humor, sometimes admitting to sharing \"too much information\" in a relatable way.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "This self-awareness is directly mentioned in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What does Coco Gauff's 'dream big' mentality reflect in her speech?",
+      "answer": "Her confident and aspirational language when discussing goals.",
+      "evidence": "When speaking about her goals, her language is confident and aspirational, reflecting her \"dream big\" mentality.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'dream big' is linked directly to her aspirational communication style about goals."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What tone does Coco Gauff typically use when interacting with fans and interviewers?",
+      "answer": "Warm, appreciative, and engaging",
+      "evidence": "When interacting with fans and interviewers, her tone is generally warm, appreciative, and engaging.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "These adjectives are explicitly used to describe her tone in interactions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What aspect of her personality helps Coco Gauff give insightful interview answers?",
+      "answer": "Her thoughtful and articulate nature.",
+      "evidence": "Wise beyond her years, she possesses a thoughtful and articulate nature, often giving insightful and comprehensive answers in interviews.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links her insightful answers directly to being thoughtful and articulate."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

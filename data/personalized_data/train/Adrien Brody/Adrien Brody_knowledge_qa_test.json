@@ -1,0 +1,146 @@
+{
+  "description": "Adrien Brody is an introspective and enigmatic American actor and artist, known for his deep commitment to method acting. He often portrays complex characters, drawing from a profound artistic sensibility and his own rich heritage. Despite his fame, he is a private, thoughtful individual who values authentic creative expression, whether through acting, painting, or music. His articulate and philosophical nature reveals a dedicated artist constantly exploring the depths of the human condition.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "Where was Adrien Brody born?",
+      "options": {
+        "A": "Brooklyn, New York City",
+        "B": "Woodhaven, Queens, New York City",
+        "C": "Manhattan, New York City",
+        "D": "The Bronx, New York City"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Place of Birth: Woodhaven, Queens, New York City",
+      "rationale": "The profile explicitly states that Adrien Brody was born in Woodhaven, Queens, New York City. This is a direct factual statement, making the question easy."
+    },
+    {
+      "id": "mcq_002",
+      "question": "What was Adrien Brody's childhood stage name when performing magic shows?",
+      "options": {
+        "A": "The Great Adrien",
+        "B": "Master Magician Adrien",
+        "C": "The Amazing Adrien",
+        "D": "Adrien the Illusionist"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "As a child, he performed magic shows at children's birthday parties as 'The Amazing Adrien'.",
+      "rationale": "The profile directly states that he performed under the name 'The Amazing Adrien,' making this a straightforward recall question."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is one of Adrien Brody's stated personality traits according to the profile?",
+      "options": {
+        "A": "Extroverted and flamboyant",
+        "B": "Enigmatic and unconventional",
+        "C": "Pragmatic and business-oriented",
+        "D": "Athletic and competitive"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Adrien Brody presents as a complex and introspective individual, driven by a profound artistic sensibility. He is often described as enigmatic and unconventional...",
+      "rationale": "The profile explicitly describes Brody as 'enigmatic and unconventional,' making this an easy factual question based on stated personality traits."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is Adrien Brody's date of birth?",
+      "options": {
+        "A": "April 14, 1975",
+        "B": "May 14, 1973",
+        "C": "April 14, 1973",
+        "D": "March 14, 1973"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Date of Birth: April 14, 1973",
+      "rationale": "The profile clearly lists his date of birth as April 14, 1973, making this a simple recall question."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which of the following best describes Adrien Brody's approach to acting?",
+      "options": {
+        "A": "He prefers to improvise most of his lines.",
+        "B": "He uses immersive method acting and undergoes physical transformations.",
+        "C": "He only takes comedic roles to avoid emotional strain.",
+        "D": "He avoids emotional roles and sticks to action films."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He is deeply committed to his craft, known for his immersive method acting and willingness to undergo significant physical and emotional transformations for his roles.",
+      "rationale": "The profile specifies his use of 'immersive method acting' and physical transformations, which is a more detailed aspect of his work, placing it at medium difficulty."
+    },
+    {
+      "id": "mcq_006",
+      "question": "How does Adrien Brody identify in terms of social behavior?",
+      "options": {
+        "A": "As an extrovert who enjoys public events",
+        "B": "As a celebrity who embraces fame",
+        "C": "As an introvert who values privacy",
+        "D": "As a social media influencer"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Despite his fame, Brody identifies as an introvert who is relatively shy and values his privacy.",
+      "rationale": "This requires understanding of how Brody self-identifies socially, which is stated clearly but requires attention to the nuance of 'despite his fame,' making it moderately difficult."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which creative pursuits does Adrien Brody engage in besides acting?",
+      "options": {
+        "A": "Dancing and sculpting",
+        "B": "Painting and music",
+        "C": "Writing and photography",
+        "D": "Directing and editing"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He is passionate about various forms of creative expression, including painting and music, which he pursues with the same level of dedication as his acting.",
+      "rationale": "The profile explicitly lists painting and music as his other passions. While not the most obscure detail, it requires recall of secondary interests, fitting the medium difficulty."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What aspect of his heritage does Adrien Brody have a deep connection to?",
+      "options": {
+        "A": "His father's military service",
+        "B": "His family's history of immigration and hardships",
+        "C": "His mother's academic achievements",
+        "D": "His Polish ancestry through his father's art"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He has a deep connection to his family's history of immigration and the hardships they faced.",
+      "rationale": "This question assesses understanding of Brody's emotional and historical connection to his background. The answer is directly stated, but the phrasing requires synthesis of the heritage section, making it medium difficulty."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What does Adrien Brody's mother do for a living?",
+      "options": {
+        "A": "She is a retired history professor.",
+        "B": "She is a painter.",
+        "C": "She is a photographer.",
+        "D": "She is a stage magician."
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Son of photographer Sylvia Plachy, who is of Hungarian descent...",
+      "rationale": "While the information is present, it is embedded within a sentence about heritage and requires distinguishing between his mother (photographer) and father (retired history professor and painter). This detail is easy to overlook, making it a hard question."
+    },
+    {
+      "id": "mcq_010",
+      "question": "Which director is mentioned as a collaborator who appreciates Adrien Brody's versatility?",
+      "options": {
+        "A": "Martin Scorsese",
+        "B": "Wes Anderson",
+        "C": "Christopher Nolan",
+        "D": "Quentin Tarantino"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "His friends and collaborators, like director Wes Anderson, appreciate his versatility and ability to portray a wide range of characters...",
+      "rationale": "This is a specific detail buried in the personality section. The mention of Wes Anderson is not prominent and requires careful reading, making it a difficult recall question."
+    }
+  ]
+}

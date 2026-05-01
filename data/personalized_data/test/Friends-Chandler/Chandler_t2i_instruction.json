@@ -1,0 +1,18 @@
+{
+  "description": "Chandler Bing is defined by his sharp, sarcastic wit, often a defense mechanism from his parents' divorce. Initially struggling with commitment and a mundane data processing job, his journey is one of emotional growth. He's a loyal, caring friend, especially to his roommate Joey, and eventually finds happiness with his wife, Monica. His unique, emphatic way of speaking is one of his most memorable traits, often punctuated with the catchphrase, 'Could that BE any more...'",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Chandler sitting on a couch, holding a blue card, wearing a light blue shirt with a black vest draped, relaxed posture, 90s sitcom apartment background, warm lighting, casual and friendly atmosphere"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Chandler sitting at a table, wearing a black shirt, short dark hair styled neatly, indoors setting with horizontal blinds in the background, warm ambient lighting, close-up shot, casual and laid-back mood"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Chandler in a casual setting, wearing a dark blazer over a light blue shirt, background with black and white photos, neutral expression, indoor lighting, 90s sitcom style, warm tones, medium shot"
+    }
+  ]
+}

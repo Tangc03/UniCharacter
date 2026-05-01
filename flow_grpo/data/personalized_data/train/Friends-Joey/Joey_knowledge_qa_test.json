@@ -1,0 +1,146 @@
+{
+  "description": "Joey Tribbiani is a charming, loyal, and simple-minded aspiring actor from Queens. He is fiercely devoted to his friends and comes from a large Italian-American family. While not the sharpest, his good nature shines through. He is famous for his insatiable appetite, his refusal to share food, and his iconic pick-up line, 'How you doin'?'. Despite his struggles as an actor, his optimism and love for life are unshakable.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "Where is Joey Tribbiani from?",
+      "options": {
+        "A": "Brooklyn, New York",
+        "B": "Queens, New York",
+        "C": "The Bronx, New York",
+        "D": "Manhattan, New York"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "An Italian-American actor from Queens, New York, Joey comes from a large family with seven sisters.",
+      "rationale": "The profile explicitly states that Joey is from Queens, New York. The other boroughs listed are not mentioned in the text."
+    },
+    {
+      "id": "mcq_002",
+      "question": "How many sisters does Joey have?",
+      "options": {
+        "A": "Five",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Eight"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Joey comes from a large family with seven sisters.",
+      "rationale": "The text clearly states that Joey has seven sisters. No other number is referenced."
+    },
+    {
+      "id": "mcq_003",
+      "question": "Which of the following best describes Joey's personality trait according to the profile?",
+      "options": {
+        "A": "Cynical and sarcastic",
+        "B": "Ambitious and competitive",
+        "C": "Good-natured and caring",
+        "D": "Introverted and shy"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Despite his dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it, Joey possesses a good-natured and caring spirit.",
+      "rationale": "The profile directly describes Joey as having a 'good-natured and caring spirit.' The other options are not supported by any evidence."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is Joey's iconic pick-up line?",
+      "options": {
+        "A": "Hey, beautiful",
+        "B": "What's up?",
+        "C": "How you doin'?",
+        "D": "You're hot"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase, emblematic of his womanizing yet charming persona.",
+      "rationale": "The profile explicitly names \"How you doin'?\" as his go-to pick-up line. The other phrases are not mentioned."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which role does Joey land on a soap opera?",
+      "options": {
+        "A": "Dr. Ross Geller",
+        "B": "Dr. Mark Stevens",
+        "C": "Dr. Drake Ramoray",
+        "D": "Dr. Steve Thomas"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "He lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*.",
+      "rationale": "The profile clearly states that Joey plays Dr. Drake Ramoray on *Days of Our Lives*. The other names are not mentioned."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What is one of Joey's most notable habits involving food?",
+      "options": {
+        "A": "He cooks for his friends every night",
+        "B": "He refuses to share his food",
+        "C": "He avoids eating meat",
+        "D": "He only eats at expensive restaurants"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He is famously known for his love of food, particularly sandwiches and pizza, and his staunch refusal to share it.",
+      "rationale": "The text explicitly states Joey's refusal to share food. None of the other habits are mentioned in the profile."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which of the following best reflects Joey's career challenges?",
+      "options": {
+        "A": "He is retired from acting",
+        "B": "He is a famous movie star",
+        "C": "He often struggles financially as an actor",
+        "D": "He works full-time in a restaurant"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Though often struggling financially as an actor, he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*.",
+      "rationale": "The profile directly states that Joey 'often struggles financially as an actor.' None of the other options are supported by the text."
+    },
+    {
+      "id": "mcq_008",
+      "question": "To whom is Joey fiercely loyal according to the profile?",
+      "options": {
+        "A": "His co-stars on *Days of Our Lives*",
+        "B": "His family",
+        "C": "His friends—Chandler, Ross, Monica, Rachel, and Phoebe",
+        "D": "His agent"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "He is fiercely loyal to his friends—Chandler, Ross, Monica, Rachel, and Phoebe—often acting as their protector and confidant.",
+      "rationale": "The profile explicitly lists Joey's loyalty toward his five friends by name. While he has a large family, loyalty to them is not stated."
+    },
+    {
+      "id": "mcq_009",
+      "question": "Which aspect of Joey's portrayal evolved due to the actor's performance choices?",
+      "options": {
+        "A": "His Italian heritage",
+        "B": "His financial struggles",
+        "C": "His dim-witted nature",
+        "D": "His role on the soap opera"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Despite his dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it, Joey possesses a good-natured and caring spirit.",
+      "rationale": "The profile notes that the 'dim-witted nature' became more prominent because Matt LeBlanc leaned into it, indicating a performance-driven evolution. This detail requires understanding the nuance of the actor's influence on the character, making it hard."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What does the profile suggest about Joey's emotional depth beneath his outward persona?",
+      "options": {
+        "A": "He is emotionally detached",
+        "B": "He hides a sweet and compassionate nature",
+        "C": "He resents his friends' success",
+        "D": "He is primarily motivated by fame"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man who deeply values his friendships.",
+      "rationale": "The profile explicitly states that beneath Joey's macho exterior is a 'sweet and compassionate man.' This requires interpreting the contrast between surface and inner traits, which adds difficulty."
+    }
+  ]
+}

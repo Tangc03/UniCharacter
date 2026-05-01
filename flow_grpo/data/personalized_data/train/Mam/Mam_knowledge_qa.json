@@ -1,0 +1,1288 @@
+{
+  "description": "Mam is a regal British Shorthair who views the world from her throne of comfort. Her primary motivations are snacks and naps. With large, expressive eyes, she observes her human's activities, judging their efficiency in treat delivery. She communicates in a direct, commanding tone, often referring to herself in the third person (\"Mam requires snacks\"). Despite her royal demeanor, she has a goofy, playful side, especially when a fluffy belly rub is a possibility.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Mam's apparent breed?",
+      "answer": "British Shorthair, Silver Tabby",
+      "evidence": "* **Breed (Apparent):** British Shorthair, Silver Tabby",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists Mam's apparent breed under 'Personal Details'.",
+        "The exact phrase 'British Shorthair, Silver Tabby' is provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What color are Mam's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "* **Physical Characteristics:** ...and large, expressive golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical characteristics section specifies the eye color directly.",
+        "No inference is needed; the detail is stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What physical feature of Mam is described as 'long and prominent'?",
+      "answer": "Her whiskers",
+      "evidence": "* **Physical Characteristics:** Her whiskers are long and prominent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly states which feature is long and prominent.",
+        "Answer is a verbatim extraction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "How does Mam typically react to the sound of a treat bag rustling?",
+      "answer": "She is summoned from the deepest sleep.",
+      "evidence": "* **Food Motivated:** The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Food Motivated' trait describes her reaction to treat bag sounds.",
+        "The phrase 'summon her from the deepest sleep' captures her response."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What kind of body does Mam have?",
+      "answer": "Stocky, cobby body",
+      "evidence": "* **Physical Characteristics:** A plush, dense silver coat with classic tabby markings. Mam has a stocky, cobby body...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical characteristics section describes her body type.",
+        "Answer is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What two behaviors illustrate Mam's 'regal but goofy' personality?",
+      "answer": "Observing from a high perch and rolling on her back",
+      "evidence": "* **Regal but Goofy:** Mam carries herself with an air of quiet dignity, often observing her surroundings from a high perch... However, this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "One behavior reflects her regal side: observing from a high perch.",
+        "Another reflects her goofy side: rolling on her back.",
+        "Both are explicitly mentioned as examples."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What does Mam do when she wants snacks?",
+      "answer": "Uses her charm or gives a pointed stare",
+      "evidence": "* **Food Motivated:** She is not above using her considerable charm—or a pointed stare—to demand snacks.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states how she demands snacks.",
+        "Two methods are listed: charm and a pointed stare."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What are some things Mam appreciates as 'the finer things in life'?",
+      "answer": "Sunbeams, soft blankets, warm laps, and undisturbed naps",
+      "evidence": "* **Creature of Comfort:** Mam has a deep appreciation for the finer things in life: sunbeams, soft blankets, warm laps, and undisturbed naps.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The list is directly provided in the 'Creature of Comfort' trait.",
+        "All items are explicitly named."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "How does Mam refer to herself when communicating?",
+      "answer": "In the third person",
+      "evidence": "* **Linguistic Habits:** Mam \"speaks\" in a simple, direct, and slightly demanding manner. She often refers to herself in the third person (\"Mam requires snacks\")...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section specifies her use of third-person self-reference.",
+        "Example given: 'Mam requires snacks'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "Is Mam curious about new objects?",
+      "answer": "Yes",
+      "evidence": "* **Curious Observer:** With wide, watchful eyes, Mam misses nothing. She is intrigued by new objects, strange sounds, and the daily activities of her humans...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Curious Observer' trait explicitly states she is intrigued by new objects.",
+        "This confirms her curiosity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What tone does Mam use when communicating her desires?",
+      "answer": "Less of a request and more of a statement of fact",
+      "evidence": "* **Linguistic Habits:** ...Her tone is less of a request and more of a statement of fact.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly describes her communication tone.",
+        "No interpretation needed; it's a direct quote."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "Where is Mam often found in relation to comfort?",
+      "answer": "In the most comfortable spot in any given room",
+      "evidence": "* **Creature of Comfort:** ...She can often be found in the most comfortable spot in any given room.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Creature of Comfort' section states where she is usually located.",
+        "Answer is a direct extraction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What facial feature of Mam is described as 'full'?",
+      "answer": "Her cheeks",
+      "evidence": "* **Physical Characteristics:** ...a round face with full cheeks...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile mentions 'full cheeks' as part of her face description.",
+        "This is a direct factual statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What kind of markings does Mam's coat have?",
+      "answer": "Classic tabby markings",
+      "evidence": "* **Physical Characteristics:** A plush, dense silver coat with classic tabby markings.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Coat markings are explicitly described.",
+        "Answer is verbatim from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What behavior shows that Mam is a curious observer?",
+      "answer": "She tilts her head in silent contemplation",
+      "evidence": "* **Curious Observer:** ...often tilting her head in silent contemplation.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links head-tilting to her curiosity.",
+        "This behavior illustrates her observational nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What does Mam do when she observes her surroundings like a queen?",
+      "answer": "She carries herself with quiet dignity from a high perch",
+      "evidence": "* **Regal but Goofy:** Mam carries herself with an air of quiet dignity, often observing her surroundings from a high perch like a queen surveying her kingdom.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The regal behavior is described as observing from a high perch with dignity.",
+        "The metaphor 'queen surveying her kingdom' supports this."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What sound can summon Mam besides a treat bag rustling?",
+      "answer": "The sound of a can opening",
+      "evidence": "* **Food Motivated:** The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Two sounds are listed; one is treat bag rustling, the other is can opening.",
+        "Answer is directly extracted."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is Mam's coat texture described as?",
+      "answer": "Plush and dense",
+      "evidence": "* **Physical Characteristics:** A plush, dense silver coat with classic tabby markings.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile uses 'plush, dense' to describe her coat.",
+        "These adjectives are explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "Does Mam make silly faces?",
+      "answer": "Yes",
+      "evidence": "* **Regal but Goofy:** ...this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists 'making silly faces' as a goofy behavior.",
+        "This confirms she does."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What motivates Mam's actions most?",
+      "answer": "Food",
+      "evidence": "* **Food Motivated:** Her world revolves around the next meal.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trait 'Food Motivated' states her world revolves around food.",
+        "This implies food is her primary motivator."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "How does Mam communicate her desires?",
+      "answer": "In a simple, direct, and slightly demanding manner",
+      "evidence": "* **Linguistic Habits:** Mam \"speaks\" in a simple, direct, and slightly demanding manner.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her communication style is directly described in the linguistic habits section.",
+        "Answer is a verbatim phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What does Mam do when she is intrigued by human activities?",
+      "answer": "She observes with wide, watchful eyes and often tilts her head",
+      "evidence": "* **Curious Observer:** With wide, watchful eyes, Mam misses nothing. She is intrigued by... the daily activities of her humans, often tilting her head in silent contemplation.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she uses her eyes to observe and tilts her head when intrigued.",
+        "Combines two related behaviors from the same section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "Is Mam's demeanor always regal?",
+      "answer": "No, it is frequently broken by goofiness",
+      "evidence": "* **Regal but Goofy:** ...this regal demeanor is frequently broken by moments of pure goofiness...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states her regal demeanor is broken by goofiness.",
+        "Therefore, it is not always regal."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What example does the profile give of Mam referring to herself in the third person?",
+      "answer": "Mam requires snacks",
+      "evidence": "* **Linguistic Habits:** ...She often refers to herself in the third person (\"Mam requires snacks\")...",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile includes the quote in parentheses.",
+        "It is a direct example provided in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What kind of cat is Mam described as being, in terms of personality contrast?",
+      "answer": "Regal but goofy",
+      "evidence": "* **Regal but Goofy:** Mam carries herself with an air of quiet dignity... However, this regal demeanor is frequently broken by moments of pure goofiness...",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile introduces her personality with the label 'Regal but Goofy'.",
+        "This is a defined trait category in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Mam's apparent breed?",
+      "answer": "British Shorthair, Silver Tabby",
+      "evidence": "* **Breed (Apparent):** British Shorthair, Silver Tabby",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Mam's apparent breed under 'Personal Details'.",
+        "The answer is directly copied from that line."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What color are Mam's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical description of Mam includes eye color.",
+        "The phrase 'golden-yellow eyes' directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "How does Mam typically refer to herself when 'speaking'?",
+      "answer": "In the third person",
+      "evidence": "She often refers to herself in the third person (\"Mam requires snacks\")",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section specifies how Mam refers to herself.",
+        "The example shows third-person usage."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What triggers Mam to wake up from sleep according to the profile?",
+      "answer": "The sound of a can opening or a treat bag rustling",
+      "evidence": "The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Food Motivated' trait describes what awakens Mam.",
+        "The exact sounds are stated in the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What are two physical features of Mam's face?",
+      "answer": "Round face with full cheeks and large, expressive golden-yellow eyes",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence lists multiple facial features.",
+        "Two distinct features are extracted: face shape/cheeks and eyes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Does Mam prefer quiet or active environments for resting?",
+      "answer": "Quiet environments",
+      "evidence": "She can often be found in the most comfortable spot in any given room.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Mam is described as a 'Creature of Comfort' who values undisturbed naps.",
+        "Undisturbed implies a quiet, calm environment is preferred.",
+        "This inference is supported by her behavior of seeking comfort."
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "qa_032",
+      "question": "What two behaviors demonstrate Mam's goofiness?",
+      "answer": "Rolling on her back and making silly faces",
+      "evidence": "However, this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The example behaviors are explicitly listed after 'such as'.",
+        "These two actions directly illustrate her goofiness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "How does Mam communicate her desires?",
+      "answer": "With unwavering certainty and in a simple, direct, slightly demanding manner",
+      "evidence": "Mam \"speaks\" in a simple, direct, and slightly demanding manner... communicates her desires with unwavering certainty.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section defines her communication style.",
+        "Two sentences describe how she expresses desires."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What kind of coat does Mam have?",
+      "answer": "Plush, dense silver coat with classic tabby markings",
+      "evidence": "A plush, dense silver coat with classic tabby markings.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first sentence under 'Physical Characteristics' describes her coat.",
+        "All details are explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "Is Mam described as slender or stocky in build?",
+      "answer": "Stocky",
+      "evidence": "Mam has a stocky, cobby body",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical description includes 'stocky, cobby body'.",
+        "This clearly indicates her build."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What are three things Mam appreciates as comforts?",
+      "answer": "Sunbeams, soft blankets, warm laps",
+      "evidence": "She is intrigued by new objects, strange sounds, and the daily activities of her humans, often tilting her head in silent contemplation.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Creature of Comfort' trait lists: sunbeams, soft blankets, warm laps, and undisturbed naps.",
+        "Any three are valid; these three are selected."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "How does Mam react to new objects or sounds?",
+      "answer": "She observes them with wide, watchful eyes and often tilts her head in silent contemplation",
+      "evidence": "With wide, watchful eyes, Mam misses nothing. She is intrigued by new objects, strange sounds... often tilting her head in silent contemplation.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Curious Observer' trait describes her reaction to novelty.",
+        "She uses observation and head-tilting to process new stimuli."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What tone does Mam use when communicating?",
+      "answer": "Less of a request and more of a statement of fact",
+      "evidence": "Her tone is less of a request and more of a statement of fact.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The final sentence of 'Linguistic Habits' defines her tone.",
+        "It contrasts a request with a factual statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What does Mam do when she wants snacks?",
+      "answer": "Uses her charm or a pointed stare to demand them",
+      "evidence": "She is not above using her considerable charm—or a pointed stare—to demand snacks.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Food Motivated' section describes her tactics for getting food.",
+        "Two methods are listed: charm and staring."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Is Mam's demeanor consistently regal?",
+      "answer": "No, it is frequently broken by goofiness",
+      "evidence": "Mam carries herself with an air of quiet dignity... However, this regal demeanor is frequently broken by moments of pure goofiness",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Regal but Goofy' trait contrasts her usual demeanor with occasional behavior.",
+        "The word 'frequently broken' indicates inconsistency."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What body type is associated with cobby build in cats?",
+      "answer": "Stocky",
+      "evidence": "Mam has a stocky, cobby body",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The phrase 'stocky, cobby body' links the two terms.",
+        "In context, 'cobby' is defined by being stocky."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_042",
+      "question": "What does Mam miss nothing of?",
+      "answer": "Her surroundings and the daily activities of her humans",
+      "evidence": "With wide, watchful eyes, Mam misses nothing. She is intrigued by new objects, strange sounds, and the daily activities of her humans",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The first sentence says she misses nothing.",
+        "The next sentence specifies what she observes: surroundings and human activities."
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "qa_043",
+      "question": "Can Mam be described as indifferent to her environment?",
+      "answer": "No, she is a curious observer who misses nothing",
+      "evidence": "With wide, watchful eyes, Mam misses nothing. She is intrigued by new objects, strange sounds, and the daily activities of her humans",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Indifference would mean lack of interest.",
+        "The text says she is 'intrigued' and 'misses nothing', indicating high engagement.",
+        "Therefore, she is not indifferent."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What is an example of Mam using third-person speech?",
+      "answer": "\"Mam requires snacks\"",
+      "evidence": "She often refers to herself in the third person (\"Mam requires snacks\")",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The example is given in parentheses in the 'Linguistic Habits' section.",
+        "It is a direct quote used to illustrate her speech pattern."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "Where does Mam often position herself to observe?",
+      "answer": "On a high perch",
+      "evidence": "often observing her surroundings from a high perch like a queen surveying her kingdom",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Regal but Goofy' trait specifies her preferred observation spot.",
+        "It is described as a 'high perch'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What metaphor is used to describe Mam's observational behavior?",
+      "answer": "A queen surveying her kingdom",
+      "evidence": "often observing her surroundings from a high perch like a queen surveying her kingdom",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence uses a simile introduced by 'like'.",
+        "The full metaphor is 'a queen surveying her kingdom'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What is Mam's primary motivation according to the profile?",
+      "answer": "Food",
+      "evidence": "Her world revolves around the next meal.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Food Motivated' section opens with this statement.",
+        "It indicates food is central to her worldview."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "Does Mam exhibit playful behavior?",
+      "answer": "Yes, through rolling on her back and making silly faces",
+      "evidence": "this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Playfulness is inferred from 'goofiness' and the examples given.",
+        "Rolling and making faces are playful actions.",
+        "Thus, she exhibits playfulness."
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "qa_049",
+      "question": "What feature of Mam is described as 'prominent'?",
+      "answer": "Her whiskers",
+      "evidence": "Her whiskers are long and prominent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly describes her whiskers as 'long and prominent'.",
+        "The word 'prominent' is used explicitly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "How does Mam's personality combine dignity and humor?",
+      "answer": "She has a regal demeanor but shows goofiness through rolling and silly faces",
+      "evidence": "Mam carries herself with an air of quiet dignity... However, this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The 'Regal but Goofy' trait introduces this duality.",
+        "Dignity is shown through her bearing and high perch.",
+        "Humor is shown through goofy actions listed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What breed does Mam appear to be?",
+      "answer": "British Shorthair, Silver Tabby",
+      "evidence": "* **Breed (Apparent):** British Shorthair, Silver Tabby",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Mam's apparent breed under 'Personal Details'.",
+        "The exact breed is given as 'British Shorthair, Silver Tabby'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What color are Mam's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical description includes eye color.",
+        "The text states her eyes are 'golden-yellow'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What kind of coat does Mam have?",
+      "answer": "Plush, dense silver coat with classic tabby markings",
+      "evidence": "A plush, dense silver coat with classic tabby markings.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile describes her coat directly.",
+        "The description includes texture, color, and pattern."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "How does Mam typically carry herself?",
+      "answer": "With an air of quiet dignity",
+      "evidence": "Mam carries herself with an air of quiet dignity, often observing her surroundings from a high perch like a queen surveying her kingdom.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her demeanor is described in the 'Regal but Goofy' trait.",
+        "The phrase 'air of quiet dignity' captures her typical bearing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What causes Mam to become alert from sleep?",
+      "answer": "The sound of a can opening or a treat bag rustling",
+      "evidence": "The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trigger for her alertness is explicitly stated in 'Food Motivated'.",
+        "These sounds are linked directly to food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What does Mam refer to herself as in speech?",
+      "answer": "She refers to herself in the third person",
+      "evidence": "She often refers to herself in the third person (\"Mam requires snacks\")",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her linguistic habit includes third-person self-reference.",
+        "The example given confirms this pattern."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What body type does Mam have?",
+      "answer": "Stocky, cobby body",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Physical characteristics include body type.",
+        "The terms 'stocky' and 'cobby' are used to describe her build."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "Where does Mam often observe her surroundings from?",
+      "answer": "A high perch",
+      "evidence": "often observing her surroundings from a high perch like a queen surveying her kingdom.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The observation behavior is tied to a specific location.",
+        "The text specifies she uses a 'high perch'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What facial feature makes Mam's face appear round?",
+      "answer": "Full cheeks",
+      "evidence": "a round face with full cheeks",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The physical description links facial roundness to cheek fullness.",
+        "No other facial features are mentioned as contributing to roundness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What motivates Mam's behavior most?",
+      "answer": "Food",
+      "evidence": "Her world revolves around the next meal.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Food Motivated' section states her primary drive.",
+        "Her actions center on obtaining food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What does Mam do when she wants snacks?",
+      "answer": "Uses her charm or gives a pointed stare",
+      "evidence": "She is not above using her considerable charm—or a pointed stare—to demand snacks.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her methods for requesting food.",
+        "Two specific behaviors are listed: charm and staring."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What kind of life comforts does Mam appreciate?",
+      "answer": "Sunbeams, soft blankets, warm laps, and undisturbed naps",
+      "evidence": "Mam has a deep appreciation for the finer things in life: sunbeams, soft blankets, warm laps, and undisturbed naps.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Creature of Comfort' section lists her preferred comforts.",
+        "All four items are explicitly named."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "Is Mam curious about her environment?",
+      "answer": "Yes",
+      "evidence": "With wide, watchful eyes, Mam misses nothing. She is intrigued by new objects, strange sounds, and the daily activities of her humans...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Curious Observer' trait confirms her curiosity.",
+        "She pays attention to changes and human activity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "How does Mam react to new objects?",
+      "answer": "She is intrigued by them",
+      "evidence": "She is intrigued by new objects, strange sounds, and the daily activities of her humans...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists 'new objects' as something that captures her interest.",
+        "Intrigue is explicitly stated as her reaction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What tone does Mam use when communicating?",
+      "answer": "Less of a request and more of a statement of fact",
+      "evidence": "Her tone is less of a request and more of a statement of fact.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section describes her communication style.",
+        "The tone is characterized as declarative, not questioning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Does Mam ever display goofy behavior?",
+      "answer": "Yes",
+      "evidence": "However, this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Regal but Goofy' trait confirms she has goofy moments.",
+        "Examples are provided to illustrate this behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What are two examples of Mam's goofy behavior?",
+      "answer": "Rolling on her back and making silly faces",
+      "evidence": "such as rolling on her back or making silly faces.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text provides two specific examples in the 'Regal but Goofy' section.",
+        "These are the only behaviors listed as goofy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "How does Mam communicate her desires?",
+      "answer": "With unwavering certainty",
+      "evidence": "communicates her desires with unwavering certainty.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section states how she expresses wants.",
+        "Her communication is marked by confidence and directness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What does Mam do when intrigued by something?",
+      "answer": "Tilts her head in silent contemplation",
+      "evidence": "often tilting her head in silent contemplation.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Curious Observer' trait includes this physical behavior.",
+        "It is linked to her observation of daily activities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "Where is Mam often found in any room?",
+      "answer": "In the most comfortable spot",
+      "evidence": "She can often be found in the most comfortable spot in any given room.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Creature of Comfort' section states her preferred location.",
+        "She seeks out comfort above all else in room placement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What kind of sounds capture Mam's attention?",
+      "answer": "Strange sounds",
+      "evidence": "She is intrigued by new objects, strange sounds, and the daily activities of her humans...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists 'strange sounds' as attention-grabbing stimuli.",
+        "This is part of her curious nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "How does Mam respond to treat bag rustling?",
+      "answer": "It can summon her from the deepest sleep",
+      "evidence": "The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Food Motivated' section explicitly states her reaction.",
+        "Rustling triggers immediate alertness due to food association."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What does Mam do when she observes humans?",
+      "answer": "Watches their daily activities with wide, watchful eyes",
+      "evidence": "She is intrigued by new objects, strange sounds, and the daily activities of her humans, often tilting her head in silent contemplation.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her observation of humans is part of her curiosity.",
+        "She pays attention and reacts with contemplative head tilting."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What kind of communication style does Mam have?",
+      "answer": "Simple, direct, and slightly demanding",
+      "evidence": "Mam \"speaks\" in a simple, direct, and slightly demanding manner.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section defines her speech pattern.",
+        "Three adjectives are used: simple, direct, demanding."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "Is Mam's regal demeanor consistent at all times?",
+      "answer": "No",
+      "evidence": "However, this regal demeanor is frequently broken by moments of pure goofiness...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states her regal nature is interrupted.",
+        "'Frequently broken' indicates inconsistency over time."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is the apparent breed of Mam?",
+      "answer": "British Shorthair, Silver Tabby",
+      "evidence": "* **Breed (Apparent):** British Shorthair, Silver Tabby",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Mam's apparent breed under the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What color are Mam's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical characteristics section specifies the eye color of Mam."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What type of coat does Mam have?",
+      "answer": "Plush, dense silver coat with classic tabby markings",
+      "evidence": "A plush, dense silver coat with classic tabby markings.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The description of Mam’s physical traits includes a direct statement about her coat."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "How does Mam typically carry herself despite her goofy moments?",
+      "answer": "With an air of quiet dignity",
+      "evidence": "Mam carries herself with an air of quiet dignity, often observing her surroundings from a high perch like a queen surveying her kingdom.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The personality section notes her regal demeanor.",
+        "This contrasts with her goofy behaviors but does not negate her usual dignified posture."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What kind of behavior breaks Mam's regal demeanor?",
+      "answer": "Rolling on her back or making silly faces",
+      "evidence": "However, this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text gives specific examples of goofy behaviors that contrast her usual dignity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What motivates Mam the most?",
+      "answer": "Food",
+      "evidence": "Food Motivated: Her world revolves around the next meal.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality & Traits' section explicitly labels her as 'Food Motivated'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What sounds can summon Mam from sleep?",
+      "answer": "The sound of a can opening or a treat bag rustling",
+      "evidence": "The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Directly stated in the 'Food Motivated' trait description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What does Mam appreciate most in life?",
+      "answer": "Sunbeams, soft blankets, warm laps, and undisturbed naps",
+      "evidence": "Mam has a deep appreciation for the finer things in life: sunbeams, soft blankets, warm laps, and undisturbed naps.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Creature of Comfort' trait lists these specific comforts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "Where is Mam often found in any room?",
+      "answer": "In the most comfortable spot",
+      "evidence": "She can often be found in the most comfortable spot in any given room.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct inference from her being a 'Creature of Comfort'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "How does Mam observe her environment?",
+      "answer": "With wide, watchful eyes, often tilting her head in silent contemplation",
+      "evidence": "With wide, watchful eyes, Mam misses nothing... often tilting her head in silent contemplation.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Curious Observer' trait describes both her attentive gaze and head-tilting behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What does Mam do when intrigued by new stimuli?",
+      "answer": "Tilts her head in silent contemplation",
+      "evidence": "She is intrigued by new objects, strange sounds, and the daily activities of her humans, often tilting her head in silent contemplation.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT links her head-tilt behavior directly to curiosity about new stimuli."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "How does Mam refer to herself when communicating?",
+      "answer": "In the third person",
+      "evidence": "She often refers to herself in the third person (\"Mam requires snacks\")",
+      "type": "linguistic habit",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Explicitly stated in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What is an example of how Mam demands food?",
+      "answer": "By saying 'Mam requires snacks'",
+      "evidence": "She often refers to herself in the third person (\"Mam requires snacks\") and communicates her desires with unwavering certainty.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The example is directly quoted in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "How does Mam communicate her desires?",
+      "answer": "With unwavering certainty, as statements of fact rather than requests",
+      "evidence": "She communicates her desires with unwavering certainty. Her tone is less of a request and more of a statement of fact.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section describes both the certainty and declarative nature of her communication."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "Does Mam use charm to get snacks?",
+      "answer": "Yes",
+      "evidence": "She is not above using her considerable charm—or a pointed stare—to demand snacks.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Food Motivated' trait explicitly states she uses charm for snacks."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What body part of Mam is described as long and prominent?",
+      "answer": "Whiskers",
+      "evidence": "Her whiskers are long and prominent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Directly stated in the physical characteristics section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What kind of body structure does Mam have?",
+      "answer": "Stocky, cobby body",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The physical characteristics section includes this description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "How does Mam behave when food is involved?",
+      "answer": "She is highly motivated and will respond immediately to food-related sounds or opportunities",
+      "evidence": "Her world revolves around the next meal. The sound of a can opening or a treat bag rustling can summon her from the deepest sleep.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Food Motivated' trait describes her behavior as centered on food.",
+        "It also notes her immediate response to food cues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "Is Mam indifferent to her surroundings?",
+      "answer": "No",
+      "evidence": "With wide, watchful eyes, Mam misses nothing. She is intrigued by new objects, strange sounds, and the daily activities of her humans...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Curious Observer' trait explicitly states she notices everything."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What facial feature contributes to Mam's round face?",
+      "answer": "Full cheeks",
+      "evidence": "Mam has a stocky, cobby body, a round face with full cheeks, and large, expressive golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The physical description attributes her round face to full cheeks."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "How would you describe Mam's communication style in terms of tone?",
+      "answer": "Declarative, not requesting",
+      "evidence": "Her tone is less of a request and more of a statement of fact.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section contrasts her tone with a typical request."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What does Mam do when she wants a snack?",
+      "answer": "Uses charm or a pointed stare to demand it",
+      "evidence": "She is not above using her considerable charm—or a pointed stare—to demand snacks.",
+      "type": "behavior",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Directly stated in the 'Food Motivated' trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What two methods does Mam use to get attention for food?",
+      "answer": "Her considerable charm and a pointed stare",
+      "evidence": "She is not above using her considerable charm—or a pointed stare—to demand snacks.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence lists two specific tactics used for food acquisition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Does Mam exhibit only serious behavior?",
+      "answer": "No",
+      "evidence": "However, this regal demeanor is frequently broken by moments of pure goofiness, such as rolling on her back or making silly faces.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Regal but Goofy' trait explicitly states her behavior includes non-serious moments."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What is Mam's full apparent breed designation?",
+      "answer": "British Shorthair, Silver Tabby",
+      "evidence": "* **Breed (Apparent):** British Shorthair, Silver Tabby",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The breed is clearly and fully stated in the personal details section."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

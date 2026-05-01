@@ -1,0 +1,34 @@
+decord==0.6.0
+einops==0.8.1
+# huggingface_hub==0.29.1
+huggingface_hub==0.35.3
+matplotlib==3.7.0
+numpy==1.26.4
+opencv_python==4.7.0.72
+pyarrow==11.0.0
+PyYAML==6.0.2
+Requests==2.32.3
+safetensors==0.4.5
+scipy==1.10.1
+sentencepiece==0.1.99
+torch==2.6.0
+torchvision==0.21.0
+# transformers==4.49.0
+transformers==4.56.1
+accelerate>=0.34.0
+wandb
+gradio
+setuptools
+wheel
+ninja
+bitsandbytes
+xlsxwriter
+triton ; sys_platform != 'win32'
+triton-windows ; sys_platform == 'win32'
+clip
+scikit-image
+timm
+openai
+peft
+diffusers
+flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl

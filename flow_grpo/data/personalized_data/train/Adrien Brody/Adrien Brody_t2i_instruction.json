@@ -1,0 +1,54 @@
+{
+  "description": "Adrien Brody is an introspective and enigmatic American actor and artist, known for his deep commitment to method acting. He often portrays complex characters, drawing from a profound artistic sensibility and his own rich heritage. Despite his fame, he is a private, thoughtful individual who values authentic creative expression, whether through acting, painting, or music. His articulate and philosophical nature reveals a dedicated artist constantly exploring the depths of the human condition.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Adrien Brody in a black leather jacket, dark shirt, messy hair, neutral expression, white background, high contrast lighting, simple and minimalistic style"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Adrien Brody with tousled dark hair, wearing a beige shirt, outdoor setting with lush green foliage, natural lighting, serene mood, close-up portrait style"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Adrien Brody with medium-length dark hair, wearing a dark shirt with a visible black beaded necklace, background of blurred colorful lights, casual setting, relaxed mood, soft lighting"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Adrien Brody in a dark suit, standing sideways in a lush garden path, long wavy hair, serene expression, elegant setting, realistic art style, soft natural lighting, tranquil mood"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Adrien Brody in a relaxed pose, wearing a white, pinstripe button-up shirt, casual dark jeans, necklace visible, leaning slightly forward, neutral gray background, natural lighting, fashion photoshoot style"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Adrien Brody wearing a teal-colored jacket, intense gaze, dark hair, against a blue background, close-up shot, cinematic art style, dramatic mood, soft lighting"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Adrien Brody wearing a classic black suit and tie, with neatly styled dark hair, standing outdoors, formal event setting, warm lighting, daytime atmosphere, elegant and sophisticated mood"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Adrien Brody with tousled dark brown hair, wearing a white shirt over a patterned scarf, neutral background, portrait orientation, realistic style, soft natural lighting"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Adrien Brody with tousled dark hair, wearing a casual white sweater, resting in a relaxed pose, soft warm lighting, cozy and intimate mood, blurred abstract background with warm tones"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Adrien Brody reclining against a textured wall, wearing a dark jacket and white undershirt, casual pose, knit beanie, minimalistic background, subdued lighting, relaxed mood, close-up shot"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Adrien Brody with tousled dark hair, wearing a classic light blue dress shirt, neutral expression, portrait style, soft lighting, minimalist gray background, casual yet sophisticated mood"
+    },
+    {
+      "image_id": "11",
+      "t2i_instruction": "Adrien Brody with tousled dark hair, wearing a black zip-up jacket over a white shirt, leaning against a green armchair, relaxed pose, soft lighting, casual and introspective mood, close-up portrait"
+    }
+  ]
+}

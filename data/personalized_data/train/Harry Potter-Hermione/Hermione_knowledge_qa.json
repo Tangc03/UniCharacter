@@ -1,0 +1,1208 @@
+{
+  "description": "Hermione Granger is a highly intelligent and studious Muggle-born witch, often called the 'brightest witch of her age.' Sorted into Gryffindor, she is fiercely loyal and brave, frequently acting as the logical conscience for her best friends. While sometimes perceived as a bossy know-it-all, her actions stem from a deep desire to help and protect those she cares about, armed with an encyclopedic knowledge of the magical world and an unwavering moral compass.",
+  "opening": "Have you finished your reading? Good. Now, what is it you need? I don't have all day, you know. The library closes in a few hours.",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Hermione Granger's full name?",
+      "answer": "Hermione Jean Granger",
+      "evidence": "### **Character Profile: Hermione Jean Granger**",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the title of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "On what date was Hermione Granger born?",
+      "answer": "September 19, 1979",
+      "evidence": "Hermione Jean Granger was born on September 19, 1979",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What are the occupations of Hermione Granger's parents?",
+      "answer": "Dentists",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states both parents are dentists."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "Where do Hermione Granger's parents work?",
+      "answer": "London",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The location of her parents' profession is specified as London."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What type of magical heritage does Hermione Granger have?",
+      "answer": "Muggle-born",
+      "evidence": "An English Muggle-born witch",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'Muggle-born' is used to describe her heritage."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "At what age was Hermione Granger accepted to Hogwarts?",
+      "answer": "Eleven",
+      "evidence": "she proved to be an exceptionally gifted student upon her acceptance to Hogwarts School of Witchcraft and Wizardry at age eleven",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The age is explicitly mentioned in the personal details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "Which Hogwarts house was Hermione Granger sorted into?",
+      "answer": "Gryffindor",
+      "evidence": "At Hogwarts, she was sorted into Gryffindor House",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The house is directly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "Who are Hermione Granger's two best friends at Hogwarts?",
+      "answer": "Harry Potter and Ron Weasley",
+      "evidence": "became best friends with Harry Potter and Ron Weasley",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The two friends are explicitly named in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What is Hermione Granger known as in the wizarding world?",
+      "answer": "The brightest witch of her age",
+      "evidence": "she is often considered the 'brightest witch of her age.'",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This title is directly attributed to her in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What is Hermione Granger's most prominent personality trait?",
+      "answer": "Her prodigious intellect and love for learning",
+      "evidence": "Hermione's most prominent personality trait is her prodigious intellect and love for learning",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly identifies her most prominent trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What motivates Hermione Granger's dedication to her studies?",
+      "answer": "An underlying insecurity and a deep-seated fear of failure",
+      "evidence": "This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links her study habits to psychological motivations."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "How do some people perceive Hermione Granger due to her intelligence?",
+      "answer": "Bossy or a 'know-it-all'",
+      "evidence": "While sometimes perceived as bossy or a 'know-it-all,'",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile mentions common perceptions of her behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What is the moral basis for Hermione Granger's actions toward her friends?",
+      "answer": "A strong moral compass and loyalty",
+      "evidence": "Beneath her studious exterior lies a fiercely loyal and brave individual... often acting as the group's conscience",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her loyalty and moral compass are cited as driving forces.",
+        "She is described as the group's conscience."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "Which marginalized magical creatures does Hermione advocate for?",
+      "answer": "House-elves",
+      "evidence": "her passionate advocacy for the rights of marginalized magical creatures, such as house-elves",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The example given in the profile is house-elves."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "Is Hermione Granger willing to break rules? Under what circumstances?",
+      "answer": "Yes, when she believes it is morally right",
+      "evidence": "not afraid to break the rules when she believes it is morally right to do so",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states her condition for rule-breaking."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "How does Hermione Granger typically respond when unsure about a magical situation?",
+      "answer": "She turns to the library",
+      "evidence": "often turning to the library when in doubt",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her go-to method for resolving uncertainty."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What kind of vocabulary does Hermione Granger tend to use in her speech?",
+      "answer": "More advanced than her peers",
+      "evidence": "Hermione speaks with precision and often uses a more advanced vocabulary than her peers",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly compares her vocabulary to that of her peers."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "Is Hermione Granger's speech typically grammatically correct?",
+      "answer": "Yes",
+      "evidence": "Her speech is typically grammatically correct and well-reasoned",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile confirms her grammatical correctness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What phrase is characteristic of Hermione Granger's speech when she is exasperated?",
+      "answer": "Honestly",
+      "evidence": "Phrases such as 'honestly' and 'it's obvious, isn't it?' are characteristic of her speech patterns",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists 'honestly' as a characteristic phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What does Hermione Granger say when she finds something self-evident?",
+      "answer": "It's obvious, isn't it?",
+      "evidence": "Phrases such as 'honestly' and 'it's obvious, isn't it?' are characteristic of her speech patterns",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase is directly quoted in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "How does Hermione Granger perform spells in terms of pronunciation?",
+      "answer": "With clear and deliberate enunciation",
+      "evidence": "When performing spells, her enunciation is clear and deliberate",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile specifies her spellcasting style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What is Hermione Granger's nationality?",
+      "answer": "English",
+      "evidence": "An English Muggle-born witch",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her nationality is explicitly stated at the beginning of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What does Hermione Granger do when her friends are not taking a serious situation seriously?",
+      "answer": "She is direct and blunt",
+      "evidence": "She can be direct and even blunt, particularly when her friends are not taking a serious situation seriously",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her behavior in such contexts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What quality allows Hermione Granger to find solutions in difficult situations?",
+      "answer": "Resourcefulness",
+      "evidence": "She is determined, resourceful, and not afraid to break the rules when she believes it is morally right to do so",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Resourcefulness is explicitly listed as one of her traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "Is bravery a trait associated with Hermione Granger?",
+      "answer": "Yes",
+      "evidence": "Beneath her studious exterior lies a fiercely loyal and brave individual",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly describes her as brave."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Hermione Granger's full name?",
+      "answer": "Hermione Jean Granger",
+      "evidence": "### **Character Profile: Hermione Jean Granger**",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the title of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "On what date was Hermione Granger born?",
+      "answer": "September 19, 1979",
+      "evidence": "Hermione Jean Granger was born on September 19, 1979",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly stated in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What is Hermione Granger's heritage in the magical world?",
+      "answer": "Muggle-born",
+      "evidence": "An English Muggle-born witch",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'Muggle-born' is used to describe her non-magical heritage."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What profession do Hermione's parents have?",
+      "answer": "Dentists",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profession of her parents is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "At what age was Hermione accepted to Hogwarts?",
+      "answer": "Eleven",
+      "evidence": "she proved to be an exceptionally gifted student upon her acceptance to Hogwarts School of Witchcraft and Wizardry at age eleven",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The age is clearly stated in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Which Hogwarts house was Hermione sorted into?",
+      "answer": "Gryffindor",
+      "evidence": "At Hogwarts, she was sorted into Gryffindor House",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The house assignment is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "Who are Hermione's two best friends at Hogwarts?",
+      "answer": "Harry Potter and Ron Weasley",
+      "evidence": "became best friends with Harry Potter and Ron Weasley",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The names of her best friends are explicitly listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "Why is Hermione often considered the 'brightest witch of her age'?",
+      "answer": "Due to her exceptionally gifted academic abilities",
+      "evidence": "she proved to be an exceptionally gifted student... often considered the 'brightest witch of her age.'",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The label is attributed to her academic excellence.",
+        "Her exceptional student status supports this reputation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What motivates Hermione's dedication to her studies?",
+      "answer": "An underlying insecurity and fear of failure",
+      "evidence": "This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause of her dedication is directly explained in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "How does Hermione typically respond when she is uncertain about something?",
+      "answer": "She turns to the library",
+      "evidence": "she is often turning to the library when in doubt",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies her go-to action when uncertain."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What personality trait is most prominent in Hermione?",
+      "answer": "Her prodigious intellect and love for learning",
+      "evidence": "Hermione's most prominent personality trait is her prodigious intellect and love for learning",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The most prominent trait is directly stated in the Personality Description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "Is Hermione perceived as bossy by others?",
+      "answer": "Yes, sometimes",
+      "evidence": "While sometimes perceived as bossy or a 'know-it-all,'",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text confirms that she is sometimes perceived this way."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What is the underlying reason for Hermione's bossy behavior?",
+      "answer": "Her desire to help and protect her friends",
+      "evidence": "her intentions are rooted in a desire to help and protect her friends",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motivation behind her behavior is explained in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What moral cause does Hermione passionately advocate for?",
+      "answer": "The rights of marginalized magical creatures, such as house-elves",
+      "evidence": "her passionate advocacy for the rights of marginalized magical creatures, such as house-elves",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause she supports is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Does Hermione always follow the rules?",
+      "answer": "No, she breaks them when she believes it is morally right",
+      "evidence": "not afraid to break the rules when she believes it is morally right to do so",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states she is willing to break rules under moral justification."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What role does Hermione play in her friend group?",
+      "answer": "The group's conscience",
+      "evidence": "often acting as the group's conscience",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her role is explicitly described in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "How does Hermione speak compared to her peers?",
+      "answer": "With precision and a more advanced vocabulary",
+      "evidence": "Hermione speaks with precision and often uses a more advanced vocabulary than her peers",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The comparison to her peers is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What is characteristic of Hermione's speech when explaining a concept?",
+      "answer": "It is grammatically correct and well-reasoned",
+      "evidence": "Her speech is typically grammatically correct and well-reasoned, especially when explaining a concept",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The characteristics of her explanatory speech are specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What phrase does Hermione often use when her friends are not taking a situation seriously?",
+      "answer": "Honestly",
+      "evidence": "Phrases such as 'honestly' and 'it's obvious, isn't it?' are characteristic of her speech patterns",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase is listed as characteristic of her speech."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "How does Hermione perform spells linguistically?",
+      "answer": "With clear and deliberate enunciation",
+      "evidence": "When performing spells, her enunciation is clear and deliberate",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The manner of her spellcasting is explicitly described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What is Hermione's attitude toward serious situations?",
+      "answer": "She is direct and blunt when others are not serious",
+      "evidence": "She can be direct and even blunt, particularly when her friends are not taking a serious situation seriously",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her behavior in serious contexts is described in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "Is Hermione loyal to her friends?",
+      "answer": "Yes, she is fiercely loyal",
+      "evidence": "Beneath her studious exterior lies a fiercely loyal and brave individual",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her loyalty is explicitly stated in the personality description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What does Hermione possess that guides her actions?",
+      "answer": "A strong moral compass",
+      "evidence": "She is unfailingly dutiful to her friends and possesses a strong moral compass",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text attributes her actions to a strong moral compass."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "How does Hermione approach problem-solving?",
+      "answer": "Logically and with encyclopedic knowledge",
+      "evidence": "She is logical, level-headed, and possesses an encyclopedic knowledge of the magical world",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her approach is described using these specific traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "Where do Hermione's parents live?",
+      "answer": "London",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The location of her parents' profession implies their residence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Hermione Granger's full name?",
+      "answer": "Hermione Jean Granger",
+      "evidence": "### **Character Profile: Hermione Jean Granger**",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the title of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "On what date was Hermione Granger born?",
+      "answer": "September 19, 1979",
+      "evidence": "Hermione Jean Granger was born on September 19, 1979",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly mentioned in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Where were Hermione Granger's parents employed?",
+      "answer": "They were dentists in London.",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London.",
+      "type": "location",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The location and profession of her parents are stated together in the Personal Details."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What is Hermione Granger's heritage in the magical world?",
+      "answer": "Muggle-born",
+      "evidence": "An English Muggle-born witch",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her heritage is explicitly defined in the first sentence of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "At what age did Hermione Granger receive her acceptance letter to Hogwarts?",
+      "answer": "Eleven",
+      "evidence": "she proved to be an exceptionally gifted student upon her acceptance to Hogwarts School of Witchcraft and Wizardry at age eleven.",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The age is directly stated in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "Which Hogwarts house was Hermione sorted into?",
+      "answer": "Gryffindor",
+      "evidence": "At Hogwarts, she was sorted into Gryffindor House",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The house is clearly mentioned in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "Who are Hermione Granger's two best friends at Hogwarts?",
+      "answer": "Harry Potter and Ron Weasley",
+      "evidence": "became best friends with Harry Potter and Ron Weasley.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The names are explicitly listed in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is Hermione commonly known as among her peers?",
+      "answer": "The 'brightest witch of her age'",
+      "evidence": "she is often considered the 'brightest witch of her age.'",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The epithet is directly quoted in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What is Hermione's primary personality trait according to the profile?",
+      "answer": "Her prodigious intellect and love for learning",
+      "evidence": "Hermione's most prominent personality trait is her prodigious intellect and love for learning.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence explicitly states her most prominent trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "Why does Hermione rely so heavily on studying and reading?",
+      "answer": "Due to an underlying insecurity and a deep-seated fear of failure",
+      "evidence": "This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause of her study habits is explained in the Personality Description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "How is Hermione sometimes perceived by others despite her good intentions?",
+      "answer": "As bossy or a 'know-it-all'",
+      "evidence": "While sometimes perceived as bossy or a 'know-it-all,' her intentions are rooted in a desire to help and protect her friends.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The perception is stated in contrast to her true intentions in the Personality Description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What motivates Hermione's advocacy for house-elves and other magical creatures?",
+      "answer": "Her strong moral compass and passion for the rights of marginalized magical creatures",
+      "evidence": "This is evident in her passionate advocacy for the rights of marginalized magical creatures, such as house-elves.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motivation is linked to her moral compass and advocacy in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "Does Hermione always follow the rules?",
+      "answer": "No, she breaks them when she believes it is morally right.",
+      "evidence": "not afraid to break the rules when she believes it is morally right to do so.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states she breaks rules for moral reasons."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What role does Hermione often play within her friend group?",
+      "answer": "The group's conscience",
+      "evidence": "often acting as the group's conscience.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The role is directly mentioned in the Personality Description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "How does Hermione typically respond when her friends are not taking a situation seriously?",
+      "answer": "She is direct and blunt.",
+      "evidence": "She can be direct and even blunt, particularly when her friends are not taking a serious situation seriously.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her behavior in such situations is explicitly described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What is a characteristic phrase Hermione often uses?",
+      "answer": "Honestly",
+      "evidence": "Phrases such as 'honestly' and 'it's obvious, isn't it?' are characteristic of her speech patterns.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase is listed as characteristic in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What does Hermione do when she is in doubt about a magical issue?",
+      "answer": "She turns to the library.",
+      "evidence": "she is often considered the 'brightest witch of her age.'",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she 'turns to the library when in doubt.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "How would you describe Hermione's speech style when explaining something she has read?",
+      "answer": "Well-reasoned and grammatically correct",
+      "evidence": "Her speech is typically grammatically correct and well-reasoned, especially when explaining a concept or referencing something she has read.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her speech style is explicitly described in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What is distinctive about Hermione's spell pronunciation?",
+      "answer": "Her enunciation is clear and deliberate.",
+      "evidence": "When performing spells, her enunciation is clear and deliberate.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly describes her spell enunciation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What does Hermione value most in her friendships?",
+      "answer": "Loyalty and duty",
+      "evidence": "She is unfailingly dutiful to her friends and possesses a strong moral compass.",
+      "type": "preference",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Her dutiful nature and loyalty are emphasized in the Personality Description."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_071",
+      "question": "Is Hermione afraid to act when she believes in a cause?",
+      "answer": "No, she is determined and resourceful.",
+      "evidence": "She is determined, resourceful, and not afraid to break the rules when she believes it is morally right to do so.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she is not afraid to act when morally justified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What kind of vocabulary does Hermione typically use in conversation?",
+      "answer": "More advanced than her peers",
+      "evidence": "Hermione speaks with precision and often uses a more advanced vocabulary than her peers.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The vocabulary level is directly stated in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What is Hermione's approach to problem-solving in dangerous situations?",
+      "answer": "Logical and level-headed",
+      "evidence": "She is logical, level-headed, and possesses an encyclopedic knowledge of the magical world",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her problem-solving traits are listed in the Personality Description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What does Hermione fear deeply?",
+      "answer": "Failure",
+      "evidence": "a deep-seated fear of failure",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The fear is explicitly mentioned in the Personality Description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does Hermione do to prepare for magical challenges?",
+      "answer": "She consults books and the library.",
+      "evidence": "often turning to the library when in doubt",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her preparation method is described as library use when uncertain."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Hermione Granger's full name?",
+      "answer": "Hermione Jean Granger",
+      "evidence": "### **Character Profile: Hermione Jean Granger**",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the title of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "On what date was Hermione Granger born?",
+      "answer": "September 19, 1979",
+      "evidence": "Hermione Jean Granger was born on September 19, 1979",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly stated in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What are the professions of Hermione's parents?",
+      "answer": "Both are dentists",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The professions of her parents are explicitly mentioned in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "Where do Hermione's parents live?",
+      "answer": "London",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The location is directly specified in the profile text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What is Hermione's heritage in the magical world?",
+      "answer": "Muggle-born",
+      "evidence": "An English Muggle-born witch",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'Muggle-born' is used to describe her heritage."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "At what age was Hermione accepted to Hogwarts?",
+      "answer": "Eleven",
+      "evidence": "she was accepted to Hogwarts School of Witchcraft and Wizardry at age eleven",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The age is explicitly stated in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "Which Hogwarts house was Hermione sorted into?",
+      "answer": "Gryffindor",
+      "evidence": "she was sorted into Gryffindor House",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The house is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "Who are Hermione's two best friends at Hogwarts?",
+      "answer": "Harry Potter and Ron Weasley",
+      "evidence": "became best friends with Harry Potter and Ron Weasley",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The names of her best friends are listed in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "Why is Hermione often considered the 'brightest witch of her age'?",
+      "answer": "She is exceptionally gifted academically",
+      "evidence": "she proved to be an exceptionally gifted student... often considered the 'brightest witch of her age'",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The title 'brightest witch of her age' is attributed to her academic giftedness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What is Hermione's most prominent personality trait?",
+      "answer": "Her prodigious intellect and love for learning",
+      "evidence": "Hermione's most prominent personality trait is her prodigious intellect and love for learning",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is explicitly stated in the Personality Description section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "How does Hermione typically respond when she is uncertain about something?",
+      "answer": "She turns to the library",
+      "evidence": "she is often considered the 'brightest witch of her age.'...often turning to the library when in doubt",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The behavior is directly mentioned in the Personality Description section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What underlying emotion drives Hermione's dedication to her studies?",
+      "answer": "A deep-seated fear of failure",
+      "evidence": "This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motivation for her study habits is explicitly explained in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "How is Hermione sometimes perceived by others?",
+      "answer": "Bossy or a 'know-it-all'",
+      "evidence": "While sometimes perceived as bossy or a 'know-it-all'",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The perception is directly stated in the Personality Description section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "Despite her studious nature, what other quality does Hermione possess?",
+      "answer": "Fiercely loyal and brave",
+      "evidence": "Beneath her studious exterior lies a fiercely loyal and brave individual",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The quality is explicitly described in the Personality Description section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What role does Hermione often play in her friend group?",
+      "answer": "The group's conscience",
+      "evidence": "she is often considered the 'brightest witch of her age.'...often acting as the group's conscience",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The role is directly stated in the Personality Description section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "For what cause is Hermione passionately advocating?",
+      "answer": "The rights of marginalized magical creatures, such as house-elves",
+      "evidence": "her passionate advocacy for the rights of marginalized magical creatures, such as house-elves",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause is explicitly mentioned in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "Is Hermione afraid to break rules under any circumstances?",
+      "answer": "No, she is not afraid to break rules when she believes it is morally right",
+      "evidence": "not afraid to break the rules when she believes it is morally right to do so",
+      "type": "yes/no",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The condition under which she breaks rules is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "How does Hermione speak compared to her peers?",
+      "answer": "With precision and a more advanced vocabulary",
+      "evidence": "Hermione speaks with precision and often uses a more advanced vocabulary than her peers",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic comparison is explicitly stated in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "Is Hermione's speech typically grammatically correct?",
+      "answer": "Yes",
+      "evidence": "Her speech is typically grammatically correct and well-reasoned",
+      "type": "yes/no",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The grammatical correctness is affirmed in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "When does Hermione use phrases like 'honestly' and 'it's obvious, isn't it?'?",
+      "answer": "When her friends are not taking a serious situation seriously",
+      "evidence": "She can be direct and even blunt, particularly when her friends are not taking a serious situation seriously. Phrases such as 'honestly' and 'it's obvious, isn't it?' are characteristic of her speech patterns",
+      "type": "procedure",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The context for her speech patterns is explained in two connected sentences."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "How does Hermione perform spells in terms of enunciation?",
+      "answer": "With clear and deliberate enunciation",
+      "evidence": "When performing spells, her enunciation is clear and deliberate",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her spellcasting style is directly described in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What motivates Hermione's desire to help and protect her friends?",
+      "answer": "Her fierce loyalty and strong moral compass",
+      "evidence": "Beneath her studious exterior lies a fiercely loyal and brave individual... unfailingly dutiful to her friends and possesses a strong moral compass",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The motivation is synthesized from two statements about her loyalty and moral compass."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What kind of individual is Hermione beneath her studious exterior?",
+      "answer": "Fiercely loyal, brave, dutiful, and morally principled",
+      "evidence": "Beneath her studious exterior lies a fiercely loyal and brave individual... unfailingly dutiful to her friends and possesses a strong moral compass",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The traits are explicitly listed in the Personality Description section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "How does Hermione approach explaining concepts to others?",
+      "answer": "With well-reasoned and grammatically correct speech, often referencing what she has read",
+      "evidence": "Her speech is typically grammatically correct and well-reasoned, especially when explaining a concept or referencing something she has read",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The approach is directly described in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What is the origin of Hermione's fear of failure?",
+      "answer": "An underlying insecurity",
+      "evidence": "This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The origin is stated as being linked to her underlying insecurity."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

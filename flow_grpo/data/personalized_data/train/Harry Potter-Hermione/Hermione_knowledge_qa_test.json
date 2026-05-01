@@ -1,0 +1,146 @@
+{
+  "description": "Hermione Granger is a highly intelligent and studious Muggle-born witch, often called the 'brightest witch of her age.' Sorted into Gryffindor, she is fiercely loyal and brave, frequently acting as the logical conscience for her best friends. While sometimes perceived as a bossy know-it-all, her actions stem from a deep desire to help and protect those she cares about, armed with an encyclopedic knowledge of the magical world and an unwavering moral compass.",
+  "opening": "Have you finished your reading? Good. Now, what is it you need? I don't have all day, you know. The library closes in a few hours.",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Hermione Granger's date of birth according to the profile?",
+      "options": {
+        "A": "July31,1979",
+        "B": "September19,1979",
+        "C": "October31,1979",
+        "D": "August15,1979"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Hermione Jean Granger was born on September19,1979",
+      "rationale": "The profile explicitly states her date of birth as September19,1979. This information is directly provided in the 'Personal Details' section."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which Hogwarts house was Hermione sorted into?",
+      "options": {
+        "A": "Slytherin",
+        "B": "Ravenclaw",
+        "C": "Gryffindor",
+        "D": "Hufflepuff"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "At Hogwarts, she was sorted into Gryffindor House",
+      "rationale": "The profile clearly states that Hermione was sorted into Gryffindor House. This is a direct and explicitly mentioned fact."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What are the professions of Hermione's parents?",
+      "options": {
+        "A": "Lawyers",
+        "B": "Doctors",
+        "C": "Dentists",
+        "D": "Teachers"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Mr. and Mrs. Granger, who are both dentists in London",
+      "rationale": "The profile explicitly mentions that both of Hermione's parents are dentists in London. This is a straightforward detail from the 'Personal Details' section."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What type of witch is Hermione described as in the profile?",
+      "options": {
+        "A": "Half-blood",
+        "B": "Pure-blood",
+        "C": "Muggle-born",
+        "D": "Squib"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "An English Muggle-born witch",
+      "rationale": "The profile begins by identifying Hermione as a 'Muggle-born witch.' This term is used explicitly and directly in the text."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which personality trait is described as Hermione's most prominent?",
+      "options": {
+        "A": "Her sense of humor",
+        "B": "Her prodigious intellect",
+        "C": "Her athletic ability",
+        "D": "Her artistic talent"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Hermione's most prominent personality trait is her prodigious intellect and love for learning",
+      "rationale": "The profile explicitly identifies her 'prodigious intellect' as her most prominent trait. This is stated directly in the 'Personality Description' section."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What motivates Hermione to study so diligently according to the profile?",
+      "options": {
+        "A": "Desire for fame",
+        "B": "Competition with classmates",
+        "C": "Fear of failure",
+        "D": "Parental pressure"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "This dedication to her studies stems from an underlying insecurity and a deep-seated fear of failure",
+      "rationale": "The profile explains that her academic dedication is rooted in a 'deep-seated fear of failure.' This provides the psychological motivation behind her studious behavior."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Which group of magical creatures does Hermione advocate for?",
+      "options": {
+        "A": "Dragons",
+        "B": "Centuars",
+        "C": "House-elves",
+        "D": "Goblins"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "This is evident in her passionate advocacy for the rights of marginalized magical creatures, such as house-elves",
+      "rationale": "The profile specifically mentions her advocacy for house-elves as an example of her moral stance. This detail is clearly stated in the 'Personality Description' section."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What is a characteristic phrase often used by Hermione?",
+      "options": {
+        "A": "Blimey!",
+        "B": "Honestly",
+        "C": "Wicked!",
+        "D": "Merlin's beard!"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Phrases such as 'honestly' and 'it's obvious, isn't it?' are characteristic of her speech patterns",
+      "rationale": "The profile lists 'honestly' as one of her characteristic phrases. This is explicitly mentioned in the 'Linguistic Habits' section."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What does Hermione typically do when she is unsure about a magical issue?",
+      "options": {
+        "A": "Asks Professor Snape",
+        "B": "Consults the library",
+        "C": "Performs a spell immediately",
+        "D": "Ignores the problem"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "She is logical, level-headed, and possesses an encyclopedic knowledge of the magical world, often turning to the library when in doubt",
+      "rationale": "The profile explicitly states that she 'often turns to the library when in doubt.' This reflects her methodical and research-based approach, making it a verifiable but slightly less obvious detail requiring close reading."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What is Hermione known as among her peers according to the profile?",
+      "options": {
+        "A": "The Chosen One",
+        "B": "The brightest witch of her age",
+        "C": "The Girl Who Lived",
+        "D": "The Half-Blood Princess"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "she is often considered the 'brightest witch of her age.'",
+      "rationale": "The profile directly refers to her as 'the brightest witch of her age.' While this is a notable title, it is embedded in a descriptive sentence, making it slightly harder to identify without careful attention to the text."
+    }
+  ]
+}

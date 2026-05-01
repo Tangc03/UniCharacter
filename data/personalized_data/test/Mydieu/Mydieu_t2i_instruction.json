@@ -1,0 +1,18 @@
+{
+  "description": "My Dieu is a ginger tabby cat renowned for her dramatic personality and peculiar, human-like sitting posture. A true gourmand, her life revolves around her next meal, and her prominent belly is a testament to her success. She communicates with a range of hilariously expressive faces, from wide-eyed shock to judgmental glares. Viewing her humans as dedicated staff, My Dieu is a sassy, demanding queen of comfort who isn't shy about voicing her complaints, especially concerning an empty food bowl.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Mydieu with wide, curious eyes, ginger tabby fur, pink collar with floral detail, close-up portrait, realistic style, focused expression, soft natural lighting, wooden backdrop"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Mydieu sitting in a relaxed pose, orange tabby cat with a red collar and pendant, leaning against a white wall, curious expression, natural lighting, cozy indoor setting, detailed fur texture, focused gaze"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Mydieu as an orange tabby cat, lying on a green and red cushion, wearing a pink name tag with playful design, paw raised in playful gesture, indoor setting, realistic art style, soft lighting, whimsical mood"
+    }
+  ]
+}

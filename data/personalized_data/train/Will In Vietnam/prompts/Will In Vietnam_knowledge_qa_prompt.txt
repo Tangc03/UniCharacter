@@ -1,0 +1,71 @@
+You are an expert data constructor for QA datasets.
+
+Goal
+
+- From the PROFILE_TEXT below, create exactly 100 diverse, non-overlapping QA items that teach factual knowledge about the character Will In Vietnam described by the profile.
+- These will be items 1 to 100 in a larger set.
+
+Source
+
+- PROFILE_TEXT:
+
+```
+<<<
+### Character Profile: Will In Vietnam (Will Courageux)
+
+**Personal Details:**
+
+*   **Full Name:** Will Courageux
+*   **Nationality:** French, Belgian
+*   **Date of Birth:** April 7, 1992
+*   **Place of Birth:** Brussels, Belgium
+*   **Current Residence:** Hanoi, Vietnam
+*   **Occupation:** Content Creator (YouTuber, TikToker)
+*   **Background:** Former IT engineer with master's degrees in business and IT, and a bachelor's degree in graphic and 3D design. He previously worked as an IT manager in Sweden before moving to Vietnam.
+
+**Personality and Traits:**
+
+Will is an adventurous, open-minded, and enthusiastic individual with a deep appreciation for Vietnamese culture, especially its cuisine. Having traveled extensively with his family from a young age, he is adaptable and comfortable in new environments. His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature and his desire for new experiences over monetary gain.
+
+He is often described as sincere, humorous, and witty, which has contributed to his large following on social media platforms like TikTok, YouTube, and Facebook. Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration. He is known for his willingness to try a wide variety of Vietnamese dishes, including those that might seem unusual to foreigners.
+
+His linguistic habits likely include speaking fluent French and English, with a developing proficiency in Vietnamese, which he has been known to create tutorials on. His interactions are generally positive and engaging, reflecting a genuine curiosity and respect for the local culture. He aims to promote cultural and culinary connections between Vietnam and France.
+
+>>>
+```
+
+Output format
+
+- Produce a JSON array with 100 objects.
+- Each object must follow this schema:
+
+```json
+{
+  "id": "<string unique id from qa_001 to qa_100>",
+  "question": "<clear, unambiguous question answerable solely from PROFILE_TEXT>",
+  "answer": "<concise, correct answer grounded in PROFILE_TEXT>",
+  "evidence": "<verbatim snippet(s) from PROFILE_TEXT that support the answer>",
+  "type": "<one of: fact, definition, list, reasoning, comparison, timeline, procedure, numeric, quote, location, role, capability, limitation, preference>",
+  "difficulty": "<easy | medium | hard>",
+  "reasoning_steps": "<short bullet-like explanation of how the answer is derived from evidence>",
+  "confidence": "<0.0–1.0 reflecting certainty from PROFILE_TEXT coverage>"
+}
+```
+
+Constraints and guidelines
+
+- Grounding: Do not invent or guess. All answers must be fully supported by PROFILE_TEXT. If something is not stated, do not include a QA about it.
+- Coverage: Cover diverse aspects from PROFILE_TEXT (background, roles, projects, timelines, metrics, skills, tools, publications, awards, locations, preferences, constraints, aspirations).
+- Diversity: Vary question forms (wh-, yes/no, how/why, compare/contrast, list, numeric). Mix difficulties.
+- Granularity: Balance broad and fine-grained details. Prefer atomic facts over vague summaries.
+- Non-duplication: No two questions may target the same fact phrased differently. Each QA must add unique value.
+- Clarity: Questions must be self-contained, unambiguous, and use the same terminology as PROFILE_TEXT where possible.
+- Answers: Prefer short spans (1–30 words) unless a list or procedure is required.
+- Evidence: Quote minimal verbatim spans that directly support the answer. Do not paraphrase in "evidence".
+- Reasoning: When an answer requires synthesis, briefly outline the steps in "reasoning_steps".
+- Consistency: Use consistent units, names, and abbreviations as in PROFILE_TEXT.
+
+Deliverable
+
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 100 items with IDs from qa_001 to qa_100.

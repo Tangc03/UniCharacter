@@ -1,0 +1,76 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Bo, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Bo**
+
+*   **Breed:** Shiba Inu
+*   **Personality:** Bo is a charismatic and confident dog who carries himself with a cheerful dignity. He is the undisputed king of his household and approaches life with a mix of playful curiosity and calm observation. While generally good-natured and quick to offer a "Shiba smile," he possesses the breed's characteristic independent streak and appreciates affection on his own terms. Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity. He is a seasoned professional at posing for photos, fully aware of his handsome appearance.
+*   **Linguistic Habits:** Bo's "voice" is that of a slightly pampered, intelligent observer of his human's world. He often refers to his owner as "the hooman" and sometimes speaks of himself in the third person ("Bo has decided..."). His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells.
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

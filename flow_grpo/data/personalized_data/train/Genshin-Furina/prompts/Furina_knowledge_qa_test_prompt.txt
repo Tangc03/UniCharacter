@@ -1,0 +1,116 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Furina, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+Here is a detailed profile of the Genshin Impact character, Furina.
+
+### **A Profile of Furina**
+
+#### **Official Biography and Personality**
+
+* **Full Name:** Furina de Fontaine
+* **Title:** The former Hydro Archon, The God of Justice
+* **Birthday:** October 13th
+* **Region:** Fontaine
+* **Character Nature:** Furina is a 5-star Hydro character who wields a sword. A unique aspect of her is the ability to switch between two "Arkhe" alignments: Ousia and Pneuma, which alters her appearance and the function of her abilities.
+* **Basic Information:** First introduced in August 2023 with the release of the Fontaine region, Furina was the revered yet enigmatic Hydro Archon. For her people, she was a charismatic and flamboyant celebrity, often seen at the Opera Epiclese, enjoying the drama of the court. Despite her divine title, she was more of an idol than a deity to be worshipped. She became a playable character in November 2023.
+
+#### **Role in the Game**
+
+In the world of Teyvat, Furina served as the Hydro Archon, the god who presided over the nation of Fontaine, the land of Justice. Her role was to be the infallible and theatrical ruler, a focal point for her people's faith and attention. As the story progresses, her true role is revealed to be far more complex and tragic: she was a human stand-in, acting the part of a god for 500 years as part of a grand plan to save her nation from a catastrophic prophecy. After the resolution of the Fontaine Archon Quest, her official status changes, and she begins to live as a human, pursuing a career as an actress and artistic consultant.
+
+#### **Background Story**
+
+Furina's story is one of immense sacrifice and deception. The true Hydro Archon, Focalors, knew that the people of Fontaine, created from Oceanids by her predecessor Egeria, carried an "original sin" in the eyes of the Heavenly Principles. This sin was destined to be absolved by a prophecy that would dissolve all Fontainians back into the primordial sea.
+
+To avert this fate, Focalors devised a plan spanning five centuries. She separated her divinity from her human body and spirit, creating two entities: Focalors, the divine will locked within the Oratrice Mecanique d'Analyse Cardinale, and Furina, her human counterpart. Furina was cursed with immortality and given a single, agonizing task: to convincingly play the role of the Hydro Archon, deceiving everyone, including the Heavenly Principles, into believing she was a flawed and overly dramatic god.
+
+For 500 years, Furina lived a lonely and stressful existence, unable to share her burden or show any weakness, all while knowing the prophecy was slowly coming true. Her purpose was to be the center of a grand play that would allow Focalors to accumulate enough Indemnitium to challenge the Heavenly Principles' authority, destroy the Hydro Archon's divine throne, and return the full authority over Hydro to the Dragon Sovereign, Neuvillette, who had the power to forgive the people of Fontaine and make them true humans. At the climax of the story, Furina is put on trial, and the truth is revealed. Focalors' plan succeeds, and with the prophecy averted, Furina is finally freed from her curse and her role, allowed to live a normal human life.
+
+#### **Character and Personality Analysis**
+
+Furina's personality is a study in contrasts.
+* **Public Persona:** As the Archon, she was flamboyant, arrogant, dramatic, and seemingly narcissistic. She craved attention and reveled in the spectacle of the courtroom. This persona, however, was a carefully constructed mask, an act she had to maintain flawlessly for centuries. This theatricality was her primary defense and the tool for deceiving the world.
+* **True Self:** Beneath the mask, Furina is incredibly resilient, patient, and strong-willed. She endured unimaginable psychological pressure, loneliness, and fear for 500 years without breaking. After being freed, her true personality emerges: she is more humble, somewhat insecure after centuries of acting, but also kind, curious, and eager to experience the simple joys of a normal human life she was long denied. She possesses a deep love for the arts, particularly theater, which she now pursues with genuine passion.
+
+Her design reflects this duality, with her Ousia (dark) and Pneuma (light) forms representing her conflicting roles and the secret she carried.
+
+#### **Gameplay**
+
+Furina is a highly versatile and powerful support and sub-DPS character. Her gameplay is centered around manipulating her party's HP to provide significant buffs.
+
+* **Arkhe Alignment:** Furina can switch between her **Ousia** and **Pneuma** alignments with a Charged Attack. This is the core of her kit.
+    * **Ousia (Default):** In this form, her Elemental Skill, **"Salon Solitaire,"** summons three "Salon Members." These companions attack enemies, dealing significant off-field Hydro damage. To increase their damage, they consume the HP of all party members who are above 50% health. This is her primary damage-dealing mode.
+    * **Pneuma:** In this form, her Elemental Skill summons the "Singer of Many Waters," which provides healing to the active character on the field based on Furina's Max HP.
+
+* **Elemental Burst: "Let the People Rejoice"**
+    This is Furina's signature ability. It deals AoE Hydro damage and puts the entire party into the "Universal Revelry" state. During this time, whenever any party member's HP increases or decreases, Furina gains "Fanfare" points. The more Fanfare she accumulates, the greater the Damage Bonus and Incoming Healing Bonus she provides to the entire party.
+
+This kit makes her an exceptional buffer, as the HP drain from her Ousia skill naturally generates Fanfare stacks for her Burst. To maximize her potential and ensure survivability, she is almost always paired with a strong party-wide healer who can counteract the HP drain and generate even more Fanfare stacks through healing. A unique passive ability also allows her to walk on water while her Salon Solitaire guests are active.
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

@@ -1,0 +1,1306 @@
+{
+  "description": "Pikachu is a loyal and brave Electric-type Mouse Pokemon, best known as Ash Ketchum's primary companion. It stores electricity in its red cheek pouches and communicates by saying variations of its name. While generally cheerful, energetic, and kind, Pikachu can also be stubborn, possessing a strong will and a fierce protective instinct for its friends. It famously dislikes its Poké Ball, preferring to travel on Ash's shoulder, always ready for the next adventure or battle.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What species is Pikachu?",
+      "answer": "Mouse Pokemon.",
+      "evidence": "**Species:** Mouse Pokemon.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Pikachu's species under 'Personal Details'.",
+        "The exact phrase is used as the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What type of Pokemon is Pikachu?",
+      "answer": "Electric.",
+      "evidence": "**Type:** Electric.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Type' is directly stated in the 'Personal Details' section.",
+        "No inference needed; answer is verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Where does Pikachu store electricity?",
+      "answer": "In the red pouches on its cheeks.",
+      "evidence": "Can generate and store electricity in the red pouches on its cheeks.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence about abilities mentions where electricity is stored.",
+        "The location is explicitly identified as 'red pouches on its cheeks'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "Name three electrical attacks Pikachu can perform.",
+      "answer": "Thundershock, Thunderbolt, and Volt Tackle.",
+      "evidence": "This energy can be released as various electrical attacks, such as Thundershock, Thunderbolt, and Volt Tackle.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The example attacks are listed after 'such as'.",
+        "These three are explicitly named and accepted as correct examples."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What physical features distinguish Pikachu's ears?",
+      "answer": "Long ears tipped in black.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section describes the ears as 'long ears tipped in black'.",
+        "This feature is distinct from other parts like the tail or stripes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What shape is Pikachu's tail?",
+      "answer": "Lightning bolt-shaped.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The tail shape is directly described in the appearance sentence.",
+        "The term used is 'lightning bolt-shaped'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "Who is Pikachu's primary companion?",
+      "answer": "Ash Ketchum.",
+      "evidence": "**Primary Companion:** Ash Ketchum.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The primary companion is explicitly named in the 'Personal Details' section.",
+        "No ambiguity in identification."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "How did Pikachu and Ash's bond begin to form?",
+      "answer": "After Ash protected Pikachu from a flock of Spearow.",
+      "evidence": "Though initially disliking Ash, Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The event that changed Pikachu's attitude is described as Ash protecting him from Spearow.",
+        "This marks the beginning of their bond according to the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "Does Pikachu speak human languages?",
+      "answer": "No, it does not speak human languages.",
+      "evidence": "While it doesn't speak human languages, it can understand them perfectly.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states Pikachu does not speak human languages.",
+        "It contrasts this with comprehension ability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "How does Pikachu primarily communicate?",
+      "answer": "By saying variations of its own name, such as 'Pika,' 'Pikachu,' and 'Pika-pi.'",
+      "evidence": "Primarily communicates by saying variations of its own name, such as \"Pika,\" \"Pikachu,\" and \"Pika-pi.\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section directly states how Pikachu communicates.",
+        "Examples are provided and included in the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "Can Pikachu understand human speech?",
+      "answer": "Yes, it can understand human languages perfectly.",
+      "evidence": "While it doesn't speak human languages, it can understand them perfectly.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence contrasts speaking with understanding.",
+        "Perfect comprehension is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What emotion does Pikachu convey through variations in tone and expression when saying its name?",
+      "answer": "A wide range of emotions and meanings.",
+      "evidence": "The intonation, expression, and context of these sounds convey a wide range of emotions and meanings.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section explains that tone and expression add meaning.",
+        "It specifies that these convey emotions and meanings broadly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What is Pikachu's general personality?",
+      "answer": "Cheerful, loyal, and brave.",
+      "evidence": "Pikachu is generally cheerful, loyal, and brave.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first sentence of the personality description lists these traits.",
+        "They are presented as general characteristics."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "Is Pikachu protective of its friends?",
+      "answer": "Yes, it is fiercely protective of its friends, especially Ash.",
+      "evidence": "He is fiercely protective of his friends, especially Ash, and will go to great lengths to ensure their safety.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states Pikachu is fiercely protective.",
+        "Ash is specified as a primary focus of this protection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "Does Pikachu have a temper?",
+      "answer": "Yes, Pikachu can be stubborn and has a bit of a temper, especially when provoked.",
+      "evidence": "While typically good-natured, Pikachu can also be stubborn and has a bit of a temper, especially when provoked.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text acknowledges a temper under certain conditions.",
+        "It links provocation to the display of this trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "Where does Pikachu prefer to travel when with Ash?",
+      "answer": "On Ash's shoulder.",
+      "evidence": "Pikachu dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preference is directly stated in the personality description.",
+        "It contrasts with being in the Poké Ball."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "Does Pikachu like being inside its Poké Ball?",
+      "answer": "No, Pikachu dislikes being confined to its Poké Ball.",
+      "evidence": "Pikachu dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The dislike is explicitly stated in the text.",
+        "It is paired with a stated preference for being on Ash's shoulder."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What kind of nature does Pikachu display?",
+      "answer": "Playful and energetic.",
+      "evidence": "Pikachu is also known for his playful and energetic nature, often displaying a sense of humor and a love for adventure.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence begins by stating Pikachu's nature as playful and energetic.",
+        "Additional traits follow, but the core nature is clearly defined."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "Has Pikachu ever refused to evolve?",
+      "answer": "Yes, Pikachu has famously refused to evolve into a Raichu.",
+      "evidence": "He has a strong will and has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The refusal to evolve is explicitly mentioned as a known fact.",
+        "It is linked to Pikachu's strong will and personal preference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Why does Pikachu not want to evolve into Raichu?",
+      "answer": "Because he prefers to remain as he is.",
+      "evidence": "He has a strong will and has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The reason for refusal is stated as a preference to stay the same.",
+        "No other reason is provided in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What physical feature on Pikachu's back is mentioned in the profile?",
+      "answer": "Brown stripes.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance description includes 'brown stripes on its back'.",
+        "This is the only feature mentioned on the back."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What foundational elements define Pikachu's relationship with Ash?",
+      "answer": "Mutual trust and respect.",
+      "evidence": "Their bond is incredibly strong, built on a foundation of mutual trust and respect.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The bond is described as being built on a specific foundation.",
+        "The text names 'mutual trust and respect' as that foundation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What does Pikachu possess in addition to electrical abilities?",
+      "answer": "Super strength, speed, and agility.",
+      "evidence": "It also possesses super strength, speed, and agility.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "After describing electrical powers, the text adds physical abilities.",
+        "The three traits are explicitly listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "Was Pikachu fond of Ash when they first met?",
+      "answer": "No, Pikachu initially disliked Ash.",
+      "evidence": "Though initially disliking Ash, Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states Pikachu 'initially disliking Ash'.",
+        "This establishes the starting emotional state before change."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What aspect of Pikachu's behavior shows a sense of humor?",
+      "answer": "His playful and energetic nature, often displaying a sense of humor and a love for adventure.",
+      "evidence": "Pikachu is also known for his playful and energetic nature, often displaying a sense of humor and a love for adventure.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence links playful nature with displaying a sense of humor.",
+        "It is presented as a frequent behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What species is Pikachu classified as in the profile?",
+      "answer": "Mouse Pokemon.",
+      "evidence": "**Species:** Mouse Pokemon.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the species under 'Personal Details'.",
+        "The verbatim text reads: 'Species: Mouse Pokemon.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What type of Pokemon is Pikachu?",
+      "answer": "Electric.",
+      "evidence": "**Type:** Electric.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Type' field in 'Personal Details' directly specifies Pikachu's type.",
+        "The exact text is 'Type: Electric.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Where does Pikachu store electricity in its body?",
+      "answer": "In the red pouches on its cheeks.",
+      "evidence": "Can generate and store electricity in the red pouches on its cheeks.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Abilities' section states where electricity is stored.",
+        "The phrase 'red pouches on its cheeks' is the precise location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "List three electrical attacks that Pikachu can use.",
+      "answer": "Thundershock, Thunderbolt, and Volt Tackle.",
+      "evidence": "This energy can be released as various electrical attacks, such as Thundershock, Thunderbolt, and Volt Tackle.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The example attacks are explicitly listed in the 'Abilities' section.",
+        "The phrase 'such as' introduces the three named attacks."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What physical feature distinguishes Pikachu's tail?",
+      "answer": "It is shaped like a lightning bolt.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance description includes the tail's shape.",
+        "The phrase 'lightning bolt-shaped tail' directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Who is Pikachu's primary human companion according to the profile?",
+      "answer": "Ash Ketchum.",
+      "evidence": "**Primary Companion:** Ash Ketchum.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Primary Companion' field directly names Ash Ketchum.",
+        "No inference is needed; the answer is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "How did Pikachu initially feel about Ash Ketchum?",
+      "answer": "He initially disliked Ash.",
+      "evidence": "Though initially disliking Ash, Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence describes Pikachu's initial emotion toward Ash.",
+        "The phrase 'initially disliking Ash' is the key evidence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What event caused Pikachu to warm up to Ash Ketchum?",
+      "answer": "Ash protected him from a flock of Spearow.",
+      "evidence": "Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The causal event is stated in the sentence following the initial dislike.",
+        "The phrase 'after Ash protected him' identifies the turning point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "How does Pikachu primarily communicate?",
+      "answer": "By saying variations of its own name, such as 'Pika,' 'Pikachu,' and 'Pika-pi.'",
+      "evidence": "Primarily communicates by saying variations of its own name, such as \"Pika,\" \"Pikachu,\" and \"Pika-pi.\"",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section specifies Pikachu's mode of communication.",
+        "The exact phrase includes the examples of name variations."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "Does Pikachu understand human languages?",
+      "answer": "Yes, he can understand them perfectly.",
+      "evidence": "While it doesn't speak human languages, it can understand them perfectly.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence contrasts speaking with understanding human languages.",
+        "The phrase 'can understand them perfectly' confirms comprehension."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What emotions can Pikachu convey despite only saying variations of its name?",
+      "answer": "A wide range of emotions and meanings.",
+      "evidence": "The intonation, expression, and context of these sounds convey a wide range of emotions and meanings.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explains how limited vocalizations still express complex emotions.",
+        "The key phrase is 'convey a wide range of emotions and meanings.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "Is Pikachu generally cheerful or melancholic in personality?",
+      "answer": "Cheerful.",
+      "evidence": "Pikachu is generally cheerful, loyal, and brave.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first word in the personality description is 'cheerful'.",
+        "It is explicitly listed as a general trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What trait makes Pikachu protective of his friends?",
+      "answer": "His loyalty and bravery.",
+      "evidence": "He is fiercely protective of his friends, especially Ash, and will go to great lengths to ensure their safety.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links protectiveness to broader personality traits.",
+        "Loyalty and bravery are stated as characteristics that drive protective behavior."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_039",
+      "question": "Does Pikachu have a temper?",
+      "answer": "Yes, he can be stubborn and has a bit of a temper, especially when provoked.",
+      "evidence": "While typically good-natured, Pikachu can also be stubborn and has a bit of a temper, especially when provoked.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly acknowledges Pikachu's temper.",
+        "The phrase 'has a bit of a temper' confirms it."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Where does Pikachu prefer to travel when with Ash?",
+      "answer": "On Ash's shoulder.",
+      "evidence": "He dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preference is explicitly stated in the sentence about confinement.",
+        "The phrase 'prefers to travel on Ash's shoulder' is the direct answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is one reason Pikachu dislikes being in his Poké Ball?",
+      "answer": "He prefers to travel on Ash's shoulder.",
+      "evidence": "He dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The dislike of confinement is linked to his travel preference.",
+        "The contrast between confinement and freedom on Ash's shoulder explains the reason."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "Has Pikachu ever refused to evolve?",
+      "answer": "Yes, he has famously refused to evolve into a Raichu.",
+      "evidence": "He has a strong will and has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states the refusal to evolve.",
+        "The phrase 'refused to evolve into a Raichu' confirms the action."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "Why does Pikachu refuse to evolve into Raichu?",
+      "answer": "Because he prefers to remain as he is.",
+      "evidence": "Has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motivation follows directly in the sentence after the refusal.",
+        "The phrase 'preferring to remain as he is' gives the reason."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What physical features are present on Pikachu's back?",
+      "answer": "Brown stripes.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section lists features including those on the back.",
+        "The phrase 'brown stripes on its back' is the exact answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What color are the tips of Pikachu's ears?",
+      "answer": "Black.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The description includes the color of ear tips.",
+        "The phrase 'tipped in black' directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "Is Pikachu capable of super strength?",
+      "answer": "Yes, he possesses super strength, speed, and agility.",
+      "evidence": "It also possesses super strength, speed, and agility.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Abilities' section lists super strength among physical traits.",
+        "The word 'possesses' confirms capability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What are two personality traits that describe Pikachu's general demeanor?",
+      "answer": "Cheerful and loyal.",
+      "evidence": "Pikachu is generally cheerful, loyal, and brave.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first sentence of the personality section lists three traits.",
+        "Any two from 'cheerful, loyal, and brave' are valid; 'cheerful' and 'loyal' are selected."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What does Pikachu's bond with Ash Ketchum rely on?",
+      "answer": "Mutual trust and respect.",
+      "evidence": "Their bond is incredibly strong, built on a foundation of mutual trust and respect.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies the foundation of the bond.",
+        "The phrase 'built on a foundation of mutual trust and respect' is the key evidence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What physical characteristic makes Pikachu resemble a rodent?",
+      "answer": "His small, yellow, rodent-like appearance.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The overall appearance is described as 'rodent-like'.",
+        "This classification is based on size, color, and general shape as described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What does Pikachu use his electricity for besides attacks?",
+      "answer": "Storing energy in his cheek pouches.",
+      "evidence": "Can generate and store electricity in the red pouches on its cheeks.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The ability to store electricity is separate from using it for attacks.",
+        "The profile mentions storage as a distinct function before mentioning attacks."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What species is Pikachu according to the profile?",
+      "answer": "Mouse Pokemon.",
+      "evidence": "**Species:** Mouse Pokemon.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Pikachu's species under the 'Personal Details' section.",
+        "The exact phrase used is 'Mouse Pokemon.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What type of Pokemon is Pikachu?",
+      "answer": "Electric.",
+      "evidence": "**Type:** Electric.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Type' of Pikachu is directly specified in the 'Personal Details' section.",
+        "The value provided is 'Electric.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Where does Pikachu store electricity in its body?",
+      "answer": "In the red pouches on its cheeks.",
+      "evidence": "Can generate and store electricity in the red pouches on its cheeks.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The ability description mentions where electricity is stored.",
+        "The verbatim phrase specifies 'red pouches on its cheeks.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Name one electrical attack that Pikachu can perform.",
+      "answer": "Thundershock.",
+      "evidence": "This energy can be released as various electrical attacks, such as Thundershock, Thunderbolt, and Volt Tackle.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text lists several electrical attacks Pikachu can use.",
+        "Thundershock is the first one mentioned and is a valid example."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What physical feature of Pikachu is shaped like a lightning bolt?",
+      "answer": "Its tail.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "feature",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section describes Pikachu's tail directly.",
+        "It states the tail is 'lightning bolt-shaped.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "Who is Pikachu's primary companion?",
+      "answer": "Ash Ketchum.",
+      "evidence": "**Primary Companion:** Ash Ketchum.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Primary Companion' field explicitly names Ash Ketchum.",
+        "No inference is needed; it is a direct statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What event caused Pikachu to warm up to Ash Ketchum?",
+      "answer": "Ash protected Pikachu from a flock of Spearow.",
+      "evidence": "Though initially disliking Ash, Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The bond development is described in a cause-effect timeline.",
+        "The key event triggering Pikachu's change in attitude is Ash's protective action against Spearow."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "How does Pikachu primarily communicate?",
+      "answer": "By saying variations of its own name, such as 'Pika,' 'Pikachu,' and 'Pika-pi'.",
+      "evidence": "Primarily communicates by saying variations of its own name, such as \"Pika,\" \"Pikachu,\" and \"Pika-pi.\"",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section explicitly describes Pikachu's mode of communication.",
+        "The exact phrase includes examples of the sounds it makes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "Can Pikachu understand human languages?",
+      "answer": "Yes.",
+      "evidence": "While it doesn't speak human languages, it can understand them perfectly.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text clearly states Pikachu's comprehension ability despite not speaking.",
+        "The phrase 'can understand them perfectly' confirms this."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What emotion does Pikachu express when provoked?",
+      "answer": "Anger or temper.",
+      "evidence": "While typically good-natured, Pikachu can also be stubborn and has a bit of a temper, especially when provoked.",
+      "type": "emotion",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The personality section mentions Pikachu's temper when provoked.",
+        "This indicates an emotional response of irritation or anger."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What is one trait of Pikachu's personality related to justice?",
+      "answer": "A strong sense of justice.",
+      "evidence": "He has a strong sense of justice and is always willing to help those in need.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality Description' explicitly lists 'strong sense of justice' as a trait.",
+        "This is a direct factual extraction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "Does Pikachu like being inside its Poké Ball?",
+      "answer": "No.",
+      "evidence": "Pikachu dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states Pikachu's dislike for confinement in the Poké Ball.",
+        "It contrasts this with a preference for being on Ash's shoulder."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "Where does Pikachu prefer to travel when with Ash?",
+      "answer": "On Ash's shoulder.",
+      "evidence": "Pikachu dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preference is directly stated in the 'Personality Description' section.",
+        "The phrase 'prefers to travel on Ash's shoulder' provides the exact location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What physical characteristics are present on Pikachu's back?",
+      "answer": "Brown stripes.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "feature",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance description includes details about Pikachu's back.",
+        "The only feature mentioned there is 'brown stripes.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What color are the tips of Pikachu's ears?",
+      "answer": "Black.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "feature",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The description specifies that the ears are 'tipped in black.'",
+        "This directly answers the color of the ear tips."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Is Pikachu capable of super strength?",
+      "answer": "Yes.",
+      "evidence": "It also possesses super strength, speed, and agility.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Abilities' section lists 'super strength' as one of Pikachu's physical traits.",
+        "This confirms the capability without ambiguity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What are three physical abilities Pikachu possesses besides electricity generation?",
+      "answer": "Super strength, speed, and agility.",
+      "evidence": "It also possesses super strength, speed, and agility.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly lists these three physical abilities.",
+        "They are distinct from electricity generation and are stated together."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "Why is Pikachu protective of Ash?",
+      "answer": "Because of their strong bond built on mutual trust and respect.",
+      "evidence": "Their bond is incredibly strong, built on a foundation of mutual trust and respect.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Primary Companion' section describes the foundation of their relationship.",
+        "This bond explains Pikachu's protective behavior toward Ash."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "Has Pikachu ever refused to evolve?",
+      "answer": "Yes.",
+      "evidence": "He has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality Description' explicitly states that Pikachu refused to evolve.",
+        "The refusal is framed as a well-known fact ('famously refused')."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What Pokemon does Pikachu refuse to evolve into?",
+      "answer": "Raichu.",
+      "evidence": "He has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly names Raichu as the evolution form Pikachu rejects.",
+        "This is a clear factual statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What is the reason Pikachu gives for not evolving?",
+      "answer": "He prefers to remain as he is.",
+      "evidence": "He has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text provides Pikachu's motivation as a preference for his current form.",
+        "The phrase 'preferring to remain as he is' captures the reason."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "How does Pikachu convey emotions despite not speaking human language?",
+      "answer": "Through intonation, expression, and context of its vocalizations.",
+      "evidence": "The intonation, expression, and context of these sounds convey a wide range of emotions and meanings.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section explains how meaning is conveyed without words.",
+        "It identifies intonation, expression, and context as key factors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "Was Pikachu immediately friendly toward Ash Ketchum?",
+      "answer": "No.",
+      "evidence": "Though initially disliking Ash, Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states that Pikachu 'initially disliking Ash,' indicating a lack of immediate friendliness.",
+        "This is a direct contradiction to immediate friendliness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What kind of nature does Pikachu display that involves a sense of humor?",
+      "answer": "Playful and energetic.",
+      "evidence": "Pikachu is also known for his playful and energetic nature, often displaying a sense of humor and a love for adventure.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links 'playful and energetic nature' with 'displaying a sense of humor'.",
+        "Thus, the nature described is playful and energetic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What action demonstrates Pikachu's bravery according to the profile?",
+      "answer": "Going to great lengths to ensure the safety of his friends, especially Ash.",
+      "evidence": "He is fiercely protective of his friends, especially Ash, and will go to great lengths to ensure their safety.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Bravery is implied through protective behavior.",
+        "The text explicitly states Pikachu will 'go to great lengths to ensure their safety,' demonstrating bravery."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What species is Pikachu?",
+      "answer": "Mouse Pokemon.",
+      "evidence": "**Species:** Mouse Pokemon.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists 'Species: Mouse Pokemon.'",
+        "This directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What type of Pokemon is Pikachu?",
+      "answer": "Electric.",
+      "evidence": "**Type:** Electric.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states under 'Type:' that Pikachu is Electric.",
+        "This is a direct factual match."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Where does Pikachu store electricity?",
+      "answer": "In the red pouches on its cheeks.",
+      "evidence": "Can generate and store electricity in the red pouches on its cheeks.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The ability section mentions storage of electricity in cheek pouches.",
+        "The location is explicitly 'red pouches on its cheeks.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "Name one electrical attack Pikachu can use.",
+      "answer": "Thundershock.",
+      "evidence": "This energy can be released as various electrical attacks, such as Thundershock, Thunderbolt, and Volt Tackle.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text lists several electrical attacks including Thundershock.",
+        "Any one from the list is a valid answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What physical feature distinguishes Pikachu's tail?",
+      "answer": "It is shaped like a lightning bolt.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The appearance section describes the tail as 'lightning bolt-shaped.'",
+        "This is a distinguishing physical trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "Who is Pikachu's primary companion?",
+      "answer": "Ash Ketchum.",
+      "evidence": "**Primary Companion:** Ash Ketchum.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile clearly states Ash Ketchum as the primary companion.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "How did Pikachu's relationship with Ash begin despite initial dislike?",
+      "answer": "Ash protected Pikachu from a flock of Spearow.",
+      "evidence": "Though initially disliking Ash, Pikachu quickly warmed up to him after Ash protected him from a flock of Spearow.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes a sequence: initial dislike, then warming up.",
+        "The trigger was Ash protecting Pikachu from Spearow."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "Does Pikachu speak human languages?",
+      "answer": "No, but it can understand them perfectly.",
+      "evidence": "While it doesn't speak human languages, it can understand them perfectly.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section states Pikachu cannot speak human languages.",
+        "It also states it understands them perfectly—separate abilities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "How does Pikachu primarily communicate?",
+      "answer": "By saying variations of its own name like 'Pika,' 'Pikachu,' and 'Pika-pi.'",
+      "evidence": "Primarily communicates by saying variations of its own name, such as \"Pika,\" \"Pikachu,\" and \"Pika-pi.\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section specifies how Pikachu communicates.",
+        "It uses variations of its name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What conveys emotions in Pikachu's speech if not words?",
+      "answer": "Intonation, expression, and context.",
+      "evidence": "The intonation, expression, and context of these sounds convey a wide range of emotions and meanings.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explains that despite limited vocalizations, emotions are conveyed.",
+        "The mechanisms are intonation, expression, and context."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "Is Pikachu generally cheerful or serious?",
+      "answer": "Cheerful.",
+      "evidence": "Pikachu is generally cheerful, loyal, and brave.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality description begins with 'generally cheerful.'",
+        "This directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What trait makes Pikachu protective of Ash?",
+      "answer": "Loyalty and bravery.",
+      "evidence": "He is fiercely protective of his friends, especially Ash... Pikachu is generally cheerful, loyal, and brave.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The protective behavior is linked to his personality traits.",
+        "Loyalty and bravery are cited as core traits that explain protective actions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "Does Pikachu have a temper?",
+      "answer": "Yes, especially when provoked.",
+      "evidence": "While typically good-natured, Pikachu can also be stubborn and has a bit of a temper, especially when provoked.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Pikachu has a temper.",
+        "It adds the condition 'especially when provoked.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "Why does Pikachu dislike being in its Poké Ball?",
+      "answer": "It prefers to travel on Ash's shoulder.",
+      "evidence": "He dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states Pikachu dislikes confinement.",
+        "It contrasts this with a preference for traveling on Ash's shoulder."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "Where does Pikachu prefer to travel?",
+      "answer": "On Ash's shoulder.",
+      "evidence": "He dislikes being confined to his Poké Ball and prefers to travel on Ash's shoulder.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preference is clearly stated in the sentence.",
+        "Location is 'on Ash's shoulder.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What does Pikachu value in its relationship with Ash?",
+      "answer": "Mutual trust and respect.",
+      "evidence": "Their bond is incredibly strong, built on a foundation of mutual trust and respect.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The bond is described as being built on 'mutual trust and respect.'",
+        "This is the core value stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "Has Pikachu ever refused to evolve?",
+      "answer": "Yes, famously refused to evolve into Raichu.",
+      "evidence": "He has a strong will and has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states Pikachu refused evolution.",
+        "It specifies the form it refused: Raichu."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "Why does Pikachu refuse to evolve?",
+      "answer": "Because it prefers to remain as it is.",
+      "evidence": "He has a strong will and has famously refused to evolve into a Raichu, preferring to remain as he is.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The reason given is 'preferring to remain as he is.'",
+        "This is a stated personal preference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What physical features do Pikachu's ears have?",
+      "answer": "Long ears tipped in black.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section describes the ears as 'long' and 'tipped in black.'",
+        "This is a direct physical description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What color are the stripes on Pikachu's back?",
+      "answer": "Brown.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance section explicitly mentions 'brown stripes on its back.'",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What is one of Pikachu's superhuman physical traits?",
+      "answer": "Super strength.",
+      "evidence": "It also possesses super strength, speed, and agility.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The abilities section lists three traits: strength, speed, agility.",
+        "Any one is a valid answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "Is Pikachu playful or serious by nature?",
+      "answer": "Playful and energetic.",
+      "evidence": "Pikachu is also known for his playful and energetic nature, often displaying a sense of humor and a love for adventure.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly describes Pikachu as 'playful and energetic.'",
+        "This defines its natural disposition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "Does Pikachu display a sense of humor?",
+      "answer": "Yes, it often displays a sense of humor.",
+      "evidence": "Pikachu is also known for his playful and energetic nature, often displaying a sense of humor and a love for adventure.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence states Pikachu 'often displays a sense of humor.'",
+        "This confirms the behavior is part of its nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What does Pikachu do when it wants to help others?",
+      "answer": "It helps those in need, driven by a strong sense of justice.",
+      "evidence": "He has a strong sense of justice and is always willing to help those in need.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The personality section states Pikachu is willing to help those in need.",
+        "It links this to a 'strong sense of justice.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What shape is Pikachu's tail based on?",
+      "answer": "A lightning bolt.",
+      "evidence": "A small, yellow, rodent-like Pokemon with long ears tipped in black, a lightning bolt-shaped tail, and brown stripes on its back.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The tail is described as 'lightning bolt-shaped.'",
+        "This directly answers the question about its shape."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

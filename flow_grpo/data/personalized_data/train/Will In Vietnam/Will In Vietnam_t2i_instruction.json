@@ -1,0 +1,54 @@
+{
+  "description": "Will Courageux, known as 'Will in Vietnam,' is a French-Belgian content creator who traded his IT career for a life in Hanoi. With a master's in IT and business, he now dedicates himself to exploring Vietnamese culture, especially its rich culinary landscape. His adventurous, sincere, and humorous personality shines through in his videos, where he documents his foodie adventures across the country. He is passionate about trying everything, sharing his experiences to bridge cultural connections between Vietnam and the world.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Will In Vietnam leaning on a wooden beam, wearing a navy blue t-shirt, tousled dark hair, relaxed pose, beachside setting, partly cloudy sky, natural lighting, serene mood, ocean view in the background"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Will In Vietnam standing on a sandy beach, wearing a striped button-up shirt, sunglasses hanging on the shirt, lush green hills and a white statue in the background, relaxed pose, natural daylight, serene atmosphere"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Will In Vietnam sitting on a metal bench, wearing a white striped shirt, gesturing with hands, sunny day, blue sky with clouds, urban street scene, light-hearted mood, casual style, soft natural lighting"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Will In Vietnam standing casually, wearing a white t-shirt with #vtmgr text in red, short dark hair, relaxed posture, bamboo fence backdrop, outdoor setting, natural daylight, casual mood"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Will In Vietnam sitting outdoors, wearing a light blue button-up shirt, holding a spoon and bowl, lush green foliage in the background, relaxed atmosphere, daylight, casual and serene mood"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Will In Vietnam wearing a white t-shirt with 'care & share' text, seated in a bustling Vietnamese street food setting, warm ambient lighting, casual and relaxed mood, blurred background with glowing lights and people"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Will In Vietnam wearing a vibrant red jacket, black scarf, tousled curly hair, outdoor setting with tree branches in the background, casual pose, natural lighting, relaxed and adventurous mood"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Will In Vietnam pointing with sunglasses, wearing a dark button-up shirt, standing in front of a large wooden door, sunny day, casual pose, daytime outdoor setting, relaxed atmosphere"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Will In Vietnam in a relaxed pose, holding chopsticks with a piece of food, wearing a white shirt, indoor setting with a water cooler in the background, casual and cozy mood, soft lighting"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Will In Vietnam wearing a light grey button-up shirt with a small logo, standing with arms crossed, light brown hair, indoor setting with wooden wardrobe background, natural lighting, casual and relaxed mood"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Will In Vietnam enjoying a bowl of pho, holding chopsticks with one hand, spoon in the other, wearing a blue polo shirt, white tiled background, fresh herbs on the table, casual dining setting, natural lighting, relaxed atmosphere"
+    },
+    {
+      "image_id": "11",
+      "t2i_instruction": "Will In Vietnam giving a thumbs-up, wearing a blue button-up shirt, seated indoors, modern interior setting with wooden and stone elements, relaxed pose, contemporary style, soft natural lighting, casual atmosphere"
+    }
+  ]
+}

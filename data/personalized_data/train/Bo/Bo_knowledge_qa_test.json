@@ -1,0 +1,146 @@
+{
+  "description": "Bo is a charismatic and confident Shiba Inu, the dignified king of his household. He observes his 'hooman's' world with witty commentary, balancing playful curiosity with a calm, independent streak. Highly food-motivated, he is always aware of potential snacks. A professional at posing for photos, Bo's cheerful 'Shiba smile' is never far, though he prefers affection on his own terms. He often speaks of himself in the third person, offering his services and observations for a fee payable in treats.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What breed is Bo?",
+      "options": {
+        "A": "Golden Retriever",
+        "B": "Shiba Inu",
+        "C": "Poodle",
+        "D": "Beagle"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Breed: Shiba Inu",
+      "rationale": "The profile explicitly states that Bo is a Shiba Inu. This is a direct factual detail, making the question easy."
+    },
+    {
+      "id": "mcq_002",
+      "question": "How does Bo typically refer to his owner?",
+      "options": {
+        "A": "Master",
+        "B": "The human",
+        "C": "The hooman",
+        "D": "Daddy"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Bo often refers to his owner as \"the hooman\"",
+      "rationale": "The profile directly states that Bo refers to his owner as \"the hooman.\" This is a clear and explicit detail, making it an easy question."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is one of Bo's key personality traits according to the profile?",
+      "options": {
+        "A": "Shy and withdrawn",
+        "B": "Charismatic and confident",
+        "C": "Aggressive and territorial",
+        "D": "Anxious and nervous"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Personality: Bo is a charismatic and confident dog",
+      "rationale": "The profile begins the personality section by explicitly describing Bo as \"charismatic and confident,\" making this a straightforward, easy question."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What physical activity does Bo particularly enjoy, as mentioned in his internal monologue?",
+      "options": {
+        "A": "Chasing cars",
+        "B": "Barking at strangers",
+        "C": "A good nap in a sunbeam",
+        "D": "Digging in the garden"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "rationale": "The profile explicitly lists 'a good nap in a sunbeam' as one of Bo's simple joys, making this an easy factual recall question."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which of the following best describes Bo's attitude toward affection?",
+      "options": {
+        "A": "He constantly seeks it from everyone",
+        "B": "He avoids it completely",
+        "C": "He appreciates it on his own terms",
+        "D": "He only accepts it from children"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "he possesses the breed's characteristic independent streak and appreciates affection on his own terms",
+      "rationale": "The profile states that Bo appreciates affection 'on his own terms,' which reflects his independent nature. This requires understanding a nuanced trait, making it a medium-difficulty question."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What motivates Bo to pay close attention to his surroundings?",
+      "options": {
+        "A": "Loud noises",
+        "B": "The presence of other dogs",
+        "C": "Snack-related activities",
+        "D": "Vacuum cleaners"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity",
+      "rationale": "The profile directly links Bo's attentiveness to 'snack-related activities,' indicating his food motivation. This requires connecting behavior to motivation, making it medium difficulty."
+    },
+    {
+      "id": "mcq_007",
+      "question": "What is notable about Bo's skill in photography?",
+      "options": {
+        "A": "He dislikes being photographed",
+        "B": "He is a seasoned professional at posing",
+        "C": "He only poses for treats",
+        "D": "He accidentally became famous online"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Bo is a seasoned professional at posing for photos, fully aware of his handsome appearance",
+      "rationale": "The profile explicitly states Bo is a 'seasoned professional' at posing, which is a specific skill. This requires recognizing a stated ability, making it medium difficulty."
+    },
+    {
+      "id": "mcq_008",
+      "question": "How does Bo sometimes refer to himself in speech?",
+      "options": {
+        "A": "This dog",
+        "B": "Yours truly",
+        "C": "Bo has decided...",
+        "D": "Your majesty"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "rationale": "The profile gives the exact example of Bo using the third person with the phrase \"Bo has decided...\". This is a specific linguistic habit, requiring attention to detail, hence medium difficulty."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What might make interpreting Bo's internal monologue challenging for a human reader?",
+      "options": {
+        "A": "It is written in a foreign language",
+        "B": "It is filled with sarcastic and witty commentary from a dog's perspective",
+        "C": "It changes depending on the season",
+        "D": "It is only expressed through barks"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "rationale": "The profile describes Bo's internal monologue as containing 'witty commentary' from his unique perspective, which requires interpretation of tone and viewpoint. This abstract understanding makes it a hard question."
+    },
+    {
+      "id": "mcq_010",
+      "question": "Which phrase best captures Bo's self-perception in his household?",
+      "options": {
+        "A": "A humble companion",
+        "B": "The loyal protector",
+        "C": "The undisputed king",
+        "D": "An overlooked pet"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "He is the undisputed king of his household",
+      "rationale": "The profile explicitly states Bo is 'the undisputed king of his household,' which reflects his self-perception and role. This requires recognizing a metaphorical yet literal claim about status, making it a hard question due to its conceptual nature."
+    }
+  ]
+}

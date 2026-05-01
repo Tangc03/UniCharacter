@@ -1,0 +1,100 @@
+{"id": 0, "conversations": [{"from": "human", "value": "What game does Rin Tohsaka appear in as a guest character according to the PROFILE_TEXT?"}, {"from": "gpt", "value": "Mahjong Soul"}]}
+{"id": 1, "conversations": [{"from": "human", "value": "Which collaboration event features Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Fate/stay night: Heaven's Feel"}]}
+{"id": 2, "conversations": [{"from": "human", "value": "What is the objective of Riichi Mahjong as described in the PROFILE_TEXT?"}, {"from": "gpt", "value": "To be the first to complete a winning hand of 14 tiles."}]}
+{"id": 3, "conversations": [{"from": "human", "value": "What are the two types of sets that can make up a winning hand in Riichi Mahjong?"}, {"from": "gpt", "value": "Sequence and triplet"}]}
+{"id": 4, "conversations": [{"from": "human", "value": "What is required for a hand to be valid in Riichi Mahjong?"}, {"from": "gpt", "value": "At least one yaku"}]}
+{"id": 5, "conversations": [{"from": "human", "value": "What happens when a player declares 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "Their hand is locked, and they must discard any tile drawn that doesn't complete their hand."}]}
+{"id": 6, "conversations": [{"from": "human", "value": "What is the benefit of declaring 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "Increased hand value and chance to gain extra points if the player wins."}]}
+{"id": 7, "conversations": [{"from": "human", "value": "What is the requirement for a player to declare 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "Their hand must be one tile away from completion and concealed."}]}
+{"id": 8, "conversations": [{"from": "human", "value": "What is a 'yaku' in Riichi Mahjong?"}, {"from": "gpt", "value": "A winning combination required for a valid hand."}]}
+{"id": 9, "conversations": [{"from": "human", "value": "Which other *Fate* series characters join Rin Tohsaka at the mahjong table in Mahjong Soul?"}, {"from": "gpt", "value": "Sakura Matou and Saber"}]}
+{"id": 10, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's role at Homurahara Academy according to the PROFILE_TEXT?"}, {"from": "gpt", "value": "Top student"}]}
+{"id": 11, "conversations": [{"from": "human", "value": "What magical responsibility does Rin Tohsaka hold in Fuyuki City?"}, {"from": "gpt", "value": "Administrator of Fuyuki City's magical activities"}]}
+{"id": 12, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's height in centimeters?"}, {"from": "gpt", "value": "159cm"}]}
+{"id": 13, "conversations": [{"from": "human", "value": "When is Rin Tohsaka's birthday?"}, {"from": "gpt", "value": "February 3rd"}]}
+{"id": 14, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's blood type?"}, {"from": "gpt", "value": "O"}]}
+{"id": 15, "conversations": [{"from": "human", "value": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Kana Ueda"}]}
+{"id": 16, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's interest according to the PROFILE_TEXT?"}, {"from": "gpt", "value": "Jewelry polishing"}]}
+{"id": 17, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's preferred item in Mahjong Soul?"}, {"from": "gpt", "value": "Gemstones"}]}
+{"id": 18, "conversations": [{"from": "human", "value": "How can players obtain Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Through the game's gacha system during the collaboration event"}]}
+{"id": 19, "conversations": [{"from": "human", "value": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?"}, {"from": "gpt", "value": "No"}]}
+{"id": 20, "conversations": [{"from": "human", "value": "What does playing as Rin Tohsaka primarily offer in Mahjong Soul?"}, {"from": "gpt", "value": "A unique aesthetic and auditory experience with unique voice lines"}]}
+{"id": 21, "conversations": [{"from": "human", "value": "What is the name of the system that allows players to deepen their connection with Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Bond system"}]}
+{"id": 22, "conversations": [{"from": "human", "value": "What gift gives bonus Bond points when given to Rin Tohsaka?"}, {"from": "gpt", "value": "Gemstones"}]}
+{"id": 23, "conversations": [{"from": "human", "value": "What are the materials required to fully ascend Rin Tohsaka's Bond level in Mahjong Soul?"}, {"from": "gpt", "value": "50,000 Bond Points, Sphere of Honesty x10, Sphere of Wisdom x10, Heart of the Ocean x5, Wishing Stones x10, and Star Dust x100"}]}
+{"id": 24, "conversations": [{"from": "human", "value": "What special animated outfit for Rin Tohsaka was available during the collaboration event?"}, {"from": "gpt", "value": "Fated Night"}]}
+{"id": 25, "conversations": [{"from": "human", "value": "What is the main objective of Riichi Mahjong as described in the text?"}, {"from": "gpt", "value": "To be the first to complete a winning hand of 14 tiles, typically four sets of three and a pair."}]}
+{"id": 26, "conversations": [{"from": "human", "value": "What are the two types of sets that can be used to form a winning hand in Riichi Mahjong?"}, {"from": "gpt", "value": "Sequence and triplet."}]}
+{"id": 27, "conversations": [{"from": "human", "value": "What is required for a hand to be valid in Riichi Mahjong?"}, {"from": "gpt", "value": "At least one yaku."}]}
+{"id": 28, "conversations": [{"from": "human", "value": "What happens when a player declares 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "The player bets points, their hand is locked, and if they win, the hand value increases with a chance for extra points."}]}
+{"id": 29, "conversations": [{"from": "human", "value": "What must be true about a player's hand before they can declare riichi?"}, {"from": "gpt", "value": "The hand must be one tile away from completion and concealed."}]}
+{"id": 30, "conversations": [{"from": "human", "value": "Which game features Rin Tohsaka as a guest character from the *Fate/stay night: Heaven's Feel* collaboration?"}, {"from": "gpt", "value": "Mahjong Soul."}]}
+{"id": 31, "conversations": [{"from": "human", "value": "What role does Rin Tohsaka hold in Fuyuki City's magical community?"}, {"from": "gpt", "value": "Administrator of Fuyuki City's magical activities."}]}
+{"id": 32, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's height according to the profile?"}, {"from": "gpt", "value": "159cm."}]}
+{"id": 33, "conversations": [{"from": "human", "value": "On what date is Rin Tohsaka's birthday?"}, {"from": "gpt", "value": "February 3rd."}]}
+{"id": 34, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's blood type?"}, {"from": "gpt", "value": "O."}]}
+{"id": 35, "conversations": [{"from": "human", "value": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Kana Ueda."}]}
+{"id": 36, "conversations": [{"from": "human", "value": "What activity is listed as one of Rin Tohsaka's interests?"}, {"from": "gpt", "value": "Jewelry polishing."}]}
+{"id": 37, "conversations": [{"from": "human", "value": "What item does Rin Tohsaka prefer in Mahjong Soul?"}, {"from": "gpt", "value": "Gemstones."}]}
+{"id": 38, "conversations": [{"from": "human", "value": "How can players obtain Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Through the game's gacha system during the collaboration event."}]}
+{"id": 39, "conversations": [{"from": "human", "value": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?"}, {"from": "gpt", "value": "No, her presence is primarily cosmetic."}]}
+{"id": 40, "conversations": [{"from": "human", "value": "What kind of experience does playing as Rin Tohsaka provide in Mahjong Soul?"}, {"from": "gpt", "value": "A unique aesthetic and auditory experience with character-specific voice lines."}]}
+{"id": 41, "conversations": [{"from": "human", "value": "What is the name of the system in Mahjong Soul that allows players to deepen their connection with Rin Tohsaka?"}, {"from": "gpt", "value": "Bond system."}]}
+{"id": 42, "conversations": [{"from": "human", "value": "What are the materials required to fully ascend Rin Tohsaka's Bond level in Mahjong Soul?"}, {"from": "gpt", "value": "50,000 Bond Points, Sphere of Honesty x10, Sphere of Wisdom x10, Heart of the Ocean x5, Wishing Stones x10, and Star Dust x100."}]}
+{"id": 43, "conversations": [{"from": "human", "value": "What gift gives bonus Bond points when given to Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Gemstones."}]}
+{"id": 44, "conversations": [{"from": "human", "value": "What do players unlock upon reaching the maximum Bond level with Rin Tohsaka?"}, {"from": "gpt", "value": "Additional voice lines and emotes."}]}
+{"id": 45, "conversations": [{"from": "human", "value": "What special animated outfit for Rin Tohsaka was available during the collaboration event?"}, {"from": "gpt", "value": "Fated Night."}]}
+{"id": 46, "conversations": [{"from": "human", "value": "From which narrative is Rin Tohsaka's backstory in Mahjong Soul derived?"}, {"from": "gpt", "value": "The *Fate/stay night* series."}]}
+{"id": 47, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's status in the magical world as described in the profile?"}, {"from": "gpt", "value": "Descendant of a long line of magi and a skilled master in the Holy Grail War."}]}
+{"id": 48, "conversations": [{"from": "human", "value": "How does Rin Tohsaka's personality in Mahjong Soul compare to her portrayal in the *Fate* series?"}, {"from": "gpt", "value": "It is consistent with her portrayal in the *Fate* series."}]}
+{"id": 49, "conversations": [{"from": "human", "value": "What might Rin Tohsaka say upon winning a mahjong hand in the game?"}, {"from": "gpt", "value": "\"My victory! Now, I think I'll just help myself to everything.\""}]}
+{"id": 50, "conversations": [{"from": "human", "value": "What is the name of the game Rin Tohsaka appears in as a guest character?"}, {"from": "gpt", "value": "Mahjong Soul"}]}
+{"id": 51, "conversations": [{"from": "human", "value": "Which collaboration event features Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Fate/stay night: Heaven's Feel"}]}
+{"id": 52, "conversations": [{"from": "human", "value": "What is the objective of Riichi Mahjong as described in the profile?"}, {"from": "gpt", "value": "To be the first to complete a winning hand of 14 tiles."}]}
+{"id": 53, "conversations": [{"from": "human", "value": "What are the two types of sets that can form a winning hand in Riichi Mahjong?"}, {"from": "gpt", "value": "Sequence and triplet"}]}
+{"id": 54, "conversations": [{"from": "human", "value": "What must a hand contain to be valid in Riichi Mahjong?"}, {"from": "gpt", "value": "At least one yaku"}]}
+{"id": 55, "conversations": [{"from": "human", "value": "What is a 'yaku' in Riichi Mahjong?"}, {"from": "gpt", "value": "A winning combination that contributes to a hand's score."}]}
+{"id": 56, "conversations": [{"from": "human", "value": "What happens when a player declares 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "Their hand is locked, and they must discard any drawn tile that doesn't complete it."}]}
+{"id": 57, "conversations": [{"from": "human", "value": "What is the benefit of declaring 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "The hand value increases and there's a chance to gain extra points."}]}
+{"id": 58, "conversations": [{"from": "human", "value": "What requirement must be met for a player to declare 'riichi'?"}, {"from": "gpt", "value": "The hand must be one tile away from completion and concealed."}]}
+{"id": 59, "conversations": [{"from": "human", "value": "What school does Rin Tohsaka attend according to her biography?"}, {"from": "gpt", "value": "Homurahara Academy"}]}
+{"id": 60, "conversations": [{"from": "human", "value": "What role does Rin Tohsaka hold within the Tohsaka family?"}, {"from": "gpt", "value": "Head of the Tohsaka family"}]}
+{"id": 61, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's height in centimeters?"}, {"from": "gpt", "value": "159cm"}]}
+{"id": 62, "conversations": [{"from": "human", "value": "On what date is Rin Tohsaka's birthday?"}, {"from": "gpt", "value": "February 3rd"}]}
+{"id": 63, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's blood type?"}, {"from": "gpt", "value": "O"}]}
+{"id": 64, "conversations": [{"from": "human", "value": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Kana Ueda"}]}
+{"id": 65, "conversations": [{"from": "human", "value": "What is one of Rin Tohsaka's interests according to the profile?"}, {"from": "gpt", "value": "Jewelry polishing"}]}
+{"id": 66, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's preferred item in Mahjong Soul?"}, {"from": "gpt", "value": "Gemstones"}]}
+{"id": 67, "conversations": [{"from": "human", "value": "How can players obtain Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Through the game's gacha system during the collaboration event."}]}
+{"id": 68, "conversations": [{"from": "human", "value": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?"}, {"from": "gpt", "value": "No"}]}
+{"id": 69, "conversations": [{"from": "human", "value": "What aspect of Rin Tohsaka's presence in Mahjong Soul is primarily cosmetic?"}, {"from": "gpt", "value": "Her appearance and voice lines"}]}
+{"id": 70, "conversations": [{"from": "human", "value": "What system in Mahjong Soul allows players to deepen their connection with Rin Tohsaka?"}, {"from": "gpt", "value": "The Bond system"}]}
+{"id": 71, "conversations": [{"from": "human", "value": "What do players need to give Rin Tohsaka to increase her Bond level?"}, {"from": "gpt", "value": "Bond points through gameplay and gifts"}]}
+{"id": 72, "conversations": [{"from": "human", "value": "What gift gives bonus Bond points when given to Rin Tohsaka?"}, {"from": "gpt", "value": "Gemstones"}]}
+{"id": 73, "conversations": [{"from": "human", "value": "What are two materials required to fully ascend Rin Tohsaka's Bond level?"}, {"from": "gpt", "value": "Sphere of Honesty and Sphere of Wisdom"}]}
+{"id": 74, "conversations": [{"from": "human", "value": "What special animated outfit for Rin Tohsaka was available during the collaboration event?"}, {"from": "gpt", "value": "Fated Night"}]}
+{"id": 75, "conversations": [{"from": "human", "value": "What game does Rin Tohsaka appear in as a guest character according to the PROFILE_TEXT?"}, {"from": "gpt", "value": "Mahjong Soul"}]}
+{"id": 76, "conversations": [{"from": "human", "value": "Which series is Rin Tohsaka originally from?"}, {"from": "gpt", "value": "Fate/stay night"}]}
+{"id": 77, "conversations": [{"from": "human", "value": "What is the main objective of Riichi Mahjong as described in the PROFILE_TEXT?"}, {"from": "gpt", "value": "To be the first to complete a winning hand of 14 tiles."}]}
+{"id": 78, "conversations": [{"from": "human", "value": "What are the two types of sets that can be used to form a winning hand in Riichi Mahjong?"}, {"from": "gpt", "value": "Sequence and triplet"}]}
+{"id": 79, "conversations": [{"from": "human", "value": "What is required for a hand to be valid in Riichi Mahjong?"}, {"from": "gpt", "value": "At least one yaku"}]}
+{"id": 80, "conversations": [{"from": "human", "value": "What happens when a player declares 'riichi' in Riichi Mahjong?"}, {"from": "gpt", "value": "The player bets points and their hand is locked; they must discard any tile that doesn't complete the hand."}]}
+{"id": 81, "conversations": [{"from": "human", "value": "What is the consequence if a player draws a tile that does not complete their hand after declaring riichi?"}, {"from": "gpt", "value": "They must automatically discard it."}]}
+{"id": 82, "conversations": [{"from": "human", "value": "What are two examples of basic yaku mentioned in the PROFILE_TEXT?"}, {"from": "gpt", "value": "Triplet of dragon tiles or the prevalent wind tile"}]}
+{"id": 83, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's role at Homurahara Academy according to the PROFILE_TEXT?"}, {"from": "gpt", "value": "Top student"}]}
+{"id": 84, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's family role in Fuyuki City?"}, {"from": "gpt", "value": "Head of the Tohsaka family and administrator of Fuyuki City's magical activities"}]}
+{"id": 85, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's height in centimeters?"}, {"from": "gpt", "value": "159cm"}]}
+{"id": 86, "conversations": [{"from": "human", "value": "When is Rin Tohsaka's birthday?"}, {"from": "gpt", "value": "February 3rd"}]}
+{"id": 87, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's blood type?"}, {"from": "gpt", "value": "O"}]}
+{"id": 88, "conversations": [{"from": "human", "value": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Kana Ueda"}]}
+{"id": 89, "conversations": [{"from": "human", "value": "What is one of Rin Tohsaka's interests mentioned in the PROFILE_TEXT?"}, {"from": "gpt", "value": "Jewelry polishing"}]}
+{"id": 90, "conversations": [{"from": "human", "value": "What is Rin Tohsaka's preferred item in Mahjong Soul?"}, {"from": "gpt", "value": "Gemstones"}]}
+{"id": 91, "conversations": [{"from": "human", "value": "How can players obtain Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Through the game's gacha system during the collaboration event"}]}
+{"id": 92, "conversations": [{"from": "human", "value": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?"}, {"from": "gpt", "value": "No"}]}
+{"id": 93, "conversations": [{"from": "human", "value": "What aspect of gameplay does Rin Tohsaka enhance in Mahjong Soul?"}, {"from": "gpt", "value": "Aesthetic and auditory experience"}]}
+{"id": 94, "conversations": [{"from": "human", "value": "What feature of Rin Tohsaka includes unique voice lines for in-game actions?"}, {"from": "gpt", "value": "Playing as her in Mahjong Soul"}]}
+{"id": 95, "conversations": [{"from": "human", "value": "What is the name of the system that allows players to deepen their connection with Rin Tohsaka in Mahjong Soul?"}, {"from": "gpt", "value": "Bond system"}]}
+{"id": 96, "conversations": [{"from": "human", "value": "What materials are required to fully ascend Rin Tohsaka's Bond level in Mahjong Soul?"}, {"from": "gpt", "value": "50,000 Bond Points, Sphere of Honesty x10, Sphere of Wisdom x10, Heart of the Ocean x5, Wishing Stones x10, Star Dust x100"}]}
+{"id": 97, "conversations": [{"from": "human", "value": "What gift gives bonus Bond points when given to Rin Tohsaka?"}, {"from": "gpt", "value": "Gemstones"}]}
+{"id": 98, "conversations": [{"from": "human", "value": "What reward is unlocked when Rin Tohsaka's Bond level is maxed out?"}, {"from": "gpt", "value": "Additional voice lines and emotes"}]}
+{"id": 99, "conversations": [{"from": "human", "value": "What special animated outfit for Rin Tohsaka was available during the collaboration event?"}, {"from": "gpt", "value": "Fated Night"}]}

@@ -1,0 +1,56 @@
+You are an expert data constructor for QA datasets.
+
+Goal
+
+- From the PROFILE_TEXT below, create exactly 100 diverse, non-overlapping QA items that teach factual knowledge about the character Bo described by the profile.
+- These will be items 1 to 100 in a larger set.
+
+Source
+
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Bo**
+
+*   **Breed:** Shiba Inu
+*   **Personality:** Bo is a charismatic and confident dog who carries himself with a cheerful dignity. He is the undisputed king of his household and approaches life with a mix of playful curiosity and calm observation. While generally good-natured and quick to offer a "Shiba smile," he possesses the breed's characteristic independent streak and appreciates affection on his own terms. Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity. He is a seasoned professional at posing for photos, fully aware of his handsome appearance.
+*   **Linguistic Habits:** Bo's "voice" is that of a slightly pampered, intelligent observer of his human's world. He often refers to his owner as "the hooman" and sometimes speaks of himself in the third person ("Bo has decided..."). His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells.
+>>>
+```
+
+Output format
+
+- Produce a JSON array with 100 objects.
+- Each object must follow this schema:
+
+```json
+{
+  "id": "<string unique id from qa_001 to qa_100>",
+  "question": "<clear, unambiguous question answerable solely from PROFILE_TEXT>",
+  "answer": "<concise, correct answer grounded in PROFILE_TEXT>",
+  "evidence": "<verbatim snippet(s) from PROFILE_TEXT that support the answer>",
+  "type": "<one of: fact, definition, list, reasoning, comparison, timeline, procedure, numeric, quote, location, role, capability, limitation, preference>",
+  "difficulty": "<easy | medium | hard>",
+  "reasoning_steps": "<short bullet-like explanation of how the answer is derived from evidence>",
+  "confidence": "<0.0–1.0 reflecting certainty from PROFILE_TEXT coverage>"
+}
+```
+
+Constraints and guidelines
+
+- Grounding: Do not invent or guess. All answers must be fully supported by PROFILE_TEXT. If something is not stated, do not include a QA about it.
+- Coverage: Cover diverse aspects from PROFILE_TEXT (background, roles, projects, timelines, metrics, skills, tools, publications, awards, locations, preferences, constraints, aspirations).
+- Diversity: Vary question forms (wh-, yes/no, how/why, compare/contrast, list, numeric). Mix difficulties.
+- Granularity: Balance broad and fine-grained details. Prefer atomic facts over vague summaries.
+- Non-duplication: No two questions may target the same fact phrased differently. Each QA must add unique value.
+- Clarity: Questions must be self-contained, unambiguous, and use the same terminology as PROFILE_TEXT where possible.
+- Answers: Prefer short spans (1–30 words) unless a list or procedure is required.
+- Evidence: Quote minimal verbatim spans that directly support the answer. Do not paraphrase in "evidence".
+- Reasoning: When an answer requires synthesis, briefly outline the steps in "reasoning_steps".
+- Consistency: Use consistent units, names, and abbreviations as in PROFILE_TEXT.
+
+Deliverable
+
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 100 items with IDs from qa_001 to qa_100.

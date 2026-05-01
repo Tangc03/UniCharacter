@@ -1,0 +1,46 @@
+{
+  "description": "Rin Tohsaka is the highly capable heir to a magus family and a model student at Homurahara Academy. Beneath her prim and proper public persona lies a fiercely competitive, pragmatic, and resourceful individual who hates to lose. While often appearing demanding or sharp-tongued, she possesses a deeply caring nature for her friends, though she struggles to show it directly. She is proud, logical, and always strives for perfection in everything she does, from magecraft to mahjong.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Rin Tohsaka with a content smile, eyes closed, wearing a school uniform with a red ribbon, twin tails hairstyle with black bows, chibi anime art style, warm and cheerful mood, soft lighting"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Rin Tohsaka with a confident smirk, arms raised in a relaxed pose, brown twin-tails with black bows, wearing a white and brown outfit with a red ribbon, anime art style, close-up shot, playful mood, soft lighting"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Rin Tohsaka lying face down in a humorous exhausted pose, brown hair with ribbons, wearing black skirt and brown shoes, simple cartoon style, flat color palette, lighthearted mood, plain background"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Rin Tohsaka with a skeptical expression, pointing with a glowing red jewel on her finger, chibi art style, wearing a red top, large black hair bows, focused look, simple background, humorously serious mood, soft lighting"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Rin Tohsaka with a playful wink, flexing her arm in a confident pose, twin-tailed dark hair with orange cat ears, wearing a red outfit, chibi art style, cheerful mood, simple pink background"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Rin Tohsaka with a sly smile, hand covering mouth, long dark hair, wearing a red outfit, mischievous expression, close-up shot, anime art style, dim lighting, playful mood, dark background"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Rin Tohsaka with an exaggerated angry expression, mouth wide open, hands clenched, long dark hair, wearing a red blouse, cartoonish chibi art style, intense and humorous mood, dark red background, dynamic pose"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Rin Tohsaka with a mischievous smile, hand covering mouth, long dark hair with black bows, wearing a white blouse with red ribbon, chibi anime art style, warm lighting, playful mood, yellow circular background"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Rin Tohsaka with a puzzled expression, arched eyebrows, long dark hair tied with ribbons, wearing a brown vest and red tie, anime chibi art style, large pink question mark above head, bright lighting, humorous mood"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Rin Tohsaka with an angry expression, pointing aggressively, long dark hair styled with twin tails, wearing a white and red outfit, chibi anime art style, dynamic pose, red background, intense mood, bold outlines"
+    }
+  ]
+}

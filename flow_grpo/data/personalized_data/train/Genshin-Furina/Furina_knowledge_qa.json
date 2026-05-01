@@ -1,0 +1,1229 @@
+{
+  "description": "Introduced as the flamboyant and overconfident Hydro Archon, Furina's theatrics are eventually revealed to be a public persona, which she later discards in favor of living a relatively humbler life as an actress and artistic consultant.",
+  "opening": "Why are you just standing there? Don’t tell me you’re too excited to speak? That’s right — standing before you is none other than the superstar everyone in Fontaine knows — Furina! My schedule is very tight, so being able to meet me means your luck must be pretty good.",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Furina's full name?",
+      "answer": "Furina de Fontaine",
+      "evidence": "Full Name: Furina de Fontaine",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Furina's full name under the 'Basic Information' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What title did Furina hold before her role changed in the story?",
+      "answer": "The former Hydro Archon, The God of Justice",
+      "evidence": "Title: The former Hydro Archon, The God of Justice",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title is directly listed in the profile under the section 'Official Biography and Personality'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "In which region of Teyvat is Furina from?",
+      "answer": "Fontaine",
+      "evidence": "Region: Fontaine",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The region is explicitly stated in the profile under 'Basic Information'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What weapon does Furina wield in combat?",
+      "answer": "A sword",
+      "evidence": "Furina is a 5-star Hydro character who wields a sword.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon type is clearly stated in the 'Character Nature' description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What are the two Arkhe alignments Furina can switch between?",
+      "answer": "Ousia and Pneuma",
+      "evidence": "A unique aspect of her is the ability to switch between two \"Arkhe\" alignments: Ousia and Pneuma",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The two alignments are explicitly named in the profile under 'Character Nature'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "When was Furina first introduced in Genshin Impact?",
+      "answer": "August 2023",
+      "evidence": "First introduced in August 2023 with the release of the Fontaine region",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction date is directly stated in the profile under 'Basic Information'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "When did Furina become a playable character in the game?",
+      "answer": "November 2023",
+      "evidence": "She became a playable character in November 2023.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This date is explicitly mentioned in the profile under 'Basic Information'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is the name of the in-game location where Furina was often seen enjoying court drama?",
+      "answer": "Opera Epiclese",
+      "evidence": "often seen at the Opera Epiclese, enjoying the drama of the court.",
+      "type": "location",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The location is mentioned in the 'Basic Information' section as a place where Furina appeared frequently."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What was Furina's public persona as the Hydro Archon?",
+      "answer": "Flamboyant, arrogant, dramatic, and seemingly narcissistic",
+      "evidence": "As the Archon, she was flamboyant, arrogant, dramatic, and seemingly narcissistic.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The public persona is described in the 'Character and Personality Analysis' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What was the true nature of Furina's role as the Hydro Archon?",
+      "answer": "She was a human stand-in acting for 500 years to deceive the Heavenly Principles and save Fontaine.",
+      "evidence": "she was a human stand-in, acting the part of a god for 500 years as part of a grand plan to save her nation from a catastrophic prophecy.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she was not the true god but a human taking the role.",
+        "Her purpose was to deceive the Heavenly Principles as part of a 500-year plan."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What was the fate destined for the people of Fontaine according to the prophecy?",
+      "answer": "To be dissolved back into the primordial sea.",
+      "evidence": "This sin was destined to be absolved by a prophecy that would dissolve all Fontainians back into the primordial sea.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The prophecy's consequence is directly stated in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "Who was the true Hydro Archon who created the plan to save Fontaine?",
+      "answer": "Focalors",
+      "evidence": "The true Hydro Archon, Focalors, knew that the people of Fontaine... carried an 'original sin'...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The true Archon is named in the 'Background Story' as Focalors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What did Focalors do to separate her divinity from her human self?",
+      "answer": "She created two entities: Focalors (divine will) and Furina (human counterpart).",
+      "evidence": "She separated her divinity from her human body and spirit, creating two entities: Focalors, the divine will... and Furina, her human counterpart.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The process of separation is described in the 'Background Story'.",
+        "Focalors retained the divine aspect, while Furina became the human vessel."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "How long did Furina play the role of the Hydro Archon?",
+      "answer": "500 years",
+      "evidence": "Furina was cursed with immortality and given a single, agonizing task: to convincingly play the role of the Hydro Archon... for 500 years",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The duration is explicitly stated in the 'Background Story'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What was Furina cursed with during her 500-year role?",
+      "answer": "Immortality",
+      "evidence": "Furina was cursed with immortality and given a single, agonizing task...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The nature of her curse is directly mentioned in the 'Background Story'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What was the purpose of Furina's dramatic and flawed public image?",
+      "answer": "To deceive the Heavenly Principles into believing she was a real, imperfect god.",
+      "evidence": "Her purpose was to be the center of a grand play that would allow Focalors to accumulate enough Indemnitium to challenge the Heavenly Principles' authority",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Furina’s flawed persona was part of a deception.",
+        "This deception allowed Focalors to accumulate Indemnitium and challenge divine authority."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What happens when Furina uses her Charged Attack in gameplay?",
+      "answer": "She switches between her Ousia and Pneuma Arkhe alignments.",
+      "evidence": "Furina can switch between her Ousia and Pneuma alignments with a Charged Attack.",
+      "type": "procedure",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mechanic is explicitly stated in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What does Furina's Elemental Skill do in Ousia form?",
+      "answer": "It summons three 'Salon Members' that deal off-field Hydro damage by consuming HP of party members above 50% health.",
+      "evidence": "In this form, her Elemental Skill, \"Salon Solitaire,\" summons three \"Salon Members.\" These companions attack enemies, dealing significant off-field Hydro damage. To increase their damage, they consume the HP of all party members who are above 50% health.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The function of the skill in Ousia form is detailed in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What does Furina's Elemental Skill do in Pneuma form?",
+      "answer": "It summons the 'Singer of Many Waters,' which heals the active character based on Furina's Max HP.",
+      "evidence": "In this form, her Elemental Skill summons the \"Singer of Many Waters,\" which provides healing to the active character on the field based on Furina's Max HP.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Pneuma form's skill effect is clearly described in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What is the name of Furina's Elemental Burst?",
+      "answer": "Let the People Rejoice",
+      "evidence": "Elemental Burst: \"Let the People Rejoice\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The name is directly listed in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What effect does Furina's Elemental Burst have on the party?",
+      "answer": "It grants the 'Universal Revelry' state, where HP changes generate Fanfare, increasing party damage and healing bonuses.",
+      "evidence": "It deals AoE Hydro damage and puts the entire party into the \"Universal Revelry\" state. During this time, whenever any party member's HP increases or decreases, Furina gains \"Fanfare\" points... providing a Damage Bonus and Incoming Healing Bonus to the entire party.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The burst's effect is described in two parts: the state applied and the Fanfare mechanic.",
+        "Fanfare scales bonuses for the whole party."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "Why is a strong healer typically paired with Furina in gameplay?",
+      "answer": "To counteract HP drain from her Ousia skill and generate more Fanfare through healing.",
+      "evidence": "To maximize her potential and ensure survivability, she is almost always paired with a strong party-wide healer who can counteract the HP drain and generate even more Fanfare stacks through healing.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her Ousia form drains HP from the party.",
+        "Healing reverses HP loss and also generates Fanfare, enhancing her buffs."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What unique passive ability does Furina have during combat?",
+      "answer": "She can walk on water while her Salon Solitaire guests are active.",
+      "evidence": "A unique passive ability also allows her to walk on water while her Salon Solitaire guests are active.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The passive is explicitly mentioned in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What happens to Furina after the resolution of the Fontaine Archon Quest?",
+      "answer": "She is freed from her curse and lives as a human, pursuing acting and artistic consulting.",
+      "evidence": "After the resolution of the Fontaine Archon Quest, her official status changes, and she begins to live as a human, pursuing a career as an actress and artistic consultant.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The post-quest outcome is clearly described in the 'Role in the Game' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What does the duality of Furina's Ousia and Pneuma forms symbolize in her character design?",
+      "answer": "Her conflicting roles and the secret she carried as a human playing a god.",
+      "evidence": "Her design reflects this duality, with her Ousia (dark) and Pneuma (light) forms representing her conflicting roles and the secret she carried.",
+      "type": "symbolism",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The symbolic meaning is directly stated in the 'Character and Personality Analysis' section.",
+        "It ties to her internal conflict and hidden truth."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Furina's full name according to her profile?",
+      "answer": "Furina de Fontaine",
+      "evidence": "Full Name: Furina de Fontaine",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists Furina's full name under the 'Full Name' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What title did Furina hold as the Hydro Archon?",
+      "answer": "The God of Justice",
+      "evidence": "Title: The former Hydro Archon, The God of Justice",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists 'The God of Justice' as part of Furina's title."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "In which region of Teyvat is Furina from?",
+      "answer": "Fontaine",
+      "evidence": "Region: Fontaine",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile clearly states Furina's region under the 'Region' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "On what date is Furina's birthday?",
+      "answer": "October 13th",
+      "evidence": "Birthday: October 13th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile specifies Furina's birthday directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What weapon does Furina wield in the game?",
+      "answer": "A sword",
+      "evidence": "Furina is a 5-star Hydro character who wields a sword.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly mentions that Furina wields a sword."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What are the two Arkhe alignments Furina can switch between?",
+      "answer": "Ousia and Pneuma",
+      "evidence": "A unique aspect of her is the ability to switch between two \"Arkhe\" alignments: Ousia and Pneuma",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states that Furina can switch between Ousia and Pneuma."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "When was Furina first introduced in Genshin Impact?",
+      "answer": "August 2023",
+      "evidence": "First introduced in August 2023 with the release of the Fontaine region",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile specifies Furina's introduction date in the 'Basic Information' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "When did Furina become a playable character in Genshin Impact?",
+      "answer": "November 2023",
+      "evidence": "She became a playable character in November 2023.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly notes when Furina became playable."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What was Furina's role in the nation of Fontaine?",
+      "answer": "She served as the Hydro Archon, the god who presided over Fontaine, the land of Justice.",
+      "evidence": "In the world of Teyvat, Furina served as the Hydro Archon, the god who presided over the nation of Fontaine, the land of Justice.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states Furina's role in the 'Role in the Game' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What was Furina's true role revealed to be in the story?",
+      "answer": "A human stand-in who acted as the Hydro Archon for 500 years to save Fontaine from a prophecy.",
+      "evidence": "her true role is revealed to be far more complex and tragic: she was a human stand-in, acting the part of a god for 500 years as part of a grand plan to save her nation from a catastrophic prophecy.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explains that Furina was not the true god but a human performing a role.",
+        "This was done to deceive the Heavenly Principles and avert a prophecy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "Who was the true Hydro Archon behind Furina's role?",
+      "answer": "Focalors",
+      "evidence": "The true Hydro Archon, Focalors, knew that the people of Fontaine...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile identifies Focalors as the real Hydro Archon."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What was the 'original sin' of the people of Fontaine according to the Heavenly Principles?",
+      "answer": "They were created from Oceanids and carried an 'original sin' that destined them to be dissolved back into the primordial sea.",
+      "evidence": "The true Hydro Archon, Focalors, knew that the people of Fontaine, created from Oceanids by her predecessor Egeria, carried an 'original sin' in the eyes of the Heavenly Principles. This sin was destined to be absolved by a prophecy that would dissolve all Fontainians back into the primordial sea.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that the people were made from Oceanids and carried a sin.",
+        "This sin led to a prophecy of dissolution into the sea."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "How long did Furina play the role of the Hydro Archon?",
+      "answer": "500 years",
+      "evidence": "For 500 years, Furina lived a lonely and stressful existence...",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile repeatedly states that Furina performed her role for 500 years."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What did Focalors do to create Furina as her human counterpart?",
+      "answer": "She separated her divinity from her human body and spirit, creating Focalors (the divine will) and Furina (the human).",
+      "evidence": "She separated her divinity from her human body and spirit, creating two entities: Focalors, the divine will locked within the Oratrice Mecanique d'Analyse Cardinale, and Furina, her human counterpart.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes the separation of divinity from humanity.",
+        "This resulted in two beings: Focalors (divine) and Furina (human)."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What was Furina cursed with during her 500-year role?",
+      "answer": "Immortality",
+      "evidence": "Furina was cursed with immortality and given a single, agonizing task...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states that immortality was part of her curse."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What was the purpose of Furina's public persona as a dramatic and narcissistic Archon?",
+      "answer": "To convincingly deceive everyone, including the Heavenly Principles, into believing she was a flawed god.",
+      "evidence": "Her purpose was to be the center of a grand play that would allow Focalors to accumulate enough Indemnitium...",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The public persona was a necessary act to maintain the deception.",
+        "This deception was essential for Focalors to gather Indemnitium and challenge the Heavenly Principles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What happens to Furina after the resolution of the Fontaine Archon Quest?",
+      "answer": "She is freed from her curse and begins living as a human, pursuing acting and artistic consulting.",
+      "evidence": "After the resolution of the Fontaine Archon Quest, her official status changes, and she begins to live as a human, pursuing a career as an actress and artistic consultant.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes Furina's post-quest life.",
+        "She transitions from god-role to human life with a new career."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What are the two contrasting aspects of Furina's personality?",
+      "answer": "Her public persona was flamboyant and dramatic; her true self is resilient, patient, humble, and kind.",
+      "evidence": "Public Persona: As the Archon, she was flamboyant, arrogant, dramatic... True Self: Beneath the mask, Furina is incredibly resilient, patient... more humble, somewhat insecure... but also kind, curious, and eager to experience normal life.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile contrasts her public and private personalities.",
+        "The public side was performative; the true self emerged after her release."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What does Furina's Ousia form do in gameplay?",
+      "answer": "It summons three 'Salon Members' that deal off-field Hydro damage by consuming HP of party members above 50% health.",
+      "evidence": "Ousia (Default): In this form, her Elemental Skill, \"Salon Solitaire,\" summons three \"Salon Members.\" These companions attack enemies, dealing significant off-field Hydro damage. To increase their damage, they consume the HP of all party members who are above 50% health.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile details the mechanics of Ousia form.",
+        "It specifies the summoning of companions and HP consumption condition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What does Furina's Pneuma form do in gameplay?",
+      "answer": "It summons the 'Singer of Many Waters,' which heals the active character based on Furina's Max HP.",
+      "evidence": "Pneuma: In this form, her Elemental Skill summons the \"Singer of Many Waters,\" which provides healing to the active character on the field based on Furina's Max HP.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile clearly describes the function of the Pneuma form."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What is the name of Furina's Elemental Burst?",
+      "answer": "Let the People Rejoice",
+      "evidence": "Elemental Burst: \"Let the People Rejoice\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly names her Elemental Burst."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What effect does Furina's Elemental Burst have on the party?",
+      "answer": "It puts the party into 'Universal Revelry,' generating 'Fanfare' points when HP changes, increasing damage and healing bonuses.",
+      "evidence": "It deals AoE Hydro damage and puts the entire party into the \"Universal Revelry\" state. During this time, whenever any party member's HP increases or decreases, Furina gains \"Fanfare\" points. The more Fanfare she accumulates, the greater the Damage Bonus and Incoming Healing Bonus she provides to the entire party.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explains the burst's effects in detail.",
+        "HP fluctuations generate Fanfare, which scales buffs."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "How does Furina switch between her Ousia and Pneuma forms?",
+      "answer": "With a Charged Attack",
+      "evidence": "Furina can switch between her **Ousia** and **Pneuma** alignments with a Charged Attack.",
+      "type": "procedure",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile specifies the method to switch forms."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What unique passive ability does Furina have related to water?",
+      "answer": "She can walk on water while her Salon Solitaire guests are active.",
+      "evidence": "A unique passive ability also allows her to walk on water while her Salon Solitaire guests are active.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile mentions this passive ability directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "Why is Furina typically paired with a strong healer in gameplay?",
+      "answer": "To counteract the HP drain from her Ousia skill and generate more Fanfare through healing.",
+      "evidence": "To maximize her potential and ensure survivability, she is almost always paired with a strong party-wide healer who can counteract the HP drain and generate even more Fanfare stacks through healing.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Ousia form consumes HP, risking party survival.",
+        "Healers restore HP, which also generates Fanfare for her burst."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Furina's full name?",
+      "answer": "Furina de Fontaine",
+      "evidence": "* **Full Name:** Furina de Fontaine",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the profile under the 'Full Name' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What is Furina's title in the game?",
+      "answer": "The former Hydro Archon, The God of Justice",
+      "evidence": "* **Title:** The former Hydro Archon, The God of Justice",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title is directly listed in the profile under the 'Title' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "On what date is Furina's birthday?",
+      "answer": "October 13th",
+      "evidence": "* **Birthday:** October 13th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday is explicitly given in the profile under the 'Birthday' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Which region does Furina preside over as Archon?",
+      "answer": "Fontaine",
+      "evidence": "* **Region:** Fontaine",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The region is clearly listed under the 'Region' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What weapon does Furina wield in the game?",
+      "answer": "A sword",
+      "evidence": "Furina is a 5-star Hydro character who wields a sword.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon type is directly stated in the 'Character Nature' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What are the two 'Arkhe' alignments Furina can switch between?",
+      "answer": "Ousia and Pneuma",
+      "evidence": "A unique aspect of her is the ability to switch between two \"Arkhe\" alignments: Ousia and Pneuma",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The two alignments are explicitly named in the 'Character Nature' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "When was Furina first introduced in the game?",
+      "answer": "August 2023",
+      "evidence": "First introduced in August 2023 with the release of the Fontaine region",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction date is directly stated in the 'Basic Information' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "When did Furina become a playable character?",
+      "answer": "November 2023",
+      "evidence": "She became a playable character in November 2023.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The playable release date is explicitly mentioned in the 'Basic Information' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What is the name of the machine that holds the divine will of Focalors?",
+      "answer": "Oratrice Mecanique d'Analyse Cardinale",
+      "evidence": "Focalors, the divine will locked within the Oratrice Mecanique d'Analyse Cardinale",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The machine is named in the 'Background Story' section as the container for Focalors' divine will."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "How long did Furina act as the stand-in Hydro Archon?",
+      "answer": "500 years",
+      "evidence": "For 500 years, Furina lived a lonely and stressful existence... to convincingly play the role of the Hydro Archon",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The duration of her role is explicitly stated in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What was the purpose of Furina pretending to be the Hydro Archon?",
+      "answer": "To deceive the Heavenly Principles and save Fontaine from a prophecy that would dissolve all Fontainians into the primordial sea.",
+      "evidence": "Focalors devised a plan spanning five centuries... to convincingly play the role of the Hydro Archon, deceiving everyone, including the Heavenly Principles, into believing she was a flawed and overly dramatic god.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The plan was to deceive the Heavenly Principles.",
+        "The goal was to avert a prophecy that would dissolve Fontainians into the sea.",
+        "This is described in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "Who is the true Hydro Archon?",
+      "answer": "Focalors",
+      "evidence": "The true Hydro Archon, Focalors, knew that the people of Fontaine... carried an \"original sin\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Focalors is explicitly named as the true Hydro Archon in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What happens to Furina after the resolution of the Fontaine Archon Quest?",
+      "answer": "She begins to live as a human and pursues a career as an actress and artistic consultant.",
+      "evidence": "After the resolution of the Fontaine Archon Quest, her official status changes, and she begins to live as a human, pursuing a career as an actress and artistic consultant.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The post-quest outcome is directly stated in the 'Role in the Game' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What was the 'original sin' of the Fontainians according to the Heavenly Principles?",
+      "answer": "It was destined to be absolved by a prophecy that would dissolve all Fontainians back into the primordial sea.",
+      "evidence": "The true Hydro Archon, Focalors, knew that the people of Fontaine, created from Oceanids by her predecessor Egeria, carried an \"original sin\" in the eyes of the Heavenly Principles. This sin was destined to be absolved by a prophecy that would dissolve all Fontainians back into the primordial sea.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'original sin' is defined by its consequence: dissolution into the primordial sea via prophecy.",
+        "This is described in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What was Furina cursed with during her 500-year role as Archon?",
+      "answer": "Immortality",
+      "evidence": "Furina was cursed with immortality and given a single, agonizing task: to convincingly play the role of the Hydro Archon",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The curse is explicitly mentioned as immortality in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What is the name of Furina's Elemental Burst?",
+      "answer": "Let the People Rejoice",
+      "evidence": "* **Elemental Burst: \"Let the People Rejoice\"**",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The burst name is directly stated in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What does Furina's Ousia form do when her Elemental Skill is used?",
+      "answer": "Summons three 'Salon Members' that deal off-field Hydro damage by consuming HP of party members above 50% health.",
+      "evidence": "In this form, her Elemental Skill, **\"Salon Solitaire,\"** summons three \"Salon Members.\" These companions attack enemies, dealing significant off-field Hydro damage. To increase their damage, they consume the HP of all party members who are above 50% health.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Ousia form's skill is described in the 'Gameplay' section.",
+        "It summons Salon Members that deal Hydro damage and consume HP above 50%."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What does Furina's Pneuma form do when her Elemental Skill is used?",
+      "answer": "Summons the 'Singer of Many Waters' that heals the active character based on Furina's Max HP.",
+      "evidence": "In this form, her Elemental Skill summons the \"Singer of Many Waters,\" which provides healing to the active character on the field based on Furina's Max HP.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Pneuma form's skill is explicitly described in the 'Gameplay' section.",
+        "It provides healing based on Furina's Max HP."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "How does Furina switch between her Arkhe alignments?",
+      "answer": "With a Charged Attack",
+      "evidence": "Furina can switch between her **Ousia** and **Pneuma** alignments with a Charged Attack.",
+      "type": "procedure",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The method of switching is directly stated in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What state does Furina's Elemental Burst put the party into?",
+      "answer": "Universal Revelry",
+      "evidence": "It deals AoE Hydro damage and puts the entire party into the \"Universal Revelry\" state.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The state is explicitly named in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What triggers the gain of 'Fanfare' points during Furina's Burst?",
+      "answer": "Whenever any party member's HP increases or decreases.",
+      "evidence": "During this time, whenever any party member's HP increases or decreases, Furina gains \"Fanfare\" points.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trigger for Fanfare gain is explicitly stated in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What bonuses does Furina provide to the party as Fanfare increases?",
+      "answer": "Greater Damage Bonus and Incoming Healing Bonus",
+      "evidence": "The more Fanfare she accumulates, the greater the Damage Bonus and Incoming Healing Bonus she provides to the entire party.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The bonuses are directly listed in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "Why is Furina typically paired with a strong healer in gameplay?",
+      "answer": "To counteract the HP drain from her Ousia skill and generate more Fanfare stacks through healing.",
+      "evidence": "To maximize her potential and ensure survivability, she is almost always paired with a strong party-wide healer who can counteract the HP drain and generate even more Fanfare stacks through healing.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Ousia skill drains HP from party members above 50% health.",
+        "Healing generates Fanfare, which increases her buffs.",
+        "Thus, a healer both sustains the team and enhances her effectiveness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What unique passive ability does Furina have related to her Salon Solitaire guests?",
+      "answer": "She can walk on water while her Salon Solitaire guests are active.",
+      "evidence": "A unique passive ability also allows her to walk on water while her Salon Solitaire guests are active.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The passive ability is explicitly stated in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does Furina's true personality become after being freed from her role?",
+      "answer": "More humble, somewhat insecure, kind, curious, and eager to experience simple human joys.",
+      "evidence": "After being freed, her true personality emerges: she is more humble, somewhat insecure after centuries of acting, but also kind, curious, and eager to experience the simple joys of a normal human life she was long denied.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The post-freedom personality is described in the 'Character and Personality Analysis' section.",
+        "It contrasts with her public persona and includes humility, kindness, and curiosity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Furina's full name?",
+      "answer": "Furina de Fontaine",
+      "evidence": "* **Full Name:** Furina de Fontaine",
+      "type": "fact",
+      "difficulty": "easy",
+      "reason游戏副本_steps": [
+        "The full name is explicitly stated in the profile under 'Full Name'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What title did Furina hold in Fontaine?",
+      "answer": "The former Hydro Arch游戏副本, The God of Justice",
+      "evidence": "* **Title:** The former Hydro Archon, The God of Justice",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The titles are directly listed in the profile under 'Title'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "When was Furina first introduced in Genshin Impact?",
+      "answer": "August 2023",
+      "evidence": "First introduced in August 2023 with the release of the Fontaine region",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction date is explicitly mentioned in the 'Basic Information' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "When did Furina become a playable character?",
+      "answer": "November 2023",
+      "evidence": "She became a playable character in November 2023.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The playable release date is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What weapon does Furina wield?",
+      "answer": "A sword",
+      "evidence": "Furina is a 5-star Hydro character who wields a sword.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon type is explicitly mentioned in the 'Character Nature' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What are the two Arkhe alignments Furina can switch between?",
+      "answer": "Ousia and Pneuma",
+      "evidence": "A unique aspect of her is the ability to switch between two \"Arkhe\" alignments: Ousia and Pneuma",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The two alignments are directly named in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What does Furina's Ousia form do in gameplay?",
+      "answer": "Summons three 'Salon Members' that deal off-field Hydro damage by consuming HP of party members above 50% health.",
+      "evidence": "In this form, her Elemental Skill, \"Salon Solitaire,\" summons three \"Salon Members.\" These companions attack enemies, dealing significant off-field Hydro damage. To increase their damage, they consume the HP of all party members who are above 50% health.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The function of Ousia form is detailed in the 'Ousia (Default)' subsection of 'Gameplay'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What does Furina's Pneuma form do in gameplay?",
+      "answer": "Summons the 'Singer of Many Waters' which heals the active character based on Furina's Max HP.",
+      "evidence": "In this form, her Elemental Skill summons the \"Singer of Many Waters,\" which provides healing to the active character on the field based on Furina's Max HP.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The function of Pneuma form is explicitly described in the 'Pneuma' subsection of 'Gameplay'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "How does Furina switch between her Arkhe alignments?",
+      "answer": "With a Charged Attack",
+      "evidence": "Furina can switch between her **Ousia** and **Pneuma** alignments with a Charg游戏副本 Attack.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of switching is directly stated in the 'Arkhe Alignment' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What is the name of Furina's Elemental Burst?",
+      "answer": "Let the People Rejoice",
+      "evidence": "* **Elemental Burst: \"Let the People Rejoice\"**",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The name of the burst is explicitly listed in the 'Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What state does Furina's Elemental Burst apply to the party?",
+      "answer": "Universal Revelry",
+      "evidence": "It deals AoE Hydro damage and puts the entire party into the \"Universal Revelry\" state.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The state is directly mentioned in the description of her Elemental Burst."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "How does Furina gain Fanfare points during her Burst?",
+      "answer": "Whenever any party member's HP increases or decreases.",
+      "evidence": "During this time, whenever any party member's HP increases or decreases, Furina gains \"Fanfare\" points.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trigger for gaining Fanfare is clearly described in the Burst section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What does the accumulation of Fanfare enhance?",
+      "answer": "Damage Bonus and Incoming Healing Bonus for the entire party.",
+      "evidence": "The more Fanfare she accumulates, the greater the Damage Bonus and Incoming Healing Bonus she provides to the entire party.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The effect of Fanfare accumulation is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What unique passive ability does Furina have during her Salon Solitaire?",
+      "answer": "She can walk on water.",
+      "evidence": "A unique passive ability also allows her to walk on water while her Salon Solitaire guests are active.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The passive ability is directly mentioned in the gameplay section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "Who was the true Hydro Archon of Fontaine?",
+      "answer": "Focalors",
+      "evidence": "The true Hydro Archon, Focalors, knew that the people of Fontaine...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The true Archon's name is explicitly stated in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What was Furina's role in the 500-year plan to save Fontaine?",
+      "answer": "A human stand-in who pretended to be the Hydro Archon to deceive the Heavenly Principles.",
+      "evidence": "She was a human stand-in, acting the part of a god for 500 years as part of a grand plan to save her nation from a catastrophic prophecy.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The purpose of her role is explained in the 'Role in the Game' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What fate was prophesied for the people of Fontaine?",
+      "answer": "To be dissolved back into the primordial sea.",
+      "evidence": "This sin was destined to be absolved by a prophecy that would dissolve all Fontainians back into the primordial sea.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The prophecy's consequence is explicitly described in the background story."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What was the source of the 'original sin' of Fontainians?",
+      "answer": "They were created from Oceanids by Egeria.",
+      "evidence": "The people of Fontaine, created from Oceanids by her predecessor Egeria, carried an \"original sin\" in the eyes of the Heavenly Principles.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The origin of the sin is tied to their creation by Egeria from Oceanids."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What did Focalors do to separate her divinity from her human form?",
+      "answer": "She created two entities: Focalors (divine will) and Furina (human counterpart).",
+      "evidence": "She separated her divinity from her human body and spirit, creating two entities: Focalors, the divine will locked within the Oratrice Mecanique d'Analyse Cardinale, and Furina, her human counterpart.",
+      "type": "procedure",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The process of separation is described in the 'Background Story' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What was Furina cursed with during her 500-year role?",
+      "answer": "Immortality",
+      "evidence": "Furina was cursed with immortality and given a single, agonizing task...",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The curse is explicitly named in the background story."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What was the purpose of Furina's dramatic and narcissistic public persona?",
+      "answer": "To maintain a flawless act that deceived the world and the Heavenly Principles.",
+      "evidence": "This persona, however, was a carefully constructed mask, an act she had to maintain flawlessly for centuries. This theatricality was her primary defense and the tool for deceiving the world.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The purpose of her persona is explained as a necessary deception in the 'Character and Personality Analysis' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "How did Furina's true personality change after being freed from her role?",
+      "answer": "She became more humble, insecure, kind, curious, and eager to experience human life.",
+      "evidence": "After being freed, her true personality emerges: she is more humble, somewhat insecure after centuries of acting, but also kind, curious, and eager to experience the simple joys of a normal human life she was long denied.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The contrast between her public and post-freedom personality is detailed in the analysis section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What artistic field does Furina pursue after becoming human?",
+      "answer": "Theater, as an actress and artistic consultant.",
+      "evidence": "She begins to live as a human, pursuing a career as an actress and artistic consultant.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her post-role career is explicitly stated in the 'Role in the Game' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What key figure ultimately forgave the people of Fontaine and made them true humans?",
+      "answer": "Neuvillette",
+      "evidence": "...return the full authority over Hydro to the Dragon Sovereign, Neuvillette, who had the power to forgive the people of Fontaine and make them true humans.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Neuvillette's role in forgiving the people is directly stated in the background story."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "Why is a strong healer typically paired with Furina in gameplay?",
+      "answer": "To counteract the HP drain from her Ousia skill and generate more Fanfare through healing.",
+      "evidence": "To maximize her potential and ensure survivability, she is almost always paired with a strong party-wide healer who can counteract the HP drain and generate even more Fanfare stacks through healing.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The synergy between healing and Fanfare generation is explained in the gameplay section."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

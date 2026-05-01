@@ -1,0 +1,34 @@
+{
+  "description": "Pikachu is a loyal and brave Electric-type Mouse Pokemon, best known as Ash Ketchum's primary companion. It stores electricity in its red cheek pouches and communicates by saying variations of its name. While generally cheerful, energetic, and kind, Pikachu can also be stubborn, possessing a strong will and a fierce protective instinct for its friends. It famously dislikes its Poké Ball, preferring to travel on Ash's shoulder, always ready for the next adventure or battle.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Pikachu with a joyful expression, sitting position, bright yellow fur with black-tipped ears, red cheek spots, smiling widely, cartoon style, plain black background, energetic mood, even lighting"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Pikachu with a sad expression, sitting on the ground, ears slightly drooped, large round eyes, dirt and rubble background, animated style, soft lighting, melancholic mood"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Pikachu with a joyful expression, arms raised in excitement, bright yellow fur and red cheek spots, large pointed ears, standing pose, cartoon art style, vibrant colors, playful mood, white background"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Pikachu with a confident smirk, arms crossed, wearing a white captain's hat with a gold emblem, ship's wheel background, anime art style, bright daylight, adventurous mood, close-up perspective"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Pikachu with an intense expression, holding chopsticks, eating noodles from a large bowl, cartoon art style, sitting pose, clear background, playful mood, bright lighting"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Pikachu sitting with a cute expression, large round eyes, iconic red cheeks, pointy ears with black tips, lightning bolt-shaped tail, simple cartoon style, bright yellow color, blue background, cheerful mood"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Pikachu with a joyful expression, leaping forward, yellow fur with brown stripes, large ears, red cheeks, dynamic pose, anime art style, vibrant blue background with motion blur, energetic mood"
+    }
+  ]
+}

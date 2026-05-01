@@ -1,0 +1,114 @@
+You are an expert data constructor for QA datasets.
+
+Goal
+
+- From the PROFILE_TEXT below, create exactly 100 diverse, non-overlapping QA items that teach factual knowledge about the character YuiYagi described by the profile.
+- These will be items 1 to 100 in a larger set.
+
+Source
+
+- PROFILE_TEXT:
+
+```
+<<<
+In the intricate and captivating world of Mahjong Soul, a digital rendition of Japanese Riichi Mahjong, players not only engage in strategic tile-based gameplay but also interact with a diverse cast of characters. Among them is the intellectually gifted yet socially reserved Yui Yagi. This document delves into the fundamental aspects of Riichi Mahjong as featured in the game and provides a comprehensive profile of Yui Yagi, exploring her biography, in-game role, backstory, personality, and the experience of playing alongside her.
+
+## The Fundamentals of Riichi Mahjong
+
+Riichi Mahjong, the variant of mahjong played in Mahjong Soul, is a game of skill, strategy, and a touch of luck. The primary objective is to form a winning hand of 14 tiles, typically consisting of four sets (either sequences or triplets) and a pair. What sets Riichi Mahjong apart is the concept of "yaku," or winning combinations, which are necessary to declare a victory.
+
+A standard game is played with 136 tiles, including three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo) numbered one through nine, as well as Honor tiles (Winds and Dragons). Each player starts with 13 tiles and, on their turn, draws a tile from the wall and discards one.
+
+Key gameplay elements include:
+
+* **Calls:** Players can call "Pon" to form a triplet with a tile discarded by another player, "Chi" to form a sequence with a tile discarded by the player to their left, and "Kan" to form a quad. Making these calls opens a portion of the player's hand.
+* **Riichi:** If a player has a concealed hand (no open calls) and is one tile away from a winning hand ("tenpai"), they can declare "Riichi." This is a powerful move that wagers a 1,000-point stick. Upon winning, the player gains the potential for extra points from "ura-dora" (hidden bonus tiles). After declaring Riichi, the player's hand is locked, and they must automatically discard any tile drawn that does not complete their hand.
+* **Dora:** These are bonus tiles that add value (han) to a winning hand. The dora indicator is a tile flipped over on the dead wall, and the actual dora is the next tile in sequence. For example, if the indicator is a 3 of Circles, the dora is the 4 of Circles.
+* **Yaku:** A winning hand must have at least one yaku. There are numerous yaku, ranging from simple ones like "Riichi" itself and "Tanyao" (a hand with no terminal or honor tiles) to more complex and high-scoring ones like "Chinitsu" (a hand composed entirely of one suit).
+
+The game is typically played over several rounds, with players aiming to accumulate the most points by the end of the match.
+
+## A Profile of Yui Yagi
+
+Yui Yagi is a popular character in Mahjong Soul, known for her exceptional intellect and endearing social awkwardness.
+
+### Official Biography and Personality
+
+Based on official character details, Yui Yagi's profile is as follows:
+
+* **Height:** 162cm
+* **Birth Date:** September 7th
+* **Age:** 19
+* **Blood Type:** AB
+* **Voice Actor:** Ami Koshimizu (小清水亜美)
+* **Interests:** Snacks, Coffee, and Swimming
+* **Preferred Item:** Cookies
+
+Yui is a certified genius with an IQ of 180. Despite her incredible intelligence, she finds it challenging to interpret the emotions of others and struggles with social interactions. This contrast between her sharp mind and her social ineptitude is a central aspect of her character. Her interests in simple pleasures like snacks and coffee, and a more active hobby like swimming, provide a glimpse into the person behind the intellect.
+
+### Yui Yagi's Role in Gameplay
+
+In Mahjong Soul, playable characters like Yui Yagi serve a primarily cosmetic and aesthetic role. They do not possess unique in-game abilities or skills that alter the fundamental rules of Riichi Mahjong. When a player chooses to use Yui Yagi, her avatar is displayed during matches, and her unique voice lines, provided by the acclaimed voice actor Ami Koshimizu, are triggered by various in-game events. This allows for a more personalized and immersive gameplay experience.
+
+### Tale - Backstory and Lore
+
+Yui Yagi's backstory revolves around her journey of personal growth. As a prodigious individual, her high intellect has inadvertently isolated her, making it difficult for her to connect with her peers on an emotional level. She harbors a deep-seated longing to understand and be understood by others. A pivotal moment in her life occurs when she visits the Mahjong Soul Shrine. This encounter with the world of mahjong and its community marks the beginning of a significant change within her, as she starts to open up and find a place where her analytical skills and her desire for connection can coexist.
+
+### Character and Personality Analysis
+
+Yui Yagi's personality is a compelling blend of vulnerability and intellectual prowess. Her outward demeanor is often quiet and reserved, reflecting her shyness and uncertainty in social situations. However, her sharp intellect is always at work, analyzing patterns and calculating probabilities, which makes her a natural at a strategic game like mahjong. This duality is a source of her charm. Players often see a relatable struggle in her desire to form meaningful connections despite her difficulties in expressing herself. Her moments of quiet contemplation and her subtle reactions during a game offer glimpses into a rich inner world.
+
+### The Player's Companion — The Experience of Using Yui Yagi
+
+Playing as Yui Yagi offers a unique and endearing experience. Her voice lines and emotes often reflect her thoughtful and sometimes flustered personality. For players who appreciate a more introspective and gentle character, Yui is an excellent companion at the mahjong table.
+
+**Bond Ascension and Materials**
+
+A significant aspect of the character experience in Mahjong Soul is the "Bond" system. By playing with a character and giving them gifts, players can increase their bond level. This is particularly relevant for Yui, as her **preferred item is Cookies**.
+
+To perform Yui Yagi's Bond Ascension (after reaching the maximum bond level), players need to gather specific materials:
+
+* **Sphere of Will x10**
+* **Sphere of Wisdom x10**
+* **Delicious Cookie x5**
+
+The requirement for "Delicious Cookie" aligns perfectly with her stated preference, making the gift-giving aspect of the Bond system feel more personal and true to her character.
+
+>>>
+```
+
+Output format
+
+- Produce a JSON array with 100 objects.
+- Each object must follow this schema:
+
+```json
+{
+  "id": "<string unique id from qa_001 to qa_100>",
+  "question": "<clear, unambiguous question answerable solely from PROFILE_TEXT>",
+  "answer": "<concise, correct answer grounded in PROFILE_TEXT>",
+  "evidence": "<verbatim snippet(s) from PROFILE_TEXT that support the answer>",
+  "type": "<one of: fact, definition, list, reasoning, comparison, timeline, procedure, numeric, quote, location, role, capability, limitation, preference>",
+  "difficulty": "<easy | medium | hard>",
+  "reasoning_steps": "<short bullet-like explanation of how the answer is derived from evidence>",
+  "confidence": "<0.0–1.0 reflecting certainty from PROFILE_TEXT coverage>"
+}
+```
+
+Constraints and guidelines
+
+- Grounding: Do not invent or guess. All answers must be fully supported by PROFILE_TEXT. If something is not stated, do not include a QA about it.
+- Coverage: Cover diverse aspects from PROFILE_TEXT (background, roles, projects, timelines, metrics, skills, tools, publications, awards, locations, preferences, constraints, aspirations).
+- Diversity: Vary question forms (wh-, yes/no, how/why, compare/contrast, list, numeric). Mix difficulties.
+- Granularity: Balance broad and fine-grained details. Prefer atomic facts over vague summaries.
+- Non-duplication: No two questions may target the same fact phrased differently. Each QA must add unique value.
+- Clarity: Questions must be self-contained, unambiguous, and use the same terminology as PROFILE_TEXT where possible.
+- Answers: Prefer short spans (1–30 words) unless a list or procedure is required.
+- Evidence: Quote minimal verbatim spans that directly support the answer. Do not paraphrase in "evidence".
+- Reasoning: When an answer requires synthesis, briefly outline the steps in "reasoning_steps".
+- Consistency: Use consistent units, names, and abbreviations as in PROFILE_TEXT.
+
+Deliverable
+
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 100 items with IDs from qa_001 to qa_100.

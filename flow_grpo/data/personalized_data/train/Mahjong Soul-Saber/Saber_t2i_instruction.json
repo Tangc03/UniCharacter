@@ -1,0 +1,46 @@
+{
+  "description": "Saber is a powerful Servant from Fate/stay night, appearing in Mahjong Soul as a guest character. Renowned for her strength and loyalty, she is a serious and dignified knight. Though her petite frame belies her power, she is second to none in battle. Beneath her stoic exterior, she harbors a fondness for well-prepared meals and plush toys. She acts as a loyal protector to her Master, bound by fate and duty.",
+  "opening": "Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Saber with eyes closed, calm expression, blonde hair with single ahoge, wearing blue and white armor with intricate design, anime chibi style, neutral mood, soft lighting, minimalistic background"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Saber with a skeptical expression, blonde hair in a braid, blue and silver armor, chibi art style, neutral mood, minimalistic background with five black dots"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Saber with a playful expression, chibi style, blonde hair in a braid, blue eyes, wearing blue and silver armor, smiling with a wink, pink background with cherry blossom petals, cute and cheerful mood"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Saber with a determined expression, holding a large knife, blonde hair with a blue ribbon, wearing a white shirt, anime art style, bold outlines, intense mood, dramatic lighting, dark background"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Saber with wide-eyed surprise, chibi style, blonde hair with braid and ahoge, wearing a white blouse and blue ribbon, sparkling background, anime art style, bright and cheerful mood, soft lighting"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Saber with a serene expression, side profile view, blonde braided hair with blue ribbon, wearing white blouse, anime art style, soft lighting, calm and peaceful mood, minimalist white background"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Saber with a determined expression, tears in her eyes, blond hair styled in a bun with a blue ribbon, wearing a blue and white outfit, anime art style, focused mood, close-up shot, dim lighting, dark blue background"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Saber with an intense expression, shouting in action, golden blonde hair styled in a braid, wearing a blue and white armor, dynamic pose with energy lines, anime art style, vibrant colors, energetic mood, close-up shot"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Saber with a downward gaze, blonde hair covering eyes, blue and white outfit with blue ribbon, anime chibi art style, dark background, somber mood, soft lighting"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Saber with an angry expression, chibi style, blonde hair with ahoge, teal eyes, wearing blue and silver armor, mouth open with sharp teeth, red angry symbol above head, cartoonish art style, vibrant colors, dynamic pose"
+    }
+  ]
+}

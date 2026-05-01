@@ -1,0 +1,18 @@
+{
+  "description": "Rin Tohsaka is the highly capable heir to a magus family and a model student at Homurahara Academy. Beneath her prim and proper public persona lies a fiercely competitive, pragmatic, and resourceful individual who hates to lose. While often appearing demanding or sharp-tongued, she possesses a deeply caring nature for her friends, though she struggles to show it directly. She is proud, logical, and always strives for perfection in everything she does, from magecraft to mahjong.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Rin Tohsaka with a distressed expression, eyes obscured by shadow, tears streaming, brown twin-tailed hair with black ribbons, wearing a brown and white outfit, chibi art style, dramatic mood, emphasis on emotional turmoil"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Rin Tohsaka with a frustrated expression, head slightly bowed, eyes closed, wearing a school uniform with red ribbon, chibi art style, dark brown twin-tail hair with bows, simple blue background, humorous mood"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Rin Tohsaka with long dark hair, wearing a red and white school uniform, anime art style, neutral expression, black background, focus on upper body, elegant and composed mood, detailed hair and clothing"
+    }
+  ]
+}

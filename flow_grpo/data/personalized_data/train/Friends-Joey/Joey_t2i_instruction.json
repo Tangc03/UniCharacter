@@ -1,0 +1,50 @@
+{
+  "description": "Joey Tribbiani is a charming, loyal, and simple-minded aspiring actor from Queens. He is fiercely devoted to his friends and comes from a large Italian-American family. While not the sharpest, his good nature shines through. He is famous for his insatiable appetite, his refusal to share food, and his iconic pick-up line, 'How you doin'?'. Despite his struggles as an actor, his optimism and love for life are unshakable.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Joey gesturing with both hands spread wide, wearing a casual gray sweater, messy hair, indoors with dim lighting, cozy atmosphere, background features a person at a piano, warm and relaxed mood"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Joey wearing a dark blue button-up shirt, standing in a warmly lit room, casual pose, 90s sitcom style, neutral expression, soft interior background with muted colors"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Joey holding a pineapple with a curious expression, wearing a plaid shirt, seated on a dark blue couch, cozy living room setting, warm ambient lighting, casual and humorous mood, 90s sitcom style"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Joey standing in a softly lit room, wearing a dark shirt, relaxed posture, short dark hair, neutral expression, casual indoor setting, warm and cozy atmosphere, television sitcom style"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Joey sitting on a cozy couch with a casual outfit, holding a slice of pizza mid-bite, relaxed and laid-back mood, cozy kitchen background, soft lighting, sitcom art style"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Joey wearing a maroon shirt with white text, sitting in a dimly lit room, dark wavy hair, cozy and mysterious ambiance, vintage poster in the background, afternoon light filtering through blinds, serene expression, cinematic mood"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Joey sitting casually, wearing a red turtleneck sweater, relaxed posture, indoors, cozy living room setting, dim lighting, warm and inviting atmosphere, leaning slightly forward, surrounded by dark wooden furniture and green plants"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Joey sitting casually, relaxed pose, wearing a dark button-up shirt, indoors setting with soft lighting, subtle smile, modern art style, cozy and comfortable atmosphere"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Joey leaning forward, wearing an open plaid shirt, casual setting, dim indoor lighting, cozy apartment background, relaxed mood, sitcom style"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Joey wearing a dark brown patterned sweater, sitting casually on a beige couch, dimly lit cozy indoor setting, relaxed atmosphere, early 90s style, subtle background with blurred figures and furniture"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Joey wearing a green plaid shirt over a white t-shirt, sitting casually on a yellow couch in a cozy apartment setting, warm indoor lighting, relaxed mood, 1990s sitcom style"
+    }
+  ]
+}

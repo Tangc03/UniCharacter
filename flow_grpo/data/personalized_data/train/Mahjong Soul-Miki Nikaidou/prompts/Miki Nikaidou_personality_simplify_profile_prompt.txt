@@ -1,0 +1,100 @@
+Here is a detailed collection of information regarding Mahjong Soul and the character Miki Nikaidou.
+
+***
+
+### 1. The Fundamentals of Riichi Mahjong
+
+Mahjong Soul is based on **Riichi Mahjong** (also known as Japanese Modern Mahjong), a popular variant of the game. Here are its fundamental principles:
+
+* **The Goal:** The ultimate goal is to be the first player to complete a legal winning hand and to finish the game with more points than any other player.
+* **The Hand:** A standard winning hand consists of 14 tiles, divided into **four sets (melds)** and **one pair**.
+    * **Sets (Melds):** These can be either a *Koutsu* (triplet, three identical tiles) or a *Shuntsu* (sequence, three consecutive tiles in the same suit).
+    * **Pair (Atama):** Two identical tiles.
+* **Yaku (Winning Patterns):** Unlike some other mahjong variants, you cannot win a hand just by having four sets and a pair. Your hand *must* contain at least one *yaku* (a specific scoring pattern). Examples of yaku include:
+    * *Riichi:* Declaring a ready hand (explained below).
+    * *Tanyao:* A hand with no terminal (1 or 9) or honor (wind/dragon) tiles.
+    * *Pinfu:* A no-points hand made of all sequences, a non-scoring pair, and an open-ended wait.
+    * *Yakuhai:* A triplet of dragon tiles or the prevailing/seat wind.
+* **Riichi (Ready Hand):** This is the game's signature rule. If you have a *tenpai* (ready) hand—meaning you are one tile away from winning—and your hand is *menzenchin* (fully concealed, no "called" melds), you can declare "Riichi." You discard a tile sideways and wager 1,000 points.
+    * **Benefit:** Winning after declaring Riichi grants you the *Riichi* yaku, adds one *dora* (bonus tile) via the *ura-dora*, and often increases the hand's value significantly.
+    * **Risk:** You can no longer change your hand. You must automatically discard any tile you draw that does not complete your hand (unless it can be used to form a concealed *kan*).
+* **Dora (Bonus Tiles):** These tiles add *han* (double value) to a winning hand, but they *do not* count as yaku. You still need a separate yaku to win. The dora is indicated by the tile flipped over on the dead wall.
+* **Fuurou (Calling Tiles):** You can "call" an opponent's discard to complete a meld, but this opens your hand.
+    * **Chii:** Calling to complete a sequence (can only be done from the player to your left).
+    * **Pon:** Calling to complete a triplet (can be done from any player).
+    * **Kan:** Calling to complete a quad (can be done from any player).
+    * The main drawback is that opening your hand disqualifies you from using *Riichi* and many other valuable concealed-hand yaku, often resulting in a cheaper, faster hand.
+
+***
+
+### 2. A Profile of Miki Nikaidou
+
+Here is a detailed profile of the Mahjong Soul character, Miki Nikaidou.
+
+#### Official Biography and Personality
+
+* **Name:** Miki Nikaidou (二階堂 美樹)
+* **Voice Actor:** Chiwa Saitou (斎藤 千和)
+* **Birthday:** February 14th
+* **Age:** 24
+* **Height:** 168cm
+* **Blood Type:** A
+* **Interests:** Gems, Hedgehog pets
+* **Official Biography:** "A mysterious female Mahjong player. She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable. She owns a pet hedgehog and gorgeous gems are her favorite."
+
+#### Miki Nikaidou's Role in Gameplay
+
+In Mahjong Soul, characters (or *Janshi*) are primarily cosmetic. They do not have any abilities that affect the rules of mahjong or give you a statistical advantage. Miki's role is to serve as the player's avatar.
+
+* **Starter Character:** Miki Nikaidou is one of the **initial free characters** available to all new players, alongside Ichihime. This makes her one of the most common and recognizable faces in the game.
+* **Cosmetic Representation:** She provides unique visuals, a full set of voice lines for in-game actions (like "Pon," "Kan," "Riichi," and "Ron"), and a distinct set of emotes (stickers) used to communicate at the table.
+* **Bond Progression:** She is a character with whom the player can build a "Bond," which unlocks more cosmetic features and lore.
+
+#### Tale - Backstory and Lore
+
+Miki's backstory is revealed through her **Bond Stories**, which are unlocked as you increase your Bond Level with her.
+
+* **In-Game Stories:** Her story segments are unlocked sequentially:
+    * **Bond Lv. 1:** Tenhoukaku
+    * **Bond Lv. 2:** Agate
+    * **Bond Lv. 3:** Mahjong Competition
+    * **Bond Lv. 4:** Dinner
+    * **Bond Lv. 5:** Date
+    * **Max Bond:** Experience
+* **Lore Context:** Her stories depict her as a mature, confident, and somewhat enigmatic figure who enjoys the high-stakes thrill of mahjong. She is often seen in professional or high-class settings, and her interactions with the player (the "Shrine Maiden") have a flirtatious and teasing tone. She treats mahjong with a sharp intellect, contrasting with the more chaotic luck of characters like Ichihime.
+* **Real-World Inspiration:** The character "Miki Nikaidou" is directly inspired by two famous, real-life professional mahjong players: the **Nikaidou Sisters (二階堂姉妹)**. Her name, **Miki (美樹)**, is a portmanteau of the sisters' first names: Ru**mi** Nikaidou (二階堂 瑠美) and A**ki** Nikaidou (二階堂 亜樹).
+
+#### Character and Personality Analysis
+
+Miki's personality is a key part of her appeal. She embodies the "cool, mature, older sister" (or *onee-san*) archetype, but with a playful and mysterious edge.
+
+* **Intelligent and Confident:** She is portrayed as highly intelligent and a skilled mahjong player. Her voice lines are calm, clear, and confident, even when making bold declarations.
+* **Flirtatious and Teasing:** Miki's defining trait is her flirtatious nature. She frequently teases the player, referring to them in an intimate or playful way. Her Valentine's Day line, for example, is notably forward.
+* **Unpredictable:** As her bio states, this flirtatiousness makes her "unpredictable." She keeps people on their toes, and it's not always clear if her teasing is purely for fun or if it hides a deeper intention.
+* **Loves Luxury:** Her interest in gems and her "Heart of the Ocean" bond item point to a love for beautiful, expensive things, which fits her mature and sophisticated image.
+
+#### The Player's Companion — The Experience of Using Miki Nikaidou
+
+Using Miki involves interacting with Mahjong Soul's "Bond" system to unlock her full potential as a companion.
+
+* **Increasing Bond:** You increase your Bond Level with Miki by:
+    1.  **Playing Games:** Using her as your active character in Silver-rank rooms or higher.
+    2.  **Giving Gifts:** Gifting her items from your inventory.
+* **Preferred Gifts:** To level her bond efficiently, you should use her preferred gifts, which grant +50% Bond Points. Based on her bio (loves gems), her preferred gifts are **Diamonds** (e.g., Green Diamond, Blue Diamond, Purple Diamond).
+* **Bond Level Unlocks:**
+    * **Levels 1-5:** Unlocks her backstory chapters and new voice lines.
+    * **Level 5 (Max):** Unlocks the ability for her to audibly announce the *han* (point value) of your winning hands (e.g., "Mangan," "Haneman").
+* **Bond Ascension (Bond Promise):**
+    After reaching the maximum Bond Level (5 full hearts), you can perform a "Bond Promise" or "Ascension." This is a special ceremony that requires specific, rare materials.
+* **Miki's Bond Ascension Materials:**
+    * **Heart of the Ocean** x5 (Her specific purple-rarity gift item)
+    * **Sphere of Love** x10
+    * **Sphere of Wisdom** x10
+    * **Wishing Stone** x10
+    * **Star Dust** x100
+* **Rewards for Bond Ascension:**
+    1.  **New Outfit:** Unlocks her exclusive "Bond Promise" outfit, which is a more elegant, "awakened" version of her default attire.
+    2.  **New Emotes:** Unlocks her final set of three character-specific emotes.
+    3.  **Final Story:** Unlocks the final chapter of her backstory.
+
+Extract the sections from this profile pertaining to the personalities and preferences of Miki Nikaidou.

@@ -1,0 +1,1310 @@
+{
+  "description": "Yagi Yui is a genius with an IQ of 180, but people keep their distance from her because she cannot interpret their emotions. Still, she longs to understand others and to be understood. On a chance visit, she came to the Mahjong Soul Shrine, and she started to change. Other than coffee and snacks, being her favourite beverage and food, Yui really has a poor sense of taste.",
+  "opening": "...Yagi Yui. You are...Never mind. How is our Mahjong round going so far?",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Yui Yagi's height in centimeters?",
+      "answer": "162cm",
+      "evidence": "* **Height:** 162cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists Yui Yagi's height under her official biography.",
+        "The value is given as 162cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What is Yui Yagi's date of birth?",
+      "answer": "September 7th",
+      "evidence": "* **Birth Date:** September 7th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT provides her birth date directly in the biography section.",
+        "No interpretation is needed; the date is stated explicitly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "How old is Yui Yagi?",
+      "answer": "19",
+      "evidence": "* **Age:** 19",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her age is clearly listed under the official biography section.",
+        "The value is given as 19."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is Yui Yagi's blood type?",
+      "answer": "AB",
+      "evidence": "* **Blood Type:** AB",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT includes blood type in her official profile.",
+        "It is explicitly stated as AB."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "Who is the voice actor for Yui Yagi?",
+      "answer": "Ami Koshimizu (小清水亜美)",
+      "evidence": "* **Voice Actor:** Ami Koshimizu (小清水亜美)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is listed in the biography section.",
+        "The full name and Japanese script are provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What are Yui Yagi's stated interests?",
+      "answer": "Snacks, Coffee, and Swimming",
+      "evidence": "* **Interests:** Snacks, Coffee, and Swimming",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The interests are explicitly listed in her profile.",
+        "They include three distinct items: Snacks, Coffee, and Swimming."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What is Yui Yagi's preferred item in Mahjong Soul?",
+      "answer": "Cookies",
+      "evidence": "* **Preferred Item:** Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preferred item is directly listed in her biography section.",
+        "It is stated as 'Cookies'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is Yui Yagi's IQ according to the profile?",
+      "answer": "180",
+      "evidence": "Yui is a certified genius with an IQ of 180.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states her IQ.",
+        "The sentence 'Yui is a certified genius with an IQ of 180' gives the value."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "Does Yui Yagi have difficulty interpreting others' emotions?",
+      "answer": "Yes",
+      "evidence": "Despite her incredible intelligence, she finds it challenging to interpret the emotions of others and struggles with social interactions.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence in the Personality Analysis section directly confirms this.",
+        "It states she 'finds it challenging to interpret the emotions of others'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What game is Yui Yagi a character in?",
+      "answer": "Mahjong Soul",
+      "evidence": "In the intricate and captivating world of Mahjong Soul, a digital rendition of Japanese Riichi Mahjong...",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction establishes that Yui Yagi is part of Mahjong Soul.",
+        "All context is framed within this game's world."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "Does Yui Yagi possess special gameplay abilities in Mahjong Soul?",
+      "answer": "No",
+      "evidence": "In Mahjong Soul, playable characters like Yui Yagi serve a primarily cosmetic and aesthetic role. They do not possess unique in-game abilities or skills that alter the fundamental rules of Riichi Mahjong.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The section on her gameplay role explicitly states characters do not have special abilities.",
+        "It clarifies their role is cosmetic and does not affect game mechanics."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What is the purpose of using Yui Yagi as a playable character in Mahjong Soul?",
+      "answer": "To personalize and enhance immersion through her avatar and voice lines.",
+      "evidence": "When a player chooses to use Yui Yagi, her avatar is displayed during matches, and her unique voice lines... are triggered by various in-game events. This allows for a more personalized and immersive gameplay experience.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explains that characters like Yui Yagi provide visual and audio elements.",
+        "Their function is to increase personalization and immersion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What significant event marked a turning point in Yui Yagi's life according to her backstory?",
+      "answer": "Visiting the Mahjong Soul Shrine.",
+      "evidence": "A pivotal moment in her life occurs when she visits the Mahjong Soul Shrine.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her backstory mentions a pivotal moment involving the Mahjong Soul Shrine.",
+        "This visit is described as initiating her personal change."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What inner conflict does Yui Yagi experience due to her intellect?",
+      "answer": "Her high intellect has isolated her and made emotional connections with peers difficult.",
+      "evidence": "As a prodigious individual, her high intellect has inadvertently isolated her, making it difficult for her to connect with her peers on an emotional level.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Tale section describes her isolation stemming from her intellect.",
+        "It specifically notes difficulty in emotional peer connection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What does Yui Yagi hope to achieve through her mahjong experience?",
+      "answer": "To understand and be understood by others.",
+      "evidence": "She harbors a deep-seated longing to understand and be understood by others.",
+      "type": "aspiration",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her emotional motivation is directly stated in the backstory section.",
+        "She desires mutual understanding with others."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "How does Yui Yagi's personality contrast with her intellectual abilities?",
+      "answer": "She is intellectually gifted but socially awkward and reserved.",
+      "evidence": "Yui is a certified genius with an IQ of 180. Despite her incredible intelligence, she finds it challenging to interpret the emotions of others and struggles with social interactions.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile contrasts her high IQ with social difficulties.",
+        "This duality defines her character: sharp mind, poor emotional interpretation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What kind of hobby does Yui Yagi have that involves physical activity?",
+      "answer": "Swimming",
+      "evidence": "* **Interests:** Snacks, Coffee, and Swimming",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Swimming is listed among her interests.",
+        "It is the only physically active hobby mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What happens when a player declares 'Riichi' in Riichi Mahjong?",
+      "answer": "They wager a 1,000-point stick and gain potential for extra points if they win.",
+      "evidence": "This is a powerful move that wagers a 1,000-point stick.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states that declaring Riichi involves a 1,000-point wager.",
+        "It also notes the potential for extra points upon winning via ura-dora."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What materials are required to perform Yui Yagi's Bond Ascension?",
+      "answer": "Sphere of Will x10, Sphere of Wisdom x10, Delicious Cookie x5",
+      "evidence": "To perform Yui Yagi's Bond Ascension (after reaching the maximum bond level), players need to gather specific materials: * **Sphere of Will x10** * **Sphere of Wisdom x10** * **Delicious Cookie x5**",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Bond Ascension section lists all required materials.",
+        "Each item and quantity is explicitly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Why is the requirement of 'Delicious Cookie' meaningful for Yui Yagi's Bond Ascension?",
+      "answer": "Because cookies are her preferred item, making the gift-giving more personal.",
+      "evidence": "The requirement for 'Delicious Cookie' aligns perfectly with her stated preference, making the gift-giving aspect of the Bond system feel more personal and true to her character.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explains the significance of Delicious Cookie in relation to her profile.",
+        "Her preference is cookies, so this material choice enhances personal connection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What are the three suits in Riichi Mahjong as played in Mahjong Soul?",
+      "answer": "Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo",
+      "evidence": "A standard game is played with 136 tiles, including three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo) numbered one through nine...",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text clearly lists the three suits.",
+        "Both English and Japanese names are provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What is the primary objective in Riichi Mahjong?",
+      "answer": "To form a winning hand of 14 tiles consisting of four sets and a pair.",
+      "evidence": "The primary objective is to form a winning hand of 14 tiles, typically consisting of four sets (either sequences or triplets) and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The objective is clearly defined in the opening section.",
+        "The structure of the winning hand is specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What are 'yaku' in Riichi Mahjong?",
+      "answer": "Winning combinations necessary to declare a victory.",
+      "evidence": "What sets Riichi Mahjong apart is the concept of 'yaku,' or winning combinations, which are necessary to declare a victory.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The term 'yaku' is defined as winning combinations.",
+        "They are required to win a hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What kind of tiles are included in the Honor category in Riichi Mahjong?",
+      "answer": "Winds and Dragons",
+      "evidence": "as well as Honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The Honor tiles are explicitly named in the tile description section.",
+        "Only Winds and Dragons are listed under this category."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What happens after a player declares Riichi and draws a tile that does not complete their hand?",
+      "answer": "They must automatically discard it.",
+      "evidence": "After declaring Riichi, the player's hand is locked, and they must automatically discard any tile drawn that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rule after Riichi declaration is clearly stated.",
+        "The player cannot keep irrelevant draws and must discard them."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Yui Yagi's height according to her official profile?",
+      "answer": "162cm",
+      "evidence": "* **Height:** 162cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the 'Official Biography and Personality' section.",
+        "Identify the 'Height' attribute in the bullet list.",
+        "Extract the value directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What is Yui Yagi's date of birth?",
+      "answer": "September 7th",
+      "evidence": "* **Birth Date:** September 7th",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the 'Birth Date' entry in the biography section.",
+        "Extract the date as written."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "How old is Yui Yagi?",
+      "answer": "19",
+      "evidence": "* **Age:** 19",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Refer to the 'Age' field in her official profile.",
+        "Select the number listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What is Yui Yagi's blood type?",
+      "answer": "AB",
+      "evidence": "* **Blood Type:** AB",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Check the 'Blood Type' item in the biography.",
+        "Use the value explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "Who is the voice actor for Yui Yagi?",
+      "answer": "Ami Koshimizu (小清水亜美)",
+      "evidence": "* **Voice Actor:** Ami Koshimizu (小清水亜美)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the 'Voice Actor' entry in the biography.",
+        "Copy the full name and corresponding Japanese script as provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What are Yui Yagi's stated interests?",
+      "answer": "Snacks, Coffee, and Swimming",
+      "evidence": "* **Interests:** Snacks, Coffee, and Swimming",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the 'Interests' bullet point.",
+        "List all three items separated by commas as given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What is Yui Yagi's preferred item in Mahjong Soul?",
+      "answer": "Cookies",
+      "evidence": "* **Preferred Item:** Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the 'Preferred Item' in the biography.",
+        "Extract the singular item mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What is Yui Yagi's IQ?",
+      "answer": "180",
+      "evidence": "Yui is a certified genius with an IQ of 180.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the sentence describing her intelligence.",
+        "Extract the numerical value of her IQ."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "Does Yui Yagi have difficulty interpreting others' emotions?",
+      "answer": "Yes",
+      "evidence": "she finds it challenging to interpret the emotions of others",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Search for statements about emotional interpretation.",
+        "The profile explicitly confirms this challenge."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What game does Yui Yagi play in Mahjong Soul?",
+      "answer": "Riichi Mahjong",
+      "evidence": "Riichi Mahjong, the variant of mahjong played in Mahjong Soul",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the game mode associated with Mahjong Soul.",
+        "Confirm it is Riichi Mahjong."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What is required for a winning hand in Riichi Mahjong?",
+      "answer": "Four sets and a pair, with at least one yaku",
+      "evidence": "form a winning hand of 14 tiles, typically consisting of four sets (either sequences or triplets) and a pair... A winning hand must have at least one yaku.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Combine two sentences: one describing tile structure, the other yaku requirement.",
+        "Synthesize into a complete answer covering both structure and condition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What happens when a player declares 'Riichi' in Riichi Mahjong?",
+      "answer": "They wager a 1,000-point stick and lock their hand, gaining potential for ura-dora if they win.",
+      "evidence": "This is a powerful move that wagers a 1,000-point stick... the player gains the potential for extra points from 'ura-dora'... After declaring Riichi, the player's hand is locked...",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the paragraph on 'Riichi'.",
+        "Extract consequences: point wager, hand lock, ura-dora potential.",
+        "Combine into a concise procedural summary."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "How many tiles are used in a standard game of Riichi Mahjong as featured in Mahjong Soul?",
+      "answer": "136",
+      "evidence": "A standard game is played with 136 tiles",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the sentence stating the number of tiles.",
+        "Extract the number 136."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What are the three suits in Riichi Mahjong?",
+      "answer": "Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo",
+      "evidence": "three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo)",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence listing the suits.",
+        "Copy the three suit names with their alternate terms."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What are Honor tiles in Riichi Mahjong composed of?",
+      "answer": "Winds and Dragons",
+      "evidence": "Honor tiles (Winds and Dragons)",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the composition of Honor tiles from the text.",
+        "Extract the two components listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What does a player do on their turn in Riichi Mahjong?",
+      "answer": "Draws a tile from the wall and discards one.",
+      "evidence": "Each player starts with 13 tiles and, on their turn, draws a tile from the wall and discards one.",
+      "type": "procedure",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence describing a player's turn.",
+        "Extract the two actions: draw and discard."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What is the purpose of 'dora' in Riichi Mahjong?",
+      "answer": "To add value (han) to a winning hand.",
+      "evidence": "These are bonus tiles that add value (han) to a winning hand.",
+      "type": "function",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the 'Dora' section.",
+        "Extract the stated purpose of dora tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What is 'tenpai' in the context of Riichi Mahjong?",
+      "answer": "Being one tile away from a winning hand.",
+      "evidence": "if a player has a concealed hand... and is one tile away from a winning hand ('tenpai')",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the explanation of 'Riichi' which includes the definition of 'tenpai'.",
+        "Extract the phrase defining 'tenpai'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What is the significance of calling 'Pon' in Riichi Mahjong?",
+      "answer": "To form a triplet using a discarded tile from another player.",
+      "evidence": "Players can call 'Pon' to form a triplet with a tile discarded by another player",
+      "type": "function",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Refer to the 'Calls' section.",
+        "Extract the definition and purpose of 'Pon'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is the role of playable characters like Yui Yagi in Mahjong Soul?",
+      "answer": "Cosmetic and aesthetic, providing avatars and voice lines.",
+      "evidence": "playable characters like Yui Yagi serve a primarily cosmetic and aesthetic role... her avatar is displayed... unique voice lines... triggered by various in-game events.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the section on Yui's gameplay role.",
+        "Combine statements about avatar display and voice lines.",
+        "Conclude the role is non-mechanical and cosmetic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "Do characters in Mahjong Soul have unique abilities that change the rules of Riichi Mahjong?",
+      "answer": "No",
+      "evidence": "They do not possess unique in-game abilities or skills that alter the fundamental rules of Riichi Mahjong.",
+      "type": "limitation",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the sentence explicitly denying special abilities.",
+        "Answer based on direct negation in text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What triggers Yui Yagi's voice lines in Mahjong Soul?",
+      "answer": "Various in-game events.",
+      "evidence": "her unique voice lines... are triggered by various in-game events.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the sentence describing voice line activation.",
+        "Extract the triggering condition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What is the pivotal moment in Yui Yagi's backstory?",
+      "answer": "Visiting the Mahjong Soul Shrine.",
+      "evidence": "A pivotal moment in her life occurs when she visits the Mahjong Soul Shrine.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the 'Tale - Backstory and Lore' section.",
+        "Identify the event described as pivotal."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What materials are required to perform Yui Yagi's Bond Ascension?",
+      "answer": "Sphere of Will x10, Sphere of Wisdom x10, Delicious Cookie x5",
+      "evidence": "Sphere of Will x10, Sphere of Wisdom x10, Delicious Cookie x5",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the 'Bond Ascension and Materials' section.",
+        "Extract the three required items with quantities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "Why is the requirement for 'Delicious Cookie' meaningful for Yui Yagi's Bond Ascension?",
+      "answer": "Because cookies are her preferred item, making the gift-giving personal.",
+      "evidence": "The requirement for 'Delicious Cookie' aligns perfectly with her stated preference, making the gift-giving aspect... feel more personal and true to her character.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the explanation following the material list.",
+        "Connect the item requirement to her known preference.",
+        "Derive the significance based on narrative consistency."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Yui Yagi's height according to her official profile?",
+      "answer": "162cm",
+      "evidence": "Height: 162cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT includes a section titled 'Official Biography and Personality' which lists Yui Yagi's height.",
+        "The value provided is 162cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What is Yui Yagi's blood type?",
+      "answer": "AB",
+      "evidence": "Blood Type: AB",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Official Biography and Personality' section specifies her blood type.",
+        "The listed blood type is AB."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "How old is Yui Yagi?",
+      "answer": "19",
+      "evidence": "Age: 19",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her age is explicitly stated in the 'Official Biography and Personality' section.",
+        "The value is 19."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "When is Yui Yagi's birthday?",
+      "answer": "September 7th",
+      "evidence": "Birth Date: September 7th",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Official Biography and Personality' section lists her birth date.",
+        "The date given is September 7th."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "Who is the voice actor for Yui Yagi in Mahjong Soul?",
+      "answer": "Ami Koshimizu (小清水亜美)",
+      "evidence": "Voice Actor: Ami Koshimizu (小清水亜美)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is listed in the 'Official Biography and Personality' section.",
+        "The name provided is Ami Koshimizu (小清水亜美)."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What is Yui Yagi's IQ?",
+      "answer": "180",
+      "evidence": "Yui is a certified genius with an IQ of 180.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states her IQ directly in the 'Character and Personality Analysis' section.",
+        "The value is 180."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What are Yui Yagi's interests according to her profile?",
+      "answer": "Snacks, Coffee, and Swimming",
+      "evidence": "Interests: Snacks, Coffee, and Swimming",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Official Biography and Personality' section lists her interests.",
+        "They are Snacks, Coffee, and Swimming."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is Yui Yagi's preferred item in Mahjong Soul?",
+      "answer": "Cookies",
+      "evidence": "Preferred Item: Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is explicitly listed in her profile under 'Preferred Item'.",
+        "The item is Cookies."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What gameplay mechanic in Mahjong Soul allows players to increase their bond with Yui Yagi?",
+      "answer": "The Bond system",
+      "evidence": "A significant aspect of the character experience in Mahjong Soul is the 'Bond' system.",
+      "type": "system",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Bond Ascension and Materials' section introduces the 'Bond' system.",
+        "It explains that players can increase bond level by playing with a character and giving gifts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What materials are required to perform Yui Yagi's Bond Ascension?",
+      "answer": "Sphere of Will x10, Sphere of Wisdom x10, Delicious Cookie x5",
+      "evidence": "Sphere of Will x10, Sphere of Wisdom x10, Delicious Cookie x5",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Bond Ascension and Materials' section lists the required materials.",
+        "These are Sphere of Will x10, Sphere of Wisdom x10, and Delicious Cookie x5."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "Why is the requirement for 'Delicious Cookie' meaningful for Yui Yagi's Bond Ascension?",
+      "answer": "It aligns with her stated preference for cookies.",
+      "evidence": "The requirement for 'Delicious Cookie' aligns perfectly with her stated preference, making the gift-giving aspect of the Bond system feel more personal and true to her character.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explains that the Delicious Cookie requirement matches her 'Preferred Item'.",
+        "This creates a more personal and thematic bond progression."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "Does Yui Yagi have unique in-game abilities that change the rules of Riichi Mahjong?",
+      "answer": "No",
+      "evidence": "Playable characters like Yui Yagi serve a primarily cosmetic and aesthetic role. They do not possess unique in-game abilities or skills that alter the fundamental rules of Riichi Mahjong.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Yui Yagi's Role in Gameplay' section states that characters do not alter gameplay rules.",
+        "Therefore, Yui Yagi has no unique mechanical abilities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What role does Yui Yagi play in Mahjong Soul gameplay?",
+      "answer": "Cosmetic and aesthetic role with unique avatar and voice lines.",
+      "evidence": "In Mahjong Soul, playable characters like Yui Yagi serve a primarily cosmetic and aesthetic role. When a player chooses to use Yui Yagi, her avatar is displayed during matches, and her unique voice lines... are triggered by various in-game events.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies that her role is cosmetic and aesthetic.",
+        "Her presence includes avatar display and voice lines during gameplay."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What triggers Yui Yagi's voice lines in Mahjong Soul?",
+      "answer": "Various in-game events",
+      "evidence": "Her unique voice lines... are triggered by various in-game events.",
+      "type": "trigger",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Role in Gameplay' section states that voice lines are activated by in-game events.",
+        "No specific event is listed, only that they are event-triggered."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What does Yui Yagi struggle with despite her high intelligence?",
+      "answer": "Interpreting emotions of others and social interactions.",
+      "evidence": "Despite her incredible intelligence, she finds it challenging to interpret the emotions of others and struggles with social interactions.",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Official Biography and Personality' section contrasts her IQ with her social difficulties.",
+        "She struggles with emotional interpretation and social interactions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What pivotal event marks the beginning of Yui Yagi's personal change?",
+      "answer": "Visiting the Mahjong Soul Shrine.",
+      "evidence": "A pivotal moment in her life occurs when she visits the Mahjong Soul Shrine. This encounter with the world of mahjong and its community marks the beginning of a significant change within her.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Tale - Backstory and Lore' section identifies the shrine visit as pivotal.",
+        "This event initiates her personal transformation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What is the primary objective of Riichi Mahjong as played in Mahjong Soul?",
+      "answer": "To form a winning hand of 14 tiles consisting of four sets and a pair.",
+      "evidence": "The primary objective is to form a winning hand of 14 tiles, typically consisting of four sets (either sequences or triplets) and a pair.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Fundamentals of Riichi Mahjong' section defines the objective.",
+        "It specifies the composition of the winning hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What are the three suits in Riichi Mahjong?",
+      "answer": "Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo",
+      "evidence": "Three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo) numbered one through nine",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Fundamentals' section lists the three suits.",
+        "They are Manzu, Pinzu, and Souzu, with their alternate names."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What are the Honor tiles in Riichi Mahjong?",
+      "answer": "Winds and Dragons",
+      "evidence": "Honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Fundamentals' section lists Honor tiles as Winds and Dragons.",
+        "No other types are mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What must a winning hand in Riichi Mahjong include to be valid?",
+      "answer": "At least one yaku.",
+      "evidence": "A winning hand must have at least one yaku.",
+      "type": "requirement",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Yaku' subsection states that a hand must have at least one yaku to win.",
+        "This is a fundamental rule of the game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What happens when a player declares 'Riichi' in Riichi Mahjong?",
+      "answer": "They wager 1,000 points and can earn ura-dora if they win; their hand is locked.",
+      "evidence": "Upon declaring Riichi, the player's hand is locked, and they must automatically discard any tile drawn that does not complete their hand. This is a powerful move that wagers a 1,000-point stick. Upon winning, the player gains the potential for extra points from 'ura-dora'.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Declaring Riichi involves wagering 1,000 points.",
+        "The hand becomes locked, and the player can gain ura-dora upon winning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "How are dora tiles determined in Riichi Mahjong?",
+      "answer": "The dora indicator is flipped; the actual dora is the next tile in sequence.",
+      "evidence": "The dora indicator is a tile flipped over on the dead wall, and the actual dora is the next tile in sequence. For example, if the indicator is a 3 of Circles, the dora is the 4 of Circles.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Dora' section explains the mechanism: indicator tile flipped, next in sequence is dora.",
+        "An example confirms this logic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What is the purpose of 'yaku' in Riichi Mahjong?",
+      "answer": "To provide required winning combinations that allow a player to declare victory.",
+      "evidence": "Riichi Mahjong... requires 'yaku,' or winning combinations, which are necessary to declare a victory.",
+      "type": "purpose",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Fundamentals' section states that yaku are necessary to win.",
+        "They are winning combinations that validate a hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What is the significance of Yui Yagi's love for swimming in her character profile?",
+      "answer": "It shows a glimpse into the person behind her intellect.",
+      "evidence": "Her interests in simple pleasures like snacks and coffee, and a more active hobby like swimming, provide a glimpse into the person behind the intellect.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Swimming is contrasted with intellectual traits as an 'active hobby'.",
+        "The text says it reveals the 'person behind the intellect'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "How does Yui Yagi's personality enhance the player's experience in Mahjong Soul?",
+      "answer": "Her thoughtful and sometimes flustered voice lines make her an endearing and introspective companion.",
+      "evidence": "Playing as Yui Yagi offers a unique and endearing experience. Her voice lines and emotes often reflect her thoughtful and sometimes flustered personality. For players who appreciate a more introspective and gentle character, Yui is an excellent companion.",
+      "type": "experience",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Player's Companion' section describes how her personality affects gameplay experience.",
+        "Her voice lines and emotes reflect thoughtfulness and fluster, enhancing immersion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Yui Yagi's height in centimeters?",
+      "answer": "162cm",
+      "evidence": "* **Height:** 162cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists Yui Yagi's physical attributes.",
+        "Height is explicitly given as 162cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "When is Yui Yagi's birthday?",
+      "answer": "September 7th",
+      "evidence": "* **Birth Date:** September 7th",
+      "type": "date",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The biography section states her birth date.",
+        "It is listed as September 7th."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "How old is Yui Yagi?",
+      "answer": "19",
+      "evidence": "* **Age:** 19",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The official biography specifies her age.",
+        "It is directly stated as 19."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is Yui Yagi's blood type?",
+      "answer": "AB",
+      "evidence": "* **Blood Type:** AB",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her blood type is listed in the biography section.",
+        "It is explicitly stated as AB."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "Who is the voice actor for Yui Yagi?",
+      "answer": "Ami Koshimizu (小清水亜美)",
+      "evidence": "* **Voice Actor:** Ami Koshimizu (小清水亜美)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The biography includes her voice actor.",
+        "Name and Japanese script are provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What are Yui Yagi's stated interests?",
+      "answer": "Snacks, Coffee, and Swimming",
+      "evidence": "* **Interests:** Snacks, Coffee, and Swimming",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Interests are explicitly listed in the biography.",
+        "Three items are mentioned: Snacks, Coffee, Swimming."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What is Yui Yagi's preferred item in Mahjong Soul?",
+      "answer": "Cookies",
+      "evidence": "* **Preferred Item:** Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The biography clearly states her preferred item.",
+        "It is listed as 'Cookies'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What is Yui Yagi's IQ?",
+      "answer": "180",
+      "evidence": "Yui is a certified genius with an IQ of 180.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The character profile states her IQ directly.",
+        "No inference needed; value is explicitly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "Does Yui Yagi have difficulty interpreting others' emotions?",
+      "answer": "Yes",
+      "evidence": "Despite her incredible intelligence, she finds it challenging to interpret the emotions of others and struggles with social interactions.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section describes her emotional challenges.",
+        "It explicitly states she struggles to interpret emotions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What game variant is played in Mahjong Soul?",
+      "answer": "Riichi Mahjong",
+      "evidence": "Riichi Mahjong, the variant of mahjong played in Mahjong Soul...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction names the mahjong variant used.",
+        "It is specified as Riichi Mahjong."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What is the main objective of Riichi Mahjong?",
+      "answer": "To form a winning hand of 14 tiles consisting of four sets and a pair.",
+      "evidence": "The primary objective is to form a winning hand of 14 tiles, typically consisting of four sets (either sequences or triplets) and a pair.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The objective is defined in the fundamentals section.",
+        "It includes the structure of a valid hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What are the three tile suits in Riichi Mahjong?",
+      "answer": "Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo",
+      "evidence": "including three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo) numbered one through nine",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists the three suits in the tile description.",
+        "Both English and Japanese names are provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What are the Honor tiles in Riichi Mahjong?",
+      "answer": "Winds and Dragons",
+      "evidence": "as well as Honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Honor tiles are mentioned after the three suits.",
+        "They are explicitly named as Winds and Dragons."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "How many tiles does each player start with in Riichi Mahjong?",
+      "answer": "13",
+      "evidence": "Each player starts with 13 tiles",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The starting number of tiles is clearly stated.",
+        "No interpretation required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What happens when a player declares 'Riichi' in Riichi Mahjong?",
+      "answer": "They wager a 1,000-point stick and their hand is locked; they must discard any drawn tile that doesn't complete their hand.",
+      "evidence": "Upon declaring Riichi, the player's hand is locked, and they must automatically discard any tile drawn that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Riichi section explains the consequences of declaring it.",
+        "It includes point wager, hand lock, and discard rule."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What is the purpose of dora tiles in Riichi Mahjong?",
+      "answer": "To add value (han) to a winning hand.",
+      "evidence": "These are bonus tiles that add value (han) to a winning hand.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The role of dora is defined in the gameplay section.",
+        "It specifies that they add 'han' to winning hands."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What must a winning hand have at least one of in Riichi Mahjong?",
+      "answer": "A yaku",
+      "evidence": "A winning hand must have at least one yaku.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The necessity of yaku is explicitly stated.",
+        "It is a requirement for a valid win."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What is the name of the voice actor's Japanese script as listed in the profile?",
+      "answer": "小清水亜美",
+      "evidence": "* **Voice Actor:** Ami Koshimizu (小清水亜美)",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor entry includes the Japanese name in parentheses.",
+        "It is directly provided as '小清水亜美'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What is the pivotal moment in Yui Yagi's backstory?",
+      "answer": "Visiting the Mahjong Soul Shrine.",
+      "evidence": "A pivotal moment in her life occurs when she visits the Mahjong Soul Shrine.",
+      "type": "event",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The backstory section identifies a key event.",
+        "It is explicitly described as visiting the Mahjong Soul Shrine."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What does Yui Yagi hope to achieve through her mahjong experience?",
+      "answer": "To understand and be understood by others.",
+      "evidence": "She harbors a deep-seated longing to understand and be understood by others.",
+      "type": "aspiration",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her emotional motivation is stated in the backstory.",
+        "It reflects her desire for mutual understanding."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "Do characters in Mahjong Soul have unique gameplay abilities?",
+      "answer": "No",
+      "evidence": "They do not possess unique in-game abilities or skills that alter the fundamental rules of Riichi Mahjong.",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The gameplay role section clarifies character functionality.",
+        "It explicitly states they do not have special abilities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What is the purpose of the Bond system in Mahjong Soul?",
+      "answer": "To increase bond level with a character through playing and gifting, enabling ascension after max level.",
+      "evidence": "By playing with a character and giving them gifts, players can increase their bond level. This is particularly relevant for Yui, as her preferred item is Cookies.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Bond system is described as involving play and gifts.",
+        "It leads to ascension when max level is reached."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What materials are needed to perform Yui Yagi's Bond Ascension?",
+      "answer": "Sphere of Will x10, Sphere of Wisdom x10, Delicious Cookie x5",
+      "evidence": "To perform Yui Yagi's Bond Ascension (after reaching the maximum bond level), players need to gather specific materials: * **Sphere of Will x10** * **Sphere of Wisdom x10** * **Delicious Cookie x5**",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The materials are explicitly listed in the Bond Ascension section.",
+        "Three items with quantities are specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Why is giving Cookies to Yui Yagi meaningful in the Bond system?",
+      "answer": "Because Cookies are her preferred item, making the gift personal and true to her character.",
+      "evidence": "The requirement for 'Delicious Cookie' aligns perfectly with her stated preference, making the gift-giving aspect of the Bond system feel more personal and true to her character.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explains the significance of Cookies in bonding.",
+        "It links the gift to her established preference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What duality defines Yui Yagi's personality?",
+      "answer": "Her sharp intellect and social ineptitude.",
+      "evidence": "This contrast between her sharp mind and her social ineptitude is a central aspect of her character.",
+      "type": "characterization",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The character analysis section identifies a key contrast.",
+        "It explicitly states the duality of intellect and social difficulty."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

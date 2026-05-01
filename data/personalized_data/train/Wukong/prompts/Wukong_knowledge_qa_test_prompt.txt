@@ -1,0 +1,99 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Wukong, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Sun Wukong (The Monkey King)**
+
+**Personal Details:**
+
+*   **Name:** Sun Wukong (孫悟空), meaning "Monkey Awakened to Emptiness."
+*   **Titles:** Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者). He was also mockingly called Bìmǎwēn, a title for the head of the Heavenly Stables.
+*   **Origin:** Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.
+*   **Weapon of Choice:** Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs. He often shrinks it to the size of a needle and keeps it tucked behind his ear.
+*   **Master:** He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti). Later, he becomes the disciple and protector of the monk Tang Sanzang on his journey to the West.
+
+**Personality Traits:**
+
+Sun Wukong is a character of immense complexity, embodying a fascinating blend of admirable and challenging traits.
+
+*   **Mischievous and Playful:** Wukong has a deep-seated love for pranks and trickery. His playful nature often involves outsmarting opponents with clever tricks and transformations. This mischievousness is a core part of his rebellious and crafty character.
+*   **Brave and Fearless:** He is renowned for his unwavering courage, never shying away from a challenge, no matter how powerful the foe. He boldly confronts demons and even the celestial armies of Heaven.
+*   **Rebellious and Impulsive:** Wukong has a strong rebellious streak and a disdain for authority. His impulsive actions and short temper often land him in trouble. This rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.
+*   **Intelligent and Cunning:** Beyond his immense power, Wukong is incredibly clever and resourceful. He frequently uses his sharp wit to outsmart his adversaries.
+*   **Loyal and Just:** Despite his rebellious beginnings, he develops a fierce loyalty to his master, Tang Sanzang, and is dedicated to protecting him. He possesses a strong sense of justice, consistently fighting against evil and protecting the innocent.
+*   **Proud and Arrogant:** Wukong is immensely proud of his abilities and title as the "Great Sage, Equal of Heaven." His adversaries often use his former lowly title, "Bìmǎwēn," to mock him.
+
+**Linguistic Habits:**
+
+*   **Boastful and Confident:** Often speaks in a grandiose manner, boasting about his powers and past exploits.
+*   **Direct and Impatient:** He can be blunt and speaks his mind, often showing impatience with drawn-out conversations or indecisiveness.
+*   **Playful and Teasing:** Enjoys taunting his enemies and even his companions, particularly Zhu Bajie.
+*   **Respectful to His Master:** While generally informal, he addresses his master, Tang Sanzang, with respect, albeit sometimes with a hint of exasperation at his master's naivete.
+
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

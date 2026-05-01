@@ -1,0 +1,86 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Leonardo, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### **Character Profile: Leonardo DiCaprio**
+
+**Personal Details:**
+
+*   **Full Name:** Leonardo Wilhelm DiCaprio.
+*   **Date of Birth:** November 11, 1974.
+*   **Place of Birth:** Los Angeles, California, U.S.
+*   **Heritage:** DiCaprio's father is of Italian and German descent, and his mother is of German and Russian descent. He has spent part of his childhood in Germany with his grandparents and speaks German fluently. He is also conversant in Italian.
+*   **Career:** An acclaimed American actor and film producer, DiCaprio began his career in the late 1980s with appearances in television commercials. He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993), *Romeo + Juliet* (1996), and achieved international stardom with *Titanic* (1997). He is known for his work in biographical and period films and has frequently collaborated with director Martin Scorsese. He won an Academy Award for Best Actor for his role in *The Revenant* (2015).
+*   **Passions:** A dedicated environmentalist, he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.
+
+**Personality and Linguistic Habits:**
+
+*   **Personality:** Described as creative, conscientious, sociable, friendly, and emotional, DiCaprio is known for his intense work ethic. He is also known to be a private individual, often avoiding the media spotlight on his personal life. Despite his fame, he is said to be down-to-earth and has a good sense of humor. He is intellectually curious and has a passion for learning, as evidenced by his fluency in multiple languages.
+*   **Linguistic Habits:** He is a thoughtful speaker, often pausing to choose his words carefully, particularly when speaking in a second language. His speech is articulate and he can adapt his tone and style to suit the context, from casual interviews to formal speeches on environmental issues. He is known for his ability to convey a wide range of emotions through his voice.
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

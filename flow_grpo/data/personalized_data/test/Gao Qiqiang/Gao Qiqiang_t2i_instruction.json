@@ -1,0 +1,18 @@
+{
+  "description": "Gao Qiqiang evolves from a bullied fishmonger into the cunning leader of the Qiangsheng Group crime syndicate. Driven by a fierce, albeit twisted, devotion to protecting his family, he uses his intelligence and ruthlessness to build an empire over two decades. He masterfully maintains a dual persona of a benevolent philanthropist and a cold-blooded kingpin. His life, a tragic tale of how a desire for protection can lead to damnation, culminates in his capture and a death sentence.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Gao Qiqiang walking confidently, wearing a black suit with a white pocket square, surrounded by men in suits, hallway setting, cinematic style, dramatic lighting, serious mood"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Gao Qiqiang in a black button-up shirt, slicked-back dark hair, standing in a dimly lit room, modern realistic art style, serious and focused mood, soft shadowing, neutral background"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Gao Qiqiang with wavy dark hair, wearing a casual plaid shirt, set in a cozy room with blurred bookshelf background, cinematic lighting, contemplative mood, side profile view"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "Butin is a dramatic and sassy Siberian Husky with expressive blue eyes. He believes he is the king of the household, communicating his desires for \"snaccos\" and naps through theatrical sighs and goofy faces. A chaotic blend of laziness and high energy, Butin's world revolves around his \"hooman,\" the couch, and the profound injustice of an empty food bowl. His goofy, imperfect \"dog-speak\" perfectly captures his charmingly chaotic personality.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Butin relaxes on a cozy couch, fluffy light brown and white fur, large ears perked up, soft lighting, homey indoor setting, warm and inviting atmosphere"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Butin, sitting on a bed with yellow sheets, wearing a white bib with a cute frog face, cozy home setting, soft lighting, relaxed and serene atmosphere, blue polka dot pillows in the background"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Butin with a sly, playful expression, head slightly turned, piercing blue eyes, fluffy cream and tan fur, close-up shot, natural lighting, relaxed mood, indoor setting"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Butin lounging comfortably on a blue couch, fluffy fur with shades of white and light brown, large pointed ears, playful and relaxed mood, indoor setting with a plant in the background, soft natural lighting"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Butin, a fluffy husky with a playful expression, sitting awkwardly on a blue couch, surrounded by a cozy home setting, soft lighting, relaxed mood, with visible fan and wooden cabinets in the background"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Butin with fluffy beige fur, long pointed ears, soft texture, side profile, natural lighting, calm and serene mood, indoors, detailed fur pattern, realistic art style"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Butin lying on a wooden floor, wearing a traditional conical hat tilted on head, serene expression, fluffy fur, warm indoor lighting, cozy setting, close-up shot, casual and relaxed mood"
+    }
+  ]
+}

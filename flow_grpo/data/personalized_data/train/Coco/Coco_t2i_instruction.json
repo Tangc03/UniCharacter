@@ -1,0 +1,50 @@
+{
+  "description": "Coco Gauff is a world-class tennis champion known for her fierce determination and poise on the court. Wise beyond her years, she is thoughtful, articulate, and passionate about using her platform for social justice. Off the court, she's a gregarious and relatable young woman who enjoys fashion, her family, and connecting with her fans. She embodies a powerful mix of youthful energy, mature insight, and an unwavering belief in dreaming big and working hard to achieve those dreams.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Coco wearing a white t-shirt with blue pattern, gold earrings, braided hair, neutral expression, studio portrait, muted green background, soft lighting, natural mood"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Coco showing determination, wearing a burgundy athletic tank top, matching headband, silver chain necklace, wristband, fist clenched, outdoor tennis court setting, bright daylight, focused mood, sportswear branding visible"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Coco holding a large silver trophy, wearing a magenta sports jacket with matching headband, illuminated by vibrant stage lights, surrounded by falling confetti, wristwatch visible, triumphant mood, close-up shot, nighttime setting"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Coco wearing a denim halter top and high-waisted jeans, gold hoop earrings, standing confidently, vibrant geometric backdrop, fashion show setting, modern art style, vivid lighting, stylish and bold mood"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Coco with a determined expression, clenched fist raised, wearing a rust-colored athletic tank top with New Balance logo, wristbands, tennis match setting, outdoor sports event, bright lighting, energetic mood, cheering crowd in background"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Coco with a determined expression, clenching fist in victory, wearing light blue athletic outfit and matching headband, holding tennis racket, outdoor clay court setting, realistic art style, energetic mood, bright daylight"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Coco wearing a green sleeveless top with white stripes, braided hair, gold hoop earrings, minimalistic background, magazine cover style, neutral expression, soft lighting, Teen Vogue special issue"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Coco standing confidently, wearing a white halter dress, long curly hair cascading down, small red earrings visible, bright blue background with subtle text, elegant pose, fashion event setting"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Coco in an elegant pose, wearing a lilac off-shoulder gown, intricate silver earrings, hair styled in an updo, warm earthy background, sophisticated ambiance, soft natural lighting, glamorous mood, fashion portrait style"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Coco in a casual white T-shirt, standing in a vibrant indoor arena, colorful lighting with purple and yellow hues, large display screens in background, energetic atmosphere, evening setting, warm indoor ambiance"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Coco with long braided hair, wearing a cream blazer and a gold necklace, standing against a vibrant pink and blue backdrop, modern fashion style, ambient lighting, indoor setting, fashionable mood"
+    }
+  ]
+}

@@ -1,0 +1,1216 @@
+{
+  "description": "Will Courageux, known as 'Will in Vietnam,' is a French-Belgian content creator who traded his IT career for a life in Hanoi. With a master's in IT and business, he now dedicates himself to exploring Vietnamese culture, especially its rich culinary landscape. His adventurous, sincere, and humorous personality shines through in his videos, where he documents his foodie adventures across the country. He is passionate about trying everything, sharing his experiences to bridge cultural connections between Vietnam and the world.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Will Courageux's full name?",
+      "answer": "Will Courageux",
+      "evidence": "**Full Name:** Will Courageux",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists 'Full Name: Will Courageux'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What are Will Courageux's nationalities?",
+      "answer": "French and Belgian",
+      "evidence": "**Nationality:** French, Belgian",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states his nationality as 'French, Belgian'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "When was Will Courageux born?",
+      "answer": "April 7, 1992",
+      "evidence": "**Date of Birth:** April 7, 1992",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly provides the date of birth."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "Where was Will Courageux born?",
+      "answer": "Brussels, Belgium",
+      "evidence": "**Place of Birth:** Brussels, Belgium",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The place of birth is explicitly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "Where does Will Courageux currently reside?",
+      "answer": "Hanoi, Vietnam",
+      "evidence": "**Current Residence:** Hanoi, Vietnam",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists his current residence as Hanoi, Vietnam."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What is Will Courageux's occupation?",
+      "answer": "Content Creator (YouTuber, TikToker)",
+      "evidence": "**Occupation:** Content Creator (YouTuber, TikToker)",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His occupation is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What degrees does Will Courageux hold?",
+      "answer": "Master's degrees in business and IT, and a bachelor's degree in graphic and 3D design",
+      "evidence": "Former IT engineer with master's degrees in business and IT, and a bachelor's degree in graphic and 3D design.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence lists all his academic qualifications in one clause."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "Where did Will Courageux work before moving to Vietnam?",
+      "answer": "Sweden",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly mentions his prior work location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What was Will Courageux's job title before becoming a content creator?",
+      "answer": "IT manager",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The job title is directly stated in the background section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What personality traits describe Will Courageux?",
+      "answer": "Adventurous, open-minded, enthusiastic, sincere, humorous, witty",
+      "evidence": "Will is an adventurous, open-minded, and enthusiastic individual... He is often described as sincere, humorous, and witty",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two separate sentences list different traits.",
+        "Combining them gives the full set of mentioned traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What aspect of Vietnamese culture is Will Courageux particularly interested in?",
+      "answer": "Cuisine",
+      "evidence": "with a deep appreciation for Vietnamese culture, especially its cuisine",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile highlights his special interest in Vietnamese cuisine."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What major life decision did Will Courageux make after a family trip in 2014?",
+      "answer": "He left his high-paying IT career in Sweden to move to Vietnam",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence links the 2014 trip to his decision to relocate and change careers."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What motivated Will Courageux to move to Vietnam over staying in Sweden?",
+      "answer": "His desire for new experiences over monetary gain",
+      "evidence": "demonstrates his passion-driven nature and his desire for new experiences over monetary gain",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile attributes his move to prioritizing experiences over salary."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "On which social media platforms does Will Courageux have a large following?",
+      "answer": "TikTok, YouTube, and Facebook",
+      "evidence": "which has contributed to his large following on social media platforms like TikTok, YouTube, and Facebook",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The platforms are explicitly named in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What is the main theme of Will Courageux's content?",
+      "answer": "His experiences as a foreigner living in Vietnam, with a focus on food exploration",
+      "evidence": "Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence clearly defines the theme of his content."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What type of Vietnamese dishes is Will Courageux known for trying?",
+      "answer": "A wide variety, including those that might seem unusual to foreigners",
+      "evidence": "He is known for his willingness to try a wide variety of Vietnamese dishes, including those that might seem unusual to foreigners",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile emphasizes his openness to unusual foods."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "Which languages does Will Courageux speak fluently?",
+      "answer": "French and English",
+      "evidence": "His linguistic habits likely include speaking fluent French and English",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly states fluency in French and English."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_018",
+      "question": "What language is Will Courageux learning and teaching in tutorials?",
+      "answer": "Vietnamese",
+      "evidence": "with a developing proficiency in Vietnamese, which he has been known to create tutorials on",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile links his language learning and tutorial creation to Vietnamese."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "How would you describe Will Courageux's interactions with local culture?",
+      "answer": "Positive, engaging, and marked by genuine curiosity and respect",
+      "evidence": "His interactions are generally positive and engaging, reflecting a genuine curiosity and respect for the local culture",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile uses these exact descriptors to characterize his cultural interactions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What is Will Courageux's goal regarding cultural exchange?",
+      "answer": "To promote cultural and culinary connections between Vietnam and France",
+      "evidence": "He aims to promote cultural and culinary connections between Vietnam and France",
+      "type": "aspiration",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His aim is directly stated in the final sentence of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What was Will Courageux's educational background before entering the IT field?",
+      "answer": "A bachelor's degree in graphic and 3D design",
+      "evidence": "a bachelor's degree in graphic and 3D design",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Though not sequential in the sentence, the bachelor's degree is mentioned as part of his academic history."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What two master's degrees does Will Courageux hold?",
+      "answer": "Business and IT",
+      "evidence": "master's degrees in business and IT",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists the fields of his master's degrees."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "Was Will Courageux's career in Sweden related to his educational background?",
+      "answer": "Yes",
+      "evidence": "Former IT engineer with master's degrees in business and IT... worked as an IT manager in Sweden",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "His degrees in IT and business align with his role as an IT manager."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "Did Will Courageux's early travel experiences influence his adaptability?",
+      "answer": "Yes",
+      "evidence": "Having traveled extensively with his family from a young age, he is adaptable and comfortable in new environments",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly links childhood travel to his adaptability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "Is Will Courageux's content primarily focused on entertainment or education?",
+      "answer": "Neither is explicitly stated; it focuses on personal experience and food exploration",
+      "evidence": "Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration",
+      "type": "limitation",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The profile does not label his content as educational or entertaining.",
+        "It emphasizes experiential and culinary focus instead."
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Will Courageux's full name?",
+      "answer": "Will Courageux",
+      "evidence": "* **Full Name:** Will Courageux",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists the full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What are Will Courageux's nationalities?",
+      "answer": "French and Belgian",
+      "evidence": "* **Nationality:** French, Belgian",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The nationality is directly stated in the profile under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "When was Will Courageux born?",
+      "answer": "April 7, 1992",
+      "evidence": "* **Date of Birth:** April 7, 1992",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is explicitly provided in the personal details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "Where was Will Courageux born?",
+      "answer": "Brussels, Belgium",
+      "evidence": "* **Place of Birth:** Brussels, Belgium",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is directly stated under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "Where does Will Courageux currently live?",
+      "answer": "Hanoi, Vietnam",
+      "evidence": "* **Current Residence:** Hanoi, Vietnam",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The current residence is clearly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What is Will Courageux's current occupation?",
+      "answer": "Content Creator (YouTuber, TikToker)",
+      "evidence": "* **Occupation:** Content Creator (YouTuber, TikToker)",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupation is explicitly mentioned under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What academic degrees does Will Courageux hold?",
+      "answer": "Master's degrees in business and IT, and a bachelor's degree in graphic and 3D design",
+      "evidence": "Background: Former IT engineer with master's degrees in business and IT, and a bachelor's degree in graphic and 3D design.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The background section lists the degrees he obtained."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "Where did Will Courageux work before moving to Vietnam?",
+      "answer": "Sweden",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence clearly states the country where he worked prior to Vietnam."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What was Will Courageux's job title before becoming a content creator?",
+      "answer": "IT manager",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The previous job title is directly stated in the background section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What year did Will Courageux first visit Vietnam with his family?",
+      "answer": "2014",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature...",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text mentions the family trip occurred in 2014, which led to his eventual move."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What motivated Will Courageux to move to Vietnam?",
+      "answer": "A family trip in 2014 and his passion for new experiences over monetary gain",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature and his desire for new experiences over monetary gain.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links the 2014 trip to his decision to move.",
+        "It explicitly states his motivation was passion and desire for experiences, not money."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "How is Will Courageux often described by others?",
+      "answer": "Sincere, humorous, and witty",
+      "evidence": "Will is often described as sincere, humorous, and witty, which has contributed to his large following on social media platforms like TikTok, YouTube, and Facebook.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The personality section lists these three traits as common descriptors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What is the main focus of Will Courageux's content?",
+      "answer": "His experiences as a foreigner living in Vietnam, especially food exploration",
+      "evidence": "Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The focus of his content is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What type of Vietnamese dishes is Will Courageux known for trying?",
+      "answer": "A wide variety, including those that might seem unusual to foreigners",
+      "evidence": "He is known for his willingness to try a wide variety of Vietnamese dishes, including those that might seem unusual to foreigners.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile highlights his openness to trying diverse and unusual dishes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What languages does Will Courageux speak fluently?",
+      "answer": "French and English",
+      "evidence": "His linguistic habits likely include speaking fluent French and English, with a developing proficiency in Vietnamese...",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states fluency in French and English."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is Will Courageux's level of Vietnamese language proficiency?",
+      "answer": "Developing proficiency",
+      "evidence": "His linguistic habits likely include speaking fluent French and English, with a developing proficiency in Vietnamese...",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The term 'developing proficiency' is used to describe his Vietnamese skills."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "Has Will Courageux created content about learning Vietnamese?",
+      "answer": "Yes",
+      "evidence": "...which he has been known to create tutorials on.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'create tutorials on' refers to Vietnamese language learning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What social media platforms does Will Courageux have a presence on?",
+      "answer": "TikTok, YouTube, and Facebook",
+      "evidence": "...which has contributed to his large following on social media platforms like TikTok, YouTube, and Facebook.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The platforms are listed in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What trait does Will Courageux's career shift from IT to content creation demonstrate?",
+      "answer": "Passion-driven nature and desire for new experiences over monetary gain",
+      "evidence": "...demonstrates his passion-driven nature and his desire for new experiences over monetary gain.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The text directly links his career change to these personal traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What was Will Courageux's professional background before content creation?",
+      "answer": "Former IT engineer and IT manager",
+      "evidence": "Background: Former IT engineer... He previously worked as an IT manager in Sweden...",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Combines two statements: 'Former IT engineer' and 'worked as an IT manager'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What cultural connection does Will Courageux aim to promote?",
+      "answer": "Between Vietnam and France",
+      "evidence": "He aims to promote cultural and culinary connections between Vietnam and France.",
+      "type": "goal",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The goal is explicitly stated in the final sentence of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What aspect of Vietnamese culture does Will Courageux particularly appreciate?",
+      "answer": "Cuisine",
+      "evidence": "...with a deep appreciation for Vietnamese culture, especially its cuisine.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text specifies 'especially its cuisine' as a focus of appreciation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What kind of upbringing contributed to Will Courageux's adaptability?",
+      "answer": "Extensive travel with his family from a young age",
+      "evidence": "Having traveled extensively with his family from a young age, he is adaptable and comfortable in new environments.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence links early family travel to his adaptability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What is one characteristic of Will Courageux's social media interactions?",
+      "answer": "Generally positive and engaging",
+      "evidence": "His interactions are generally positive and engaging, reflecting a genuine curiosity and respect for the local culture.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes his interactions using these adjectives."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What does Will Courageux's content aim to reflect?",
+      "answer": "A genuine curiosity and respect for Vietnamese culture",
+      "evidence": "His interactions are generally positive and engaging, reflecting a genuine curiosity and respect for the local culture.",
+      "type": "purpose",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Although phrased in terms of interactions, the reflection applies to his content as the primary medium of interaction."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Will Courageux's full name?",
+      "answer": "Will Courageux",
+      "evidence": "* **Full Name:** Will Courageux",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists the full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What are Will Courageux's nationalities?",
+      "answer": "French and Belgian",
+      "evidence": "* **Nationality:** French, Belgian",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The nationality is directly stated in the profile under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "When was Will Courageux born?",
+      "answer": "April 7, 1992",
+      "evidence": "* **Date of Birth:** April 7, 1992",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is explicitly provided in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Where was Will Courageux born?",
+      "answer": "Brussels, Belgium",
+      "evidence": "* **Place of Birth:** Brussels, Belgium",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is clearly listed under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "Where does Will Courageux currently live?",
+      "answer": "Hanoi, Vietnam",
+      "evidence": "* **Current Residence:** Hanoi, Vietnam",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The current residence is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What is Will Courageux's occupation?",
+      "answer": "Content Creator (YouTuber, TikToker)",
+      "evidence": "* **Occupation:** Content Creator (YouTuber, TikToker)",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Occupation is explicitly listed in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What degrees does Will Courageux hold?",
+      "answer": "Master's degrees in business and IT, and a bachelor's degree in graphic and 3D design",
+      "evidence": "Background: Former IT engineer with master's degrees in business and IT, and a bachelor's degree in graphic and 3D design.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The background section lists all his academic qualifications."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "Where did Will Courageux work before moving to Vietnam?",
+      "answer": "Sweden",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence clearly states the country where he worked prior to Vietnam."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What was Will Courageux's job title in Sweden?",
+      "answer": "IT manager",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The role is explicitly mentioned in the background description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "In what year did Will Courageux visit Vietnam with his family, which led to his eventual move?",
+      "answer": "2014",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The year is directly mentioned in the sentence describing the family trip."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What motivated Will Courageux to move to Vietnam?",
+      "answer": "His passion for new experiences and appreciation for Vietnamese culture, especially after a family trip in 2014",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature and his desire for new experiences over monetary gain.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links his move to a 2014 family trip.",
+        "It states he values experiences over money.",
+        "This implies cultural passion was a key motivator."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "How is Will Courageux's personality commonly described?",
+      "answer": "Sincere, humorous, and witty",
+      "evidence": "Will is often described as sincere, humorous, and witty, which has contributed to his large following on social media platforms like TikTok, YouTube, and Facebook.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The traits are directly listed in the 'Personality and Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What aspect of Vietnamese culture does Will Courageux particularly appreciate?",
+      "answer": "Cuisine",
+      "evidence": "Will is an adventurous, open-minded, and enthusiastic individual with a deep appreciation for Vietnamese culture, especially its cuisine.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states his appreciation is especially for Vietnamese cuisine."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What is a central theme in Will Courageux's social media content?",
+      "answer": "His experiences as a foreigner living in Vietnam, with emphasis on food exploration",
+      "evidence": "Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The focus of his content is clearly described in the 'Personality and Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What types of Vietnamese dishes is Will known for trying?",
+      "answer": "A wide variety, including those that might seem unusual to foreigners",
+      "evidence": "He is known for his willingness to try a wide variety of Vietnamese dishes, including those that might seem unusual to foreigners.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states his willingness to try diverse dishes.",
+        "It specifically includes those unusual to foreigners."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Which languages does Will Courageux speak fluently?",
+      "answer": "French and English",
+      "evidence": "His linguistic habits likely include speaking fluent French and English, with a developing proficiency in Vietnamese",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists French and English as fluent languages."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What is Will Courageux's proficiency level in Vietnamese?",
+      "answer": "Developing proficiency",
+      "evidence": "His linguistic habits likely include speaking fluent French and English, with a developing proficiency in Vietnamese",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The exact phrase 'developing proficiency' is used in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "Has Will Courageux created content about learning Vietnamese?",
+      "answer": "Yes",
+      "evidence": "which he has been known to create tutorials on",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase refers to Vietnamese and mentions he creates tutorials on it."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What is one personal trait that helped Will adapt to life in Vietnam?",
+      "answer": "Being adaptable due to extensive childhood travel with his family",
+      "evidence": "Having traveled extensively with his family from a young age, he is adaptable and comfortable in new environments.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links his adaptability to early travel experiences.",
+        "This trait supports his comfort in new environments like Vietnam."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What career did Will Courageux leave to move to Vietnam?",
+      "answer": "IT manager in Sweden",
+      "evidence": "His decision to leave a high-paying IT career in Sweden to move to Vietnam",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states he left a high-paying IT career in Sweden."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What does Will Courageux prioritize over monetary gain?",
+      "answer": "New experiences",
+      "evidence": "his desire for new experiences over monetary gain",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly contrasts new experiences with monetary gain."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "On which social media platforms does Will Courageux have a large following?",
+      "answer": "TikTok, YouTube, and Facebook",
+      "evidence": "which has contributed to his large following on social media platforms like TikTok, YouTube, and Facebook.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The platforms are explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What was Will Courageux's professional background before content creation?",
+      "answer": "Former IT engineer and IT manager",
+      "evidence": "Background: Former IT engineer... He previously worked as an IT manager in Sweden",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The background section identifies him as a former IT engineer.",
+        "It also states he worked as an IT manager."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What is one goal of Will Courageux's content?",
+      "answer": "To promote cultural and culinary connections between Vietnam and France",
+      "evidence": "He aims to promote cultural and culinary connections between Vietnam and France.",
+      "type": "purpose",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The goal is directly stated in the final sentence of the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What kind of tutorials has Will Courageux created related to language?",
+      "answer": "Tutorials on learning Vietnamese",
+      "evidence": "which he has been known to create tutorials on",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The pronoun 'which' refers to Vietnamese language.",
+        "It states he creates tutorials on it."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Will Courageux's full name?",
+      "answer": "Will Courageux",
+      "evidence": "* **Full Name:** Will Courageux",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists the full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What are Will Courageux's nationalities?",
+      "answer": "French and Belgian",
+      "evidence": "* **Nationality:** French, Belgian",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The nationality is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "When was Will Courageux born?",
+      "answer": "April 7, 1992",
+      "evidence": "* **Date of Birth:** April 7, 1992",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is explicitly provided in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "Where was Will Courageux born?",
+      "answer": "Brussels, Belgium",
+      "evidence": "* **Place of Birth:** Brussels, Belgium",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The place of birth is clearly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "Where does Will Courageux currently live?",
+      "answer": "Hanoi, Vietnam",
+      "evidence": "* **Current Residence:** Hanoi, Vietnam",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The current residence is directly specified in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What is Will Courageux's occupation?",
+      "answer": "Content Creator (YouTuber, TikToker)",
+      "evidence": "* **Occupation:** Content Creator (YouTuber, TikToker)",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupation is explicitly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What academic degrees does Will Courageux hold?",
+      "answer": "Master's degrees in business and IT, and a bachelor's degree in graphic and 3D design.",
+      "evidence": "Former IT engineer with master's degrees in business and IT, and a bachelor's degree in graphic and 3D design.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence lists all academic qualifications Will holds."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "Where did Will Courageux work before moving to Vietnam?",
+      "answer": "Sweden",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The location of his previous job is clearly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What was Will Courageux's job title before becoming a content creator?",
+      "answer": "IT manager",
+      "evidence": "He previously worked as an IT manager in Sweden before moving to Vietnam.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The job title is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What year did Will Courageux first visit Vietnam with his family?",
+      "answer": "2014",
+      "evidence": "his decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The year of the family trip that led to his move is specified as 2014."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What motivated Will Courageux to move to Vietnam?",
+      "answer": "A family trip in 2014 sparked his passion, leading him to prioritize experiences over monetary gain.",
+      "evidence": "his decision to leave a high-paying IT career in Sweden to move to Vietnam after a family trip in 2014 demonstrates his passion-driven nature and his desire for new experiences over monetary gain.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motivation is derived from his passion after a family trip.",
+        "He values experiences more than money, as stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "How would you describe Will Courageux's personality based on the profile?",
+      "answer": "Adventurous, open-minded, enthusiastic, sincere, humorous, and witty.",
+      "evidence": "Will is an adventurous, open-minded, and enthusiastic individual... He is often described as sincere, humorous, and witty",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists key personality traits in two separate sentences."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What aspect of Vietnamese culture does Will Courageux particularly appreciate?",
+      "answer": "Cuisine",
+      "evidence": "deep appreciation for Vietnamese culture, especially its cuisine",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile highlights his special interest in Vietnamese food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What is the focus of Will Courageux's social media content?",
+      "answer": "His experiences as a foreigner living in Vietnam, especially food exploration.",
+      "evidence": "Will's content focuses on his experiences as a foreigner living in Vietnam, with a particular emphasis on food exploration.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The focus of his content is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What types of Vietnamese dishes is Will Courageux known for trying?",
+      "answer": "A wide variety, including those that might seem unusual to foreigners.",
+      "evidence": "He is known for his willingness to try a wide variety of Vietnamese dishes, including those that might seem unusual to foreigners.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile emphasizes his openness to unusual foods."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "Which languages does Will Courageux speak fluently?",
+      "answer": "French and English",
+      "evidence": "His linguistic habits likely include speaking fluent French and English",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states fluency in French and English."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What language is Will Courageux learning and creating tutorials about?",
+      "answer": "Vietnamese",
+      "evidence": "with a developing proficiency in Vietnamese, which he has been known to create tutorials on",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile mentions his developing proficiency and tutorial creation in Vietnamese."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "On which social media platforms does Will Courageux have a large following?",
+      "answer": "TikTok, YouTube, and Facebook",
+      "evidence": "large following on social media platforms like TikTok, YouTube, and Facebook",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The platforms are explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What was Will Courageux's career before content creation?",
+      "answer": "IT engineer and IT manager",
+      "evidence": "Former IT engineer... previously worked as an IT manager in Sweden",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he was an IT engineer and worked as an IT manager."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What does Will Courageux aim to promote through his content?",
+      "answer": "Cultural and culinary connections between Vietnam and France.",
+      "evidence": "He aims to promote cultural and culinary connections between Vietnam and France.",
+      "type": "goal",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The goal is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "Did Will Courageux have international travel experience during his childhood?",
+      "answer": "Yes, he traveled extensively with his family from a young age.",
+      "evidence": "Having traveled extensively with his family from a young age",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile confirms early travel experiences with family."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What personal trait does Will Courageux demonstrate by leaving a high-paying job in Sweden?",
+      "answer": "Passion-driven nature and preference for experiences over monetary gain.",
+      "evidence": "demonstrates his passion-driven nature and his desire for new experiences over monetary gain",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Leaving a high-paying job shows his values align with passion and experience."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What industry was Will Courageux formally educated for?",
+      "answer": "IT and business, with a design background.",
+      "evidence": "master's degrees in business and IT, and a bachelor's degree in graphic and 3D design",
+      "type": "background",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "His degrees indicate formal education in IT, business, and design."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Is Will Courageux's proficiency in Vietnamese described as fluent in the profile?",
+      "answer": "No, it is described as developing.",
+      "evidence": "with a developing proficiency in Vietnamese",
+      "type": "limitation",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile uses 'developing proficiency', not fluency."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What kind of content does Will Courageux produce related to language?",
+      "answer": "Tutorials on the Vietnamese language.",
+      "evidence": "with a developing proficiency in Vietnamese, which he has been known to create tutorials on",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he creates tutorials on Vietnamese."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

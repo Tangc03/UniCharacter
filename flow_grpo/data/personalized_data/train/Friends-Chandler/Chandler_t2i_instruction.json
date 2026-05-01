@@ -1,0 +1,54 @@
+{
+  "description": "Chandler Bing is defined by his sharp, sarcastic wit, often a defense mechanism from his parents' divorce. Initially struggling with commitment and a mundane data processing job, his journey is one of emotional growth. He's a loyal, caring friend, especially to his roommate Joey, and eventually finds happiness with his wife, Monica. His unique, emphatic way of speaking is one of his most memorable traits, often punctuated with the catchphrase, 'Could that BE any more...'",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Chandler in a black suit with a white shirt and purple tie, standing outside against a brick wall, casual pose, light-hearted mood, 90s sitcom style, natural lighting"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Chandler relaxing on a couch, wearing a dark patterned blazer over a black shirt, slicked-back hair, warm and cozy indoor lighting, casual and laid-back mood, elegant wooden background"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Chandler in a relaxed pose, wearing a light blue sweatshirt, casual setting, dimly lit room, blurred painting in the background, soft focus, television sitcom style, neutral mood"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Chandler wearing a light blue dress shirt, black vest, sitting in a relaxed pose, hair neatly styled, indoor setting, soft focus, warm lighting, casual mood, bustling café background"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Chandler sitting on a patterned sofa, wearing a light blue shirt with rolled sleeves and a dark brown vest, relaxed posture, 90s sitcom setting, cozy and warm atmosphere, soft lighting, casual mood, floral curtains in the background"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Chandler sitting in an office, wearing a brown shirt and a patterned tie, surrounded by quirky desk items, photos pinned on the wall, relaxed posture, casual atmosphere, soft indoor lighting"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Chandler wearing a dark jacket over a light blue shirt, casual setting, neutral expression, indoor environment, soft lighting, 90s sitcom atmosphere"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Chandler sitting casually on a brown sofa, wearing a grey vest over a beige shirt, relaxed pose, cozy coffee shop setting, warm ambient lighting, 90s sitcom style, casual atmosphere"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Chandler wearing a silver Statue of Liberty crown, dressed in a white 'I ❤️ NY' t-shirt, standing in a room with starburst clock on the wall, casual setting, sitcom atmosphere, warm indoor lighting, humorous mood"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Chandler wearing a purple t-shirt with a planet design, navy blue jacket, sitting casually, relaxed pose, casual setting, soft indoor lighting, living room background, focused expression, cozy atmosphere"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Chandler standing with crossed arms, wearing a beige shirt and dark grey vest, casual setting with kitchen utensils and shelf in the background, dim indoor lighting, relaxed mood"
+    },
+    {
+      "image_id": "11",
+      "t2i_instruction": "Chandler in a formal setting, wearing a dark suit and a patterned tie, white collared shirt, soft lighting, professional and composed mood, indoor background"
+    }
+  ]
+}

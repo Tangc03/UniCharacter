@@ -1,0 +1,1306 @@
+{
+  "description": "Rin Tohsaka is the highly capable heir to a magus family and a model student at Homurahara Academy. Beneath her prim and proper public persona lies a fiercely competitive, pragmatic, and resourceful individual who hates to lose. While often appearing demanding or sharp-tongued, she possesses a deeply caring nature for her friends, though she struggles to show it directly. She is proud, logical, and always strives for perfection in everything she does, from magecraft to mahjong.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What game does Rin Tohsaka appear in as a guest character according to the PROFILE_TEXT?",
+      "answer": "Mahjong Soul",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states that Rin Tohsaka appears in Mahjong Soul.",
+        "She is introduced as a guest character during a collaboration event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "Which collaboration event features Rin Tohsaka in Mahjong Soul?",
+      "answer": "Fate/stay night: Heaven's Feel",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The collaboration event is directly named in the text.",
+        "No inference is needed; it is stated verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What is the objective of Riichi Mahjong as described in the PROFILE_TEXT?",
+      "answer": "To be the first to complete a winning hand of 14 tiles.",
+      "evidence": "The objective is to be the first to complete a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The objective is clearly defined in the section on Riichi Mahjong fundamentals.",
+        "It specifies the number of tiles and structure of a winning hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What are the two types of sets that can make up a winning hand in Riichi Mahjong?",
+      "answer": "Sequence and triplet",
+      "evidence": "These sets can be either a 'sequence' (three consecutive tiles of the same suit) or a 'triplet' (three identical tiles).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists two types of sets: sequence and triplet.",
+        "Each is defined with its composition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What is required for a hand to be valid in Riichi Mahjong?",
+      "answer": "At least one yaku",
+      "evidence": "A hand must contain at least one yaku to be valid.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The condition for a valid hand is explicitly stated.",
+        "It requires at least one yaku (winning combination)."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What happens when a player declares 'riichi' in Riichi Mahjong?",
+      "answer": "Their hand is locked, and they must discard any tile drawn that doesn't complete their hand.",
+      "evidence": "Once riichi is declared, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Declaring riichi triggers a rule change for the player.",
+        "The consequence is a locked hand and mandatory discards of non-completing tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What is the benefit of declaring 'riichi' in Riichi Mahjong?",
+      "answer": "Increased hand value and chance to gain extra points if the player wins.",
+      "evidence": "If they win, their hand value increases, and they have the chance to gain extra points.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefit is conditional on winning after declaring riichi.",
+        "The text specifies two outcomes: increased value and potential extra points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is the requirement for a player to declare 'riichi' in Riichi Mahjong?",
+      "answer": "Their hand must be one tile away from completion and concealed.",
+      "evidence": "A player can do this when their hand is one tile away from completion and is concealed (no tiles have been claimed from other players' discards to form open sets).",
+      "type": "condition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two conditions are specified: one tile away from completion and a concealed hand.",
+        "Both must be true to declare riichi."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What is a 'yaku' in Riichi Mahjong?",
+      "answer": "A winning combination required for a valid hand.",
+      "evidence": "A key feature of Riichi Mahjong is the concept of 'yaku,' or winning combinations. A hand must contain at least one yaku to be valid.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'yaku' is defined as a winning combination.",
+        "It is necessary for a hand to be valid."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "Which other *Fate* series characters join Rin Tohsaka at the mahjong table in Mahjong Soul?",
+      "answer": "Sakura Matou and Saber",
+      "evidence": "She joins other iconic characters from the series, such as Sakura Matou and Saber, at the mahjong table.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text lists Sakura Matou and Saber as other characters present.",
+        "They are mentioned as joining Rin at the table."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What is Rin Tohsaka's role at Homurahara Academy according to the PROFILE_TEXT?",
+      "answer": "Top student",
+      "evidence": "Rin Tohsaka is described as a top student at Homurahara Academy...",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her academic status is directly stated.",
+        "She is identified as a top student."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What magical responsibility does Rin Tohsaka hold in Fuyuki City?",
+      "answer": "Administrator of Fuyuki City's magical activities",
+      "evidence": "...and the head of the Tohsaka family, acting as the administrator of Fuyuki City's magical activities.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies her administrative role in magical affairs.",
+        "She holds this position as head of the Tohsaka family."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What is Rin Tohsaka's height in centimeters?",
+      "answer": "159cm",
+      "evidence": "* **Height:** 159cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is listed in the basic information section.",
+        "It is given in centimeters."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "When is Rin Tohsaka's birthday?",
+      "answer": "February 3rd",
+      "evidence": "* **Birthday:** February 3rd",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday is explicitly listed in the profile.",
+        "No interpretation is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What is Rin Tohsaka's blood type?",
+      "answer": "O",
+      "evidence": "* **Blood Type:** O",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Blood type is listed directly in the profile.",
+        "It is a single-letter designation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?",
+      "answer": "Kana Ueda",
+      "evidence": "* **Voice Actor:** Kana Ueda",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is explicitly named in the profile.",
+        "This is a direct factual statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What is Rin Tohsaka's interest according to the PROFILE_TEXT?",
+      "answer": "Jewelry polishing",
+      "evidence": "* **Interests:** Jewelry polishing",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her interest is listed under the basic information section.",
+        "It is a specific hobby mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is Rin Tohsaka's preferred item in Mahjong Soul?",
+      "answer": "Gemstones",
+      "evidence": "* **Preferred Item:** Gemstones",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preferred item is explicitly stated.",
+        "It matches the gift that gives bonus Bond points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "How can players obtain Rin Tohsaka in Mahjong Soul?",
+      "answer": "Through the game's gacha system during the collaboration event",
+      "evidence": "In Mahjong Soul, Rin Tohsaka is an unlockable character that players can obtain through the game's gacha system during the collaboration event.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of acquisition is clearly described.",
+        "It involves the gacha system and is limited to the event period."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?",
+      "answer": "No",
+      "evidence": "While she doesn't possess unique gameplay-altering skills in terms of mahjong mechanics...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states she lacks gameplay-altering skills.",
+        "Her impact is cosmetic and auditory."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What does playing as Rin Tohsaka primarily offer in Mahjong Soul?",
+      "answer": "A unique aesthetic and auditory experience with unique voice lines",
+      "evidence": "Her presence is primarily cosmetic, allowing players to enjoy the game with a beloved character. This includes unique voice lines for various in-game actions...",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The primary offering is described as cosmetic and auditory.",
+        "Unique voice lines enhance the experience without changing gameplay."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What is the name of the system that allows players to deepen their connection with Rin Tohsaka in Mahjong Soul?",
+      "answer": "Bond system",
+      "evidence": "The game allows players to deepen their connection with her through the 'Bond' system.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The system is explicitly named as the 'Bond' system.",
+        "It is used to unlock additional content."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What gift gives bonus Bond points when given to Rin Tohsaka?",
+      "answer": "Gemstones",
+      "evidence": "Giving Rin her preferred gift, Gemstones, will grant bonus Bond points.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links the gift 'Gemstones' to bonus Bond points.",
+        "It is identified as her preferred gift."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What are the materials required to fully ascend Rin Tohsaka's Bond level in Mahjong Soul?",
+      "answer": "50,000 Bond Points, Sphere of Honesty x10, Sphere of Wisdom x10, Heart of the Ocean x5, Wishing Stones x10, and Star Dust x100",
+      "evidence": "To fully ascend her Bond, players need to gather specific materials: * **50,000 Bond Points:** Earned through gameplay and gifts. * **Spheres:** Sphere of Honesty x10 and Sphere of Wisdom x10. * **Purple Gift:** Heart of the Ocean x5. * **Wishing Stones:** x10. * **Star Dust:** x100.",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are listed in bullet points.",
+        "Each item and quantity is specified in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What special animated outfit for Rin Tohsaka was available during the collaboration event?",
+      "answer": "Fated Night",
+      "evidence": "Additionally, special animated outfits for Rin, such as the 'Fated Night' version, were available during the collaboration event.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The outfit name is mentioned in the final sentence.",
+        "It is specified as being available during the event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is the main objective of Riichi Mahjong as described in the text?",
+      "answer": "To be the first to complete a winning hand of 14 tiles, typically four sets of three and a pair.",
+      "evidence": "The objective is to be the first to complete a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states the objective of the game.",
+        "This is a direct definition from the source."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What are the two types of sets that can be used to form a winning hand in Riichi Mahjong?",
+      "answer": "Sequence and triplet.",
+      "evidence": "These sets can be either a \"sequence\" (three consecutive tiles of the same suit) or a \"triplet\" (three identical tiles).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text defines the two types of sets.",
+        "They are clearly named and described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What is required for a hand to be valid in Riichi Mahjong?",
+      "answer": "At least one yaku.",
+      "evidence": "A hand must contain at least one yaku to be valid.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The condition for a valid hand is directly stated.",
+        "No additional interpretation is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What happens when a player declares 'riichi' in Riichi Mahjong?",
+      "answer": "The player bets points, their hand is locked, and if they win, the hand value increases with a chance for extra points.",
+      "evidence": "Declaring riichi is a wager: the player bets points, and in return, if they win, their hand value increases, and they have the chance to gain extra points. However, once riichi is declared, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The effects of declaring riichi are described in two parts: the wager and the lock.",
+        "Both consequences are combined into a complete answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What must be true about a player's hand before they can declare riichi?",
+      "answer": "The hand must be one tile away from completion and concealed.",
+      "evidence": "A player can do this when their hand is one tile away from completion and is concealed (no tiles have been claimed from other players' discards to form open sets).",
+      "type": "condition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The prerequisites for riichi are explicitly listed.",
+        "Both conditions must be met simultaneously."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Which game features Rin Tohsaka as a guest character from the *Fate/stay night: Heaven's Feel* collaboration?",
+      "answer": "Mahjong Soul.",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The appearance is directly attributed to Mahjong Soul.",
+        "No ambiguity in the source."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What role does Rin Tohsaka hold in Fuyuki City's magical community?",
+      "answer": "Administrator of Fuyuki City's magical activities.",
+      "evidence": "Rin Tohsaka is described as a top student at Homurahara Academy and the head of the Tohsaka family, acting as the administrator of Fuyuki City's magical activities.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies her official responsibility.",
+        "She is both head of the family and administrator."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What is Rin Tohsaka's height according to the profile?",
+      "answer": "159cm.",
+      "evidence": "* **Height:** 159cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The value is explicitly listed under basic information.",
+        "No calculation or inference needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "On what date is Rin Tohsaka's birthday?",
+      "answer": "February 3rd.",
+      "evidence": "* **Birthday:** February 3rd",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Birthday is directly stated in the profile.",
+        "No ambiguity in the date."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What is Rin Tohsaka's blood type?",
+      "answer": "O.",
+      "evidence": "* **Blood Type:** O",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Blood type is explicitly listed.",
+        "No interpretation required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?",
+      "answer": "Kana Ueda.",
+      "evidence": "* **Voice Actor:** Kana Ueda",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Voice actor is directly named in the profile.",
+        "This is a straightforward fact."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What activity is listed as one of Rin Tohsaka's interests?",
+      "answer": "Jewelry polishing.",
+      "evidence": "* **Interests:** Jewelry polishing",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Interest is clearly listed in the profile.",
+        "No inference needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What item does Rin Tohsaka prefer in Mahjong Soul?",
+      "answer": "Gemstones.",
+      "evidence": "* **Preferred Item:** Gemstones",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Preferred item is explicitly stated.",
+        "This matches her interest in jewelry polishing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "How can players obtain Rin Tohsaka in Mahjong Soul?",
+      "answer": "Through the game's gacha system during the collaboration event.",
+      "evidence": "In Mahjong Soul, Rin Tohsaka is an unlockable character that players can obtain through the game's gacha system during the collaboration event.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of acquisition is clearly described.",
+        "It specifies both the mechanism (gacha) and timing (event)."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?",
+      "answer": "No, her presence is primarily cosmetic.",
+      "evidence": "While she doesn't possess unique gameplay-altering skills in terms of mahjong mechanics, playing as Rin provides a unique aesthetic and auditory experience.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly denies gameplay-altering skills.",
+        "It clarifies that her role is aesthetic and auditory."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What kind of experience does playing as Rin Tohsaka provide in Mahjong Soul?",
+      "answer": "A unique aesthetic and auditory experience with character-specific voice lines.",
+      "evidence": "Playing as Rin provides a unique aesthetic and auditory experience. This includes unique voice lines for various in-game actions, such as declaring \"riichi\" or winning a hand.",
+      "type": "experience",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes the experience as aesthetic and auditory.",
+        "It gives examples like voice lines for actions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What is the name of the system in Mahjong Soul that allows players to deepen their connection with Rin Tohsaka?",
+      "answer": "Bond system.",
+      "evidence": "The game allows players to deepen their connection with her through the \"Bond\" system.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The system is explicitly named in the text.",
+        "No ambiguity in the name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What are the materials required to fully ascend Rin Tohsaka's Bond level in Mahjong Soul?",
+      "answer": "50,000 Bond Points, Sphere of Honesty x10, Sphere of Wisdom x10, Heart of the Ocean x5, Wishing Stones x10, and Star Dust x100.",
+      "evidence": "To fully ascend her Bond, players need to gather specific materials: * **50,000 Bond Points:** Earned through gameplay and gifts. * **Spheres:** Sphere of Honesty x10 and Sphere of Wisdom x10. * **Purple Gift:** Heart of the Ocean x5. * **Wishing Stones:** x10. * **Star Dust:** x100.",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are listed in bullet points.",
+        "Each item and quantity is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What gift gives bonus Bond points when given to Rin Tohsaka in Mahjong Soul?",
+      "answer": "Gemstones.",
+      "evidence": "Giving Rin her preferred gift, Gemstones, will grant bonus Bond points.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text directly links Gemstones to bonus Bond points.",
+        "This aligns with her listed preferred item."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What do players unlock upon reaching the maximum Bond level with Rin Tohsaka?",
+      "answer": "Additional voice lines and emotes.",
+      "evidence": "Reaching the maximum bond level unlocks additional voice lines and emotes.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The reward for max bond is explicitly stated.",
+        "It enhances the player-character interaction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What special animated outfit for Rin Tohsaka was available during the collaboration event?",
+      "answer": "Fated Night.",
+      "evidence": "Additionally, special animated outfits for Rin, such as the \"Fated Night\" version, were available during the collaboration event.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The outfit name is given as an example.",
+        "It is associated with the collaboration event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "From which narrative is Rin Tohsaka's backstory in Mahjong Soul derived?",
+      "answer": "The *Fate/stay night* series.",
+      "evidence": "Rin's backstory within Mahjong Soul is directly tied to her narrative in the *Fate/stay night* series.",
+      "type": "source",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The source of her backstory is explicitly named.",
+        "It confirms consistency with the original series."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What is Rin Tohsaka's status in the magical world as described in the profile?",
+      "answer": "Descendant of a long line of magi and a skilled master in the Holy Grail War.",
+      "evidence": "As a descendant of a long line of magi, she is a skilled and resourceful master in the Holy Grail War.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her lineage and role are directly stated.",
+        "Both aspects define her status."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "How does Rin Tohsaka's personality in Mahjong Soul compare to her portrayal in the *Fate* series?",
+      "answer": "It is consistent with her portrayal in the *Fate* series.",
+      "evidence": "Rin's personality in Mahjong Soul is consistent with her portrayal in the *Fate* series.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states consistency.",
+        "No deviation is mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What might Rin Tohsaka say upon winning a mahjong hand in the game?",
+      "answer": "\"My victory! Now, I think I'll just help myself to everything.\"",
+      "evidence": "For instance, upon winning, she might exclaim, \"My victory! Now, I think I'll just help myself to everything.\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "A specific voice line is quoted in the text.",
+        "It is presented as an example of her post-win dialogue."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is the name of the game Rin Tohsaka appears in as a guest character?",
+      "answer": "Mahjong Soul",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states Rin appears in Mahjong Soul.",
+        "This is explicitly mentioned in the 'Profile of Rin Tohsaka' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "Which collaboration event features Rin Tohsaka in Mahjong Soul?",
+      "answer": "Fate/stay night: Heaven's Feel",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The collaboration event is directly named in the text.",
+        "No inference required; it is stated verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What is the objective of Riichi Mahjong as described in the profile?",
+      "answer": "To be the first to complete a winning hand of 14 tiles.",
+      "evidence": "The objective is to be the first to complete a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The objective is clearly defined in the 'Fundamentals of Riichi Mahjong' section.",
+        "The sentence directly states the goal of the game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What are the two types of sets that can form a winning hand in Riichi Mahjong?",
+      "answer": "Sequence and triplet",
+      "evidence": "These sets can be either a 'sequence' (three consecutive tiles of the same suit) or a 'triplet' (three identical tiles).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly lists the two types of sets.",
+        "Both are defined with parentheses providing clarification."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What must a hand contain to be valid in Riichi Mahjong?",
+      "answer": "At least one yaku",
+      "evidence": "A hand must contain at least one yaku to be valid.",
+      "type": "requirement",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The necessity of a yaku is directly stated.",
+        "This defines a rule of gameplay."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What is a 'yaku' in Riichi Mahjong?",
+      "answer": "A winning combination that contributes to a hand's score.",
+      "evidence": "There are numerous yaku, each with a different value, which contributes to the hand's score.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Yaku is defined as a winning combination.",
+        "Its function in scoring is specified in the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What happens when a player declares 'riichi' in Riichi Mahjong?",
+      "answer": "Their hand is locked, and they must discard any drawn tile that doesn't complete it.",
+      "evidence": "Once riichi is declared, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The consequence of declaring riichi is described in the text.",
+        "The rule applies after the declaration is made."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is the benefit of declaring 'riichi' in Riichi Mahjong?",
+      "answer": "The hand value increases and there's a chance to gain extra points.",
+      "evidence": "If they win, their hand value increases, and they have the chance to gain extra points.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies the benefits conditional on winning.",
+        "These are listed as increased hand value and potential bonus points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What requirement must be met for a player to declare 'riichi'?",
+      "answer": "The hand must be one tile away from completion and concealed.",
+      "evidence": "A player can do this when their hand is one tile away from completion and is concealed (no tiles have been claimed from other players' discards to form open sets).",
+      "type": "requirement",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two conditions are specified: one-tile wait and concealed hand.",
+        "Both are necessary for riichi declaration."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What school does Rin Tohsaka attend according to her biography?",
+      "answer": "Homurahara Academy",
+      "evidence": "Rin Tohsaka is described as a top student at Homurahara Academy...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her school is explicitly stated in the 'Official Biography and Personality' section.",
+        "No ambiguity in the statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What role does Rin Tohsaka hold within the Tohsaka family?",
+      "answer": "Head of the Tohsaka family",
+      "evidence": "...the head of the Tohsaka family, acting as the administrator of Fuyuki City's magical activities.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The role is directly stated in the biography.",
+        "It includes both familial and functional responsibilities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What is Rin Tohsaka's height in centimeters?",
+      "answer": "159cm",
+      "evidence": "* **Height:** 159cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is listed in the 'Basic Information' section.",
+        "It is a direct factual entry."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "On what date is Rin Tohsaka's birthday?",
+      "answer": "February 3rd",
+      "evidence": "* **Birthday:** February 3rd",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Birthday is listed in the 'Basic Information' section.",
+        "Exact date is provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What is Rin Tohsaka's blood type?",
+      "answer": "O",
+      "evidence": "* **Blood Type:** O",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Blood type is explicitly listed.",
+        "No interpretation needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?",
+      "answer": "Kana Ueda",
+      "evidence": "* **Voice Actor:** Kana Ueda",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Voice actor is listed in the 'Basic Information' section.",
+        "Name is directly given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What is one of Rin Tohsaka's interests according to the profile?",
+      "answer": "Jewelry polishing",
+      "evidence": "* **Interests:** Jewelry polishing",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Interest is listed under 'Basic Information'.",
+        "Only one interest is mentioned, so it's unambiguous."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What is Rin Tohsaka's preferred item in Mahjong Soul?",
+      "answer": "Gemstones",
+      "evidence": "* **Preferred Item:** Gemstones",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Preferred item is explicitly stated.",
+        "It is also referenced later as a gift that grants bonus Bond points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "How can players obtain Rin Tohsaka in Mahjong Soul?",
+      "answer": "Through the game's gacha system during the collaboration event.",
+      "evidence": "Rin Tohsaka is an unlockable character that players can obtain through the game's gacha system during the collaboration event.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of acquisition is clearly described.",
+        "It specifies both the mechanism (gacha) and timing (during event)."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?",
+      "answer": "No",
+      "evidence": "While she doesn't possess unique gameplay-altering skills in terms of mahjong mechanics...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states she lacks gameplay-altering skills.",
+        "This is a direct negation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What aspect of Rin Tohsaka's presence in Mahjong Soul is primarily cosmetic?",
+      "answer": "Her appearance and voice lines",
+      "evidence": "Her presence is primarily cosmetic, allowing players to enjoy the game with a beloved character. This includes unique voice lines for various in-game actions...",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states her presence is cosmetic.",
+        "It elaborates that this includes voice lines and aesthetic experience."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What system in Mahjong Soul allows players to deepen their connection with Rin Tohsaka?",
+      "answer": "The Bond system",
+      "evidence": "The game allows players to deepen their connection with her through the 'Bond' system.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The system is named and described in the 'Player's Companion' section.",
+        "Direct mention of deepening connection via Bond system."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What do players need to give Rin Tohsaka to increase her Bond level?",
+      "answer": "Bond points through gameplay and gifts",
+      "evidence": "By playing games with Rin or giving her gifts, players can increase her Bond level.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two methods are specified: playing games and giving gifts.",
+        "Both contribute to Bond level increase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What gift gives bonus Bond points when given to Rin Tohsaka?",
+      "answer": "Gemstones",
+      "evidence": "Giving Rin her preferred gift, Gemstones, will grant bonus Bond points.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly links Gemstones to bonus Bond points.",
+        "It references her preferred item as the reason."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What are two materials required to fully ascend Rin Tohsaka's Bond level?",
+      "answer": "Sphere of Honesty and Sphere of Wisdom",
+      "evidence": "Sphere of Honesty x10 and Sphere of Wisdom x10.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists multiple required materials.",
+        "Two distinct spheres are named as required components."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What special animated outfit for Rin Tohsaka was available during the collaboration event?",
+      "answer": "Fated Night",
+      "evidence": "Additionally, special animated outfits for Rin, such as the 'Fated Night' version, were available during the collaboration event.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The outfit is mentioned as an example in the sentence.",
+        "It is specified as being available during the event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What game does Rin Tohsaka appear in as a guest character according to the PROFILE_TEXT?",
+      "answer": "Mahjong Soul",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states Rin Tohsaka appears in Mahjong Soul.",
+        "She is described as a guest character from a collaboration event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "Which series is Rin Tohsaka originally from?",
+      "answer": "Fate/stay night",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The source of the collaboration event is stated as *Fate/stay night: Heaven's Feel*.",
+        "This indicates her origin is the *Fate/stay night* series."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What is the main objective of Riichi Mahjong as described in the PROFILE_TEXT?",
+      "answer": "To be the first to complete a winning hand of 14 tiles.",
+      "evidence": "The objective is to be the first to complete a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text defines the objective of Riichi Mahjong directly.",
+        "It specifies the structure of the winning hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What are the two types of sets that can be used to form a winning hand in Riichi Mahjong?",
+      "answer": "Sequence and triplet",
+      "evidence": "These sets can be either a \"sequence\" (three consecutive tiles of the same suit) or a \"triplet\" (three identical tiles).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly names the two types of sets.",
+        "Definitions are provided for both terms."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What is required for a hand to be valid in Riichi Mahjong?",
+      "answer": "At least one yaku",
+      "evidence": "A hand must contain at least one yaku to be valid.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The requirement for a valid hand is directly stated.",
+        "Yaku is defined as a winning combination."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What happens when a player declares 'riichi' in Riichi Mahjong?",
+      "answer": "The player bets points and their hand is locked; they must discard any tile that doesn't complete the hand.",
+      "evidence": "Declaring riichi is a wager: the player bets points, and in return, if they win, their hand value increases... once riichi is declared, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes both the wager and the locking of the hand.",
+        "It specifies the automatic discard rule post-declaration."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What is the consequence if a player draws a tile that does not complete their hand after declaring riichi?",
+      "answer": "They must automatically discard it.",
+      "evidence": "once riichi is declared, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The condition of hand lock is described after riichi declaration.",
+        "The action required upon irrelevant draw is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What are two examples of basic yaku mentioned in the PROFILE_TEXT?",
+      "answer": "Triplet of dragon tiles or the prevalent wind tile",
+      "evidence": "Some basic yaku include having a triplet of dragon tiles or the prevalent wind tile.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text lists two examples of basic yaku.",
+        "Both are clearly named in the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What is Rin Tohsaka's role at Homurahara Academy according to the PROFILE_TEXT?",
+      "answer": "Top student",
+      "evidence": "Rin Tohsaka is described as a top student at Homurahara Academy",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her academic status is directly stated.",
+        "No other roles at the academy are mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What is Rin Tohsaka's family role in Fuyuki City?",
+      "answer": "Head of the Tohsaka family and administrator of Fuyuki City's magical activities",
+      "evidence": "the head of the Tohsaka family, acting as the administrator of Fuyuki City's magical activities.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two aspects of her role are explicitly stated.",
+        "Both family leadership and administrative duties are included."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What is Rin Tohsaka's height in centimeters?",
+      "answer": "159cm",
+      "evidence": "* **Height:** 159cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is clearly listed in the profile section.",
+        "Unit is specified as cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "When is Rin Tohsaka's birthday?",
+      "answer": "February 3rd",
+      "evidence": "* **Birthday:** February 3rd",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Birthday is directly stated in the basic information section.",
+        "No interpretation is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What is Rin Tohsaka's blood type?",
+      "answer": "O",
+      "evidence": "* **Blood Type:** O",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Blood type is explicitly listed.",
+        "Only one value is provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "Who is the voice actor for Rin Tohsaka in Mahjong Soul?",
+      "answer": "Kana Ueda",
+      "evidence": "* **Voice Actor:** Kana Ueda",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Voice actor is directly stated in the profile.",
+        "No ambiguity in attribution."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What is one of Rin Tohsaka's interests mentioned in the PROFILE_TEXT?",
+      "answer": "Jewelry polishing",
+      "evidence": "* **Interests:** Jewelry polishing",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Interest is explicitly listed.",
+        "Only one interest is mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What is Rin Tohsaka's preferred item in Mahjong Soul?",
+      "answer": "Gemstones",
+      "evidence": "* **Preferred Item:** Gemstones",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Preferred item is directly stated.",
+        "Also referenced later as a gift that gives bonus bond points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "How can players obtain Rin Tohsaka in Mahjong Soul?",
+      "answer": "Through the game's gacha system during the collaboration event",
+      "evidence": "Rin Tohsaka is an unlockable character that players can obtain through the game's gacha system during the collaboration event.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of acquisition is clearly described.",
+        "It specifies both the gacha system and the event context."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "Does Rin Tohsaka have gameplay-altering skills in Mahjong Soul?",
+      "answer": "No",
+      "evidence": "While she doesn't possess unique gameplay-altering skills in terms of mahjong mechanics, playing as Rin provides a unique aesthetic and auditory experience.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly denies gameplay-altering skills.",
+        "It contrasts this with cosmetic benefits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What aspect of gameplay does Rin Tohsaka enhance in Mahjong Soul?",
+      "answer": "Aesthetic and auditory experience",
+      "evidence": "playing as Rin provides a unique aesthetic and auditory experience",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her contribution is described as non-mechanical.",
+        "Aesthetic and auditory are the two specified enhancements."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What feature of Rin Tohsaka includes unique voice lines for in-game actions?",
+      "answer": "Playing as her in Mahjong Soul",
+      "evidence": "This includes unique voice lines for various in-game actions, such as declaring \"riichi\" or winning a hand.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The feature is tied to playing as the character.",
+        "Voice lines are listed as part of the cosmetic experience."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What is the name of the system that allows players to deepen their connection with Rin Tohsaka in Mahjong Soul?",
+      "answer": "Bond system",
+      "evidence": "The game allows players to deepen their connection with her through the \"Bond\" system.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The system is explicitly named.",
+        "Its purpose is stated as deepening connection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What materials are required to fully ascend Rin Tohsaka's Bond level in Mahjong Soul?",
+      "answer": "50,000 Bond Points, Sphere of Honesty x10, Sphere of Wisdom x10, Heart of the Ocean x5, Wishing Stones x10, Star Dust x100",
+      "evidence": "To fully ascend her Bond, players need to gather specific materials: * **50,000 Bond Points:** Earned through gameplay and gifts. * **Spheres:** Sphere of Honesty x10 and Sphere of Wisdom x10. * **Purple Gift:** Heart of the Ocean x5. * **Wishing Stones:** x10. * **Star Dust:** x100.",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are listed in bullet points.",
+        "Each item and quantity is specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What gift gives bonus Bond points when given to Rin Tohsaka?",
+      "answer": "Gemstones",
+      "evidence": "Giving Rin her preferred gift, Gemstones, will grant bonus Bond points.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preferred gift is mentioned earlier.",
+        "This sentence confirms it grants bonus points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What reward is unlocked when Rin Tohsaka's Bond level is maxed out?",
+      "answer": "Additional voice lines and emotes",
+      "evidence": "Reaching the maximum bond level unlocks additional voice lines and emotes.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The reward is directly stated in the Bond section.",
+        "It specifies two unlockable features."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What special animated outfit for Rin Tohsaka was available during the collaboration event?",
+      "answer": "Fated Night",
+      "evidence": "Additionally, special animated outfits for Rin, such as the \"Fated Night\" version, were available during the collaboration event.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The outfit name is given as an example.",
+        "It is specified to be available during the event."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

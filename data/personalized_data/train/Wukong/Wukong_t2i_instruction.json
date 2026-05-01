@@ -1,0 +1,34 @@
+{
+  "description": "Sun Wukong, the Monkey King, is a mischievous and immensely powerful immortal born from a mystical stone. Known as the \"Great Sage, Equal of Heaven,\" he is rebellious, proud, and cunning, wielding the magical Ruyi Jingu Bang. Despite his playful and often arrogant nature, he is fiercely loyal and brave, dedicated to protecting his master, Tang Sanzang, on their epic journey. He can be impulsive and impatient, but his heart is just, and he never hesitates to fight demons.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Wukong holding a long staff, wearing traditional red and yellow warrior costume, intricate embroidery, dramatic pose, cave setting background, vivid colors, dynamic lighting, vibrant mood, detailed textures, cultural art style"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Wukong wearing a golden crown and yellow robe, black scarf tied around neck, set in a forest landscape, natural lighting, serene mood, traditional Asian attire, detailed fabric textures"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Wukong wearing elaborate golden armor, adorned with red and blue gemstones, mountainous background, crown-like headpiece with intricate design, fantasy art style, dramatic lighting, majestic mood"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Wukong with golden fur and yellow feathered headdress, red scarf tied around neck, ornate white and gold garment, facing away in a mythical setting, classic art style, warm lighting, adventurous mood"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Wukong wearing a yellow and black traditional costume, furry texture, standing in a forest setting, dynamic pose, pointing gesture, lively atmosphere, daylight filtering through trees, cinematic mood, detailed fabric pattern"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Wukong wearing traditional monk robes, holding a wooden staff, beige cap with Chinese character, standing in a serene forest setting, realistic art style, warm earthy tones, peaceful mood, soft ambient lighting"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Wukong wearing traditional Chinese attire, ornate headdress with black and gold details, red robe and golden collar, seated in a dark, ancient temple setting, dramatic lighting, historical art style, mysterious and regal mood"
+    }
+  ]
+}

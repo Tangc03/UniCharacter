@@ -1,0 +1,146 @@
+{
+  "description": "Rin Tohsaka is the highly capable heir to a magus family and a model student at Homurahara Academy. Beneath her prim and proper public persona lies a fiercely competitive, pragmatic, and resourceful individual who hates to lose. While often appearing demanding or sharp-tongued, she possesses a deeply caring nature for her friends, though she struggles to show it directly. She is proud, logical, and always strives for perfection in everything she does, from magecraft to mahjong.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "In which game does Rin Tohsaka appear as a guest character according to the profile?",
+      "options": {
+        "A": "Fate/Grand Order",
+        "B": "Mahjong Soul",
+        "C": "Heaven's Feel: War of Beliefs",
+        "D": "Homurahara Academy Simulator"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Rin Tohsaka appears in Mahjong Soul as a guest character from the *Fate/stay night: Heaven's Feel* collaboration event.",
+      "rationale": "The profile explicitly states that Rin Tohsaka appears in Mahjong Soul. This is a direct factual statement, making the question easy."
+    },
+    {
+      "id": "mcq_002",
+      "question": "What is Rin Tohsaka's height as listed in the profile?",
+      "options": {
+        "A": "165cm",
+        "B": "159cm",
+        "C": "170cm",
+        "D": "155cm"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "* **Height:** 159cm",
+      "rationale": "The profile clearly lists Rin's height as 159cm. This is a straightforward detail from the 'Basic Information' section, making it an easy question."
+    },
+    {
+      "id": "mcq_003",
+      "question": "Which personality trait is explicitly mentioned as part of Rin Tohsaka's portrayal in Mahjong Soul?",
+      "options": {
+        "A": "Shy and withdrawn",
+        "B": "Perceptive and competitive",
+        "C": "Laid-back and humorous",
+        "D": "Aggressive and reckless"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Rin's personality in Mahjong Soul is consistent with her portrayal in the *Fate* series. She is depicted as perceptive, competitive, and resourceful.",
+      "rationale": "The profile states that Rin is 'perceptive, competitive, and resourceful.' Option B matches this directly, while the others are not mentioned, making this a medium-difficulty question due to the need to identify accurate phrasing."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is one of Rin Tohsaka's interests according to the profile?",
+      "options": {
+        "A": "Studying ancient spells",
+        "B": "Playing the piano",
+        "C": "Jewelry polishing",
+        "D": "Collecting rare books"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "* **Interests:** Jewelry polishing",
+      "rationale": "The profile explicitly lists 'Jewelry polishing' as one of Rin's interests. This is a direct fact, making the question easy."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What must a player have to declare 'riichi' in Riichi Mahjong, according to the profile?",
+      "options": {
+        "A": "A hand with no sequences",
+        "B": "A hand one tile away from completion and concealed",
+        "C": "At least three dragon triplets",
+        "D": "A pair of wind tiles"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "A player can do this when their hand is one tile away from completion and is concealed (no tiles have been claimed from other players' discards to form open sets).",
+      "rationale": "The profile clearly specifies the conditions for declaring 'riichi.' Option B accurately reflects this condition. The question is medium because it requires understanding a specific game rule tied to the character's context."
+    },
+    {
+      "id": "mcq_006",
+      "question": "Which of the following is required to fully ascend Rin Tohsaka's Bond in Mahjong Soul?",
+      "options": {
+        "A": "Heart of the Ocean x5",
+        "B": "Sphere of Courage x10",
+        "C": "Wishing Stones x5",
+        "D": "Star Dust x50"
+      },
+      "answer_key": "A",
+      "difficulty": "hard",
+      "evidence": "* **Purple Gift:** Heart of the Ocean x5.",
+      "rationale": "The profile lists 'Heart of the Ocean x5' as a required material for full Bond ascension. The other options have incorrect quantities or names (e.g., 'Sphere of Honesty' and 'Wisdom' are correct spheres, not 'Courage'). This is a hard question because it requires precise recall of specific material names and amounts from a detailed list."
+    },
+    {
+      "id": "mcq_007",
+      "question": "What is Rin Tohsaka's preferred gift in Mahjong Soul that grants bonus Bond points?",
+      "options": {
+        "A": "Wishing Stones",
+        "B": "Gemstones",
+        "C": "Sphere of Wisdom",
+        "D": "Heart of the Ocean"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Giving Rin her preferred gift, Gemstones, will grant bonus Bond points.",
+      "rationale": "The profile explicitly states that Gemstones are her preferred gift for bonus Bond points. This is a medium question because while the fact is stated, it is embedded within a paragraph about the Bond system, requiring careful reading."
+    },
+    {
+      "id": "mcq_008",
+      "question": "Which character is mentioned as appearing alongside Rin Tohsaka in the Mahjong Soul collaboration event?",
+      "options": {
+        "A": "Shirou Emiya",
+        "B": "Archer",
+        "C": "Saber",
+        "D": "Kirei Kotomine"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "She joins other iconic characters from the series, such as Sakura Matou and Saber, at the mahjong table.",
+      "rationale": "Saber is explicitly named as one of the characters joining Rin in the event. This is a direct reference, making it an easy question."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What does Rin Tohsaka say after winning a hand, according to the profile?",
+      "options": {
+        "A": "This was destiny!",
+        "B": "My victory! Now, I think I'll just help myself to everything.",
+        "C": "The Grail is mine!",
+        "D": "Another flawless strategy."
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "For instance, upon winning, she might exclaim, \"My victory! Now, I think I'll just help myself to everything.\"",
+      "rationale": "The exact quote is provided in the profile. The other options are plausible but not stated. This is a hard question because it requires precise recall of a specific voice line from a list of possibilities."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What role does Rin Tohsaka hold in Fuyuki City's magical activities?",
+      "options": {
+        "A": "Apprentice Magus",
+        "B": "Holy Grail Guardian",
+        "C": "Administrator",
+        "D": "Wandering Spellcaster"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Rin Tohsaka is described as a top student at Homurahara Academy and the head of the Tohsaka family, acting as the administrator of Fuyuki City's magical activities.",
+      "rationale": "The profile states she acts as the 'administrator of Fuyuki City's magical activities.' Option C matches this exactly. The question is medium because it requires identifying a specific title from a longer sentence."
+    }
+  ]
+}

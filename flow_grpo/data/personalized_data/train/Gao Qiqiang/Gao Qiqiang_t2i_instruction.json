@@ -1,0 +1,54 @@
+{
+  "description": "Gao Qiqiang evolves from a bullied fishmonger into the cunning leader of the Qiangsheng Group crime syndicate. Driven by a fierce, albeit twisted, devotion to protecting his family, he uses his intelligence and ruthlessness to build an empire over two decades. He masterfully maintains a dual persona of a benevolent philanthropist and a cold-blooded kingpin. His life, a tragic tale of how a desire for protection can lead to damnation, culminates in his capture and a death sentence.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Gao Qiqiang in a dark suit with a teal lapel, sitting in a dimly lit room, neutral expression, slicked-back hair, framed picture in the background, cinematic lighting, serious mood, close-up shot"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Gao Qiqiang with open arms, wearing a white double-breasted suit and dark shirt, standing on a ship deck, vintage style, daytime setting, confident pose, nautical background with ship structures, soft natural lighting"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Gao Qiqiang in a formal black suit, white shirt, gray hair slicked back, wearing glasses, side profile, business setting, neutral expression, soft indoor lighting, modern office background"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Gao Qiqiang in a tan trench coat, side profile with slicked-back hair, sitting in a sophisticated study, wooden shelves and vintage decor in the background, soft ambient lighting, calm and contemplative mood"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Gao Qiqiang wearing a light beige trench coat, sitting in a dimly lit room, surrounded by wooden shelves filled with various objects, dark hair neatly styled, formal setting, moody and introspective atmosphere, soft ambient lighting"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Gao Qiqiang with slicked back black hair, wearing a dark tailored coat with fine stitching, detailed tie, standing in a brightly lit arcade setting, colorful background, vibrant atmosphere, cinematic lighting, composed and confident demeanor"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Gao Qiqiang wearing a black suit jacket over a black shirt, standing in a modern interior with a brick wall and blurred background, side profile, natural lighting, serious mood, cinematic style"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Gao Qiqiang sitting indoors, wearing a dark, patterned sweater, dimly lit setting with warm tones, blurred background with colorful elements, relaxed pose, casual atmosphere"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Gao Qiqiang in a sharp black suit, standing confidently with a serious demeanor, surrounded by associates in similar attire, industrial setting with exposed pipes, cinematic lighting, tense and authoritative mood"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Gao Qiqiang pointing forward, wearing a light-colored suit jacket over a dark shirt, slicked-back hairstyle, outdoor setting with a brick wall background, confident pose, natural daylight, serious mood"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Gao Qiqiang in a formal setting, wearing a grey trench coat over a dark sweater and collared shirt, surrounded by people in suits, dimly lit environment, serious and focused mood, modern urban backdrop"
+    },
+    {
+      "image_id": "11",
+      "t2i_instruction": "Gao Qiqiang in a casual outfit, wearing a striped shirt under a green jacket, seated indoors with a focused expression, medium shot, realistic art style, soft daylight, calm and contemplative mood, educational setting background"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description": "My Dieu is a ginger tabby cat renowned for her dramatic personality and peculiar, human-like sitting posture. A true gourmand, her life revolves around her next meal, and her prominent belly is a testament to her success. She communicates with a range of hilariously expressive faces, from wide-eyed shock to judgmental glares. Viewing her humans as dedicated staff, My Dieu is a sassy, demanding queen of comfort who isn't shy about voicing her complaints, especially concerning an empty food bowl.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Mydieu with an alert expression, bright yellow eyes, orange tabby fur, wearing a pink collar with a heart-shaped name tag, sitting inside a light gray enclosure, realistic style, soft lighting, curious mood"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Mydieu as a relaxed orange tabby cat, lying on tiled floor, wearing a neon green collar with a name tag, soft fur patterns, calm expression, indoor setting with white wall background, cozy and serene atmosphere, natural lighting"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Mydieu with a surprised expression, sitting in a relaxed pose, golden fur, large round eyes, lying on a speckled granite surface, casual and playful mood, soft lighting, minimalistic indoor setting"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Mydieu as a relaxed orange tabby cat, sitting upright, paws resting on belly, wearing a pink collar with a tag, white tiled background with cracked tiles, attentive expression, humorous and casual mood, indoor setting"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Mydieu as a playful orange tabby cat, lying on its back, paws in the air, wearing a collar with a name tag, glossy eyes, relaxed pose, minimalist indoor setting, natural lighting, whimsical and cute mood"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Mydieu, a relaxed orange tabby cat with a name tag, sitting upright in a corner next to a window, bright natural light, calm and serene expression, soft fur texture, indoor setting, casual and cozy mood"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Mydieu, a ginger cat with a pink collar and name tag, sitting on a black fabric, close-up shot, cozy and relaxed mood, soft lighting, fur texture detailed, visible whiskers, ear tufts prominent"
+    }
+  ]
+}

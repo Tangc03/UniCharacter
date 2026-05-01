@@ -1,0 +1,1264 @@
+{
+  "description": "My Dieu is a ginger tabby cat renowned for her dramatic personality and peculiar, human-like sitting posture. A true gourmand, her life revolves around her next meal, and her prominent belly is a testament to her success. She communicates with a range of hilariously expressive faces, from wide-eyed shock to judgmental glares. Viewing her humans as dedicated staff, My Dieu is a sassy, demanding queen of comfort who isn't shy about voicing her complaints, especially concerning an empty food bowl.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is My Dieu's breed?",
+      "answer": "Domestic Shorthair",
+      "evidence": "* **Breed:** Domestic Shorthair.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the 'Breed' field in the profile.",
+        "Extract the value directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "How is My Dieu's name pronounced?",
+      "answer": "Mee-Yew",
+      "evidence": "* **Name:** My Dieu (pronounced *Mee-Yew*).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the name entry in the profile.",
+        "Note the pronunciation given in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What nickname does My Dieu have?",
+      "answer": "Nau",
+      "evidence": "* **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the 'Nicknames' section.",
+        "Extract the nickname 'Nau'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What does the nickname 'Nau' mean in Vietnamese?",
+      "answer": "Brown",
+      "evidence": "(the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the explanation of 'Nau' in parentheses.",
+        "Identify the translation provided: 'brown'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What color are My Dieu's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "* **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Refer to the 'Appearance' section.",
+        "Extract the eye color description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What is My Dieu's coat pattern?",
+      "answer": "Ginger tabby",
+      "evidence": "* **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the physical description.",
+        "Identify the coat pattern mentioned: 'ginger tabby'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What distinctive physical feature does My Dieu have besides her coat and eyes?",
+      "answer": "A healthy, round belly",
+      "evidence": "She has a healthy, round belly and is known for her peculiar, human-like sitting postures.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify physical traits beyond coat and eyes.",
+        "Extract 'healthy, round belly' as a noted feature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is one of My Dieu's signature physical behaviors?",
+      "answer": "Sitting like a slumped human",
+      "evidence": "Her signature move is sitting like a slumped human, a quirky habit that her followers find endearing.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate description of her behavior.",
+        "Extract the 'signature move' mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What colors are My Dieu's collars typically?",
+      "answer": "Pink or lime green",
+      "evidence": "Her style includes a rotation of collars, typically pink or lime green, with custom name tags.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the collar description in 'Appearance'.",
+        "Extract the two colors listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What does My Dieu's collar include besides color?",
+      "answer": "Custom name tags",
+      "evidence": "Her style includes a rotation of collars, typically pink or lime green, with custom name tags.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify additional collar features.",
+        "Extract 'custom name tags' as part of her collar style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What is My Dieu's life philosophy?",
+      "answer": "Achieving peak comfort",
+      "evidence": "My Dieu’s life philosophy revolves around achieving peak comfort.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the statement about her philosophy.",
+        "Extract the phrase 'achieving peak comfort'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What are My Dieu's main activities?",
+      "answer": "Napping, meditating on snacks, and supervising her humans",
+      "evidence": "Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence listing her main activities.",
+        "Extract the three listed activities exactly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "How does My Dieu express her emotions?",
+      "answer": "Through her expressive face and body language",
+      "evidence": "Her face is a canvas for her emotions. From wide-eyed wonder to looks of utter disdain, My Dieu communicates everything with her expressive face and body language.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify how she communicates emotions.",
+        "Combine the two sentences to extract the full method: face and body language."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What triggers My Dieu's dramatic flair?",
+      "answer": "When her meal is delayed",
+      "evidence": "She has a flair for the dramatic, especially when her meal is delayed.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the condition under which drama occurs.",
+        "Extract the trigger: 'when her meal is delayed'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What governs My Dieu's life?",
+      "answer": "Her stomach",
+      "evidence": "Her life is governed by her stomach.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence stating what governs her life.",
+        "Extract the answer: 'her stomach'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What is the significance of My Dieu's prominent belly?",
+      "answer": "It is a proud testament to her love for food",
+      "evidence": "Her prominent belly is a proud testament to her love for food.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the description of her belly.",
+        "Extract the symbolic meaning provided: 'proud testament to her love for food'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "How does My Dieu perceive her humans?",
+      "answer": "As her dedicated staff",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the sentence describing her view of humans.",
+        "Extract the phrase: 'her dedicated staff'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What does My Dieu do when she 'talks'?",
+      "answer": "She is blunt, sassy, and concerned about her food bowl",
+      "evidence": "When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify the description of her speech style.",
+        "Extract the three traits: blunt, sassy, and concerned about food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What tactic does My Dieu use to get treats?",
+      "answer": "A guilt-inducing stare",
+      "evidence": "She is perpetually convinced she is on the brink of starvation and employs a range of tactics, including a guilt-inducing stare, to solicit treats.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the description of treat-soliciting behavior.",
+        "Extract the specific tactic mentioned: 'guilt-inducing stare'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What is My Dieu perpetually convinced of?",
+      "answer": "She is on the brink of starvation",
+      "evidence": "She is perpetually convinced she is on the brink of starvation and employs a range of tactics, including a guilt-inducing stare, to solicit treats.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the belief she holds constantly.",
+        "Extract the exact phrase: 'on the brink of starvation'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What makes My Dieu unconventionally charming?",
+      "answer": "Her quirky habit of sitting like a slumped human",
+      "evidence": "Her signature move is sitting like a slumped human, a quirky habit that her followers find endearing.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify what causes her charm.",
+        "Link 'unconventionally charming' to the described 'quirky habit'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "How does My Dieu feel about feline conventions?",
+      "answer": "She is unbothered by them",
+      "evidence": "She is a cat who is perfectly comfortable in her own skin, unbothered by feline conventions.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate her attitude toward feline norms.",
+        "Extract the phrase: 'unbothered by feline conventions'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What does My Dieu do while meditating?",
+      "answer": "She meditates on the subject of snacks",
+      "evidence": "Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the activity of meditation in the list.",
+        "Extract the object of her meditation: 'the subject of snacks'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What two things does My Dieu do to supervise her humans?",
+      "answer": "She issues commands and voices complaints",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify actions related to supervision.",
+        "Extract the two behaviors: issuing commands and voicing complaints."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "Where is My Dieu's nickname 'Nau' displayed?",
+      "answer": "On one of her collars",
+      "evidence": "Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "location",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the mention of the nickname 'Nau'.",
+        "Extract the location where it is seen: 'on one of her collars'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is My Dieu's breed?",
+      "answer": "Domestic Shorthair",
+      "evidence": "* **Breed:** Domestic Shorthair.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists My Dieu's breed under 'Personal Details'.",
+        "The value provided is 'Domestic Shorthair'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "How is My Dieu's name pronounced?",
+      "answer": "Mee-Yew",
+      "evidence": "* **Name:** My Dieu (pronounced *Mee-Yew*).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The pronunciation is directly given in parentheses after the name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What is the meaning of My Dieu's nickname 'Nau' in Vietnamese?",
+      "answer": "Brown",
+      "evidence": "* **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that 'Nau' means 'brown' in Vietnamese.",
+        "This definition is provided within the nickname entry."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What color are My Dieu's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "* **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The eye color is explicitly mentioned in the 'Appearance' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What physical feature of My Dieu is described as a 'testament to her love for food'?",
+      "answer": "Her prominent belly",
+      "evidence": "Her prominent belly is a proud testament to her love for food.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links her belly directly to her love of food.",
+        "The phrase 'proud testament' confirms the connection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What are the typical colors of My Dieu's collars?",
+      "answer": "Pink or lime green",
+      "evidence": "Her style includes a rotation of collars, typically pink or lime green, with custom name tags.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence specifies the typical colors used in her collar rotation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What is My Dieu's life philosophy according to the profile?",
+      "answer": "Achieving peak comfort",
+      "evidence": "My Dieu’s life philosophy revolves around achieving peak comfort.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly states her life philosophy in the 'Personality & Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What are My Dieu's main activities?",
+      "answer": "Napping, meditating on snacks, and supervising her humans",
+      "evidence": "Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists her main activities in order."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "How does My Dieu communicate her emotions?",
+      "answer": "Through her expressive face and body language",
+      "evidence": "Her face is a canvas for her emotions... My Dieu communicates everything with her expressive face and body language.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her face as a 'canvas' and explicitly states she uses facial expressions and body language."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What does My Dieu do when her meal is delayed?",
+      "answer": "She displays a flair for the dramatic",
+      "evidence": "She has a flair for the dramatic, especially when her meal is delayed.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links her dramatic behavior specifically to meal delays."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What governs My Dieu's life?",
+      "answer": "Her stomach",
+      "evidence": "Her life is governed by her stomach.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct quote from the 'Gourmand' trait description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What is My Dieu's signature sitting posture described as?",
+      "answer": "Sitting like a slumped human",
+      "evidence": "Her signature move is sitting like a slumped human, a quirky habit that her followers find endearing.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile defines her signature move with this exact phrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "How does My Dieu view her humans?",
+      "answer": "As her dedicated staff",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states her perception of her humans."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What tactic does My Dieu use to get treats?",
+      "answer": "A guilt-inducing stare",
+      "evidence": "She employs a range of tactics, including a guilt-inducing stare, to solicit treats.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists the guilt-inducing stare as one of her tactics."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Is My Dieu concerned about her food bowl?",
+      "answer": "Yes",
+      "evidence": "When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states she is 'perpetually concerned' about her food bowl."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is My Dieu's coat pattern?",
+      "answer": "Ginger tabby",
+      "evidence": "* **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The coat pattern is explicitly stated in the appearance description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What does My Dieu do to meditate?",
+      "answer": "She meditates on the subject of snacks",
+      "evidence": "Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies the topic of her meditation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What kind of name tags does My Dieu wear on her collars?",
+      "answer": "Custom name tags",
+      "evidence": "Her style includes a rotation of collars, typically pink or lime green, with custom name tags.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile mentions that her collars have custom name tags."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "How would you describe My Dieu's personality in relation to feline norms?",
+      "answer": "Unconventional and unbothered by feline conventions",
+      "evidence": "She is a cat who is perfectly comfortable in her own skin, unbothered by feline conventions.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes her as 'unbothered by feline conventions'.",
+        "This implies she is unconventional compared to typical cat behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is the tone of My Dieu's speech when she 'talks'?",
+      "answer": "Blunt, sassy, and perpetually concerned about food",
+      "evidence": "When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists three descriptors for her linguistic style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "Does My Dieu issue commands to her humans?",
+      "answer": "Yes",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states she issues commands."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What emotion does My Dieu express with wide eyes?",
+      "answer": "Wonder",
+      "evidence": "From wide-eyed wonder to looks of utter disdain, My Dieu communicates everything with her expressive face and body language.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'wide-eyed wonder' directly links wide eyes to the emotion of wonder."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What emotion does My Dieu express with looks of utter disdain?",
+      "answer": "Disdain",
+      "evidence": "From wide-eyed wonder to looks of utter disdain, My Dieu communicates everything with her expressive face and body language.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'looks of utter disdain' explicitly states the emotion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "Is My Dieu endearing to her followers?",
+      "answer": "Yes",
+      "evidence": "a quirky habit that her followers find endearing",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that her followers find her quirky sitting habit endearing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What does My Dieu do when she voices complaints?",
+      "answer": "She voices complaints to her humans",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she voices complaints, and the context implies it is directed at her humans."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is My Dieu's breed?",
+      "answer": "Domestic Shorthair",
+      "evidence": "* **Breed:** Domestic Shorthair.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The breed is explicitly stated in the 'Personal Details' section.",
+        "No inference is needed; the information is directly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "How is My Dieu's name pronounced?",
+      "answer": "Mee-Yew",
+      "evidence": "* **Name:** My Dieu (pronounced *Mee-Yew*).",
+      "type": "pronunciation",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The pronunciation is given in parentheses after the name.",
+        "It is explicitly stated and requires no interpretation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What does the nickname 'Nau' mean in Vietnamese?",
+      "answer": "Brown",
+      "evidence": "* **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The meaning of 'Nau' is directly provided in the parentheses.",
+        "The context specifies it is the Vietnamese word for 'brown'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What color are My Dieu's eyes?",
+      "answer": "Golden-yellow",
+      "evidence": "* **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The eye color is explicitly mentioned in the 'Appearance' section.",
+        "No inference is required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What physical feature is My Dieu known for besides her eyes?",
+      "answer": "Her healthy, round belly",
+      "evidence": "* **Appearance:** ...She has a healthy, round belly and is known for her peculiar, human-like sitting postures.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Appearance' section lists two notable features: eyes and belly.",
+        "The round belly is explicitly mentioned as a known trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What kind of sitting postures is My Dieu known for?",
+      "answer": "Peculiar, human-like sitting postures",
+      "evidence": "* **Appearance:** ...and is known for her peculiar, human-like sitting postures.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The posture type is directly stated in the 'Appearance' section.",
+        "No interpretation beyond the text is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What colors are My Dieu's collars typically?",
+      "answer": "Pink or lime green",
+      "evidence": "* **Appearance:** ...a rotation of collars, typically pink or lime green, with custom name tags.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The typical collar colors are explicitly listed in the 'Appearance' section.",
+        "The word 'typically' indicates these are the usual colors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is one of My Dieu's personality traits related to comfort?",
+      "answer": "She is a master of relaxation",
+      "evidence": "* **The Lounging Queen:** My Dieu’s life philosophy revolves around achieving peak comfort. She is a master of relaxation...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is directly stated in the 'The Lounging Queen' subsection.",
+        "Being a 'master of relaxation' is a core aspect of her comfort focus."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What is My Dieu's life philosophy according to the profile?",
+      "answer": "Achieving peak comfort",
+      "evidence": "* **The Lounging Queen:** My Dieu’s life philosophy revolves around achieving peak comfort.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The life philosophy is explicitly stated in the 'The Lounging Queen' section.",
+        "The phrase is a direct quote from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What are My Dieu's main activities?",
+      "answer": "Napping, meditating on snacks, and supervising her humans",
+      "evidence": "* **The Lounging Queen:** ...Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three main activities are explicitly listed in the profile.",
+        "No inference is required; the list is complete as given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "How does My Dieu express her emotions?",
+      "answer": "Through her expressive face and body language",
+      "evidence": "* **Dramatically Expressive:** Her face is a canvas for her emotions... My Dieu communicates everything with her expressive face and body language.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The method of emotional expression is directly stated in the 'Dramatically Expressive' section.",
+        "Both face and body language are mentioned as communication tools."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What kind of look does My Dieu give when she feels disdain?",
+      "answer": "Looks of utter disdain",
+      "evidence": "* **Dramatically Expressive:** ...From wide-eyed wonder to looks of utter disdain, My Dieu communicates everything with her expressive face...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists specific facial expressions, including 'looks of utter disdain'.",
+        "This is a direct reference to how she expresses negative emotion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What governs My Dieu's life?",
+      "answer": "Her stomach",
+      "evidence": "* **Gourmand:** Her life is governed by her stomach.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The governing force of her life is explicitly stated in the 'Gourmand' section.",
+        "The phrase 'governed by her stomach' is a direct quote."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What does My Dieu's prominent belly signify?",
+      "answer": "Her love for food",
+      "evidence": "* **Gourmand:** Her prominent belly is a proud testament to her love for food.",
+      "type": "interpretation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The belly is described as a 'proud testament' to her love for food.",
+        "This indicates it symbolizes her gourmand nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "How does My Dieu react when her meal is delayed?",
+      "answer": "With a flair for the dramatic",
+      "evidence": "* **Dramatically Expressive:** ...She has a flair for the dramatic, especially when her meal is delayed.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The reaction to delayed meals is explicitly stated in the 'Dramatically Expressive' section.",
+        "The phrase 'flair for the dramatic' directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What tactic does My Dieu use to get treats?",
+      "answer": "A guilt-inducing stare",
+      "evidence": "* **Gourmand:** ...employs a range of tactics, including a guilt-inducing stare, to solicit treats.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "One of the listed tactics is explicitly 'a guilt-inducing stare'.",
+        "This is directly stated in the 'Gourmand' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What is My Dieu's signature move?",
+      "answer": "Sitting like a slumped human",
+      "evidence": "* **Unconventionally Charming:** Her signature move is sitting like a slumped human...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The signature move is explicitly named in the 'Unconventionally Charming' section.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "How do My Dieu's followers perceive her quirky sitting habit?",
+      "answer": "Endearing",
+      "evidence": "* **Unconventionally Charming:** ...a quirky habit that her followers find endearing.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The perception of her habit is directly stated as 'endearing'.",
+        "The word 'followers' refers to those who observe her, likely online."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "How does My Dieu view her humans?",
+      "answer": "As her dedicated staff",
+      "evidence": "* **Linguistic Style:** She views her humans as her dedicated staff...",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The view of her humans is explicitly stated in the 'Linguistic Style' section.",
+        "The phrase is a direct quote from the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "Is My Dieu shy about expressing her complaints?",
+      "answer": "No, she is not shy",
+      "evidence": "* **Linguistic Style:** ...and isn't shy about issuing commands or voicing her complaints.",
+      "type": "yes/no",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states she 'isn't shy' about voicing complaints.",
+        "This directly answers the yes/no question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What is the tone of My Dieu's linguistic style?",
+      "answer": "Blunt, sassy, and perpetually concerned about food",
+      "evidence": "* **Linguistic Style:** When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Three characteristics of her speech are listed: blunt, sassy, and food-concerned.",
+        "All are directly stated in the 'Linguistic Style' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What does My Dieu do when she 'talks'?",
+      "answer": "Issues commands and voices complaints",
+      "evidence": "* **Linguistic Style:** ...isn't shy about issuing commands or voicing her complaints.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The actions she takes when speaking are explicitly listed.",
+        "These include issuing commands and voicing complaints."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What is the meaning behind the name 'Nau' being on My Dieu's collar?",
+      "answer": "It is a nickname meaning 'brown' in Vietnamese",
+      "evidence": "* **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "interpretation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The name 'Nau' is explained as a nickname with a specific meaning.",
+        "The collar displays this name, linking it to her identity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What does My Dieu meditate on?",
+      "answer": "The subject of snacks",
+      "evidence": "* **The Lounging Queen:** ...meditating on the subject of snacks...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The object of her meditation is explicitly stated.",
+        "It is directly mentioned in the list of her main activities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "Is My Dieu concerned about feline conventions?",
+      "answer": "No, she is unbothered by them",
+      "evidence": "* **Unconventionally Charming:** ...a cat who is perfectly comfortable in her own skin, unbothered by feline conventions.",
+      "type": "yes/no",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states she is 'unbothered by feline conventions'.",
+        "This directly answers the yes/no question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is My Dieu's breed?",
+      "answer": "Domestic Shorthair",
+      "evidence": "* **Breed:** Domestic Shorthair.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The breed is explicitly stated in the 'Breed' field under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "How is My Dieu's name pronounced?",
+      "answer": "Mee-Yew",
+      "evidence": "* **Name:** My Dieu (pronounced *Mee-Yew*).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The pronunciation is directly provided in parentheses after her name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What is one of My Dieu's nicknames, and what does it mean in Vietnamese?",
+      "answer": "Nau, meaning 'brown'",
+      "evidence": "* **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The nickname 'Nau' is listed under 'Nicknames'.",
+        "The meaning is explicitly stated in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What color eyes does My Dieu have?",
+      "answer": "Golden-yellow",
+      "evidence": "* **Appearance:** A ginger tabby cat with striking, large golden-yellow eyes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Eye color is directly mentioned in the 'Appearance' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What are the typical colors of My Dieu's collars?",
+      "answer": "Pink or lime green",
+      "evidence": "Her style includes a rotation of collars, typically pink or lime green, with custom name tags.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence specifies the typical colors of her collars."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What is the significance of the name 'Nau' in relation to My Dieu?",
+      "answer": "It is a nickname seen on one of her collars and means 'brown' in Vietnamese.",
+      "evidence": "* **Nicknames:** Nau (the name \"Nau,\" meaning \"brown\" in Vietnamese, is seen on one of her collars).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The nickname 'Nau' is associated with a collar.",
+        "Its meaning and origin are provided in the same sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What physical feature is My Dieu known for, besides her eyes?",
+      "answer": "A healthy, round belly",
+      "evidence": "She has a healthy, round belly and is known for her peculiar, human-like sitting postures.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence lists her round belly as a known physical feature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What is My Dieu's life philosophy according to her profile?",
+      "answer": "Achieving peak comfort",
+      "evidence": "My Dieu’s life philosophy revolves around achieving peak comfort.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her life philosophy is explicitly stated in the 'The Lounging Queen' trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What are My Dieu's main activities?",
+      "answer": "Napping, meditating on snacks, and supervising her humans",
+      "evidence": "Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three main activities are directly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "How does My Dieu communicate her emotions?",
+      "answer": "Through her expressive face and body language",
+      "evidence": "Her face is a canvas for her emotions... My Dieu communicates everything with her expressive face and body language.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states she uses her face and body language to communicate emotions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What triggers My Dieu's dramatic flair?",
+      "answer": "When her meal is delayed",
+      "evidence": "She has a flair for the dramatic, especially when her meal is delayed.",
+      "type": "trigger",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies that her dramatic behavior is especially evident when meals are late."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What governs My Dieu's life?",
+      "answer": "Her stomach",
+      "evidence": "Her life is governed by her stomach.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct statement in the 'Gourmand' trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What does My Dieu's round belly symbolize?",
+      "answer": "Her love for food",
+      "evidence": "Her prominent belly is a proud testament to her love for food.",
+      "type": "interpretation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The belly is described as a 'proud testament' to her love of food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What is My Dieu's signature sitting posture?",
+      "answer": "Sitting like a slumped human",
+      "evidence": "Her signature move is sitting like a slumped human, a quirky habit that her followers find endearing.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The signature posture is explicitly named in the 'Unconventionally Charming' trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "How do My Dieu's followers perceive her sitting habit?",
+      "answer": "Endearing",
+      "evidence": "a quirky habit that her followers find endearing.",
+      "type": "perception",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that her followers find her sitting habit endearing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "How does My Dieu view her humans?",
+      "answer": "As her dedicated staff",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "belief",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Her view of humans is directly mentioned in the 'Linguistic Style' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What kind of tone does My Dieu use when she 'talks'?",
+      "answer": "Blunt, sassy, and perpetually concerned about her food bowl",
+      "evidence": "When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic tone is explicitly described in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What does My Dieu do when she feels her meal is delayed?",
+      "answer": "She displays a flair for the dramatic",
+      "evidence": "She has a flair for the dramatic, especially when her meal is delayed.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links meal delays to her dramatic behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What is My Dieu's primary motivation for supervising her humans?",
+      "answer": "To ensure her food needs are met",
+      "evidence": "Her life is governed by her stomach... She is perpetually convinced she is on the brink of starvation and employs a range of tactics... to solicit treats.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Supervising is listed as one of her main activities.",
+        "Her food obsession is a dominant trait.",
+        "She uses tactics like guilt to get treats, implying supervision is part of this strategy."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_095",
+      "question": "What kind of name tags does My Dieu wear on her collars?",
+      "answer": "Custom name tags",
+      "evidence": "Her style includes a rotation of collars... with custom name tags.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The type of name tag is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What is the primary subject of My Dieu's meditation?",
+      "answer": "Snacks",
+      "evidence": "Her main activities include napping, meditating on the subject of snacks, and supervising her humans.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The subject of her meditation is directly named in the list of activities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "Does My Dieu care about typical feline conventions?",
+      "answer": "No, she is unbothered by them",
+      "evidence": "She is a cat who is perfectly comfortable in her own skin, unbothered by feline conventions.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states she is unbothered by feline conventions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What tactic does My Dieu use to get treats?",
+      "answer": "A guilt-inducing stare",
+      "evidence": "She employs a range of tactics, including a guilt-inducing stare, to solicit treats.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "One specific tactic is named in the 'Gourmand' trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Is My Dieu concerned about the state of her food bowl?",
+      "answer": "Yes, she is perpetually concerned",
+      "evidence": "When she \"talks,\" My Dieu is blunt, sassy, and perpetually concerned about the state of her food bowl.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states she is 'perpetually concerned' about her food bowl."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What does My Dieu do when she wants to voice a complaint?",
+      "answer": "She is not shy about issuing commands or voicing complaints",
+      "evidence": "She views her humans as her dedicated staff and isn't shy about issuing commands or voicing her complaints.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states she openly voices complaints to her humans."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

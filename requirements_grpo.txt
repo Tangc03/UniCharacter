@@ -1,0 +1,223 @@
+# # Core PyTorch
+# torch==2.6.0
+# torchvision==0.21.0
+# torchaudio==2.6.0
+
+# # Transformers and ML
+# transformers==4.44.0
+# accelerate==1.4.0 
+# diffusers==0.33.1
+
+# # Scientific Computing
+# numpy==1.26.4
+# pandas==2.2.3
+# scipy==1.15.2
+# scikit-learn==1.6.1
+# scikit-image==0.25.2
+
+# # Image Processing
+# albumentations==1.4.10
+# opencv-python==4.11.0.86
+# pillow==10.4.0
+
+# # Utilities
+# tqdm==4.67.1
+# wandb==0.18.7
+# pydantic==2.10.6
+# requests==2.32.3
+# matplotlib==3.10.0
+
+# # Deep Learning Optimization
+# # flash-attn==2.7.4.post1  # Optional, uncomment if needed
+# deepspeed==0.16.4
+# peft==0.10.0
+# bitsandbytes==0.45.3
+
+# # Web Framework
+# aiohttp==3.11.13
+# fastapi==0.115.11
+# uvicorn==0.34.0
+
+# # HuggingFace
+# huggingface-hub==0.29.1
+# datasets==3.3.2
+# tokenizers
+
+# # Additional ML Libraries
+# einops==0.8.1
+# nvidia-ml-py==12.570.86
+# xformers
+# absl-py
+# ml_collections
+# sentencepiece
+# openai
+
+# # GenEval dependencies
+# openmim
+# mmengine
+# # Note: mmcv and mmdetection are installed from local paths
+# # Before installation, ensure you have checked out the correct branches:
+# #   cd mmcv && git checkout 1.x && cd ..
+# #   cd mmdetection && git checkout 2.x && cd ..
+# # Then install with environment variables:
+# #   MMCV_WITH_OPS=1 FORCE_CUDA=1 pip install -e /path/to/mmcv
+# #   pip install "setuptools>=69.0.3" && pip install -e /path/to/mmdetection --no-build-isolation
+# setuptools==80.9.0
+# # Update the paths below to your local mmcv and mmdetection directories
+# -e ./mmcv  # Please update to your local mmcv path (ensure git checkout 1.x)
+# # -e ./mmdetection  # Please update to your local mmdetection path (ensure git checkout 2.x)
+
+# # CLIP and Vision
+# open-clip-torch
+# clip-benchmark
+# # Update the path below to your local CLIP directory
+# -e ./CLIP  # Please update to your local CLIP path
+
+# # OCR
+# paddlepaddle-gpu==2.6.2
+# paddleocr==2.9.1
+# python-Levenshtein
+
+# # HPSv2.1
+# hpsv2x==1.2.0
+
+# # ImageReward
+# # image-reward
+
+# # LPIPS for diversity scoring
+# lpips
+
+# # BLIP-VQA for VQA scoring (already included in transformers)
+# # DINOv2 for similarity scoring (already included in transformers)
+
+# # Development dependencies (optional)
+# # ipython==8.34.0
+# # black==24.2.0
+# # pytest==8.2.0
+
+# # Install this package in editable mode
+# -e .
+# # -e ./mmdetection
+
+# flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+# mmdet
+
+# timm==1.0.24
+# decord
+# gradio
+# pyarrow
+# PyYAML
+# safetensors
+# wheel
+# ninja
+# xlsxwriter
+# triton ; sys_platform != 'win32'
+# triton-windows ; sys_platform == 'win32'
+
+
+# setuptools==69.0.3
+setuptools<82.0.0
+
+# Core PyTorch
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+# Transformers and ML
+transformers==4.44.0
+accelerate==1.4.0
+diffusers==0.33.1
+
+# Scientific Computing
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+scikit-image==0.25.2
+
+# Image Processing
+albumentations==1.4.10
+opencv-python==4.11.0.86
+pillow==10.4.0
+
+# Utilities
+tqdm==4.67.1
+wandb==0.18.7
+pydantic==2.10.6
+requests==2.32.3
+matplotlib==3.10.0
+
+# Deep Learning Optimization
+# flash-attn==2.7.4.post1  # Optional, uncomment if needed
+deepspeed==0.16.4
+peft==0.10.0
+bitsandbytes==0.45.3
+
+# Web Framework
+aiohttp==3.11.13
+fastapi==0.115.11
+uvicorn==0.34.0
+
+# HuggingFace
+huggingface-hub==0.29.1
+datasets==3.3.2
+tokenizers
+
+# Additional ML Libraries
+einops==0.8.1
+nvidia-ml-py==12.570.86
+xformers
+absl-py
+ml_collections
+sentencepiece
+openai
+
+# GenEval dependencies
+openmim
+mmengine
+# Note: mmcv and mmdetection are installed from local paths
+# Before installation, ensure you have checked out the correct branches:
+#   cd mmcv && git checkout 1.x && cd ..
+#   cd mmdetection && git checkout 2.x && cd ..
+# Then install with environment variables:
+#   MMCV_WITH_OPS=1 FORCE_CUDA=1 pip install -e /path/to/mmcv
+#   pip install "setuptools>=69.0.3" && pip install -e /path/to/mmdetection --no-build-isolation
+# setuptools==69.0.3
+# Update the paths below to your local mmcv and mmdetection directories
+# -e ./mmcv  # Please update to your local mmcv path (ensure git checkout 1.x)
+# -e ./mmdetection  # Please update to your local mmdetection path (ensure git checkout 2.x)
+
+# CLIP and Vision
+open-clip-torch
+clip-benchmark
+# Update the path below to your local CLIP directory
+# -e ./CLIP  # Please update to your local CLIP path
+
+# OCR
+paddlepaddle-gpu==2.6.2
+paddleocr==2.9.1
+python-Levenshtein
+
+# HPSv2.1
+hpsv2x==1.2.0
+
+# ImageReward
+# image-reward
+
+# LPIPS for diversity scoring
+lpips
+
+# BLIP-VQA for VQA scoring (already included in transformers)
+# DINOv2 for similarity scoring (already included in transformers)
+
+# Development dependencies (optional)
+# ipython==8.34.0
+# black==24.2.0
+# pytest==8.2.0
+
+# Install this package in editable mode
+# -e .
+# -e ./mmdetection
+
+mmdet
+flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl

@@ -1,0 +1,18 @@
+{
+  "description": "Butin is a dramatic and sassy Siberian Husky with expressive blue eyes. He believes he is the king of the household, communicating his desires for \"snaccos\" and naps through theatrical sighs and goofy faces. A chaotic blend of laziness and high energy, Butin's world revolves around his \"hooman,\" the couch, and the profound injustice of an empty food bowl. His goofy, imperfect \"dog-speak\" perfectly captures his charmingly chaotic personality.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Butin lying on tiled floor, playful pose with paws up, eyes closed, fluffy fur, relaxed expression, warm natural lighting, indoors setting, next to wooden furniture, cozy atmosphere"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Butin with wide eyes, fluffy white and brown fur, pointed ears, close-up angle, indoors on a stone floor, natural lighting, curious expression, portrait style"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Butin, relaxed pose lying on wooden floor, husky with piercing blue eyes and brown-white fur, playful expression, indoors setting, natural lighting, cozy mood, close-up view"
+    }
+  ]
+}

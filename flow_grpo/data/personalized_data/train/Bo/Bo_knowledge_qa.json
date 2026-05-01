@@ -1,0 +1,1215 @@
+{
+  "description": "Bo is a charismatic and confident Shiba Inu, the dignified king of his household. He observes his 'hooman's' world with witty commentary, balancing playful curiosity with a calm, independent streak. Highly food-motivated, he is always aware of potential snacks. A professional at posing for photos, Bo's cheerful 'Shiba smile' is never far, though he prefers affection on his own terms. He often speaks of himself in the third person, offering his services and observations for a fee payable in treats.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What breed is Bo?",
+      "answer": "Shiba Inu",
+      "evidence": "Breed: Shiba Inu",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists 'Breed: Shiba Inu'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "How does Bo typically refer to his owner?",
+      "answer": "The hooman",
+      "evidence": "He often refers to his owner as \"the hooman\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section states Bo refers to his owner as 'the hooman'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Does Bo enjoy affection on any terms, or only on specific ones?",
+      "answer": "On his own terms",
+      "evidence": "he appreciates affection on his own terms",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section notes that Bo appreciates affection on his own terms."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What motivates Bo strongly according to the profile?",
+      "answer": "Food",
+      "evidence": "Bo is highly food-motivated",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly states Bo is highly food-motivated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "Is Bo aware of snack-related activities around him?",
+      "answer": "Yes",
+      "evidence": "keenly aware of any snack-related activities in his vicinity",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states Bo is 'keenly aware' of snack-related activities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What expression is Bo quick to offer despite his independent nature?",
+      "answer": "A Shiba smile",
+      "evidence": "he possesses the breed's characteristic independent streak and appreciates affection on his own terms. While generally good-natured and quick to offer a \"Shiba smile\"",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence links Bo's general good nature with offering a 'Shiba smile', even though he is independent."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "How does Bo view himself in relation to his household?",
+      "answer": "The undisputed king",
+      "evidence": "He is the undisputed king of his household",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly describes Bo as 'the undisputed king of his household'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What two main attitudes does Bo have toward life?",
+      "answer": "Playful curiosity and calm observation",
+      "evidence": "approaches life with a mix of playful curiosity and calm observation",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'mix of playful curiosity and calm observation' indicates two components of his attitude."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "Is Bo experienced in posing for photographs?",
+      "answer": "Yes",
+      "evidence": "He is a seasoned professional at posing for photos",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states Bo is a 'seasoned professional' at posing for photos."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "How does Bo speak about himself sometimes?",
+      "answer": "In the third person",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section explicitly mentions Bo speaks in the third person."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What does Bo comment on in his internal monologue regarding comfort?",
+      "answer": "His comfort levels",
+      "evidence": "His internal monologue is filled with witty commentary on his comfort levels",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section lists 'comfort levels' as a topic of Bo's internal monologue."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What are two topics Bo's internal monologue includes besides comfort?",
+      "answer": "The quality of snacks and the simple joys of a good nap or a walk with interesting smells",
+      "evidence": "His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence lists three elements: comfort levels, snack quality, and joys of naps/walks.",
+        "Since the question asks for two besides comfort, the answer includes the other two."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "Is Bo confident in his appearance?",
+      "answer": "Yes",
+      "evidence": "fully aware of his handsome appearance",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Being 'fully aware of his handsome appearance' implies confidence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What kind of walk does Bo enjoy according to his internal thoughts?",
+      "answer": "A walk with interesting smells",
+      "evidence": "the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies Bo enjoys walks that include 'interesting smells'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "Where does Bo like to nap?",
+      "answer": "In a sunbeam",
+      "evidence": "a good nap in a sunbeam",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'a good nap in a sunbeam' indicates Bo enjoys napping there."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "Does Bo have a playful side?",
+      "answer": "Yes",
+      "evidence": "approaches life with a mix of playful curiosity and calm observation",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "'Playful curiosity' indicates a playful side."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "Is Bo's personality described as entirely dependent on human interaction?",
+      "answer": "No",
+      "evidence": "he possesses the breed's characteristic independent streak",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'independent streak' implies he is not entirely dependent on human interaction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What does Bo think about the quality of snacks?",
+      "answer": "He comments on it in his internal monologue",
+      "evidence": "His internal monologue is filled with witty commentary on... the quality of snacks",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states Bo's thoughts include commentary on snack quality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "Is Bo described as having a dignified demeanor?",
+      "answer": "Yes",
+      "evidence": "carries himself with a cheerful dignity",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "'Carries himself with a cheerful dignity' indicates a dignified demeanor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What emotion accompanies Bo's dignity?",
+      "answer": "Cheerfulness",
+      "evidence": "carries himself with a cheerful dignity",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'cheerful' directly modifies 'dignity'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "Is Bo aware of his photo posing skills?",
+      "answer": "Yes",
+      "evidence": "He is a seasoned professional at posing for photos, fully aware of his handsome appearance",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Being a 'seasoned professional' suggests experience.",
+        "Being 'fully aware of his handsome appearance' implies self-awareness of his visual appeal, which includes posing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What does Bo's linguistic voice reflect about his lifestyle?",
+      "answer": "That he is slightly pampered",
+      "evidence": "Bo's \"voice\" is that of a slightly pampered, intelligent observer of his human's world",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section directly describes his voice as that of a 'slightly pampered' observer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "Is Bo described as intelligent?",
+      "answer": "Yes",
+      "evidence": "Bo's \"voice\" is that of a slightly pampered, intelligent observer of his human's world",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly calls Bo an 'intelligent observer'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What role does Bo assume in social dynamics with humans?",
+      "answer": "Observer of his human's world",
+      "evidence": "intelligent observer of his human's world",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section identifies Bo as an 'observer of his human's world'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What does Bo decide in third-person constructions?",
+      "answer": "Actions or choices, as implied by 'Bo has decided...'",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "type": "inference",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The example 'Bo has decided...' implies Bo uses third person to announce decisions or actions.",
+        "The content of the decision is not specified, only the grammatical form."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "qa_026",
+      "question": "What breed is Bo?",
+      "answer": "Shiba Inu",
+      "evidence": "Breed: Shiba Inu",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Bo's breed under the 'Breed' field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "How does Bo typically refer to his owner in his internal monologue?",
+      "answer": "The hooman",
+      "evidence": "He often refers to his owner as \"the hooman\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section directly mentions how Bo refers to his owner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Does Bo always enjoy being touched or petted?",
+      "answer": "No, Bo appreciates affection on his own terms.",
+      "evidence": "he possesses the breed's characteristic independent streak and appreciates affection on his own terms",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile notes Bo’s independent nature and that he accepts affection selectively."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What motivates Bo the most according to the profile?",
+      "answer": "Food",
+      "evidence": "Bo is highly food-motivated",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Bo is highly driven by food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What is one physical sign of Bo's good mood?",
+      "answer": "A 'Shiba smile'",
+      "evidence": "he possesses the breed's characteristic independent streak and appreciates affection on his own terms. While generally good-natured and quick to offer a \"Shiba smile,\"",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile mentions the 'Shiba smile' as an indicator of Bo's good-natured and cheerful state."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "How does Bo view his position in the household?",
+      "answer": "As the undisputed king",
+      "evidence": "He is the undisputed king of his household",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile clearly states Bo's self-perceived role in the household."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "In what way does Bo sometimes speak about himself?",
+      "answer": "In the third person",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "type": "linguistic habit",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section explicitly notes Bo’s third-person self-reference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What two contrasting traits define Bo's personality?",
+      "answer": "Playful curiosity and calm observation",
+      "evidence": "approaches life with a mix of playful curiosity and calm observation",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile contrasts Bo’s active curiosity with his more passive observational nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What does Bo do when he notices snack-related activities?",
+      "answer": "He becomes keenly aware of them",
+      "evidence": "Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links Bo’s food motivation to his heightened awareness of snacks."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "Is Bo experienced in being photographed?",
+      "answer": "Yes, he is a seasoned professional at posing for photos",
+      "evidence": "He is a seasoned professional at posing for photos",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly describes Bo’s photo experience."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "Does Bo believe he is handsome?",
+      "answer": "Yes, he is fully aware of his handsome appearance",
+      "evidence": "fully aware of his handsome appearance",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Bo's self-awareness of his looks implies he recognizes his attractiveness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What kind of observer is Bo of his human's world?",
+      "answer": "A slightly pampered, intelligent observer",
+      "evidence": "Bo's \"voice\" is that of a slightly pampered, intelligent observer of his human's world",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly defines Bo’s perspective using these exact terms."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What is one simple joy Bo appreciates?",
+      "answer": "A good nap in a sunbeam",
+      "evidence": "the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists sunbeam napping as one of Bo’s valued simple pleasures."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What is another simple joy Bo appreciates?",
+      "answer": "A walk with interesting smells",
+      "evidence": "the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly mentions walks with interesting smells as a joy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What breed-specific trait does Bo exhibit?",
+      "answer": "An independent streak",
+      "evidence": "he possesses the breed's characteristic independent streak",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links Bo’s independence to typical Shiba Inu traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "How does Bo carry himself?",
+      "answer": "With cheerful dignity",
+      "evidence": "Bo is a charismatic and confident dog who carries himself with a cheerful dignity",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes Bo’s demeanor using the phrase 'cheerful dignity'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What kind of dog is Bo in terms of temperament?",
+      "answer": "Charismatic and confident",
+      "evidence": "Bo is a charismatic and confident dog",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile opens with this direct characterization of Bo’s temperament."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "Is Bo generally in a good mood?",
+      "answer": "Yes, he is generally good-natured",
+      "evidence": "While generally good-natured and quick to offer a \"Shiba smile,\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states Bo is generally good-natured, indicating a positive disposition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What is Bo's attitude toward photo sessions?",
+      "answer": "He is highly experienced and aware of his appearance",
+      "evidence": "He is a seasoned professional at posing for photos, fully aware of his handsome appearance",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Bo’s expertise and self-awareness during photos are both explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What two elements make up Bo's internal monologue?",
+      "answer": "Witty commentary on comfort levels and snack quality",
+      "evidence": "His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists multiple components of Bo’s thoughts, from which two distinct elements are extracted."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What does Bo comment on regarding snacks in his internal monologue?",
+      "answer": "The quality of snacks",
+      "evidence": "His internal monologue is filled with witty commentary on his comfort levels, the quality of snacks",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifically mentions that Bo reflects on snack quality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What does Bo comment on regarding his physical state in his internal monologue?",
+      "answer": "His comfort levels",
+      "evidence": "His internal monologue is filled with witty commentary on his comfort levels",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly states Bo reflects on his comfort."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What kind of walks does Bo enjoy?",
+      "answer": "Walks with interesting smells",
+      "evidence": "a walk with interesting smells",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile mentions this as one of the simple joys Bo appreciates."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "Is Bo's confidence part of his personality?",
+      "answer": "Yes, Bo is described as a confident dog",
+      "evidence": "Bo is a charismatic and confident dog",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile clearly identifies confidence as a key trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What term describes Bo’s overall demeanor according to the profile?",
+      "answer": "Cheerful dignity",
+      "evidence": "carries himself with a cheerful dignity",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile uses 'cheerful dignity' as a descriptor of Bo’s bearing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What breed is Bo?",
+      "answer": "Shiba Inu",
+      "evidence": "Breed: Shiba Inu",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Bo's breed under the 'Breed' field."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "How does Bo typically refer to his owner?",
+      "answer": "The hooman",
+      "evidence": "He often refers to his owner as \"the hooman\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section directly states how Bo refers to his owner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What motivates Bo the most?",
+      "answer": "Food",
+      "evidence": "Bo is highly food-motivated",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states Bo's strong motivation is related to food."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Does Bo enjoy affection at all times?",
+      "answer": "No, he appreciates affection on his own terms",
+      "evidence": "he appreciates affection on his own terms",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT indicates Bo has conditions for accepting affection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What is one of Bo's characteristic personality traits according to his breed?",
+      "answer": "Independent streak",
+      "evidence": "possesses the breed's characteristic independent streak",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The breed-specific trait is explicitly mentioned in the 'Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "How does Bo react to snack-related activities?",
+      "answer": "He is keenly aware of them",
+      "evidence": "keenly aware of any snack-related activities in his vicinity",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly states Bo's awareness of snack activities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What does Bo do when he is pleased?",
+      "answer": "Offers a 'Shiba smile'",
+      "evidence": "quick to offer a \"Shiba smile\"",
+      "type": "behavior",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Personality' section describes Bo's positive expression."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "Is Bo experienced with photography?",
+      "answer": "Yes, he is a seasoned professional at posing for photos",
+      "evidence": "He is a seasoned professional at posing for photos",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Bo's skill in photo posing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "How does Bo view his appearance?",
+      "answer": "He is aware of his handsome appearance",
+      "evidence": "fully aware of his handsome appearance",
+      "type": "self-perception",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states Bo's awareness of his looks."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What tone characterizes Bo's internal monologue?",
+      "answer": "Witty commentary",
+      "evidence": "His internal monologue is filled with witty commentary",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section describes the nature of Bo's thoughts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What are two topics Bo frequently thinks about?",
+      "answer": "Comfort levels and quality of snacks",
+      "evidence": "filled with witty commentary on his comfort levels, the quality of snacks",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT lists multiple topics of Bo's internal monologue."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What simple joys does Bo appreciate?",
+      "answer": "A good nap in a sunbeam or a walk with interesting smells",
+      "evidence": "the simple joys of a good nap in a sunbeam or a walk with interesting smells",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists these two joys."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "How does Bo carry himself?",
+      "answer": "With cheerful dignity",
+      "evidence": "carries himself with a cheerful dignity",
+      "type": "behavior",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This phrase directly describes Bo's demeanor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Is Bo generally in a good mood?",
+      "answer": "Yes, he is generally good-natured",
+      "evidence": "While generally good-natured",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT confirms Bo's overall disposition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What role does Bo play in his household?",
+      "answer": "The undisputed king",
+      "evidence": "the undisputed king of his household",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This title is explicitly assigned to Bo in the 'Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "How does Bo speak about himself sometimes?",
+      "answer": "In the third person",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "type": "linguistic habit",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT gives a direct example and description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What kind of observer is Bo of his human's world?",
+      "answer": "A slightly pampered, intelligent observer",
+      "evidence": "Bo's \"voice\" is that of a slightly pampered, intelligent observer of his human's world",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "This phrase defines Bo's narrative perspective."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "Does Bo show interest in walks?",
+      "answer": "Yes, especially those with interesting smells",
+      "evidence": "a walk with interesting smells",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The mention of walks as a 'simple joy' implies interest, particularly when smells are involved."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What does Bo do when he decides something?",
+      "answer": "He may announce it in the third person, such as 'Bo has decided...'",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The example in 'Linguistic Habits' illustrates how Bo expresses decisions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "Is Bo playful?",
+      "answer": "Yes, he approaches life with playful curiosity",
+      "evidence": "approaches life with a mix of playful curiosity",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly attributes playfulness to Bo."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "Is Bo calm at times?",
+      "answer": "Yes, he approaches life with calm observation",
+      "evidence": "approaches life with a mix of ... calm observation",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Calmness is explicitly mentioned as part of Bo's approach to life."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What is Bo's attitude toward his environment?",
+      "answer": "Playful curiosity and calm observation",
+      "evidence": "approaches life with a mix of playful curiosity and calm observation",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT combines these two descriptors to define Bo's general attitude."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "Does Bo care about his comfort?",
+      "answer": "Yes, he comments on his comfort levels",
+      "evidence": "witty commentary on his comfort levels",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The mention of comfort levels in his internal monologue indicates care for it."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What kind of dog is Bo in terms of personality?",
+      "answer": "Charismatic and confident",
+      "evidence": "Bo is a charismatic and confident dog",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT opens the personality section with these descriptors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does Bo enjoy doing in sunny spots?",
+      "answer": "Taking a good nap",
+      "evidence": "the simple joys of a good nap in a sunbeam",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies napping in sunbeams as a joy for Bo."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What breed is Bo?",
+      "answer": "Shiba Inu",
+      "evidence": "* **Breed:** Shiba Inu",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The breed is explicitly stated in the profile under the 'Breed' heading."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "How does Bo typically refer to his owner in his internal monologue?",
+      "answer": "The hooman",
+      "evidence": "He often refers to his owner as \"the hooman\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section directly states how Bo refers to his owner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Does Bo enjoy affection at all times?",
+      "answer": "No, he appreciates affection on his own terms.",
+      "evidence": "he possesses the breed's characteristic independent streak and appreciates affection on his own terms.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile notes that Bo has an independent streak.",
+        "It specifies that he values affection only when he chooses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What motivates Bo strongly according to the profile?",
+      "answer": "Food",
+      "evidence": "Bo is highly food-motivated",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Bo is highly food-motivated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What is one behavior Bo exhibits when he is content or happy?",
+      "answer": "He offers a 'Shiba smile'.",
+      "evidence": "While generally good-natured and quick to offer a \"Shiba smile,\"",
+      "type": "behavior",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section mentions Bo offers a 'Shiba smile' when happy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "How does Bo view himself within his household?",
+      "answer": "As the undisputed king.",
+      "evidence": "He is the undisputed king of his household",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section clearly states Bo sees himself as the undisputed king."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What does Bo do when he notices snack-related activities?",
+      "answer": "He becomes keenly aware of them.",
+      "evidence": "Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states Bo is highly food-motivated.",
+        "It adds he is keenly aware of snack-related activities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "How does Bo perceive his appearance?",
+      "answer": "He is aware of his handsome appearance.",
+      "evidence": "He is a seasoned professional at posing for photos, fully aware of his handsome appearance.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states Bo is aware of his handsome appearance.",
+        "His photo-posing behavior supports this self-perception."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What kind of expression does Bo frequently offer due to his good-natured personality?",
+      "answer": "A 'Shiba smile'.",
+      "evidence": "While generally good-natured and quick to offer a \"Shiba smile,\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is directly linked to his personality in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "In what way does Bo sometimes speak about himself?",
+      "answer": "In the third person, such as 'Bo has decided...'.",
+      "evidence": "sometimes speaks of himself in the third person (\"Bo has decided...\")",
+      "type": "linguistic habit",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section explicitly describes this speech pattern."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What two contrasting traits describe Bo's general approach to life?",
+      "answer": "Playful curiosity and calm observation.",
+      "evidence": "approaches life with a mix of playful curiosity and calm observation.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence about his life approach lists two traits in conjunction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "Is Bo easily distracted during photo sessions?",
+      "answer": "No, he is a seasoned professional at posing.",
+      "evidence": "He is a seasoned professional at posing for photos",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Being a seasoned professional implies focus and experience in posing.",
+        "No indication of distraction is present."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What does Bo enjoy doing in sunbeams?",
+      "answer": "Taking a good nap.",
+      "evidence": "the simple joys of a good nap in a sunbeam",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists napping in sunbeams as one of Bo's joys."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What activity involving smells does Bo enjoy?",
+      "answer": "Going for walks with interesting smells.",
+      "evidence": "a walk with interesting smells",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile mentions walks with interesting smells as a joy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What breed-specific trait does Bo exhibit?",
+      "answer": "An independent streak.",
+      "evidence": "he possesses the breed's characteristic independent streak",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly attributes the independent streak to Shiba Inu breed characteristics."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What tone characterizes Bo's internal monologue?",
+      "answer": "Witty commentary.",
+      "evidence": "His internal monologue is filled with witty commentary",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section directly states the nature of his internal thoughts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What are three topics Bo frequently comments on internally?",
+      "answer": "His comfort levels, the quality of snacks, and the joys of napping or walks.",
+      "evidence": "witty commentary on his comfort levels, the quality of snacks, and the simple joys of a good nap in a sunbeam or a walk with interesting smells.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The evidence sentence lists three distinct topics of commentary."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "Is Bo humble about his looks?",
+      "answer": "No, he is fully aware of his handsome appearance.",
+      "evidence": "fully aware of his handsome appearance",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Awareness of handsomeness suggests lack of humility in self-perception."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "How would you describe Bo’s confidence level?",
+      "answer": "Confident, as he carries himself with cheerful dignity.",
+      "evidence": "Bo is a charismatic and confident dog who carries himself with a cheerful dignity.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly describes Bo as confident."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What kind of dignity does Bo carry himself with?",
+      "answer": "Cheerful dignity.",
+      "evidence": "carries himself with a cheerful dignity.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The exact phrase 'cheerful dignity' is used in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "Does Bo initiate affection frequently?",
+      "answer": "The profile does not specify initiation frequency, only that he values it on his terms.",
+      "evidence": "appreciates affection on his own terms.",
+      "type": "limitation",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The profile describes Bo's preference for control over affection timing.",
+        "It does not state whether he initiates it."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "qa_097",
+      "question": "What professional skill does Bo have?",
+      "answer": "Posing for photos.",
+      "evidence": "He is a seasoned professional at posing for photos",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly calls him a 'seasoned professional' at photo posing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What kind of observer is Bo of his human's world?",
+      "answer": "A slightly pampered, intelligent observer.",
+      "evidence": "Bo's \"voice\" is that of a slightly pampered, intelligent observer of his human's world.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section defines Bo’s narrative voice directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Is Bo reactive to food cues?",
+      "answer": "Yes, he is keenly aware of snack-related activities.",
+      "evidence": "Bo is highly food-motivated and keenly aware of any snack-related activities in his vicinity.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "High food motivation implies reactivity.",
+        "Keen awareness confirms responsiveness to food cues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What emotional tone accompanies Bo's confidence?",
+      "answer": "Cheerfulness.",
+      "evidence": "carries himself with a cheerful dignity.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'cheerful dignity' links cheerfulness to his confident demeanor."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

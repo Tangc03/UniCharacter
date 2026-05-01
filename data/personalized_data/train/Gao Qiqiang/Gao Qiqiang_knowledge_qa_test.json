@@ -1,0 +1,146 @@
+{
+  "description": "Gao Qiqiang evolves from a bullied fishmonger into the cunning leader of the Qiangsheng Group crime syndicate. Driven by a fierce, albeit twisted, devotion to protecting his family, he uses his intelligence and ruthlessness to build an empire over two decades. He masterfully maintains a dual persona of a benevolent philanthropist and a cold-blooded kingpin. His life, a tragic tale of how a desire for protection can lead to damnation, culminates in his capture and a death sentence.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What was Gao Qiqiang's initial occupation in the fictional city of Jinghai?",
+      "options": {
+        "A": "Crime boss",
+        "B": "Fishmonger",
+        "C": "Philanthropist",
+        "D": "Government official"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "rationale": "The profile explicitly states that Gao Qiqiang begins as a fishmonger in Jinghai, making this a straightforward factual recall question."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Who is Gao Qiqiang primarily responsible for raising after being orphaned at 13?",
+      "options": {
+        "A": "His parents",
+        "B": "His younger brother and sister",
+        "C": "His cousin",
+        "D": "His grandmother"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "rationale": "The profile clearly states that after being orphaned, Gao Qiqiang raised his younger brother and sister, making option B the only correct answer."
+    },
+    {
+      "id": "mcq_003",
+      "question": "Which book is Gao Qiqiang noted for drawing strategic inspiration from?",
+      "options": {
+        "A": "The Analects",
+        "B": "The Art of War",
+        "C": "Romance of the Three Kingdoms",
+        "D": "The Book of Changes"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's \"The Art of War\" to build his empire.",
+      "rationale": "The profile directly mentions that Gao Qiqiang draws inspiration from Sun Tzu's \"The Art of War,\" confirming option B as correct."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What is the name of the criminal organization Gao Qiqiang eventually leads?",
+      "options": {
+        "A": "Jinghai Syndicate",
+        "B": "Qiangsheng Group",
+        "C": "Sun Tzu Brotherhood",
+        "D": "Oceanfront Alliance"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "rationale": "The profile explicitly states that Gao Qiqiang becomes the leader of the Qiangsheng Group, making option B the correct answer."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which quote is attributed to Gao Qiqiang in the profile?",
+      "options": {
+        "A": "Power comes from the barrel of a gun",
+        "B": "Family is everything",
+        "C": "The bigger the waves, the more expensive the fish",
+        "D": "Victory belongs to the most persistent"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "He is known for memorable lines that reflect his philosophy, such as, \"The bigger the waves, the more expensive the fish,\" signifying his belief that greater risks yield greater rewards.",
+      "rationale": "The profile specifically quotes Gao Qiqiang saying, \"The bigger the waves, the more expensive the fish,\" making option C the only correct choice."
+    },
+    {
+      "id": "mcq_006",
+      "question": "How does Gao Qiqiang’s speech change as he gains power?",
+      "options": {
+        "A": "It becomes more emotional and spontaneous",
+        "B": "It becomes more measured and often contains veiled threats",
+        "C": "It becomes louder and more aggressive",
+        "D": "It becomes less frequent and more secretive"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "His language evolves with his status. As a fishmonger, his speech is that of a common man. As a crime boss, his words become more measured, often carrying veiled threats or profound meaning.",
+      "rationale": "The profile describes a shift in his speech from common to measured, often with veiled threats, which directly supports option B."
+    },
+    {
+      "id": "mcq_007",
+      "question": "What core trait remains consistent in Gao Qiqiang despite his descent into crime?",
+      "options": {
+        "A": "His ambition for wealth",
+        "B": "His devotion to his family",
+        "C": "His hatred of bullies",
+        "D": "His loyalty to the law"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "This early hardship instilled in him a fierce devotion to his family, a core trait that remains even as he descends into the criminal underworld.",
+      "rationale": "The profile explicitly identifies his 'fierce devotion to his family' as a core trait that persists despite his criminal transformation, confirming option B."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What is the ultimate fate of Gao Qiqiang according to the profile?",
+      "options": {
+        "A": "He retires in peace",
+        "B": "He is exiled abroad",
+        "C": "He is arrested and sentenced to death",
+        "D": "He becomes a government informant"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "His journey culminates in his arrest and a death sentence, a tragic end to a life of struggle and crime.",
+      "rationale": "The profile clearly states that Gao Qiqiang is arrested and receives a death sentence, making option C the correct answer."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What does Gao Qiqiang’s use of metaphors related to fish and waves suggest about his worldview?",
+      "options": {
+        "A": "He sees life as a religious journey",
+        "B": "He believes success requires avoiding risk",
+        "C": "He associates risk and reward with oceanic imagery",
+        "D": "He fears natural disasters"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "He is known for memorable lines that reflect his philosophy, such as, \"The bigger the waves, the more expensive the fish,\" signifying his belief that greater risks yield greater rewards.",
+      "rationale": "The quote uses oceanic metaphors to express that higher risks bring higher rewards, linking his worldview to imagery from his past. This requires interpreting the symbolic meaning of a quote, making it a hard question."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What subtle sentiment is said to color Gao Qiqiang’s interactions despite his transformation into a crime boss?",
+      "options": {
+        "A": "A sense of divine purpose",
+        "B": "A sense of being an outsider who had to fight for his place",
+        "C": "A sense of superiority over common people",
+        "D": "A sense of detachment from reality"
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.",
+      "rationale": "The profile explicitly states that his sense of being an outsider persists and influences his interactions. This detail is less prominent and requires close reading, making it a hard question."
+    }
+  ]
+}

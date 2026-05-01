@@ -1,0 +1,1237 @@
+{
+  "description": "Leonardo DiCaprio is an acclaimed American actor and producer, known for his intense work ethic and roles in biographical films. A dedicated environmentalist, he founded a nonprofit for environmental awareness. While a private individual, he is known to be down-to-earth, intellectually curious, and articulate. He is fluent in German and conversant in Italian, often speaking thoughtfully and adapting his tone to the context, from casual interviews to formal speeches, conveying a wide range of emotions.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Leonardo DiCaprio's full name?",
+      "answer": "Leonardo Wilhelm DiCaprio.",
+      "evidence": "Full Name: Leonardo Wilhelm DiCaprio.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states the full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "When was Leonardo DiCaprio born?",
+      "answer": "November 11, 1974.",
+      "evidence": "Date of Birth: November 11, 1974.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile provides the date of birth in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Where was Leonardo DiCaprio born?",
+      "answer": "Los Angeles, California, U.S.",
+      "evidence": "Place of Birth: Los Angeles, California, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is clearly listed under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is the heritage of Leonardo DiCaprio's father?",
+      "answer": "Italian and German descent.",
+      "evidence": "DiCaprio's father is of Italian and German descent,",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence specifies the father’s heritage directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What is the heritage of Leonardo DiCaprio's mother?",
+      "answer": "German and Russian descent.",
+      "evidence": "his mother is of German and Russian descent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence specifies the mother’s heritage directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "Where did Leonardo DiCaprio spend part of his childhood?",
+      "answer": "Germany.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The location is explicitly mentioned in the 'Heritage' line."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "With whom did Leonardo DiCaprio live during part of his childhood in Germany?",
+      "answer": "His grandparents.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The evidence states he lived in Germany with his grandparents."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "Which languages does Leonardo DiCaprio speak fluently?",
+      "answer": "German and English.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents and speaks German fluently.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he speaks German fluently.",
+        "English is inferred as his native language since he was born in the U.S. and works in American films, but it is not explicitly stated.",
+        "However, only German is explicitly stated as 'fluently' spoken."
+      ],
+      "confidence": 0.7
+    },
+    {
+      "id": "qa_009",
+      "question": "Which languages is Leonardo DiCaprio conversant in?",
+      "answer": "Italian.",
+      "evidence": "He is also conversant in Italian.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states he is conversant in Italian."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "When did Leonardo DiCaprio begin his career?",
+      "answer": "In the late 1980s.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence gives a clear timeframe for the start of his career."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "How did Leonardo DiCaprio begin his career?",
+      "answer": "With appearances in television commercials.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The mode of career entry is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "Name one film that brought Leonardo DiCaprio widespread recognition.",
+      "answer": "What's Eating Gilbert Grape (1993).",
+      "evidence": "He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993), *Romeo + Juliet* (1996),",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The film is listed as one that brought him recognition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "Which film made Leonardo DiCaprio achieve international stardom?",
+      "answer": "Titanic (1997).",
+      "evidence": "and achieved international stardom with *Titanic* (1997).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states the film responsible for international stardom."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What types of films is Leonardo DiCaprio known for?",
+      "answer": "Biographical and period films.",
+      "evidence": "He is known for his work in biographical and period films",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The genre preference is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "Which director has Leonardo DiCaprio frequently collaborated with?",
+      "answer": "Martin Scorsese.",
+      "evidence": "He has frequently collaborated with director Martin Scorsese.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The collaboration is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "For which film did Leonardo DiCaprio win an Academy Award for Best Actor?",
+      "answer": "The Revenant (2015).",
+      "evidence": "He won an Academy Award for Best Actor for his role in *The Revenant* (2015).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The award and film are directly linked in the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What is the name of Leonardo DiCaprio's nonprofit foundation?",
+      "answer": "The Leonardo DiCaprio Foundation.",
+      "evidence": "he established the Leonardo DiCaprio Foundation, a nonprofit organization",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The foundation's name is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is the primary focus of the Leonardo DiCaprio Foundation?",
+      "answer": "Promoting environmental awareness.",
+      "evidence": "a nonprofit organization focused on promoting environmental awareness.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mission of the foundation is explicitly described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What is one personality trait attributed to Leonardo DiCaprio?",
+      "answer": "Creative.",
+      "evidence": "Described as creative, conscientious, sociable, friendly, and emotional,",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Multiple traits are listed; 'creative' is one of them."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Is Leonardo DiCaprio known for being public or private about his personal life?",
+      "answer": "Private.",
+      "evidence": "He is also known to be a private individual, often avoiding the media spotlight on his personal life.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly labels him as private."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "Despite his fame, how is Leonardo DiCaprio described in terms of demeanor?",
+      "answer": "Down-to-earth and having a good sense of humor.",
+      "evidence": "Despite his fame, he is said to be down-to-earth and has a good sense of humor.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The description is directly provided in the 'Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What motivates Leonardo DiCaprio's passion for learning?",
+      "answer": "His intellectual curiosity.",
+      "evidence": "He is intellectually curious and has a passion for learning, as evidenced by his fluency in multiple languages.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links his passion for learning to his intellectual curiosity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "How does Leonardo DiCaprio speak when using a second language?",
+      "answer": "He pauses to choose his words carefully.",
+      "evidence": "He is a thoughtful speaker, often pausing to choose his words carefully, particularly when speaking in a second language.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic behavior in second-language contexts is explicitly described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "How would you describe Leonardo DiCaprio's speech in formal environmental speeches?",
+      "answer": "Articulate, adaptable in tone and style.",
+      "evidence": "His speech is articulate and he can adapt his tone and style to suit the context, from casual interviews to formal speeches on environmental issues.",
+      "type": "description",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes his speech characteristics across contexts, including formal ones."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What ability does Leonardo DiCaprio have in terms of vocal expression?",
+      "answer": "He can convey a wide range of emotions through his voice.",
+      "evidence": "He is known for his ability to convey a wide range of emotions through his voice.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The vocal capability is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Leonardo DiCaprio's full name?",
+      "answer": "Leonardo Wilhelm DiCaprio.",
+      "evidence": "* **Full Name:** Leonardo Wilhelm DiCaprio.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the full name under 'Personal Details'.",
+        "No inference is needed; the answer is directly given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "When was Leonardo DiCaprio born?",
+      "answer": "November 11, 1974.",
+      "evidence": "* **Date of Birth:** November 11, 1974.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT provides the exact date of birth under 'Personal Details'.",
+        "The answer is directly extractable."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "In which city and state was Leonardo DiCaprio born?",
+      "answer": "Los Angeles, California.",
+      "evidence": "* **Place of Birth:** Los Angeles, California, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The place of birth is explicitly stated in the profile.",
+        "The city and state are clearly specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What is the nationality of Leonardo DiCaprio?",
+      "answer": "American.",
+      "evidence": "An acclaimed American actor and film producer",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'American actor' in the career section directly indicates nationality.",
+        "No other nationality is claimed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "Which ethnic backgrounds does Leonardo DiCaprio's father have?",
+      "answer": "Italian and German.",
+      "evidence": "DiCaprio's father is of Italian and German descent",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The heritage section specifies the father’s ethnic background.",
+        "The answer is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Which ethnic backgrounds does Leonardo DiCaprio's mother have?",
+      "answer": "German and Russian.",
+      "evidence": "his mother is of German and Russian descent",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The heritage section specifies the mother’s ethnic background.",
+        "The answer is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "During his childhood, in which country did Leonardo DiCaprio spend time with his grandparents?",
+      "answer": "Germany.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states he lived in Germany during childhood.",
+        "This is tied to his grandparents."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "Is Leonardo DiCaprio fluent in German?",
+      "answer": "Yes.",
+      "evidence": "He is also conversant in Italian.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states he speaks German fluently.",
+        "This is a direct factual assertion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What languages is Leonardo DiCaprio fluent or conversant in?",
+      "answer": "German (fluent), Italian (conversant).",
+      "evidence": "He speaks German fluently. He is also conversant in Italian.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two separate sentences specify his language skills.",
+        "Fluency and conversational ability are distinguished in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What was Leonardo DiCaprio's initial career activity in the late 1980s?",
+      "answer": "Appearing in television commercials.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The career section states his first professional work.",
+        "Answer is directly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "Which film brought Leonardo DiCaprio international stardom?",
+      "answer": "Titanic (1997).",
+      "evidence": "achieved international stardom with *Titanic* (1997)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly attributes international stardom to 'Titanic'.",
+        "Year is included in the citation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "Name three films that contributed to Leonardo DiCaprio's early widespread recognition.",
+      "answer": "What's Eating Gilbert Grape (1993), Romeo + Juliet (1996), Titanic (1997).",
+      "evidence": "He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993), *Romeo + Juliet* (1996), and achieved international stardom with *Titanic* (1997).",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists two films for 'widespread recognition' and one for 'international stardom'.",
+        "All three are part of his early rise and are included under that umbrella."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "For which film did Leonardo DiCaprio win the Academy Award for Best Actor?",
+      "answer": "The Revenant (2015).",
+      "evidence": "He won an Academy Award for Best Actor for his role in *The Revenant* (2015).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The award and film are directly linked in the text.",
+        "No inference required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What type of films is Leonardo DiCaprio particularly known for?",
+      "answer": "Biographical and period films.",
+      "evidence": "He is known for his work in biographical and period films",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The genre preference is explicitly stated.",
+        "Answer is verbatim from the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Which director has Leonardo DiCaprio frequently collaborated with?",
+      "answer": "Martin Scorsese.",
+      "evidence": "has frequently collaborated with director Martin Scorsese",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The collaboration is directly named in the profile.",
+        "No ambiguity in reference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is the name of Leonardo DiCaprio's nonprofit organization focused on environmental issues?",
+      "answer": "The Leonardo DiCaprio Foundation.",
+      "evidence": "he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The foundation's name and purpose are directly stated.",
+        "Answer is extractable with no ambiguity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What is Leonardo DiCaprio's primary passion outside of acting?",
+      "answer": "Environmentalism.",
+      "evidence": "A dedicated environmentalist, he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text identifies him as a 'dedicated environmentalist'.",
+        "This defines his main non-acting passion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "How would you describe Leonardo DiCaprio's personality based on the profile?",
+      "answer": "Creative, conscientious, sociable, friendly, emotional, private, down-to-earth, and intellectually curious.",
+      "evidence": "Described as creative, conscientious, sociable, friendly, and emotional... a private individual... down-to-earth... intellectually curious",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Multiple traits are listed across two sentences in the personality section.",
+        "All are explicitly attributed to him."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "Is Leonardo DiCaprio known for seeking media attention for his personal life?",
+      "answer": "No, he avoids the media spotlight on his personal life.",
+      "evidence": "He is also known to be a private individual, often avoiding the media spotlight on his personal life.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states he avoids media attention on personal matters.",
+        "Answer is a direct negation of seeking attention."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "How does Leonardo DiCaprio speak when using a second language?",
+      "answer": "He pauses to choose his words carefully.",
+      "evidence": "He is a thoughtful speaker, often pausing to choose his words carefully, particularly when speaking in a second language.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section specifies his behavior in second-language speaking.",
+        "Answer is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "Can Leonardo DiCaprio adapt his speaking style to different contexts?",
+      "answer": "Yes.",
+      "evidence": "His speech is articulate and he can adapt his tone and style to suit the context",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states his ability to adapt tone and style.",
+        "This confirms the capability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What trait does Leonardo DiCaprio demonstrate through his language skills?",
+      "answer": "Intellectual curiosity.",
+      "evidence": "He is intellectually curious and has a passion for learning, as evidenced by his fluency in multiple languages.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links multilingualism to intellectual curiosity.",
+        "The evidence phrase 'as evidenced by' establishes causality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "Does Leonardo DiCaprio have a sense of humor?",
+      "answer": "Yes, he has a good sense of humor.",
+      "evidence": "Despite his fame, he is said to be down-to-earth and has a good sense of humor.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states he has a good sense of humor.",
+        "No inference needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What kind of work ethic is Leonardo DiCaprio known for?",
+      "answer": "Intense work ethic.",
+      "evidence": "He is also known for his intense work ethic.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section directly attributes an intense work ethic to him.",
+        "Answer is verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "How does Leonardo DiCaprio convey emotions in his voice?",
+      "answer": "He conveys a wide range of emotions through his voice.",
+      "evidence": "He is known for his ability to convey a wide range of emotions through his voice.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section explicitly states this ability.",
+        "Answer is directly extractable."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Leonardo DiCaprio's full name?",
+      "answer": "Leonardo Wilhelm DiCaprio.",
+      "evidence": "* **Full Name:** Leonardo Wilhelm DiCaprio.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "When was Leonardo DiCaprio born?",
+      "answer": "November 11, 1974.",
+      "evidence": "* **Date of Birth:** November 11, 1974.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly provided in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Where was Leonardo DiCaprio born?",
+      "answer": "Los Angeles, California, U.S.",
+      "evidence": "* **Place of Birth:** Los Angeles, California, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The place of birth is explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What is the heritage of Leonardo DiCaprio's father?",
+      "answer": "Italian and German descent.",
+      "evidence": "DiCaprio's father is of Italian and German descent,",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The father's heritage is directly specified in the 'Heritage' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What is the heritage of Leonardo DiCaprio's mother?",
+      "answer": "German and Russian descent.",
+      "evidence": "his mother is of German and Russian descent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mother's heritage is clearly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "In which country did Leonardo DiCaprio spend part of his childhood?",
+      "answer": "Germany.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The country is explicitly named in the heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "With whom did Leonardo DiCaprio live during part of his childhood in Germany?",
+      "answer": "His grandparents.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The relationship is directly mentioned in the heritage sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What languages does Leonardo DiCaprio speak fluently?",
+      "answer": "English and German.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents and speaks German fluently.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "German fluency is explicitly stated.",
+        "English is inferred as his native language due to being born in the U.S. and working in American film, though not directly stated; but only German fluency is explicitly confirmed."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "qa_059",
+      "question": "What language is Leonardo DiCaprio conversant in, besides German?",
+      "answer": "Italian.",
+      "evidence": "He is also conversant in Italian.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The language is directly stated in the 'Heritage' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What is Leonardo DiCaprio's profession?",
+      "answer": "Actor and film producer.",
+      "evidence": "An acclaimed American actor and film producer, DiCaprio began his career...",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His profession is clearly listed in the 'Career' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "In which decade did Leonardo DiCaprio begin his career?",
+      "answer": "The late 1980s.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The start of his career is explicitly dated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What type of early work did Leonardo DiCaprio do?",
+      "answer": "Television commercials.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The nature of his early work is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "Which film brought Leonardo DiCaprio widespread recognition in 1993?",
+      "answer": "What's Eating Gilbert Grape.",
+      "evidence": "He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993),",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The film and year are linked in the profile text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Which 1996 film contributed to Leonardo DiCaprio's fame?",
+      "answer": "Romeo + Juliet.",
+      "evidence": "He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993), *Romeo + Juliet* (1996),",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The film is listed with its year in the career section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "Which 1997 film led to Leonardo DiCaprio's international stardom?",
+      "answer": "Titanic.",
+      "evidence": "achieved international stardom with *Titanic* (1997).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The film is explicitly named as the cause of his international fame."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What genre of films is Leonardo DiCaprio known for?",
+      "answer": "Biographical and period films.",
+      "evidence": "He is known for his work in biographical and period films",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The film genres are directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "Which director has Leonardo DiCaprio frequently collaborated with?",
+      "answer": "Martin Scorsese.",
+      "evidence": "He has frequently collaborated with director Martin Scorsese.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The director's name is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "For which film did Leonardo DiCaprio win an Academy Award for Best Actor?",
+      "answer": "The Revenant.",
+      "evidence": "He won an Academy Award for Best Actor for his role in *The Revenant* (2015).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The film and award are directly linked in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "In which year did Leonardo DiCaprio win the Academy Award for Best Actor?",
+      "answer": "2015.",
+      "evidence": "He won an Academy Award for Best Actor for his role in *The Revenant* (2015).",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The year is in parentheses immediately after the film title."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What is the name of Leonardo DiCaprio's nonprofit organization?",
+      "answer": "Leonardo DiCaprio Foundation.",
+      "evidence": "he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The foundation's name is directly stated in the 'Passions' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What cause is Leonardo DiCaprio passionate about?",
+      "answer": "Environmentalism.",
+      "evidence": "A dedicated environmentalist, he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His passion is explicitly stated as environmentalism."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What is one personality trait attributed to Leonardo DiCaprio?",
+      "answer": "Creative.",
+      "evidence": "Described as creative, conscientious, sociable, friendly, and emotional, DiCaprio is known for his intense work ethic.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Multiple traits are listed; 'creative' is the first one."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "How does Leonardo DiCaprio approach word choice when speaking, especially in a second language?",
+      "answer": "He pauses to choose his words carefully.",
+      "evidence": "He is a thoughtful speaker, often pausing to choose his words carefully, particularly when speaking in a second language.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The behavior is directly described in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What aspect of Leonardo DiCaprio's personality reflects his intellectual curiosity?",
+      "answer": "His fluency in multiple languages.",
+      "evidence": "He is intellectually curious and has a passion for learning, as evidenced by his fluency in multiple languages.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links intellectual curiosity to language learning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "How does Leonardo DiCaprio adapt his speech style?",
+      "answer": "He adapts his tone and style to suit the context, from casual interviews to formal speeches.",
+      "evidence": "His speech is articulate and he can adapt his tone and style to suit the context, from casual interviews to formal speeches on environmental issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The adaptation is explicitly described in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Leonardo DiCaprio's full name?",
+      "answer": "Leonardo Wilhelm DiCaprio.",
+      "evidence": "Full Name: Leonardo Wilhelm DiCaprio.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "When was Leonardo DiCaprio born?",
+      "answer": "November 11, 1974.",
+      "evidence": "Date of Birth: November 11, 1974.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly provided in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Where was Leonardo DiCaprio born?",
+      "answer": "Los Angeles, California, U.S.",
+      "evidence": "Place of Birth: Los Angeles, California, U.S.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The place of birth is explicitly listed in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is the name of the nonprofit organization Leonardo DiCaprio founded?",
+      "answer": "The Leonardo DiCaprio Foundation.",
+      "evidence": "he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The foundation's name is directly stated in the 'Passions' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "Which film earned Leonardo DiCaprio an Academy Award for Best Actor?",
+      "answer": "The Revenant (2015).",
+      "evidence": "He won an Academy Award for Best Actor for his role in *The Revenant* (2015).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The award-winning film is clearly specified in the 'Career' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What is one of Leonardo DiCaprio's passions mentioned in the profile?",
+      "answer": "Environmentalism.",
+      "evidence": "A dedicated environmentalist, he established the Leonardo DiCaprio Foundation, a nonprofit organization focused on promoting environmental awareness.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Environmentalism is explicitly stated as a passion in the 'Passions' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "Which director has Leonardo DiCaprio frequently collaborated with?",
+      "answer": "Martin Scorsese.",
+      "evidence": "He is known for his work in biographical and period films and has frequently collaborated with director Martin Scorsese.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The name of the frequent collaborator is directly mentioned in the 'Career' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "In which year did Leonardo DiCaprio achieve international stardom with the film 'Titanic'?",
+      "answer": "1997.",
+      "evidence": "achieved international stardom with *Titanic* (1997).",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The year is explicitly given in parentheses next to the film title."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What languages does Leonardo DiCaprio speak fluently?",
+      "answer": "English and German.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents and speaks German fluently.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "German fluency is explicitly stated.",
+        "As a native of Los Angeles, U.S., he speaks English natively, though not explicitly stated, this is contextually assumed.",
+        "Only German is explicitly confirmed as fluent."
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "qa_085",
+      "question": "Is Leonardo DiCaprio fluent in Italian?",
+      "answer": "No, he is conversant in Italian.",
+      "evidence": "He is also conversant in Italian.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies 'conversant' rather than 'fluent' for Italian."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What heritage does Leonardo DiCaprio's father have?",
+      "answer": "Italian and German descent.",
+      "evidence": "DiCaprio's father is of Italian and German descent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The father's heritage is directly stated in the 'Heritage' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What heritage does Leonardo DiCaprio's mother have?",
+      "answer": "German and Russian descent.",
+      "evidence": "his mother is of German and Russian descent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mother's heritage is directly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "With whom did Leonardo DiCaprio spend part of his childhood in Germany?",
+      "answer": "His grandparents.",
+      "evidence": "He has spent part of his childhood in Germany with his grandparents.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence specifies the family members he lived with in Germany."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What was Leonardo DiCaprio's first career activity mentioned in the profile?",
+      "answer": "Appearances in television commercials.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The initial career activity is clearly stated in the 'Career' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "In which decade did Leonardo DiCaprio begin his career?",
+      "answer": "The 1980s.",
+      "evidence": "DiCaprio began his career in the late 1980s with appearances in television commercials.",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'late 1980s' places the start of his career in that decade."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "Which film marked Leonardo DiCaprio's widespread recognition in 1993?",
+      "answer": "What's Eating Gilbert Grape.",
+      "evidence": "He gained widespread recognition for his roles in films like *What's Eating Gilbert Grape* (1993).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The film associated with 1993 and recognition is directly named."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What type of films is Leonardo DiCaprio particularly known for?",
+      "answer": "Biographical and period films.",
+      "evidence": "He is known for his work in biographical and period films.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The film genres are explicitly stated in the 'Career' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "How would you describe Leonardo DiCaprio's personality based on the profile?",
+      "answer": "Creative, conscientious, sociable, friendly, emotional, private, down-to-earth, and intellectually curious.",
+      "evidence": "Described as creative, conscientious, sociable, friendly, and emotional... known to be a private individual... down-to-earth... intellectually curious.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Multiple traits are listed in the 'Personality' section.",
+        "All are directly quoted or paraphrased from the evidence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "Does Leonardo DiCaprio enjoy media attention on his personal life?",
+      "answer": "No, he avoids it.",
+      "evidence": "He is known to be a private individual, often avoiding the media spotlight on his personal life.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The statement explicitly says he avoids media spotlight on personal life."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What is one characteristic of Leonardo DiCaprio's work ethic?",
+      "answer": "Intense.",
+      "evidence": "He is also known for his intense work ethic.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'intense' is directly used to describe his work ethic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "How does Leonardo DiCaprio typically speak when choosing words carefully?",
+      "answer": "He pauses thoughtfully.",
+      "evidence": "He is a thoughtful speaker, often pausing to choose his words carefully.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The behavior during speech is explicitly described in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "Can Leonardo DiCaprio adapt his tone and style of speech?",
+      "answer": "Yes, to suit different contexts.",
+      "evidence": "His speech is articulate and he can adapt his tone and style to suit the context, from casual interviews to formal speeches on environmental issues.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states his ability to adapt tone and style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What is one context in which Leonardo DiCaprio uses a formal speech style?",
+      "answer": "Formal speeches on environmental issues.",
+      "evidence": "he can adapt his tone and style to suit the context, from casual interviews to formal speeches on environmental issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "One example of formal context is given in the linguistic habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What emotional range is Leonardo DiCaprio known for in his voice?",
+      "answer": "A wide range of emotions.",
+      "evidence": "He is known for his ability to convey a wide range of emotions through his voice.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The emotional range is directly stated in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What is the primary focus of the Leonardo DiCaprio Foundation?",
+      "answer": "Promoting environmental awareness.",
+      "evidence": "a nonprofit organization focused on promoting environmental awareness.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mission of the foundation is clearly defined in the 'Passions' section."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

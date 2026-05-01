@@ -1,0 +1,18 @@
+{
+  "description": "Pikachu is a loyal and brave Electric-type Mouse Pokemon, best known as Ash Ketchum's primary companion. It stores electricity in its red cheek pouches and communicates by saying variations of its name. While generally cheerful, energetic, and kind, Pikachu can also be stubborn, possessing a strong will and a fierce protective instinct for its friends. It famously dislikes its Poké Ball, preferring to travel on Ash's shoulder, always ready for the next adventure or battle.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Pikachu with wide open mouth and joyful expression, ears perked up, bright yellow fur, simple background, close-up view, anime style, vibrant colors, cheerful mood, minimalistic design"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Pikachu with a determined expression, arms crossed, classic yellow fur with red cheeks, iconic zigzag tail, standing against a dark background, simple cartoon art style, focused mood, sharp lighting contrast"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Pikachu with a determined expression, crouching forward on all fours, vibrant yellow fur with black-tipped ears, red cheeks, grassy outdoor setting, anime art style, bright daylight, focused mood"
+    }
+  ]
+}

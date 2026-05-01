@@ -1,0 +1,1331 @@
+{
+  "description": "Gao Qiqiang evolves from a bullied fishmonger into the cunning leader of the Qiangsheng Group crime syndicate. Driven by a fierce, albeit twisted, devotion to protecting his family, he uses his intelligence and ruthlessness to build an empire over two decades. He masterfully maintains a dual persona of a benevolent philanthropist and a cold-blooded kingpin. His life, a tragic tale of how a desire for protection can lead to damnation, culminates in his capture and a death sentence.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What was Gao Qiqiang's original occupation in Jinghai?",
+      "answer": "Fishmonger",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Gao Qiqiang's initial job.",
+        "The term 'fishmonger' is directly used."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "At what age was Gao Qiqiang orphaned?",
+      "answer": "13",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The age at which Gao Qiqiang became an orphan is explicitly stated.",
+        "The sentence directly provides the number 13."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Who are the two siblings Gao Qiqiang raised after becoming orphaned?",
+      "answer": "Gao Qisheng and Gao Qilan",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text names both siblings explicitly.",
+        "The relationship (younger brother and sister) confirms they are the ones raised."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is the name of the fictional city where Gao Qiqiang starts his life as a fishmonger?",
+      "answer": "Jinghai",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The location is directly stated in the profile text.",
+        "The term 'fictional city of Jinghai' is unambiguous."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What core trait of Gao Qiqiang persisted even as he entered the criminal underworld?",
+      "answer": "Fierce devotion to his family",
+      "evidence": "This early hardship instilled in him a fierce devotion to his family, a core trait that remains even as he descends into the criminal underworld.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies a specific trait that persisted through his transformation.",
+        "The phrase 'fierce devotion to his family' is directly labeled as a core trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What organization did Gao Qiqiang eventually lead?",
+      "answer": "Qiangsheng Group",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The name of the organization he leads is explicitly mentioned.",
+        "The word 'eventually' confirms it is a later development in his timeline."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What book did Gao Qiqiang use as inspiration to build his criminal empire?",
+      "answer": "The Art of War",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's \"The Art of War\" to build his empire.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text names the book directly.",
+        "It specifies that he used it to build his empire."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is the full name of the philosophical work by Sun Tzu that influenced Gao Qiqiang?",
+      "answer": "The Art of War",
+      "evidence": "notably drawing inspiration from Sun Tzu's \"The Art of War\" to build his empire",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title is enclosed in quotation marks in the text.",
+        "It is directly attributed to Sun Tzu."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What was the final legal outcome for Gao Qiqiang?",
+      "answer": "Arrest and death sentence",
+      "evidence": "His journey culminates in his arrest and a death sentence, a tragic end to a life of struggle and crime.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly describes the culmination of his journey.",
+        "Both 'arrest' and 'death sentence' are stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "How long did Gao Qiqiang's transformation span, according to the profile?",
+      "answer": "Over two decades",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The duration is given as 'over two decades'.",
+        "This describes the span of his journey from fishmonger to crime boss."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What is one of Gao Qiqiang's memorable philosophical quotes mentioned in the profile?",
+      "answer": "The bigger the waves, the more expensive the fish",
+      "evidence": "He is known for memorable lines that reflect his philosophy, such as, \"The bigger the waves, the more expensive the fish,\" signifying his belief that greater risks yield greater rewards.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The quote is explicitly provided in quotation marks.",
+        "It is attributed as a reflection of his philosophy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What does Gao Qiqiang's quote 'The bigger the waves, the more expensive the fish' symbolize?",
+      "answer": "Greater risks yield greater rewards",
+      "evidence": "\"The bigger the waves, the more expensive the fish,\" signifying his belief that greater risks yield greater rewards.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The symbolic meaning is directly explained in the text.",
+        "The phrase 'signifying his belief' links the quote to its interpretation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What dual public image does Gao Qiqiang maintain as a crime boss?",
+      "answer": "Benevolent philanthropist and loving family man",
+      "evidence": "As a crime boss, he becomes cunning, ruthless, and manipulative, yet he maintains a veneer of a benevolent philanthropist and a loving family man.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists two roles he pretends to embody.",
+        "The word 'veneer' indicates they are part of a facade."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "How is Gao Qiqiang's personality described in terms of emotional control?",
+      "answer": "Master of emotional control and deception",
+      "evidence": "He is a master of emotional control and deception, able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'master of emotional control and deception' is used directly.",
+        "It is followed by behavioral examples confirming the description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What kind of tone can Gao Qiqiang's speech shift between as a crime boss?",
+      "answer": "Gentle and persuasive to cold and menacing",
+      "evidence": "His tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The two contrasting tones are explicitly listed.",
+        "The phrase 'in an instant' emphasizes the abruptness of the shift."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What source of metaphors does Gao Qiqiang frequently use in his speech?",
+      "answer": "His origins",
+      "evidence": "He often uses metaphors related to his origins, and his tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states he uses metaphors 'related to his origins'.",
+        "Given his background as a fishmonger, this likely refers to fishing or market life."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What motivated Gao Qiqiang's descent into crime, according to the profile?",
+      "answer": "A misguided attempt to protect his loved ones",
+      "evidence": "His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text directly states the motivation.",
+        "The phrase 'misguided attempt to protect his loved ones' explains his moral descent."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "How does Gao Qiqiang's speech change as he gains power?",
+      "answer": "From common man's speech to measured words with veiled threats",
+      "evidence": "As a fishmonger, his speech is that of a common man. As a crime boss, his words become more measured, often carrying veiled threats or profound meaning.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text contrasts his early and later speech patterns.",
+        "It specifies the evolution from 'common man' to 'measured' with hidden meanings."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What is the nature of Gao Qiqiang's relationship with his enemies as he gains power?",
+      "answer": "Unforgiving and cruel",
+      "evidence": "He is able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly describes his behavior toward enemies.",
+        "The adjectives 'unforgiving and cruel' are used directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Does Gao Qiqiang completely lose his sense of being an outsider after becoming a crime boss?",
+      "answer": "No",
+      "evidence": "Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states he 'never completely loses' this sense.",
+        "This makes the answer a clear 'No'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What trait allowed Gao Qiqiang to learn and adapt strategically in building his empire?",
+      "answer": "Intelligence and being a keen learner",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's \"The Art of War\" to build his empire.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text attributes his strategic growth to these traits.",
+        "Being a 'keen learner' and 'intelligent' are stated as enablers."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What tragic irony defines Gao Qiqiang's character arc?",
+      "answer": "He becomes the very evil he initially fought against",
+      "evidence": "His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The text identifies a central irony in his transformation.",
+        "He starts as a victim of bullying but ends as a perpetrator."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What social force initially pushed Gao Qiqiang into a corner before his transformation?",
+      "answer": "Local bullies",
+      "evidence": "Initially, he is portrayed as a simple, honest man, forced into a corner by local bullies.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies the initial antagonists.",
+        "They are described as 'local bullies' who pressured him."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What is the name of the hit drama in which Gao Qiqiang is the central figure?",
+      "answer": "The Knockout",
+      "evidence": "Gao Qiqiang, the central figure in the hit drama \"The Knockout,\" is a character of profound complexity...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title is enclosed in quotation marks.",
+        "It is explicitly stated as the drama featuring Gao Qiqiang."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What subtle sentiment continues to influence Gao Qiqiang's interactions despite his power?",
+      "answer": "Being an outsider who had to fight for his place",
+      "evidence": "Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The text specifies the lingering sentiment.",
+        "It is described as influencing his behavior 'subtly'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What was Gao Qiqiang's initial occupation in Jinghai?",
+      "answer": "Fishmonger",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Gao Qiqiang's initial occupation.",
+        "The sentence directly identifies him as a fishmonger in Jinghai.",
+        "No inference is needed; the fact is stated outright."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "At what age was Gao Qiqiang orphaned?",
+      "answer": "13",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies the age at which he was orphaned.",
+        "The sentence provides a precise number: 13.",
+        "Direct factual extraction with no ambiguity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Who are the two siblings Gao Qiqiang raised after being orphaned?",
+      "answer": "Gao Qisheng and Gao Qilan",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT names both siblings directly.",
+        "Brother: Gao Qisheng; sister: Gao Qilan.",
+        "Both names are explicitly stated in one sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What core trait did Gao Qiqiang develop due to early hardships?",
+      "answer": "Fierce devotion to his family",
+      "evidence": "This early hardship instilled in him a fierce devotion to his family, a core trait that remains even as he descends into the criminal underworld.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT links early hardship to a specific trait.",
+        "The phrase 'fierce devotion to his family' is explicitly labeled as a core trait.",
+        "The connection is direct and unambiguous."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What criminal organization did Gao Qiqiang eventually lead?",
+      "answer": "Qiangsheng Group",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT names the group he leads.",
+        "The sentence states he becomes the leader of the Qiangsheng Group.",
+        "No inference required; fact is explicit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "How does Gao Qiqiang's story end legally?",
+      "answer": "He is arrested and sentenced to death.",
+      "evidence": "His journey culminates in his arrest and a death sentence, a tragic end to a life of struggle and crime.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes the culmination of his journey.",
+        "The phrase 'culminates in his arrest and a death sentence' indicates the legal end.",
+        "No other outcome is suggested."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What book does Gao Qiqiang use to guide his rise in power?",
+      "answer": "The Art of War by Sun Tzu",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's \"The Art of War\" to build his empire.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT names the book and its author.",
+        "It specifies that he draws inspiration from it to build his empire.",
+        "The title is quoted directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What is the full name of the city where Gao Qiqiang begins his life as a fishmonger?",
+      "answer": "Jinghai",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT names the city explicitly.",
+        "Jinghai is described as fictional and the location of his early life.",
+        "Direct factual statement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "Is Jinghai a real or fictional city according to the profile?",
+      "answer": "Fictional",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'fictional' is used directly in the PROFILE_TEXT.",
+        "It modifies 'city of Jinghai', leaving no ambiguity.",
+        "Explicit classification."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What philosophical belief does Gao Qiqiang express through the quote about waves and fish?",
+      "answer": "Greater risks yield greater rewards.",
+      "evidence": "The bigger the waves, the more expensive the fish,\" signifying his belief that greater risks yield greater rewards.",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT provides the quote and its interpretation.",
+        "The phrase 'signifying his belief' directly links the metaphor to the idea.",
+        "The interpretation is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What type of metaphor does Gao Qiqiang often use in his speech?",
+      "answer": "Metaphors related to his origins as a fishmonger",
+      "evidence": "He often uses metaphors related to his origins, and his tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states he uses metaphors related to his origins.",
+        "His origin is specified earlier as a fishmonger.",
+        "The link is clear and supported."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "How does Gao Qiqiang's speech change as he gains power?",
+      "answer": "It becomes more measured, often carrying veiled threats or profound meaning.",
+      "evidence": "As a crime boss, his words become more measured, often carrying veiled threats or profound meaning.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT contrasts his speech before and after gaining power.",
+        "The specific change is described: more measured, with veiled threats or depth.",
+        "Direct description of evolution."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What two conflicting personas does Gao Qiqiang maintain as a crime boss?",
+      "answer": "A benevolent philanthropist and a loving family man",
+      "evidence": "He maintains a veneer of a benevolent philanthropist and a loving family man.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT lists the two personas as part of his 'veneer'.",
+        "Both are explicitly named in the same phrase.",
+        "No inference needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What personal quality allows Gao Qiqiang to deceive others effectively?",
+      "answer": "Mastery of emotional control and deception",
+      "evidence": "He is a master of emotional control and deception, able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT attributes his deception to a specific skill.",
+        "The phrase 'master of emotional control and deception' is direct.",
+        "Ability to appear differently than he is is evidence of this skill."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Does Gao Qiqiang completely lose his sense of being an outsider after becoming powerful?",
+      "answer": "No",
+      "evidence": "Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states he never completely loses this sense.",
+        "The word 'never' makes the negation clear.",
+        "Direct contradiction to complete loss."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is the name of the drama in which Gao Qiqiang is the central figure?",
+      "answer": "The Knockout",
+      "evidence": "Gao Qiqiang, the central figure in the hit drama \"The Knockout,\" is a character of profound complexity...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title is mentioned in the very first sentence.",
+        "It is enclosed in quotation marks, indicating the name of the drama.",
+        "No ambiguity in identification."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "How long does Gao Qiqiang's transformation from fishmonger to crime boss take?",
+      "answer": "Over two decades",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT provides a time frame: 'Over two decades'.",
+        "It is tied directly to his transformation.",
+        "Approximate but explicitly stated duration."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What is the primary motivation behind Gao Qiqiang's descent into crime?",
+      "answer": "A misguided attempt to protect his loved ones",
+      "evidence": "His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states his motivation.",
+        "It describes it as a 'misguided attempt to protect his loved ones'.",
+        "This is presented as the core driver of his moral fall."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What does Gao Qiqiang become the opposite of, according to the profile?",
+      "answer": "The evil he initially fought against",
+      "evidence": "His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "comparison",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The PROFILE_TEXT uses a contrast to describe his transformation.",
+        "He starts by fighting evil, but ends up embodying it.",
+        "The phrase 'becomes the very evil he initially fought against' is direct."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is one adjective used to describe Gao Qiqiang's personality as a crime boss?",
+      "answer": "Ruthless",
+      "evidence": "As he gains power, he becomes cunning, ruthless, and manipulative...",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT lists several adjectives describing his later personality.",
+        "'Ruthless' is one of them, listed with 'cunning' and 'manipulative'.",
+        "Direct extraction from the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What is the tone of Gao Qiqiang's speech capable of shifting from and to?",
+      "answer": "From gentle and persuasive to cold and menacing",
+      "evidence": "his tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly describes the shift in tone.",
+        "It specifies the starting and ending states of his tone.",
+        "No interpretation beyond the sentence is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What role does Gao Qiqiang play in relation to his siblings during his youth?",
+      "answer": "Guardian or caregiver",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states he 'shouldered the responsibility of raising' his siblings.",
+        "This implies a parental or caretaking role.",
+        "The term 'raising' indicates active caregiving."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What does Gao Qiqiang draw inspiration from to build his empire?",
+      "answer": "Sun Tzu's 'The Art of War'",
+      "evidence": "notably drawing inspiration from Sun Tzu's \"The Art of War\" to build his empire.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the source of his inspiration.",
+        "It is tied directly to the construction of his empire.",
+        "The quote marks confirm the title."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "Is Gao Qiqiang portrayed as a static or evolving character?",
+      "answer": "Evolving",
+      "evidence": "Gao Qiqiang... evolving from a downtrodden fishmonger to a formidable underworld kingpin.",
+      "type": "comparison",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT uses the word 'evolving' to describe his arc.",
+        "It contrasts his starting and ending roles.",
+        "Direct use of the term confirms the dynamic nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What is one theme explored through Gao Qiqiang's character arc?",
+      "answer": "How societal pressures and personal choices can lead from victimhood to villainy",
+      "evidence": "His journey is a gripping narrative of how societal pressures and personal choices can forge a path from victimhood to villainy.",
+      "type": "theme",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the theme in a summary sentence.",
+        "It identifies both societal pressures and personal choices as causal factors.",
+        "The path from victimhood to villainy is the core narrative theme."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What was Gao Qiqiang's occupation at the beginning of his story in 'The Knockout'?",
+      "answer": "Fishmonger",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Gao Qiqiang's initial occupation.",
+        "The sentence 'Gao Qiqiang begins as a humble fishmonger...' directly provides the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "At what age was Gao Qiqiang orphaned?",
+      "answer": "13",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT clearly states the age at which he was orphaned.",
+        "The phrase 'Orphaned at 13' directly supports the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Who are the two siblings Gao Qiqiang raised after being orphaned?",
+      "answer": "Gao Qisheng and Gao Qilan",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text names both siblings explicitly.",
+        "The sentence directly lists the two siblings he raised."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What core trait of Gao Qiqiang persists even as he becomes involved in crime?",
+      "answer": "Fierce devotion to his family",
+      "evidence": "This early hardship instilled in him a fierce devotion to his family, a core trait that remains even as he descends into the criminal underworld.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT identifies a trait that persists through his transformation.",
+        "The phrase 'a core trait that remains' points to devotion to family."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What criminal organization does Gao Qiqiang eventually lead?",
+      "answer": "Qiangsheng Group",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states he becomes the leader of a specific group.",
+        "The name 'Qiangsheng Group' is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "How long does Gao Qiqiang's transformation from fishmonger to crime boss span?",
+      "answer": "Over two decades",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT uses a time expression to describe the duration.",
+        "'Over two decades' is the exact phrase used to describe the span."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What philosophical text does Gao Qiqiang use to guide his rise to power?",
+      "answer": "The Art of War by Sun Tzu",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's 'The Art of War' to build his empire.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly mentions the source of his strategic inspiration.",
+        "Sun Tzu's 'The Art of War' is explicitly named."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is the name of the fictional city where Gao Qiqiang starts his life as a fishmonger?",
+      "answer": "Jinghai",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies the city where he begins.",
+        "'Fictional city of Jinghai' is the verbatim location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What is Gao Qiqiang's ultimate fate at the end of his story?",
+      "answer": "Arrest and death sentence",
+      "evidence": "His journey culminates in his arrest and a death sentence, a tragic end to a life of struggle and crime.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes the conclusion of his journey.",
+        "'Arrest and a death sentence' is explicitly stated as his culmination."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What does Gao Qiqiang's quote 'The bigger the waves, the more expensive the fish' symbolize about his beliefs?",
+      "answer": "Greater risks yield greater rewards",
+      "evidence": "He is known for memorable lines that reflect his philosophy, such as, 'The bigger the waves, the more expensive the fish,' signifying his belief that greater risks yield greater rewards.",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT interprets the meaning of the quote.",
+        "The phrase 'signifying his belief that greater risks yield greater rewards' directly explains the symbolism."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "Is Gao Qiqiang portrayed as consistently honest throughout 'The Knockout'?",
+      "answer": "No",
+      "evidence": "Initially, he is portrayed as a simple, honest man... As he gains power, he becomes cunning, ruthless, and manipulative.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text contrasts his early and later personality traits.",
+        "He starts honest but evolves into a manipulative figure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "How does Gao Qiqiang's speech change as he gains power?",
+      "answer": "From common man's speech to measured words with veiled threats",
+      "evidence": "As a fishmonger, his speech is that of a common man. As a crime boss, his words become more measured, often carrying veiled threats or profound meaning.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes two distinct stages of his speech.",
+        "The contrast between early and later speech is clearly outlined."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What is one personality trait Gao Qiqiang exhibits as a crime boss?",
+      "answer": "Ruthlessness",
+      "evidence": "As he gains power, he becomes cunning, ruthless, and manipulative, yet he maintains a veneer of a benevolent philanthropist and a loving family man.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text lists multiple traits associated with his later persona.",
+        "Ruthless is one of the explicitly listed traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Does Gao Qiqiang completely lose his sense of being an outsider after becoming powerful?",
+      "answer": "No",
+      "evidence": "Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text makes a direct statement about his enduring self-perception.",
+        "The phrase 'never completely loses' confirms the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What does Gao Qiqiang use as a metaphor in his speech?",
+      "answer": "His origins as a fishmonger",
+      "evidence": "He often uses metaphors related to his origins, and his tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states he uses metaphors connected to his past.",
+        "'Metaphors related to his origins' points to his fishmonger background."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What dual image does Gao Qiqiang maintain as a crime boss?",
+      "answer": "Benevolent philanthropist and loving family man",
+      "evidence": "he maintains a veneer of a benevolent philanthropist and a loving family man.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies the image he projects despite his actions.",
+        "The phrase 'veneer of a benevolent philanthropist and a loving family man' provides the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What is the primary motivation behind Gao Qiqiang's descent into crime, according to the profile?",
+      "answer": "To protect his loved ones",
+      "evidence": "a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The PROFILE_TEXT frames his criminal path as a response to a desire to protect family.",
+        "The phrase 'misguided attempt to protect his loved ones' identifies the motivation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "Is Gao Qiqiang's transformation portrayed as purely voluntary, or influenced by external factors?",
+      "answer": "Influenced by societal pressures and personal choices",
+      "evidence": "His journey is a gripping narrative of how societal pressures and personal choices can forge a path from victimhood to villainy.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The PROFILE_TEXT attributes his path to two factors.",
+        "Both 'societal pressures' and 'personal choices' are cited as influences."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What tone can Gao Qiqiang's speech shift to instantly, according to the profile?",
+      "answer": "Cold and menacing",
+      "evidence": "his tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes a rapid shift in his tone.",
+        "Cold and menacing is explicitly mentioned as one end of the spectrum."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What is one characteristic of Gao Qiqiang's intelligence as described in the profile?",
+      "answer": "He is a keen learner",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's 'The Art of War' to build his empire.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists 'keen learner' as a trait.",
+        "This is stated alongside his intelligence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What is the nature of Gao Qiqiang's relationship with his enemies?",
+      "answer": "Unforgiving and cruel",
+      "evidence": "able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "relationship",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text contrasts his public image with his treatment of enemies.",
+        "'Unforgiving and cruel to his enemies' is a direct description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "How does Gao Qiqiang's role evolve in the narrative of 'The Knockout'?",
+      "answer": "From victim to villain",
+      "evidence": "a gripping narrative of how societal pressures and personal choices can forge a path from victimhood to villainy.",
+      "type": "timeline",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The PROFILE_TEXT frames his arc as a transformation from one state to another.",
+        "'From victimhood to villainy' captures the essence of his role evolution."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What does the profile suggest about Gao Qiqiang's ability to control emotions?",
+      "answer": "He is a master of emotional control",
+      "evidence": "He is a master of emotional control and deception, able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly labels him as a master of emotional control.",
+        "This is directly stated in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "Is Gao Qiqiang's rise to power attributed solely to violence?",
+      "answer": "No",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's 'The Art of War' to build his empire.",
+      "type": "limitation",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The text implies strategic thinking is a key factor in his rise.",
+        "His use of 'The Art of War' suggests calculated strategy beyond mere violence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What is the overall narrative theme of Gao Qiqiang's journey as described in the profile?",
+      "answer": "How societal pressures and personal choices lead from victimhood to villainy",
+      "evidence": "His journey is a gripping narrative of how societal pressures and personal choices can forge a path from victimhood to villainy.",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the overarching theme.",
+        "The full sentence captures the central narrative idea."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What was Gao Qiqiang's occupation at the beginning of his story in 'The Knockout'?",
+      "answer": "Fishmonger",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Gao Qiqiang's initial occupation.",
+        "The term 'fishmonger' is directly used in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "At what age was Gao Qiqiang orphaned?",
+      "answer": "13",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states the exact age at which Gao Qiqiang became an orphan.",
+        "No inference is needed; the number is directly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Who are the two siblings Gao Qiqiang raised after being orphaned?",
+      "answer": "Gao Qisheng and Gao Qilan",
+      "evidence": "Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The siblings are explicitly named in the text.",
+        "Both names are mentioned in the same sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What core trait did Gao Qiqiang maintain throughout his transformation into a crime boss?",
+      "answer": "Fierce devotion to his family",
+      "evidence": "This early hardship instilled in him a fierce devotion to his family, a core trait that remains even as he descends into the criminal underworld.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies a core trait that persists despite his criminal evolution.",
+        "The phrase 'fierce devotion to his family' is directly stated as enduring."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What criminal organization did Gao Qiqiang eventually lead?",
+      "answer": "Qiangsheng Group",
+      "evidence": "Eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The name of the group is explicitly mentioned.",
+        "The leadership role is directly attributed to him."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What philosophical text did Gao Qiqiang use to build his criminal empire?",
+      "answer": "The Art of War by Sun Tzu",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's 'The Art of War' to build his empire.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text names the specific book and author.",
+        "It states that he used it as inspiration for building his empire."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What was the ultimate legal consequence Gao Qiqiang faced?",
+      "answer": "Arrest and death sentence",
+      "evidence": "His journey culminates in his arrest and a death sentence, a tragic end to a life of struggle and crime.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The final outcome is clearly stated in the profile.",
+        "Both 'arrest' and 'death sentence' are mentioned as culminating events."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "How long did Gao Qiqiang's transformation from fishmonger to crime boss take?",
+      "answer": "Over two decades",
+      "evidence": "Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The duration is explicitly given as 'over two decades'.",
+        "It refers to the full span of his transformation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What metaphorical saying is Gao Qiqiang known for that relates to risk and reward?",
+      "answer": "The bigger the waves, the more expensive the fish",
+      "evidence": "He is known for memorable lines that reflect his philosophy, such as, 'The bigger the waves, the more expensive the fish,' signifying his belief that greater risks yield greater rewards.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The quote is directly provided in the text.",
+        "Its meaning is explained in the same sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What does Gao Qiqiang's quote 'The bigger the waves, the more expensive the fish' symbolize?",
+      "answer": "Greater risks yield greater rewards",
+      "evidence": "'The bigger the waves, the more expensive the fish,' signifying his belief that greater risks yield greater rewards.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The symbolic meaning is explicitly stated after the quote.",
+        "No interpretation beyond the text is required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "How did Gao Qiqiang's speech change as he gained power?",
+      "answer": "From common man's speech to measured words with veiled threats",
+      "evidence": "As a fishmonger, his speech is that of a common man. As a crime boss, his words become more measured, often carrying veiled threats or profound meaning.",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The contrast between early and later speech is directly outlined.",
+        "The evolution is described in two distinct phases."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What dual public image did Gao Qiqiang maintain as a crime boss?",
+      "answer": "Benevolent philanthropist and loving family man",
+      "evidence": "He becomes cunning, ruthless, and manipulative, yet he maintains a veneer of a benevolent philanthropist and a loving family man.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies the two aspects of his public persona.",
+        "The word 'veneer' indicates it's a facade, but the image is still described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What city is central to Gao Qiqiang's story in 'The Knockout'?",
+      "answer": "Jinghai",
+      "evidence": "Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The city name is explicitly stated.",
+        "It is identified as the setting for his early life and rise."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "Is Gao Qiqiang portrayed as emotionally expressive throughout his transformation?",
+      "answer": "No, he is a master of emotional control",
+      "evidence": "He is a master of emotional control and deception, able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states he controls his emotions deliberately.",
+        "His expressions are tools for deception, not genuine outbursts."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What aspect of his past does Gao Qiqiang never fully lose despite his power?",
+      "answer": "Sense of being an outsider who had to fight for his place",
+      "evidence": "Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states this enduring sentiment.",
+        "It is described as subtly influencing his behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What trait allowed Gao Qiqiang to learn and adapt in building his empire?",
+      "answer": "Intelligence and being a keen learner",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's 'The Art of War' to build his empire.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text attributes his success to two qualities: intelligence and learning.",
+        "An example (Sun Tzu) is provided as evidence of this trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "Did Gao Qiqiang start his criminal activities willingly?",
+      "answer": "No, he was forced into a corner by local bullies",
+      "evidence": "Initially, he is portrayed as a simple, honest man, forced into a corner by local bullies.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states he was not a willing participant at first.",
+        "External pressure from bullies is cited as the catalyst."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What kind of metaphors does Gao Qiqiang often use in his speech?",
+      "answer": "Metaphors related to his origins as a fishmonger",
+      "evidence": "He often uses metaphors related to his origins, and his tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies that his metaphors are tied to his early life.",
+        "His origin as a fishmonger is established earlier."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "How does Gao Qiqiang appear when dealing with enemies?",
+      "answer": "Unforgiving and cruel",
+      "evidence": "Able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly describes his behavior toward enemies.",
+        "The adjectives 'unforgiving and cruel' are used."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What is the narrative theme of Gao Qiqiang's journey according to the profile?",
+      "answer": "A man who becomes the evil he initially fought against",
+      "evidence": "His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The thematic arc is explicitly summarized in the text.",
+        "It reflects the tragic irony of his transformation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What motivation does the profile give for Gao Qiqiang's descent into crime?",
+      "answer": "A misguided attempt to protect his loved ones",
+      "evidence": "His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motivation is explicitly stated as protecting family.",
+        "The word 'misguided' indicates flawed reasoning behind his actions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What was Gao Qiqiang’s initial personality before gaining power?",
+      "answer": "Simple and honest",
+      "evidence": "Initially, he is portrayed as a simple, honest man, forced into a corner by local bullies.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The adjectives 'simple' and 'honest' are directly applied to his early self.",
+        "This contrasts with his later persona."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "How does Gao Qiqiang’s tone typically shift during conversations?",
+      "answer": "From gentle and persuasive to cold and menacing instantly",
+      "evidence": "His tone can shift from gentle and persuasive to cold and menacing in an instant.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The shift in tone is explicitly described.",
+        "The speed of change ('in an instant') is emphasized."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What is the name of the drama in which Gao Qiqiang is the central figure?",
+      "answer": "The Knockout",
+      "evidence": "Gao Qiqiang, the central figure in the hit drama 'The Knockout,' is a character of profound complexity...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title is directly stated in the opening sentence.",
+        "Gao Qiqiang is identified as the central figure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What does the profile suggest about Gao Qiqiang’s understanding of strategy?",
+      "answer": "He applies strategic thinking from 'The Art of War' to criminal activities",
+      "evidence": "He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's 'The Art of War' to build his empire.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The text links his strategic ability to a specific source of knowledge.",
+        "It implies he transfers military strategy to organized crime."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

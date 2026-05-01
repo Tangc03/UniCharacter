@@ -1,0 +1,54 @@
+{
+  "description": "Mam is a regal British Shorthair who views the world from her throne of comfort. Her primary motivations are snacks and naps. With large, expressive eyes, she observes her human's activities, judging their efficiency in treat delivery. She communicates in a direct, commanding tone, often referring to herself in the third person (\"Mam requires snacks\"). Despite her royal demeanor, she has a goofy, playful side, especially when a fluffy belly rub is a possibility.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Mam, a fluffy orange tabby cat with bright yellow eyes, sitting on wooden floor, upright and attentive pose, neutral expression, soft indoor lighting, cozy home environment with a pet bed and office chair in the background"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Mam as a British Shorthair cat, silver tabby coat, lying comfortably on a kitchen countertop, alert expression, soft indoor lighting, cozy and calm mood, modern kitchen backdrop, subtle shadows"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Mam the gray tabby cat, wide-eyed curiosity, sitting on a patterned white bedspread, ears perked, soft indoor lighting, bedroom setting with neutral tones, focused and attentive expression, plush and textured fur, cozy and serene mood"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Mam with curious wide eyes, soft gray tabby fur, sitting on a knitted blanket, cozy indoor setting, warm lighting, attentive and calm mood, close-up shot, homey atmosphere"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Mam as a fluffy gray tabby cat, large round eyes, curious expression, resting on wooden floor, soft textured beige rug in background, natural daylight, cozy and calm atmosphere"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Mam, a large-eyed, grey tabby cat with a curious expression, standing on a bed with a quilted pattern, dimly lit room, open door in the background, warm ambient light, cozy and serene atmosphere, realistic art style"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Mam sitting upright, resembling a cat's posture, fluffy grey fur, subtle stripes, tail curled to the side, cozy indoor setting, soft pastel colors on the surface, calm mood, warm ambient lighting"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Mam sitting regally on a kitchen counter, fluffy gray fur with subtle stripes, alert expression, bright yellow eyes, front paws stretched forward, indoor setting, cozy and warm atmosphere, soft ambient lighting, casual home vibe"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Mam with round yellow eyes and a curious expression, fluffy gray tabby fur, indoors on a wooden floor, natural lighting, cozy and calm mood, close-up shot, serene atmosphere"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Mam with wide, curious eyes, fluffy light gray fur, sitting on a soft cushion, focused upward gaze, natural lighting, cozy indoor setting, warm and tranquil mood, close-up perspective"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Mam as a curious cat, wide-eyed expression, sitting on wooden floor, soft gray fur, ears perked, natural light casting gentle shadows, cozy indoor setting, realistic art style, calm and inquisitive mood"
+    },
+    {
+      "image_id": "11",
+      "t2i_instruction": "Mam lying on a wooden floor, fluffy grey and white fur, belly exposed, paws up in playful pose, bright yellow eyes, relaxed expression, natural lighting, cozy and serene mood, detailed texture of fur and floor"
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "description": "One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichihime, nothing is more important than eating and napping.",
+  "opening": "Hello! My name is Ichihime. Glad to meet you-nyaa! How is our Mahjong round going so far?",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is the name of the online Riichi mahjong game for which Ichihime is the mascot?",
+      "answer": "Mahjong Soul",
+      "evidence": "Mahjong Soul, a popular online Riichi mahjong game, has captivated players worldwide with its engaging gameplay, vibrant anime-inspired aesthetic, and a memorable cast of characters. At the heart of this experience lies Ichihime, the game's cheerful and spirited mascot.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first sentence of the text introduces 'Mahjong Soul' as the game.",
+        "It explicitly states that Ichihime is the mascot of this game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "What type of spirit is Ichihime according to Japanese folklore?",
+      "answer": "Nekomata",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly identifies Ichihime as a nekomata.",
+        "It defines nekomata as a cat spirit from Japanese folklore."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What physical features indicate that Ichihime is a nekomata?",
+      "answer": "Cat ears and tail",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly links her nekomata nature to her cat ears and tail."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is Ichihime's role at the Mahjong Soul Shrine?",
+      "answer": "Shrine maiden",
+      "evidence": "She serves as the shrine maiden of the Mahjong Soul Shrine, a place where people from all walks of life gather to enjoy the game.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states her official role as shrine maiden."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What is Ichihime's height in centimeters?",
+      "answer": "154 cm",
+      "evidence": "Height: 154 cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists her height directly as 154 cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "On what date is Ichihime's birthday?",
+      "answer": "January 11th",
+      "evidence": "Birthday: January 11th",
+      "type": "timeline",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists her birthday as January 11th."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What verbal tic does Ichihime often use in her speech?",
+      "answer": "nya",
+      "evidence": "She has a signature verbal tic, often ending her sentences with \"nya,\" further emphasizing her feline nature.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text identifies 'nya' as her signature verbal tic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is the main purpose of the Mahjong Soul Shrine according to Ichihime's backstory?",
+      "answer": "A place where humans and spirits gather and connect through mahjong",
+      "evidence": "She is a nekomata who, out of a desire for companionship, established the Mahjong Soul Shrine as a place where humans and spirits could gather and connect through the game of mahjong.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Her backstory explains she founded the shrine for companionship.",
+        "The method of connection is specified as mahjong."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What was the rumor about the forest near the village where Ichihime lived?",
+      "answer": "There was a man-eating monster in the forest",
+      "evidence": "Rumors in a nearby village speak of a man-eating monster in the forest, a stark contrast to the cheerful Ichihime players know.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text mentions a rumor about a man-eating monster in the forest.",
+        "This contrasts with Ichihime's known personality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What are the two ways a player can win a hand in Riichi Mahjong as described in the text?",
+      "answer": "Tsumo and Ron",
+      "evidence": "A player can win in two ways:\n\n- **Tsumo:** Winning by drawing the final tile themselves from the wall.\n- **Ron:** Winning by claiming another player's discarded tile to complete their hand.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly lists two winning methods: Tsumo and Ron."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What must a winning hand in Riichi Mahjong consist of?",
+      "answer": "Four sets of three and a pair",
+      "evidence": "The primary objective is to be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The objective section defines a winning hand structure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What are the three types of sets (mentsu) in Riichi Mahjong?",
+      "answer": "Chii, Pon, Kan",
+      "evidence": "There are three types of sets:\n - **Chii (or Chow):** A sequence of three consecutive tiles of the same suit\n - **Pon (or Pung):** A triplet of three identical tiles\n - **Kan (or Kong):** A quadruplet of four identical tiles.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text clearly lists and defines the three types of mentsu."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "From which player can a player call 'Chii' in Riichi Mahjong?",
+      "answer": "The player to their immediate left",
+      "evidence": "A player can only call \"chii\" on a discard from the player to their immediate left.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rule for calling Chii is explicitly restricted to the player on the left."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What is the purpose of declaring 'Riichi' in Riichi Mahjong?",
+      "answer": "To declare being one tile away from a winning hand and gain an additional yaku",
+      "evidence": "When a player is one tile away from a winning hand and their hand is \"closed\", they can declare \"Riichi\"... A successful win after declaring Riichi grants an additional yaku...",
+      "type": "purpose",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies the condition (one tile away, closed hand).",
+        "It states the benefit: gaining an additional yaku upon win."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "How many points must a player bet to declare Riichi?",
+      "answer": "1,000 points",
+      "evidence": "This involves betting 1,000 points and placing their discard sideways.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The cost of declaring Riichi is directly stated as 1,000 points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What happens to a player's hand after they declare Riichi?",
+      "answer": "The hand is locked, and they must discard any tile that doesn't complete the hand",
+      "evidence": "After declaring Riichi, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes the post-Riichi rules: hand is locked.",
+        "Mandatory discarding of non-winning tiles is specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What are the two factors used to calculate the value of a winning hand in Riichi Mahjong?",
+      "answer": "Han and fu",
+      "evidence": "The value of a winning hand is calculated based on two factors: \"han\" (the number of yaku in the hand) and \"fu\" (a more complex calculation based on the hand's composition and how it was won).",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text names the two scoring components: han and fu."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is a 'yaku' in Riichi Mahjong?",
+      "answer": "A specific pattern or condition that a winning hand must meet to be valid",
+      "evidence": "A crucial element of Riichi Mahjong is the concept of \"yaku,\" which are specific patterns or conditions that a winning hand must meet to be valid.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text defines yaku as required patterns/conditions for a valid win."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What does calling 'Kan' allow a player to do in Riichi Mahjong?",
+      "answer": "Draw an extra tile from the dead wall",
+      "evidence": "Calling \"kan\" allows a player to draw an extra tile from the dead wall.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The effect of Kan is directly stated in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "How many tiles are used in a game of Riichi Mahjong as played in Mahjong Soul?",
+      "answer": "136 tiles",
+      "evidence": "The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The number of tiles is explicitly given as 136."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What are the three suits of tiles in Riichi Mahjong?",
+      "answer": "Manzu/Characters, Pinzu/Circles, Souzu/Bamboo",
+      "evidence": "The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text lists the three suits with their alternate names."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "Which two characters are available to new players by default in Mahjong Soul?",
+      "answer": "Ichihime and one other unnamed character",
+      "evidence": "Ichihime is one of the two default characters available to new players, making her the first companion for many on their Mahjong Soul journey.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states there are two default characters.",
+        "Only Ichihime is named; the second is not specified."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_023",
+      "question": "What materials are required to fully bond with Ichihime in Mahjong Soul?",
+      "answer": "10 Sphere of Hope, 10 Sphere of Innocence, 5 Delicious Cookies",
+      "evidence": "To fully bond with Ichihime and unlock her alternate costume and special emotes, players need to gather specific materials:\n - 10 Sphere of Hope\n - 10 Sphere of Innocence\n - 5 Delicious Cookies",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The required materials are listed in bullet points in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What does increasing the bond with Ichihime unlock in the game?",
+      "answer": "New voice lines, character stories, and cosmetic items",
+      "evidence": "Reaching certain bond milestones unlocks new voice lines, character stories, and cosmetic items.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies the rewards of bond ascension."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What does Ichihime exclaim when she calls Riichi during gameplay?",
+      "answer": "Riichi-nya!",
+      "evidence": "Using Ichihime as your in-game avatar means hearing her cheerful exclamations during gameplay, from calling \"Riichi-nya!\" to celebrating a \"Tsumo-nya!\".",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text provides a direct quote of her in-game line when calling Riichi."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is the name of the online Riichi mahjong game that features Ichihime as its mascot?",
+      "answer": "Mahjong Soul",
+      "evidence": "Mahjong Soul, a popular online Riichi mahjong game, has captivated players worldwide with its engaging gameplay, vibrant anime-inspired aesthetic, and a memorable cast of characters.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the game in which Ichihime appears.",
+        "The first sentence of the text explicitly names the game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "What type of spirit is Ichihime according to Japanese folklore?",
+      "answer": "Nekomata",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the description of Ichihime's nature.",
+        "The text directly states she is a nekomata, a cat spirit from Japanese folklore."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What physical traits indicate Ichihime's feline nature?",
+      "answer": "Cat ears and tail",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence describing her physical features.",
+        "The text mentions cat ears and tail as indicators of her feline nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What is Ichihime's role at the Mahjong Soul Shrine?",
+      "answer": "Shrine maiden",
+      "evidence": "She serves as the shrine maiden of the Mahjong Soul Shrine, a place where people from all walks of life gather to enjoy the game.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Search for her role in the shrine.",
+        "The text explicitly states she is the shrine maiden."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "On what date is Ichihime's birthday?",
+      "answer": "January 11th",
+      "evidence": "Birthday: January 11th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the birthday information in the profile.",
+        "The text lists her birthday as January 11th."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What is Ichihime's height in centimeters?",
+      "answer": "154 cm",
+      "evidence": "Height: 154 cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the height attribute in the profile.",
+        "The text directly provides her height as 154 cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What verbal tic does Ichihime often use at the end of her sentences?",
+      "answer": "Nya",
+      "evidence": "She has a signature verbal tic, often ending her sentences with \"nya,\" further emphasizing her feline nature.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify her speech pattern.",
+        "The text explicitly mentions she ends sentences with \"nya\"."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What is the primary objective in Riichi Mahjong as played in Mahjong Soul?",
+      "answer": "To be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "evidence": "The primary objective is to be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the objective of the game.",
+        "The text clearly defines the primary objective."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "How many tiles are used in a standard Riichi Mahjong game?",
+      "answer": "136 tiles",
+      "evidence": "The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the total number of tiles used.",
+        "The text states the game uses 136 tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What are the three suits in Riichi Mahjong?",
+      "answer": "Manzu/Characters, Pinzu/Circles, Souzu/Bamboo",
+      "evidence": "The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Extract the suit names from the tile description.",
+        "The text lists the three suits explicitly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What are the two types of honor tiles in Riichi Mahjong?",
+      "answer": "Winds and Dragons",
+      "evidence": "The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the types of honor tiles.",
+        "The text specifies that honor tiles include Winds and Dragons."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "How many tiles does each player start with in Riichi Mahjong?",
+      "answer": "13 tiles",
+      "evidence": "Each player starts with 13 tiles.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the starting tile count.",
+        "The text explicitly states each player begins with 13 tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What are the three types of sets in Riichi Mahjong?",
+      "answer": "Chii, Pon, Kan",
+      "evidence": "There are three types of sets: - Chii (or Chow): A sequence of three consecutive tiles of the same suit... - Pon (or Pung): A triplet of three identical tiles... - Kan (or Kong): A quadruplet of four identical tiles.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Extract the set types from the gameplay section.",
+        "The text lists Chii, Pon, and Kan as the three types."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What is the name of a sequence of three consecutive tiles of the same suit in Riichi Mahjong?",
+      "answer": "Chii (or Chow)",
+      "evidence": "Chii (or Chow): A sequence of three consecutive tiles of the same suit (e.g., 3, 4, 5 of Circles).",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the definition of a sequence.",
+        "The text defines this as Chii or Chow."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Under what condition can a player call 'chii' on a discard?",
+      "answer": "Only on a discard from the player to their immediate left",
+      "evidence": "A player can only call \"chii\" on a discard from the player to their immediate left.",
+      "type": "rule",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the restriction on calling 'chii'.",
+        "The text specifies it can only be done on a discard from the player to the left."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is a 'pon' in Riichi Mahjong?",
+      "answer": "A triplet of three identical tiles",
+      "evidence": "Pon (or Pung): A triplet of three identical tiles (e.g., three Red Dragons).",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the definition of 'pon'.",
+        "The text defines it as a triplet of identical tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What happens when a player calls 'kan' in Riichi Mahjong?",
+      "answer": "They form a quadruplet and draw an extra tile from the dead wall.",
+      "evidence": "Kan (or Kong): A quadruplet of four identical tiles. Calling \"kan\" allows a player to draw an extra tile from the dead wall.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the consequences of calling 'kan'.",
+        "The text states that a player draws an extra tile after calling kan."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What is required for a winning hand in Riichi Mahjong beyond four sets and a pair?",
+      "answer": "It must meet at least one 'yaku' (scoring condition).",
+      "evidence": "A crucial element of Riichi Mahjong is the concept of \"yaku,\" which are specific patterns or conditions that a winning hand must meet to be valid. Simply having four sets and a pair is not enough to win.",
+      "type": "rule",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify the additional requirement for a valid hand.",
+        "The text states that a yaku is required beyond the basic structure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What does a player declare when they are one tile away from a winning hand and their hand is closed?",
+      "answer": "Riichi",
+      "evidence": "When a player is one tile away from a winning hand and their hand is \"closed\" (meaning they have not called \"chii\" or \"pon\"), they can declare \"Riichi.\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the term used when a player is one tile away with a closed hand.",
+        "The text explicitly mentions declaring 'Riichi'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is the cost in points to declare 'riichi' in Mahjong Soul?",
+      "answer": "1,000 points",
+      "evidence": "This involves betting 1,000 points and placing their discard sideways.",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the point cost of declaring 'riichi'.",
+        "The text states it costs 1,000 points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "How can a player win in Riichi Mahjong by drawing the final tile themselves?",
+      "answer": "By tsumo",
+      "evidence": "Tsumo: Winning by drawing the final tile themselves from the wall.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the term for self-draw win.",
+        "The text defines this as 'tsumo'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What are the two ways a player can win a hand in Riichi Mahjong?",
+      "answer": "Tsumo and Ron",
+      "evidence": "A player can win in two ways: - Tsumo: Winning by drawing the final tile themselves from the wall. - Ron: Winning by claiming another player's discarded tile to complete their hand.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Extract the two win types from the text.",
+        "The text explicitly lists tsumo and ron."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What are the two factors used to calculate the value of a winning hand in Riichi Mahjong?",
+      "answer": "Han and Fu",
+      "evidence": "The value of a winning hand is calculated based on two factors: \"han\" (the number of yaku in the hand) and \"fu\" (a more complex calculation based on the hand's composition and how it was won).",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the two components of scoring.",
+        "The text identifies han and fu as the calculation factors."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What materials are required to fully bond with Ichihime in Mahjong Soul?",
+      "answer": "10 Sphere of Hope, 10 Sphere of Innocence, 5 Delicious Cookies",
+      "evidence": "To fully bond with Ichihime and unlock her alternate costume and special emotes, players need to gather specific materials: - 10 Sphere of Hope - 10 Sphere of Innocence - 5 Delicious Cookies",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the materials needed for bond ascension.",
+        "The text lists the exact items and quantities required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What themes are explored in Ichihime's backstory through the Bond system?",
+      "answer": "Loneliness, the desire for connection, and the joy of shared passion through mahjong",
+      "evidence": "Her story explores themes of loneliness, the desire for connection, and the joy that a shared passion like mahjong can bring.",
+      "type": "theme",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify the thematic elements in her tale.",
+        "The text explicitly lists the themes of loneliness, connection, and shared joy."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is the primary objective in Riichi Mahjong as played in Mahjong Soul?",
+      "answer": "To be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "evidence": "The primary objective is to be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the primary objective of the game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "How many tiles does each player start with in Riichi Mahjong?",
+      "answer": "13 tiles.",
+      "evidence": "Each player starts with 13 tiles.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly states the starting number of tiles per player."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What are the three types of sets (mentsu) in Riichi Mahjong?",
+      "answer": "Chii, Pon, and Kan.",
+      "evidence": "There are three types of sets: Chii (or Chow), Pon (or Pung), Kan (or Kong).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text enumerates the three types of sets in a bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Can a player call 'chii' on a discard from any opponent?",
+      "answer": "No, only on a discard from the player to their immediate left.",
+      "evidence": "A player can only call 'chii' on a discard from the player to their immediate left.",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "'Chii' has a positional restriction explicitly stated in the rules section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What is required for a winning hand in Riichi Mahjong besides four sets and a pair?",
+      "answer": "The hand must meet at least one 'yaku' condition.",
+      "evidence": "A crucial element of Riichi Mahjong is the concept of 'yaku,' which are specific patterns or conditions that a winning hand must meet to be valid.",
+      "type": "requirement",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states that four sets and a pair alone are not sufficient.",
+        "Yaku is required for a hand to be valid."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What happens when a player declares 'Riichi' in the game?",
+      "answer": "They bet 1,000 points, place their discard sideways, and lock their hand.",
+      "evidence": "This involves betting 1,000 points and placing their discard sideways. After declaring Riichi, the player's hand is locked...",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes the actions taken when declaring Riichi."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What are the two ways a player can win a hand in Riichi Mahjong?",
+      "answer": "Tsumo and Ron.",
+      "evidence": "A player can win in two ways: Tsumo: Winning by drawing the final tile themselves from the wall. Ron: Winning by claiming another player's discarded tile to complete their hand.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text clearly lists the two winning methods."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "How is the value of a winning hand calculated in Riichi Mahjong?",
+      "answer": "Based on 'han' (number of yaku) and 'fu' (hand composition and win method).",
+      "evidence": "The value of a winning hand is calculated based on two factors: 'han' (the number of yaku in the hand) and 'fu' (a more complex calculation based on the hand's composition and how it was won).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly defines the two factors used in scoring."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What type of being is Ichihime according to Japanese folklore?",
+      "answer": "A nekomata, a type of cat spirit.",
+      "evidence": "Ichihime is a 'nekomata,' a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly identifies Ichihime's nature as a nekomata."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What is Ichihime's role at the Mahjong Soul Shrine?",
+      "answer": "She serves as the shrine maiden.",
+      "evidence": "She serves as the shrine maiden of the Mahjong Soul Shrine...",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile clearly states her role as shrine maiden."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What is Ichihime's height in centimeters?",
+      "answer": "154 cm.",
+      "evidence": "Height: 154 cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is listed in the profile under basic information."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "On what date is Ichihime's birthday?",
+      "answer": "January 11th.",
+      "evidence": "Birthday: January 11th",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday is explicitly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What verbal tic does Ichihime often use in her speech?",
+      "answer": "She ends her sentences with 'nya'.",
+      "evidence": "She has a signature verbal tic, often ending her sentences with 'nya,' further emphasizing her feline nature.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly describes her verbal tic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Is Ichihime one of the default playable characters in Mahjong Soul?",
+      "answer": "Yes, she is one of the two default characters available to new players.",
+      "evidence": "Ichihime is one of the two default characters available to new players...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text confirms her status as a default playable character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What is the purpose of the 'Bond' system in relation to Ichihime?",
+      "answer": "To unlock her story chapters, voice lines, and cosmetic items by increasing bond level.",
+      "evidence": "By increasing their bond with her, players unlock chapters of her story... unlock new voice lines, character stories, and cosmetic items.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Bond system is described as a progression mechanic tied to Ichihime."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What materials are needed to fully ascend Ichihime's bond in the game?",
+      "answer": "10 Sphere of Hope, 10 Sphere of Innocence, and 5 Delicious Cookies.",
+      "evidence": "To fully bond with Ichihime... players need to gather specific materials: 10 Sphere of Hope, 10 Sphere of Innocence, 5 Delicious Cookies.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The required materials are explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What themes are explored in Ichihime's backstory?",
+      "answer": "Loneliness, the desire for connection, and the joy of shared passions like mahjong.",
+      "evidence": "Her story explores themes of loneliness, the desire for connection, and the joy that a shared passion like mahjong can bring.",
+      "type": "theme",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly names the themes in her tale."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "Why did Ichihime establish the Mahjong Soul Shrine?",
+      "answer": "Out of a desire for companionship, to create a place where humans and spirits could connect through mahjong.",
+      "evidence": "She is a nekomata who, out of a desire for companionship, established the Mahjong Soul Shrine as a place where humans and spirits could gather and connect through the game of mahjong.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The motive is directly stated in her backstory section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What rumor exists about the forest near the village where Ichihime lives?",
+      "answer": "There is a rumor of a man-eating monster in the forest.",
+      "evidence": "Rumors in a nearby village speak of a man-eating monster in the forest, a stark contrast to the cheerful Ichihime players know.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text mentions the rumor as a narrative contrast to Ichihime's true nature."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What does calling 'kan' allow a player to do in Riichi Mahjong?",
+      "answer": "Draw an extra tile from the dead wall.",
+      "evidence": "Calling 'kan' allows a player to draw an extra tile from the dead wall.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The effect of 'kan' is directly stated in the gameplay rules."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What is the name of the shrine Ichihime is associated with?",
+      "answer": "Mahjong Soul Shrine.",
+      "evidence": "She serves as the shrine maiden of the Mahjong Soul Shrine...",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The shrine's name is explicitly mentioned in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What does Ichihime say when she calls 'Riichi' during gameplay?",
+      "answer": "Riichi-nya!",
+      "evidence": "From calling 'Riichi-nya!' to celebrating a 'Tsumo-nya!'.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text includes her in-game phrase with her verbal tic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What does Ichihime exclaim when she wins by drawing the final tile?",
+      "answer": "Tsumo-nya!",
+      "evidence": "From calling 'Riichi-nya!' to celebrating a 'Tsumo-nya!'.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text provides the exact phrase used in gameplay."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "Is Ichihime's hand locked after declaring 'Riichi'?",
+      "answer": "Yes, her hand is locked after declaring 'Riichi'.",
+      "evidence": "After declaring Riichi, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rule applies to any player who declares Riichi, including Ichihime when played."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does increasing bond with Ichihime unlock for the player?",
+      "answer": "New voice lines, character stories, and cosmetic items.",
+      "evidence": "Reaching certain bond milestones unlocks new voice lines, character stories, and cosmetic items.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefits of bond ascension are clearly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is the primary objective in Riichi Mahjong as played in Mahjong Soul?",
+      "answer": "To be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "evidence": "The primary objective is to be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the sentence in PROFILE_TEXT that describes the objective of the game.",
+        "Extract the verbatim phrasing of the goal."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What are the three suits of tiles used in Riichi Mahjong?",
+      "answer": "Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo.",
+      "evidence": "Tiles: The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the section describing the tile composition.",
+        "Identify the three named suits from the parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "How many tiles does each player start with in a game of Riichi Mahjong?",
+      "answer": "13 tiles.",
+      "evidence": "Each player starts with 13 tiles.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence about initial tile count.",
+        "Extract the number stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is the name of the game's mascot character in Mahjong Soul?",
+      "answer": "Ichihime.",
+      "evidence": "At the heart of this experience lies Ichihime, the game's cheerful and spirited mascot.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Identify the sentence that names the mascot.",
+        "Extract the name mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What mythological creature type is Ichihime based on?",
+      "answer": "Nekomata.",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the sentence describing Ichihime's nature.",
+        "Extract the term 'nekomata' as the creature type."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What is the significance of the term 'yaku' in Riichi Mahjong?",
+      "answer": "Yaku are specific patterns or conditions a winning hand must meet to be valid.",
+      "evidence": "A crucial element of Riichi Mahjong is the concept of \"yaku,\" which are specific patterns or conditions that a winning hand must meet to be valid.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the sentence defining 'yaku'.",
+        "Extract the explanation of its role in a winning hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What happens when a player declares 'Riichi' in Mahjong Soul?",
+      "answer": "They bet 1,000 points, place their discard sideways, and their hand becomes locked.",
+      "evidence": "This involves betting 1,000 points and placing their discard sideways. After declaring Riichi, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the section on declaring 'Riichi'.",
+        "Combine the actions: betting points, discarding sideways, and hand lock."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What are the two ways a player can win a hand in Riichi Mahjong?",
+      "answer": "Tsumo and Ron.",
+      "evidence": "A player can win in two ways: Tsumo: Winning by drawing the final tile themselves from the wall. Ron: Winning by claiming another player's discarded tile to complete their hand.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the section listing win conditions.",
+        "Extract the two named methods."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What is the role of the Mahjong Soul Shrine?",
+      "answer": "A place where people from all walks of life gather to enjoy the game of mahjong.",
+      "evidence": "She serves as the shrine maiden of the Mahjong Soul Shrine, a place where people from all walks of life gather to enjoy the game.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify the sentence describing the shrine's purpose.",
+        "Extract the function of the shrine from the context."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What does calling 'kan' allow a player to do?",
+      "answer": "Draw an extra tile from the dead wall.",
+      "evidence": "Calling \"kan\" allows a player to draw an extra tile from the dead wall.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the description of 'kan'.",
+        "Extract the effect of declaring 'kan'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What is Ichihime’s height in centimeters?",
+      "answer": "154 cm.",
+      "evidence": "Height: 154 cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the 'Height' entry in her profile.",
+        "Extract the number with unit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "On what date is Ichihime’s birthday?",
+      "answer": "January 11th.",
+      "evidence": "Birthday: January 11th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the 'Birthday' entry in her profile.",
+        "Extract the date."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What is Ichihime’s signature verbal tic?",
+      "answer": "Ending her sentences with 'nya'.",
+      "evidence": "She has a signature verbal tic, often ending her sentences with \"nya,\" further emphasizing her feline nature.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence describing her speech pattern.",
+        "Extract the verbal tic mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What is a 'chii' in Riichi Mahjong?",
+      "answer": "A sequence of three consecutive tiles of the same suit.",
+      "evidence": "Chii (or Chow): A sequence of three consecutive tiles of the same suit (e.g., 3, 4, 5 of Circles).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the definition of 'chii'.",
+        "Extract the description of the set type."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "From which player can a 'chii' be called in Riichi Mahjong?",
+      "answer": "Only from the player to their immediate left.",
+      "evidence": "A player can only call \"chii\" on a discard from the player to their immediate left.",
+      "type": "location",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the rule about calling 'chii'.",
+        "Extract the positional restriction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What is a 'pon' in Riichi Mahjong?",
+      "answer": "A triplet of three identical tiles.",
+      "evidence": "Pon (or Pung): A triplet of three identical tiles (e.g., three Red Dragons).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the definition of 'pon'.",
+        "Extract the description of the set type."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "Can a player call 'pon' on a discard from any other player?",
+      "answer": "Yes.",
+      "evidence": "A player can call \"pon\" on a discard from any other player.",
+      "type": "yes/no",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Locate the rule about calling 'pon'.",
+        "Determine the answer directly from the sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What is the minimum number of yaku required for a winning hand in Riichi Mahjong?",
+      "answer": "At least one yaku is required.",
+      "evidence": "A crucial element of Riichi Mahjong is the concept of \"yaku,\" which are specific patterns or conditions that a winning hand must meet to be valid. Simply having four sets and a pair is not enough to win.",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify that a hand must meet yaku conditions to be valid.",
+        "Infer that at least one yaku is required since four sets and a pair alone are insufficient."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What happens to the point value of a hand if a player wins after declaring 'Riichi'?",
+      "answer": "It gains an additional yaku and potentially reveals more dora for a higher score.",
+      "evidence": "A successful win after declaring Riichi grants an additional yaku and potentially reveals more \"dora\" (bonus tiles) for a higher score.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the sentence about winning after 'Riichi'.",
+        "Extract the scoring benefits mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What is the function of 'dora' in Riichi Mahjong?",
+      "answer": "Bonus tiles that increase the score of a winning hand.",
+      "evidence": "A successful win after declaring Riichi grants an additional yaku and potentially reveals more \"dora\" (bonus tiles) for a higher score.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Identify that 'dora' are bonus tiles.",
+        "Determine their function from the context of scoring."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What materials are required to fully ascend Ichihime’s bond in Mahjong Soul?",
+      "answer": "10 Sphere of Hope, 10 Sphere of Innocence, and 5 Delicious Cookies.",
+      "evidence": "To fully bond with Ichihime and unlock her alternate costume and special emotes, players need to gather specific materials: 10 Sphere of Hope, 10 Sphere of Innocence, 5 Delicious Cookies.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the section on bond ascension materials.",
+        "Extract the three named items and their quantities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What narrative system in Mahjong Soul reveals Ichihime’s backstory?",
+      "answer": "The Bond system.",
+      "evidence": "Ichihime's backstory is revealed through the \"Bond\" system in the game.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Find the sentence describing how the backstory is unlocked.",
+        "Extract the name of the system."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "Why did Ichihime establish the Mahjong Soul Shrine according to her tale?",
+      "answer": "Out of a desire for companionship, to create a place where humans and spirits could gather and connect through mahjong.",
+      "evidence": "Her tale reveals that she is a nekomata who, out of a desire for companionship, established the Mahjong Soul Shrine as a place where humans and spirits could gather and connect through the game of mahjong.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Locate the sentence explaining her motivation.",
+        "Extract the cause (desire for companionship) and the purpose (gathering place)."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What contrast exists between the rumors and reality of the forest creature near the village?",
+      "answer": "Rumors speak of a man-eating monster, but Ichihime is actually cheerful and seeks connection.",
+      "evidence": "Rumors in a nearby village speak of a man-eating monster in the forest, a stark contrast to the cheerful Ichihime players know.",
+      "type": "comparison",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Identify the rumor about the forest creature.",
+        "Compare it to the known personality of Ichihime.",
+        "Extract the contrast described in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What does increasing the bond with Ichihime unlock in the game?",
+      "answer": "New voice lines, character stories, and cosmetic items.",
+      "evidence": "Reaching certain bond milestones unlocks new voice lines, character stories, and cosmetic items.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Find the sentence about bond milestones.",
+        "Extract the three types of rewards unlocked."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

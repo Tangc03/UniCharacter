@@ -1,0 +1,146 @@
+{
+  "description": "One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichihime, nothing is more important than eating and napping.",
+  "opening": "Hello! My name is Ichihime. Glad to meet you-nyaa! How is our Mahjong round going so far?",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What type of spirit is Ichihime according to Japanese folklore?",
+      "options": {
+        "A": "Kitsune",
+        "B": "Yokai",
+        "C": "Nekomata",
+        "D": "Oni"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "rationale": "The text explicitly states that Ichihime is a 'nekomata,' a cat spirit from Japanese folklore. This directly supports option C as the correct answer."
+    },
+    {
+      "id": "mcq_002",
+      "question": "What is Ichihime's role at the Mahjong Soul Shrine?",
+      "options": {
+        "A": "Guardian warrior",
+        "B": "High priest",
+        "C": "Shrine maiden",
+        "D": "Fortune teller"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "She serves as the shrine maiden of the Mahjong Soul Shrine, a place where people from all walks of life gather to enjoy the game.",
+      "rationale": "The profile clearly states that Ichihime 'serves as the shrine maiden,' making option C the correct and directly supported answer."
+    },
+    {
+      "id": "mcq_003",
+      "question": "Which of the following is a distinctive personality trait of Ichihime?",
+      "options": {
+        "A": "Serious and reserved",
+        "B": "Cheerful and optimistic",
+        "C": "Cold and calculating",
+        "D": "Lazy and indifferent"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Ichihime is portrayed as being perpetually cheerful, optimistic, and a bit mischievous.",
+      "rationale": "The text explicitly describes her as 'perpetually cheerful, optimistic, and a bit mischievous,' confirming that option B is correct."
+    },
+    {
+      "id": "mcq_004",
+      "question": "What does Ichihime end many of her sentences with?",
+      "options": {
+        "A": "Desu",
+        "B": "Sama",
+        "C": "Nya",
+        "D": "Chan"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "She has a signature verbal tic, often ending her sentences with \"nya,\" further emphasizing her feline nature.",
+      "rationale": "The profile text directly states that she ends her sentences with 'nya,' making option C the only correct answer."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What physical characteristics indicate Ichihime's nekomata nature?",
+      "options": {
+        "A": "Wings and horns",
+        "B": "Claws and fangs",
+        "C": "Cat ears and tail",
+        "D": "Scales and whiskers"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Ichihime is a \"nekomata,\" a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.",
+      "rationale": "The text directly links her nekomata identity to her 'prominent cat ears and tail,' which supports option C. The other options are not mentioned."
+    },
+    {
+      "id": "mcq_006",
+      "question": "How does Ichihime contribute to the game's atmosphere?",
+      "options": {
+        "A": "By enforcing strict rules",
+        "B": "By creating a lighthearted and enjoyable tone",
+        "C": "By remaining silent during gameplay",
+        "D": "By challenging players competitively"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Ichihime's personality is a key contributor to the lighthearted and enjoyable atmosphere of Mahjong Soul.",
+      "rationale": "The profile explicitly states her personality contributes to a 'lighthearted and enjoyable atmosphere,' making option B the correct choice."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Why did Ichihime establish the Mahjong Soul Shrine?",
+      "options": {
+        "A": "To train warriors",
+        "B": "To collect offerings",
+        "C": "To attract tourists",
+        "D": "To fulfill a desire for companionship"
+      },
+      "answer_key": "D",
+      "difficulty": "medium",
+      "evidence": "Her tale reveals that she is a nekomata who, out of a desire for companionship, established the Mahjong Soul Shrine as a place where humans and spirits could gather and connect through the game of mahjong.",
+      "rationale": "The backstory clearly states she founded the shrine 'out of a desire for companionship,' which makes option D the correct answer."
+    },
+    {
+      "id": "mcq_008",
+      "question": "Which materials are required to fully bond with Ichihime?",
+      "options": {
+        "A": "10 Sphere of Hope, 10 Sphere of Innocence, 5 Delicious Cookies",
+        "B": "5 Sphere of Hope, 10 Sphere of Courage, 10 Candies",
+        "C": "10 Sphere of Light, 10 Sphere of Dark, 5 Teacakes",
+        "D": "5 Spheres of Joy, 10 Spheres of Peace, 5 Biscuits"
+      },
+      "answer_key": "A",
+      "difficulty": "medium",
+      "evidence": "To fully bond with Ichihime and unlock her alternate costume and special emotes, players need to gather specific materials: 10 Sphere of Hope, 10 Sphere of Innocence, 5 Delicious Cookies",
+      "rationale": "The required materials are explicitly listed in the profile text. Only option A matches the verbatim list provided."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What is the primary way players learn about Ichihime's backstory?",
+      "options": {
+        "A": "Through loading screen tips",
+        "B": "By watching promotional videos",
+        "C": "Through the Bond system's unlockable story chapters",
+        "D": "From in-game news announcements"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Her tale reveals that she is a nekomata who, out of a desire for companionship, established the Mahjong Soul Shrine... Through the \"Bond\" system in the game. By increasing their bond with her, players unlock chapters of her story.",
+      "rationale": "The text explains that her story is revealed through the 'Bond' system and unlocking story chapters by increasing bond level. This integration of narrative and progression makes the question harder to recall precisely."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What thematic contrast is present in Ichihime's lore?",
+      "options": {
+        "A": "Her cheerful nature vs. rumors of her being a man-eating monster",
+        "B": "Her love of silence vs. loud gameplay sounds",
+        "C": "Her fear of humans vs. her role as a guide",
+        "D": "Her dislike of mahjong vs. her shrine's purpose"
+      },
+      "answer_key": "A",
+      "difficulty": "hard",
+      "evidence": "Rumors in a nearby village speak of a man-eating monster in the forest, a stark contrast to the cheerful Ichihime players know.",
+      "rationale": "The contrast between the cheerful Ichihime and the rumor of a 'man-eating monster' is explicitly stated. This requires synthesizing two parts of the text, making it a harder question."
+    }
+  ]
+}

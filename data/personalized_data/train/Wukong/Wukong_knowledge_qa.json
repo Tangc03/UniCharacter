@@ -1,0 +1,1316 @@
+{
+  "description": "Sun Wukong, the Monkey King, is a mischievous and immensely powerful immortal born from a mystical stone. Known as the \"Great Sage, Equal of Heaven,\" he is rebellious, proud, and cunning, wielding the magical Ruyi Jingu Bang. Despite his playful and often arrogant nature, he is fiercely loyal and brave, dedicated to protecting his master, Tang Sanzang, on their epic journey. He can be impulsive and impatient, but his heart is just, and he never hesitates to fight demons.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Sun Wukong's full name and what does it mean?",
+      "answer": "Sun Wukong, meaning 'Monkey Awakened to Emptiness.'",
+      "evidence": "* **Name:** Sun Wukong (孫悟空), meaning \"Monkey Awakened to Emptiness.\"",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly provides Sun Wukong's name and its meaning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "Where was Sun Wukong born?",
+      "answer": "From a mystical stone on the Mountain of Flowers and Fruit.",
+      "evidence": "* **Origin:** Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Origin' section directly states the location of his birth."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What nourished Sun Wukong at birth?",
+      "answer": "The energies of Heaven and Earth.",
+      "evidence": "* **Origin:** Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The same sentence describing his origin includes what nourished him."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is the name of Sun Wukong's weapon?",
+      "answer": "Ruyi Jingu Bang.",
+      "evidence": "* **Weapon of Choice:** Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon is explicitly named in the 'Weapon of Choice' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What is the weight of Sun Wukong's staff in pounds?",
+      "answer": "17,548 lbs.",
+      "evidence": "* **Weapon of Choice:** Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weight is directly stated in the profile next to the weapon description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "How does Sun Wukong carry his staff when not in use?",
+      "answer": "He shrinks it to the size of a needle and keeps it behind his ear.",
+      "evidence": "He often shrinks it to the size of a needle and keeps it tucked behind his ear.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explains the method of storage via size manipulation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "Who was Sun Wukong's Taoist master?",
+      "answer": "Puti Zushi (also referred to as Patriarch Subhuti).",
+      "evidence": "* **Master:** He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti).",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The master is directly named in the 'Master' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is one of Sun Wukong's titles that reflects his appearance?",
+      "answer": "Handsome Monkey King.",
+      "evidence": "* **Titles:** Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Among his listed titles, 'Handsome Monkey King' refers directly to appearance."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What is Sun Wukong's title that expresses equality with heavenly beings?",
+      "answer": "Great Sage, Equal of Heaven.",
+      "evidence": "* **Titles:** Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The title 'Great Sage, Equal of Heaven' is listed and conveys parity with celestial entities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "Why is the title Bìmǎwēn considered mocking when used toward Sun Wukong?",
+      "answer": "Because it was a low-ranking position as head of the Heavenly Stables, beneath his pride.",
+      "evidence": "He was also mockingly called Bìmǎwēn, a title for the head of the Heavenly Stables.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states the title is used mockingly and identifies it as a low-ranking role.",
+        "His personality includes pride and arrogance, making such a title insulting."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_011",
+      "question": "Which companion does Sun Wukong often tease, according to the profile?",
+      "answer": "Zhu Bajie.",
+      "evidence": "* **Linguistic Habits:** Enjoys taunting his enemies and even his companions, particularly Zhu Bajie.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section explicitly names Zhu Bajie as a target of teasing."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What kind of nature does Sun Wukong have that involves outsmarting opponents with tricks?",
+      "answer": "Mischievous and playful.",
+      "evidence": "* **Mischievous and Playful:** Wukong has a deep-seated love for pranks and trickery. His playful nature often involves outsmarting opponents with clever tricks and transformations.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is directly labeled and described in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "How does Sun Wukong typically confront powerful foes?",
+      "answer": "With unwavering courage and without fear.",
+      "evidence": "* **Brave and Fearless:** He is renowned for his unwavering courage, never shying away from a challenge, no matter how powerful the foe.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Brave and Fearless' trait describes his approach to powerful enemies."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What triggered Sun Wukong's rebellion in Heaven?",
+      "answer": "Being given a low-ranking position.",
+      "evidence": "This rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links his rebellion to the outcome of receiving a low-ranking role."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What personal trait makes Sun Wukong prone to acting before thinking?",
+      "answer": "Impulsiveness.",
+      "evidence": "* **Rebellious and Impulsive:** Wukong has a strong rebellious streak and a disdain for authority. His impulsive actions and short temper often land him in trouble.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Rebellious and Impulsive' section directly names impulsiveness as a key trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What skill does Sun Wukong use to outsmart adversaries beyond physical strength?",
+      "answer": "Sharp wit and cleverness.",
+      "evidence": "* **Intelligent and Cunning:** Beyond his immense power, Wukong is incredibly clever and resourceful. He frequently uses his sharp wit to outsmart his adversaries.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Intelligent and Cunning' trait highlights his use of wit over brute force."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "To whom does Sun Wukong show fierce loyalty despite his rebellious nature?",
+      "answer": "His master, Tang Sanzang.",
+      "evidence": "* **Loyal and Just:** Despite his rebellious beginnings, he develops a fierce loyalty to his master, Tang Sanzang, and is dedicated to protecting him.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The loyalty is explicitly directed toward Tang Sanzang in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is Sun Wukong's role during the journey to the West?",
+      "answer": "Disciple and protector of the monk Tang Sanzang.",
+      "evidence": "Later, he becomes the disciple and protector of the monk Tang Sanzang on his journey to the West.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "His role is directly stated in the 'Master' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "How does Sun Wukong typically speak about his own abilities?",
+      "answer": "In a boastful and confident manner.",
+      "evidence": "* **Boastful and Confident:** Often speaks in a grandiose manner, boasting about his powers and past exploits.",
+      "type": "linguistic",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section describes his self-referential speech style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "How does Sun Wukong react to indecisiveness or long conversations?",
+      "answer": "With impatience.",
+      "evidence": "* **Direct and Impatient:** He can be blunt and speaks his mind, often showing impatience with drawn-out conversations or indecisiveness.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Direct and Impatient' habit explicitly mentions his intolerance for such situations."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What transformation ability does Sun Wukong use in combat or trickery?",
+      "answer": "He uses clever tricks and transformations to outsmart opponents.",
+      "evidence": "His playful nature often involves outsmarting opponents with clever tricks and transformations.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Mischievous and Playful' trait mentions transformations as part of his tactics."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What moral principle guides Sun Wukong's actions toward the innocent?",
+      "answer": "A strong sense of justice.",
+      "evidence": "He possesses a strong sense of justice, consistently fighting against evil and protecting the innocent.",
+      "type": "trait",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Loyal and Just' section states his motivation to protect the innocent."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What is Sun Wukong's demeanor when speaking to his master?",
+      "answer": "Respectful, though sometimes with exasperation.",
+      "evidence": "* **Respectful to His Master:** While generally informal, he addresses his master, Tang Sanzang, with respect, albeit sometimes with a hint of exasperation at his master's naivete.",
+      "type": "linguistic",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies his respectful tone, qualified by occasional exasperation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What celestial location did Sun Wukong cause havoc in?",
+      "answer": "Heaven.",
+      "evidence": "This rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The event of havoc is explicitly located in Heaven."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What enables Sun Wukong's staff to be stored behind his ear?",
+      "answer": "Its ability to change size at his will.",
+      "evidence": "Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will... He often shrinks it to the size of a needle and keeps it tucked behind his ear.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The staff's size-changing property is linked to its storage method in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Sun Wukong's full name and what does it mean?",
+      "answer": "Sun Wukong, meaning 'Monkey Awakened to Emptiness.'",
+      "evidence": "* **Name:** Sun Wukong (孫悟空), meaning \"Monkey Awakened to Emptiness.\"",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Wukong's name and its meaning.",
+        "The answer is directly extracted from the 'Name' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "Where was Sun Wukong born?",
+      "answer": "From a mystical stone on the Mountain of Flowers and Fruit.",
+      "evidence": "* **Origin:** Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Origin' section specifies the location of his birth.",
+        "The answer is a direct quote of the location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What is the name of Sun Wukong's weapon?",
+      "answer": "Ruyi Jingu Bang.",
+      "evidence": "* **Weapon of Choice:** Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon is clearly named in the 'Weapon of Choice' bullet.",
+        "The name is unambiguous and directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "How much does Sun Wukong's staff weigh?",
+      "answer": "17,548 lbs.",
+      "evidence": "* **Weapon of Choice:** Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weight is explicitly given in the 'Weapon of Choice' section.",
+        "No inference is needed; the number is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "Where does Sun Wukong keep his staff when it is shrunk?",
+      "answer": "Tucked behind his ear.",
+      "evidence": "He often shrinks it to the size of a needle and keeps it tucked behind his ear.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence following the weapon description states where he keeps it.",
+        "The location is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Who was Sun Wukong's Taoist master?",
+      "answer": "Puti Zushi (Patriarch Subhuti).",
+      "evidence": "* **Master:** He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Master' section names his teacher and provides the alternate name.",
+        "Both names are given in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What is one of Sun Wukong's titles that reflects his appearance?",
+      "answer": "Handsome Monkey King.",
+      "evidence": "* **Titles:** Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Among the listed titles, 'Handsome Monkey King' directly refers to his appearance.",
+        "Other titles refer to status or role, not appearance."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What title was Sun Wukong mockingly called?",
+      "answer": "Bìmǎwēn.",
+      "evidence": "He was also mockingly called Bìmǎwēn, a title for the head of the Heavenly Stables.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he was mockingly called Bìmǎwēn.",
+        "The context of mockery is explicitly mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "Why is the title Bìmǎwēn used to mock Sun Wukong?",
+      "answer": "Because it was a lowly position as head of the Heavenly Stables, beneath his pride.",
+      "evidence": "His adversaries often use his former lowly title, \"Bìmǎwēn,\" to mock him.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states Bìmǎwēn was a 'lowly title'.",
+        "It was used by adversaries to mock him, implying it was beneath his self-image.",
+        "Thus, the mockery stems from its low status compared to his pride."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What journey is Sun Wukong a part of as a disciple?",
+      "answer": "The journey to the West with the monk Tang Sanzang.",
+      "evidence": "Later, he becomes the disciple and protector of the monk Tang Sanzang on his journey to the West.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Master' section states he becomes a disciple on a journey to the West.",
+        "The journey is explicitly named and associated with Tang Sanzang."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What is Sun Wukong's role in relation to Tang Sanzang?",
+      "answer": "Disciple and protector.",
+      "evidence": "Later, he becomes the disciple and protector of the monk Tang Sanzang on his journey to the West.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly states his dual role as disciple and protector.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "List three personality traits of Sun Wukong that reflect his rebellious nature.",
+      "answer": "Mischievous, rebellious, impulsive.",
+      "evidence": [
+        "* **Mischievous and Playful:** Wukong has a deep-seated love for pranks and trickery.",
+        "* **Rebellious and Impulsive:** Wukong has a strong rebellious streak... His impulsive actions and short temper often land him in trouble."
+      ],
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Mischievous and Playful' trait involves defiance through pranks.",
+        "The 'Rebellious and Impulsive' trait explicitly names rebelliousness and impulsiveness.",
+        "These three traits are directly linked to defiance of authority."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "How does Sun Wukong typically respond to drawn-out conversations?",
+      "answer": "With impatience.",
+      "evidence": "He can be blunt and speaks his mind, often showing impatience with drawn-out conversations or indecisiveness.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section states he shows impatience in such situations.",
+        "The answer is directly supported by the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What does Sun Wukong do when addressing his master, Tang Sanzang?",
+      "answer": "He addresses him with respect, though sometimes with exasperation.",
+      "evidence": "While generally informal, he addresses his master, Tang Sanzang, with respect, albeit sometimes with a hint of exasperation at his master's naivete.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section describes his respectful tone toward his master.",
+        "It also notes the presence of exasperation due to Tang Sanzang's naivete."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What fuels Sun Wukong's origin besides the mystical stone?",
+      "answer": "The energies of Heaven and Earth.",
+      "evidence": "Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Origin' section states he was nourished by Heaven and Earth's energies.",
+        "This complements the stone as a source of his being."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What kind of master did Sun Wukong learn his powers from?",
+      "answer": "A Taoist master named Puti Zushi.",
+      "evidence": "He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Master' section identifies Puti Zushi as a Taoist master.",
+        "The answer combines the title and name as stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What is one way Sun Wukong uses his intelligence in battle?",
+      "answer": "By outsmarting adversaries with clever tricks and transformations.",
+      "evidence": [
+        "He frequently uses his sharp wit to outsmart his adversaries.",
+        "His playful nature often involves outsmarting opponents with clever tricks and transformations."
+      ],
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links his intelligence to outsmarting foes.",
+        "Specific methods include tricks and transformations."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "Is Sun Wukong loyal to his master despite his rebellious past?",
+      "answer": "Yes, he develops fierce loyalty to Tang Sanzang.",
+      "evidence": "Despite his rebellious beginnings, he develops a fierce loyalty to his master, Tang Sanzang, and is dedicated to protecting him.",
+      "type": "yes/no",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Loyal and Just' trait explicitly states his loyalty developed despite past rebellion.",
+        "The answer is directly supported."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What motivates Sun Wukong to protect the innocent?",
+      "answer": "His strong sense of justice.",
+      "evidence": "He possesses a strong sense of justice, consistently fighting against evil and protecting the innocent.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states his actions are driven by a 'strong sense of justice'.",
+        "Protecting the innocent is listed as a manifestation of this trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "How does Sun Wukong speak about his own abilities?",
+      "answer": "In a boastful and confident manner.",
+      "evidence": "* **Boastful and Confident:** Often speaks in a grandiose manner, boasting about his powers and past exploits.",
+      "type": "behavior",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Linguistic Habits' section explicitly labels him as boastful and confident.",
+        "The description matches the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What does Sun Wukong do when he wants to taunt his enemies?",
+      "answer": "He teases and plays with them verbally.",
+      "evidence": "* **Playful and Teasing:** Enjoys taunting his enemies and even his companions, particularly Zhu Bajie.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Playful and Teasing' trait states he enjoys taunting enemies.",
+        "This behavior is part of his linguistic habit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What is the significance of the staff's ability to change size?",
+      "answer": "It allows Wukong to shrink it to a needle and carry it behind his ear.",
+      "evidence": "Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs. He often shrinks it to the size of a needle and keeps it tucked behind his ear.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The size-changing ability is directly linked to portability.",
+        "The text explains the practical use: shrinking for storage."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "Which companion does Sun Wukong often tease?",
+      "answer": "Zhu Bajie.",
+      "evidence": "Enjoys taunting his enemies and even his companions, particularly Zhu Bajie.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Playful and Teasing' bullet specifies Zhu Bajie as a frequent target.",
+        "The word 'particularly' highlights this individual."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What caused Sun Wukong to wreak havoc in Heaven?",
+      "answer": "Being given a low-ranking position, which triggered his rebellious nature.",
+      "evidence": "This rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Rebellious and Impulsive' trait links the event to the cause.",
+        "The sequence is: low position → rebelliousness → havoc in Heaven."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What is Sun Wukong's most prideful title?",
+      "answer": "Great Sage, Equal of Heaven.",
+      "evidence": "Wukong is immensely proud of his abilities and title as the \"Great Sage, Equal of Heaven.\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Proud and Arrogant' trait explicitly states his pride in this title.",
+        "It is directly named as the one he is proud of."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Sun Wukong's full name and its meaning?",
+      "answer": "Sun Wukong, meaning 'Monkey Awakened to Emptiness.'",
+      "evidence": "Name: Sun Wukong (孫悟空), meaning \"Monkey Awakened to Emptiness.\"",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the name and its meaning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What is one of Sun Wukong's titles that reflects his appearance?",
+      "answer": "Handsome Monkey King (美猴王)",
+      "evidence": "Titles: Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者).",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The list of titles includes 'Handsome Monkey King,' which directly refers to his appearance."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What title was given to Sun Wukong mockingly, related to his role in Heaven?",
+      "answer": "Bìmǎwēn, a title for the head of the Heavenly Stables.",
+      "evidence": "He was also mockingly called Bìmǎwēn, a title for the head of the Heavenly Stables.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies that Bìmǎwēn was a mocking title tied to his heavenly position."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Where was Sun Wukong born according to the profile?",
+      "answer": "From a mystical stone on the Mountain of Flowers and Fruit.",
+      "evidence": "Origin: Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The origin section clearly states the birthplace."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What is the name of Sun Wukong's weapon?",
+      "answer": "Ruyi Jingu Bang (如意金箍棒)",
+      "evidence": "Weapon of Choice: Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon is explicitly named in the PROFILE_TEXT."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What unique ability does Sun Wukong's staff possess?",
+      "answer": "It can change size at his will.",
+      "evidence": "Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes the staff’s magical property of size alteration."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "How much does Sun Wukong's staff weigh?",
+      "answer": "17,548 lbs",
+      "evidence": "weighing 17,548 lbs.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weight is explicitly stated in the weapon description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "Where does Sun Wukong typically store his staff when not in use?",
+      "answer": "Tucked behind his ear.",
+      "evidence": "He often shrinks it to the size of a needle and keeps it tucked behind his ear.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explains his habit of shrinking and storing the staff behind his ear."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "Who was Sun Wukong's Taoist master?",
+      "answer": "Puti Zushi (also referred to as Patriarch Subhuti).",
+      "evidence": "He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The master is clearly identified in the personal details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What role does Sun Wukong take on in relation to Tang Sanzang?",
+      "answer": "Disciple and protector.",
+      "evidence": "Later, he becomes the disciple and protector of the monk Tang Sanzang on his journey to the West.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies his dual role as disciple and protector."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "Which personality trait leads Sun Wukong to cause chaos in Heaven?",
+      "answer": "Rebellious and impulsive nature.",
+      "evidence": "His rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT links his rebelliousness to the act of wreaking havoc in Heaven."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What motivates Sun Wukong to disrupt Heaven according to the profile?",
+      "answer": "Being given a low-ranking position.",
+      "evidence": "His rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause of his rebellion is explicitly stated as receiving a minor role."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What is one way Sun Wukong typically expresses his mischievous nature?",
+      "answer": "By outsmarting opponents with clever tricks and transformations.",
+      "evidence": "His playful nature often involves outsmarting opponents with clever tricks and transformations.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes how his mischievousness manifests in combat and interaction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Is Sun Wukong afraid of powerful foes?",
+      "answer": "No, he is fearless.",
+      "evidence": "He is renowned for his unwavering courage, never shying away from a challenge, no matter how powerful the foe.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states he never shies away from any challenge, indicating fearlessness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What is a key intellectual trait of Sun Wukong?",
+      "answer": "He is intelligent and cunning.",
+      "evidence": "Intelligent and Cunning: Beyond his immense power, Wukong is incredibly clever and resourceful.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists intelligence and cunning as traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "How does Sun Wukong demonstrate loyalty?",
+      "answer": "By being dedicated to protecting his master, Tang Sanzang.",
+      "evidence": "Despite his rebellious beginnings, he develops a fierce loyalty to his master, Tang Sanzang, and is dedicated to protecting him.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT links loyalty to his protective role toward Tang Sanzang."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What sense of justice does Sun Wukong uphold?",
+      "answer": "He fights against evil and protects the innocent.",
+      "evidence": "He possesses a strong sense of justice, consistently fighting against evil and protecting the innocent.",
+      "type": "value",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies the actions that reflect his justice-oriented behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "Why do Sun Wukong's adversaries mock him using the title 'Bìmǎwēn'?",
+      "answer": "Because it refers to his former lowly position as head of the Heavenly Stables.",
+      "evidence": "His adversaries often use his former lowly title, \"Bìmǎwēn,\" to mock him.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states that 'Bìmǎwēn' is a former lowly title used for mockery."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "How does Sun Wukong typically speak about himself?",
+      "answer": "In a boastful and confident manner.",
+      "evidence": "Boastful and Confident: Often speaks in a grandiose manner, boasting about his powers and past exploits.",
+      "type": "linguistic",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section describes his self-referential speech style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "Is Sun Wukong patient during conversations?",
+      "answer": "No, he is often impatient.",
+      "evidence": "Direct and Impatient: He can be blunt and speaks his mind, often showing impatience with drawn-out conversations or indecisiveness.",
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly states his impatience with long discussions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "How does Sun Wukong interact with his companion Zhu Bajie?",
+      "answer": "He enjoys teasing and taunting him.",
+      "evidence": "Playful and Teasing: Enjoys taunting his enemies and even his companions, particularly Zhu Bajie.",
+      "type": "behavior",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section specifies that he teases companions, naming Zhu Bajie."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "How does Sun Wukong address his master, Tang Sanzang?",
+      "answer": "With respect, though sometimes with exasperation.",
+      "evidence": "Respectful to His Master: While generally informal, he addresses his master, Tang Sanzang, with respect, albeit sometimes with a hint of exasperation at his master's naivete.",
+      "type": "linguistic",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes his tone as respectful but occasionally exasperated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What source of power nourished Sun Wukong at birth?",
+      "answer": "The energies of Heaven and Earth.",
+      "evidence": "Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The origin section states the mystical nourishment source."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What kind of master-student relationship does Sun Wukong have with Puti Zushi?",
+      "answer": "Puti Zushi taught him his powers.",
+      "evidence": "He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti).",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT indicates a teacher-student dynamic focused on power acquisition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does the title 'Great Sage, Equal of Heaven' reflect about Sun Wukong?",
+      "answer": "His immense pride in his abilities and status.",
+      "evidence": "Wukong is immensely proud of his abilities and title as the \"Great Sage, Equal of Heaven.\"",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT links the title to his pride in his power and self-image."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Sun Wukong's full name and what does it mean?",
+      "answer": "Sun Wukong, meaning 'Monkey Awakened to Emptiness.'",
+      "evidence": [
+        "Name: Sun Wukong (孫悟空), meaning \"Monkey Awakened to Emptiness.\""
+      ],
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly provides the name and its meaning in the 'Personal Details' section.",
+        "No inference is needed; the answer is directly quoted."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "Where was Sun Wukong born?",
+      "answer": "From a mystical stone on the Mountain of Flowers and Fruit.",
+      "evidence": [
+        "Origin: Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth."
+      ],
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The origin of Sun Wukong is clearly stated in the 'Personal Details' section.",
+        "The location is explicitly 'Mountain of Flowers and Fruit'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What is the name of Sun Wukong's magical staff?",
+      "answer": "Ruyi Jingu Bang.",
+      "evidence": [
+        "Weapon of Choice: Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weapon is named directly in the 'Personal Details' section.",
+        "No interpretation is required to extract the name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is the weight of Sun Wukong's staff?",
+      "answer": "17,548 lbs.",
+      "evidence": [
+        "Weapon of Choice: Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs."
+      ],
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The weight is explicitly given in the 'Personal Details' section.",
+        "Answer is a direct numeric fact."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "How does Sun Wukong carry his staff when not in use?",
+      "answer": "He shrinks it to the size of a needle and keeps it behind his ear.",
+      "evidence": [
+        "He often shrinks it to the size of a needle and keeps it tucked behind his ear."
+      ],
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of carrying the staff is described in the 'Weapon of Choice' sentence.",
+        "It involves a transformation and a physical storage location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "Who was Sun Wukong's Taoist master?",
+      "answer": "Puti Zushi, also known as Patriarch Subhuti.",
+      "evidence": [
+        "He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti)."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The master's name is explicitly stated in the 'Personal Details' section.",
+        "Alternative name is provided in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What role does Sun Wukong take on in relation to Tang Sanzang?",
+      "answer": "He becomes the disciple and protector of Tang Sanzang.",
+      "evidence": [
+        "Later, he becomes the disciple and protector of the monk Tang Sanzang on his journey to the West."
+      ],
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The role is directly stated in the 'Personal Details' section.",
+        "Two aspects—disciple and protector—are both mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What is one of Sun Wukong's core personality traits related to humor and tricks?",
+      "answer": "Mischievous and playful.",
+      "evidence": [
+        "Mischievous and Playful: Wukong has a deep-seated love for pranks and trickery."
+      ],
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is listed under 'Personality Traits'.",
+        "The description confirms it with 'love for pranks and trickery'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "Why is Sun Wukong considered brave?",
+      "answer": "He is fearless and confronts powerful foes and celestial armies.",
+      "evidence": [
+        "Brave and Fearless: He is renowned for his unwavering courage, never shying away from a challenge, no matter how powerful the foe. He boldly confronts demons and even the celestial armies of Heaven."
+      ],
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The evidence describes his courage and willingness to face any opponent.",
+        "Examples include demons and celestial armies, indicating extreme bravery."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What caused Sun Wukong to rebel against Heaven?",
+      "answer": "He was given a low-ranking position and felt disrespected.",
+      "evidence": [
+        "This rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position."
+      ],
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause is stated as receiving a low-ranking position.",
+        "This triggered his rebellious streak, leading to havoc in Heaven."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What trait allows Sun Wukong to outsmart his enemies?",
+      "answer": "Intelligent and cunning.",
+      "evidence": [
+        "Intelligent and Cunning: Beyond his immense power, Wukong is incredibly clever and resourceful. He frequently uses his sharp wit to outsmart his adversaries."
+      ],
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is explicitly named.",
+        "The explanation confirms it with 'sharp wit to outsmart adversaries'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "How does Sun Wukong demonstrate loyalty?",
+      "answer": "By being dedicated to protecting his master, Tang Sanzang.",
+      "evidence": [
+        "Loyal and Just: Despite his rebellious beginnings, he develops a fierce loyalty to his master, Tang Sanzang, and is dedicated to protecting him."
+      ],
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Loyalty is demonstrated through protection of Tang Sanzang.",
+        "The evidence links loyalty to his protective role."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What sense of justice does Sun Wukong uphold?",
+      "answer": "He fights against evil and protects the innocent.",
+      "evidence": [
+        "He possesses a strong sense of justice, consistently fighting against evil and protecting the innocent."
+      ],
+      "type": "trait",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The justice aspect is directly stated.",
+        "Two behaviors—fighting evil and protecting the innocent—are specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "Why do adversaries mock Sun Wukong by calling him 'Bìmǎwēn'?",
+      "answer": "Because it was a lowly title for the head of the Heavenly Stables, reminding him of a humiliating position.",
+      "evidence": [
+        "He was also mockingly called Bìmǎwēn, a title for the head of the Heavenly Stables.",
+        "His adversaries often use his former lowly title, 'Bìmǎwēn,' to mock him."
+      ],
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The title 'Bìmǎwēn' is described as a lowly position.",
+        "Adversaries use it to mock him, implying it's a source of shame."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "How does Sun Wukong typically speak about his own abilities?",
+      "answer": "In a boastful and confident manner.",
+      "evidence": [
+        "Boastful and Confident: Often speaks in a grandiose manner, boasting about his powers and past exploits."
+      ],
+      "type": "linguistic",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habit is explicitly listed.",
+        "The description includes 'boasting' and 'grandiose manner'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "How does Sun Wukong communicate when he is impatient?",
+      "answer": "He speaks directly and bluntly.",
+      "evidence": [
+        "Direct and Impatient: He can be blunt and speaks his mind, often showing impatience with drawn-out conversations or indecisiveness."
+      ],
+      "type": "linguistic",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trait links impatience with blunt, direct speech.",
+        "Drawn-out conversations trigger this behavior."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "Who does Sun Wukong often tease or playfully taunt?",
+      "answer": "His enemies and companions, especially Zhu Bajie.",
+      "evidence": [
+        "Playful and Teasing: Enjoys taunting his enemies and even his companions, particularly Zhu Bajie."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence specifies both enemies and companions.",
+        "Zhu Bajie is explicitly named as a frequent target."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "How does Sun Wukong address his master, Tang Sanzang?",
+      "answer": "With respect, though sometimes with exasperation.",
+      "evidence": [
+        "Respectful to His Master: While generally informal, he addresses his master, Tang Sanzang, with respect, albeit sometimes with a hint of exasperation at his master's naivete."
+      ],
+      "type": "linguistic",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic behavior toward his master is described as respectful.",
+        "A nuance of exasperation is added due to the master's naivete."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What does the title 'Great Sage, Equal of Heaven' signify about Sun Wukong?",
+      "answer": "His immense pride in his power and status, claiming equality with Heaven.",
+      "evidence": [
+        "Proud and Arrogant: Wukong is immensely proud of his abilities and title as the 'Great Sage, Equal of Heaven.'"
+      ],
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The title is linked to his pride and arrogance.",
+        "The implication of equality with Heaven reflects his self-perceived status."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What fuels Sun Wukong's origin besides the mystical stone?",
+      "answer": "The energies of Heaven and Earth.",
+      "evidence": [
+        "Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth."
+      ],
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence provides two elements: the stone and the energies.",
+        "The second part specifies the nourishing source."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What is one of Sun Wukong's titles that reflects his appearance?",
+      "answer": "Handsome Monkey King.",
+      "evidence": [
+        "Titles: Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者)."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title 'Handsome Monkey King' is listed under 'Titles'.",
+        "It directly relates to his appearance."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What is Sun Wukong's title during his pilgrimage journey?",
+      "answer": "Pilgrim.",
+      "evidence": [
+        "Titles: Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者)."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The title 'Pilgrim' is listed among his titles.",
+        "It corresponds to his role on the journey to the West."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What kind of master did Sun Wukong learn his powers from?",
+      "answer": "A Taoist master named Puti Zushi.",
+      "evidence": [
+        "He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti)."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The master's name and tradition (Taoist) are explicitly stated.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "How does Sun Wukong use his intelligence in combat?",
+      "answer": "He uses his sharp wit to outsmart adversaries.",
+      "evidence": [
+        "He frequently uses his sharp wit to outsmart his adversaries."
+      ],
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The evidence directly states his use of wit in conflict.",
+        "The method is 'outsmarting', not just brute force."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What is a limitation of Sun Wukong's personality that causes him trouble?",
+      "answer": "His impulsive actions and short temper.",
+      "evidence": [
+        "Rebellious and Impulsive: Wukong has a strong rebellious streak and a disdain for authority. His impulsive actions and short temper often land him in trouble."
+      ],
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The trait of impulsiveness and short temper is directly linked to causing trouble.",
+        "This is a behavioral limitation despite his powers."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

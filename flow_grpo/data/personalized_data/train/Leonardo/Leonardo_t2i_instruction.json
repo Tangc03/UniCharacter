@@ -1,0 +1,54 @@
+{
+  "description": "Leonardo DiCaprio is an acclaimed American actor and producer, known for his intense work ethic and roles in biographical films. A dedicated environmentalist, he founded a nonprofit for environmental awareness. While a private individual, he is known to be down-to-earth, intellectually curious, and articulate. He is fluent in German and conversant in Italian, often speaking thoughtfully and adapting his tone to the context, from casual interviews to formal speeches, conveying a wide range of emotions.",
+  "opening": "",
+  "t2i_instructions": [
+    {
+      "image_id": "0",
+      "t2i_instruction": "Leonardo wearing a classic black tuxedo and bow tie, slicked-back hair, standing in a glamorous setting with blurred golden lights, red carpet event atmosphere, elegant and sophisticated mood, cinematic lighting"
+    },
+    {
+      "image_id": "1",
+      "t2i_instruction": "Leonardo holding a microphone, dressed in a blue pinstripe suit and striped tie, indoor setting, elegant and professional mood, soft lighting filtering through vertical blinds, mid-shot composition"
+    },
+    {
+      "image_id": "2",
+      "t2i_instruction": "Leonardo standing confidently on modern staircase, wearing dark jacket and black shirt, mid-shot, realistic art style, cool lighting, professional and composed mood"
+    },
+    {
+      "image_id": "3",
+      "t2i_instruction": "Leonardo in a sleek tuxedo with a black bow tie, standing confidently, classic Hollywood hairstyle, elegant and sophisticated, red carpet event setting, warm lighting, glamorous mood, geometric background elements"
+    },
+    {
+      "image_id": "4",
+      "t2i_instruction": "Leonardo wearing a classic black tuxedo with a bow tie, hair neatly styled, formal setting, elegant mood, soft focus background, professional lighting"
+    },
+    {
+      "image_id": "5",
+      "t2i_instruction": "Leonardo dressed in a sharp blue suit, patterned tie, sleek hair, standing with one finger raised, industrial setting with large windows, dramatic lighting, confident pose and serious mood, cinematic style"
+    },
+    {
+      "image_id": "6",
+      "t2i_instruction": "Leonardo pointing assertively, wearing a blue suit with a patterned tie, formal setting, mid-century office background, dim warm lighting, confident and authoritative mood, vintage style"
+    },
+    {
+      "image_id": "7",
+      "t2i_instruction": "Leonardo sitting at a table, wearing a formal dark blue suit and tie, hair slicked back, intense focus expression, office setting, cinematic lighting, serious mood, mid-shot"
+    },
+    {
+      "image_id": "8",
+      "t2i_instruction": "Leonardo holding a crystal glass in hand, wearing a classic black tuxedo with a bow tie, elegant setting, bokeh background with soft lighting, sophisticated and celebratory mood, cinematic art style"
+    },
+    {
+      "image_id": "9",
+      "t2i_instruction": "Leonardo in a dark suit and tie, standing in a dimly lit room, retro television in the background, vintage aesthetic, warm lighting, formal pose, 1960s setting, solemn mood, indoor environment"
+    },
+    {
+      "image_id": "10",
+      "t2i_instruction": "Leonardo wearing a dark pinstripe suit and striped tie, standing confidently, blurred busy office background, corporate setting, dynamic atmosphere, business environment, sharp focus on clothing, professional mood"
+    },
+    {
+      "image_id": "11",
+      "t2i_instruction": "Leonardo holding a landline phone, wearing a dark suit and patterned tie, office setting, mid-century modern decor, serious expression, business environment, soft lighting, seated at a desk, background with blurred colleagues"
+    }
+  ]
+}

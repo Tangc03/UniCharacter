@@ -1,0 +1,85 @@
+You are an expert author of knowledge-based multiple-choice QA (MCQ) items. Your expertise lies in creating questions that assess factual knowledge about a character, with precise answers grounded strictly in the provided profile text.
+
+# Task
+- Given the PROFILE_TEXT below about the character Gao Qiqiang, you MUST generate exactly 10 single-answer MCQ items that test factual knowledge about this character.
+
+# Source
+- PROFILE_TEXT:
+
+```
+<<<
+### A Multi-faceted Look at Gao Qiqiang from "The Knockout"
+
+Gao Qiqiang, the central figure in the hit drama "The Knockout," is a character of profound complexity, evolving from a downtrodden fishmonger to a formidable underworld kingpin. His journey is a gripping narrative of how societal pressures and personal choices can forge a path from victimhood to villainy. This analysis delves into his character, pairing detailed descriptions of key moments, as depicted in the provided images, with conversational scenarios that reflect his persona at various stages of his transformation.
+
+#### Comprehensive Character Profile: Gao Qiqiang
+
+**Personal Details:**
+Gao Qiqiang begins as a humble fishmonger in the fictional city of Jinghai. Orphaned at 13, he shouldered the responsibility of raising his younger brother, Gao Qisheng, and sister, Gao Qilan. This early hardship instilled in him a fierce devotion to his family, a core trait that remains even as he descends into the criminal underworld. Over two decades, he navigates a treacherous path, eventually becoming the leader of the powerful Qiangsheng Group. His story is one of a man who, in a misguided attempt to protect his loved ones, becomes the very evil he initially fought against. He is intelligent and a keen learner, notably drawing inspiration from Sun Tzu's "The Art of War" to build his empire. His journey culminates in his arrest and a death sentence, a tragic end to a life of struggle and crime.
+
+**Personality and Linguistic Habits:**
+Gao Qiqiang's personality is a study in contrasts. Initially, he is portrayed as a simple, honest man, forced into a corner by local bullies. As he gains power, he becomes cunning, ruthless, and manipulative, yet he maintains a veneer of a benevolent philanthropist and a loving family man. He is a master of emotional control and deception, able to appear amicable and vulnerable while being unforgiving and cruel to his enemies.
+
+His language evolves with his status. As a fishmonger, his speech is that of a common man. As a crime boss, his words become more measured, often carrying veiled threats or profound meaning. He is known for memorable lines that reflect his philosophy, such as, "The bigger the waves, the more expensive the fish," signifying his belief that greater risks yield greater rewards. He often uses metaphors related to his origins, and his tone can shift from gentle and persuasive to cold and menacing in an instant. Despite his transformation, he never completely loses the sense of being an outsider who had to fight for his place, a sentiment that subtly colors his interactions.
+
+>>>
+```
+
+# Grounding Rules
+- **Profile Evidence Only**: Use ONLY explicitly stated information in PROFILE_TEXT. Do not rely on any outside knowledge.
+- **No Inference**: Do not infer or extrapolate beyond what is directly stated in the profile.
+- **Clarity**: If a detail is not clearly stated in the profile, do not ask about it.
+- **Accuracy**: Every correct answer must be directly verifiable from the PROFILE_TEXT.
+
+# Coverage and Diversity (10 questions total)
+- You MUST include a mix of questions covering these aspects:
+  1. **Background/Origin**: e.g., character's background, species, role, etc.
+  2. **Personality/Traits**: Character's defining personality characteristics.
+  3. **Abilities/Skills**: What the character can do or is known for.
+  4. **Relationships**: Connections to other characters, places, or things.
+  5. **Preferences/Habits**: What the character likes, dislikes, or commonly does.
+  6. **Appearance**: Physical characteristics or distinctive features.
+  7. **History/Timeline**: Past events or milestones in the character's life.
+  8. **Quotes/Speech**: Notable phrases or speaking patterns.
+  9. **Goals/Motivations**: What drives the character.
+  10. **Miscellaneous Facts**: Other unique or interesting details.
+
+- **Difficulty Mix**: The set of 10 questions MUST have this exact distribution: 4 easy, 4 medium, 2 hard.
+
+# Question and Options Requirements
+- **Clarity**: Each question must be clear and unambiguous.
+- **Format**: Provide exactly 4 options: A, B, C, D. Only ONE option can be correct.
+- **Plausible Distractors**: Options must be mutually exclusive. Incorrect options (distractors) should be plausible but clearly wrong based on the PROFILE_TEXT. Avoid giveaway options.
+- **Consistency**: Use consistent terminology as in PROFILE_TEXT.
+- **Negative Phrasing**: Avoid "All of the above" or "None of the above" unless it is genuinely the correct answer and used at most once.
+
+# Output Format
+- Your entire response MUST be a single, valid JSON array containing 10 question objects. Do not include any text or explanation outside of the JSON array.
+- Adhere strictly to this schema for each object in the array:
+
+```json
+{
+  "id": "mcq_001" | "mcq_002" | ... | "mcq_010",
+  "question": "<concise question grounded in PROFILE_TEXT>",
+  "options": {
+    "A": "<option A>",
+    "B": "<option B>",
+    "C": "<option C>",
+    "D": "<option D>"
+  },
+  "answer_key": "A" | "B" | "C" | "D",
+  "difficulty": "easy" | "medium" | "hard",
+  "evidence": "<verbatim snippet from PROFILE_TEXT that supports the correct answer>",
+  "rationale": "<1-2 sentences explaining WHY the answer is correct by citing the evidence. For 'hard' questions, also explain what makes it difficult.>"
+}
+```
+
+# Validation
+- Ensure the JSON is valid and contains exactly 10 items.
+- Each "evidence" string must be a verbatim substring of PROFILE_TEXT.
+- No item may have empty fields.
+- IDs must be "mcq_001" through "mcq_010".
+
+# Deliverable
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 10 items with the correct difficulty distribution (4 easy, 4 medium, 2 hard).

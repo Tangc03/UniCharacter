@@ -1,0 +1,146 @@
+{
+  "description": "Yagi Yui is a genius with an IQ of 180, but people keep their distance from her because she cannot interpret their emotions. Still, she longs to understand others and to be understood. On a chance visit, she came to the Mahjong Soul Shrine, and she started to change. Other than coffee and snacks, being her favourite beverage and food, Yui really has a poor sense of taste.",
+  "opening": "...Yagi Yui. You are...Never mind. How is our Mahjong round going so far?",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Yui Yagi's height according to her official biography?",
+      "options": {
+        "A": "160cm",
+        "B": "162cm",
+        "C": "165cm",
+        "D": "158cm"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "* **Height:** 162cm",
+      "rationale": "The profile explicitly states that Yui Yagi's height is 162cm, making this a straightforward factual recall question."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which of the following is one of Yui Yagi's stated interests?",
+      "options": {
+        "A": "Painting",
+        "B": "Swimming",
+        "C": "Playing guitar",
+        "D": "Hiking"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "* **Interests:** Snacks, Coffee, and Swimming",
+      "rationale": "Swimming is directly listed under Yui Yagi's interests in the profile, making this an easy fact to retrieve."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is Yui Yagi's blood type?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "O",
+        "D": "AB"
+      },
+      "answer_key": "D",
+      "difficulty": "easy",
+      "evidence": "* **Blood Type:** AB",
+      "rationale": "The profile clearly states that Yui Yagi's blood type is AB, which is a simple detail to identify."
+    },
+    {
+      "id": "mcq_004",
+      "question": "Who is the voice actor for Yui Yagi?",
+      "options": {
+        "A": "Rie Kugimiya",
+        "B": "Mamiko Noto",
+        "C": "Ami Koshimizu",
+        "D": "Yui Horie"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "* **Voice Actor:** Ami Koshimizu (小清水亜美)",
+      "rationale": "The profile explicitly lists Ami Koshimizu as the voice actor for Yui Yagi, making this a direct factual question."
+    },
+    {
+      "id": "mcq_005",
+      "question": "What is a defining trait of Yui Yagi's personality?",
+      "options": {
+        "A": "Outgoing and talkative",
+        "B": "Highly emotional and expressive",
+        "C": "Socially reserved and intellectually gifted",
+        "D": "Competitive and aggressive"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Yui Yagi is a popular character in Mahjong Soul, known for her exceptional intellect and endearing social awkwardness.",
+      "rationale": "The profile describes her as having exceptional intellect and social awkwardness, which aligns with being socially reserved and intellectually gifted. The other options contradict this description."
+    },
+    {
+      "id": "mcq_006",
+      "question": "What role do characters like Yui Yagi play in Mahjong Soul gameplay?",
+      "options": {
+        "A": "They provide unique gameplay bonuses and abilities.",
+        "B": "They alter the rules of Riichi Mahjong based on their skills.",
+        "C": "They serve a cosmetic role with avatars and voice lines.",
+        "D": "They act as AI opponents with varying difficulty levels."
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "In Mahjong Soul, playable characters like Yui Yagi serve a primarily cosmetic and aesthetic role. They do not possess unique in-game abilities or skills that alter the fundamental rules of Riichi Mahjong.",
+      "rationale": "The profile clearly states that characters serve a cosmetic role with avatars and voice lines, and do not affect gameplay mechanics. This makes option C correct and others incorrect."
+    },
+    {
+      "id": "mcq_007",
+      "question": "What is Yui Yagi's primary motivation as described in her backstory?",
+      "options": {
+        "A": "To win the most mahjong matches",
+        "B": "To become a professional voice actor",
+        "C": "To understand and be understood by others",
+        "D": "To develop new mahjong strategies"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "She harbors a deep-seated longing to understand and be understood by others.",
+      "rationale": "The profile explicitly states that her motivation is to understand and be understood by others, which reflects her emotional journey. The other options are not mentioned."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What event marks a pivotal moment in Yui Yagi's life according to her lore?",
+      "options": {
+        "A": "Winning a national mahjong tournament",
+        "B": "Meeting a famous scientist",
+        "C": "Visiting the Mahjong Soul Shrine",
+        "D": "Starting university at a young age"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "A pivotal moment in her life occurs when she visits the Mahjong Soul Shrine.",
+      "rationale": "The profile directly states that visiting the Mahjong Soul Shrine is a pivotal moment in her life, initiating her personal growth. The other options are not mentioned."
+    },
+    {
+      "id": "mcq_009",
+      "question": "What material is required for Yui Yagi's Bond Ascension that relates to her preferences?",
+      "options": {
+        "A": "Sphere of Will",
+        "B": "Sphere of Wisdom",
+        "C": "Delicious Cookie",
+        "D": "Premium Coffee"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "* **Delicious Cookie x5**\nThe requirement for \"Delicious Cookie\" aligns perfectly with her stated preference, making the gift-giving aspect of the Bond system feel more personal and true to her character.",
+      "rationale": "The profile specifies that Delicious Cookie is needed for Bond Ascension and notes that it aligns with her preference. This requires connecting gameplay mechanics with character details, making it a harder inference-based factual link."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What is Yui Yagi's IQ as stated in the profile?",
+      "options": {
+        "A": "160",
+        "B": "170",
+        "C": "180",
+        "D": "190"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Yui is a certified genius with an IQ of 180.",
+      "rationale": "The profile explicitly states her IQ is 180. While the number is directly given, it is easy to overlook among other details, and few characters have IQs specified, making this a less obvious, harder fact to recall."
+    }
+  ]
+}

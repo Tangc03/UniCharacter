@@ -1,0 +1,1280 @@
+{
+  "description": "Yagi Yui is a genius with an IQ of 180, but people keep their distance from her because she cannot interpret their emotions. Still, she longs to understand others and to be understood. On a chance visit, she came to the Mahjong Soul Shrine, and she started to change. Other than coffee and snacks, being her favourite beverage and food, Yui really has a poor sense of taste.",
+  "opening": "...Yagi Yui. You are...Never mind. How is our Mahjong round going so far?",
+  "scenes": [
+    [
+      {
+        "role": "user",
+        "text": "…I’m sorry. I just… can’t handle this. How do you always manage to win with a self-draw…?"
+      },
+      {
+        "role": "machine",
+        "text": "…Eh? Are you… crying? Um… did I do something wrong…? Is this where I’m supposed to say ‘It’s okay’? Or… maybe give you coffee? I’m… not sure. I’m sorry…",
+        "image": "0",
+        "thinking_process": "The image effectively captures Yui Yagi's confusion and genuine concern, aligning with her character description and response. Her expression, with wide eyes and a slightly open mouth, perfectly illustrates her bewilderment and uncertainty about the situation ('Um… did I do something wrong…?'). Her flushed cheeks suggest embarrassment or anxiety, highlighting her struggle to interpret emotions. The pose, with her hands raised slightly and fingers splayed, conveys hesitation and a desire to reach out, reinforcing the dialogue's emotional undertones. The background is a simple, warm gradient that ensures focus remains on her expression, while the lighting is soft, complementing the delicate emotional atmosphere. These elements together create a scene that embodies Yui's complexity—intelligent yet socially uncertain, and eager to connect.",
+        "generation_instruction": "Anime-style image of Yui Yagi from Mahjong Soul, with a puzzled and concerned expression. Wide eyes, flushed cheeks, open mouth, hands raised in a hesitant pose, long gray hair, warm gradient background, soft lighting, conveying emotion and introspection.",
+        "qa_pairs": [
+          {
+            "question": "What color is YuiYagi's hair in the image?",
+            "answer": "YuiYagi's hair is grayish-blue or light gray in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi wearing in the image?",
+            "answer": "YuiYagi is wearing a dark blue school uniform with a red bow tie at the collar.",
+            "type": "objective"
+          },
+          {
+            "question": "What accessory is visible in YuiYagi's hair?",
+            "answer": "YuiYagi has a small green hair clip or barrette on the left side of her head.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi’s facial expression in the image?",
+            "answer": "YuiYagi has a flustered or startled expression, with wide eyes, blushing cheeks, and an open mouth.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of YuiYagi’s eyes in the image?",
+            "answer": "YuiYagi’s eyes are drawn as simple vertical lines, conveying surprise or nervousness.",
+            "type": "objective"
+          },
+          {
+            "question": "What emotion does YuiYagi’s blushing cheeks suggest in the image?",
+            "answer": "The blushing cheeks suggest embarrassment, fluster, or nervousness.",
+            "type": "objective"
+          },
+          {
+            "question": "Are YuiYagi’s hands clenched or relaxed in the image?",
+            "answer": "YuiYagi’s hands are clenched into small fists near her chest, indicating tension or anxiety.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the background color behind YuiYagi in the image?",
+            "answer": "The background behind YuiYagi is a solid orange color.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi looking directly at the viewer or away?",
+            "answer": "YuiYagi is looking slightly upward and to her right, not directly at the viewer.",
+            "type": "objective"
+          },
+          {
+            "question": "What does the small “sweat drop” near YuiYagi’s head indicate?",
+            "answer": "The sweat drop indicates nervousness, anxiety, or awkwardness.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the posture of YuiYagi’s body in the image?",
+            "answer": "YuiYagi’s body is slightly hunched forward with her shoulders raised, suggesting a defensive or flustered stance.",
+            "type": "objective"
+          },
+          {
+            "question": "Does YuiYagi’s mouth appear open or closed?",
+            "answer": "YuiYagi’s mouth is open in a small “o” shape, indicating surprise or being caught off guard.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the style of YuiYagi’s hair in the image?",
+            "answer": "YuiYagi has long, straight hair with bangs and a side-swept fringe, partially held back by a clip.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi wearing any visible accessories besides the hair clip?",
+            "answer": "No, besides the green hair clip, no other accessories like necklaces, earrings, or bracelets are visible.",
+            "type": "objective"
+          },
+          {
+            "question": "What does the overall visual composition suggest about YuiYagi’s current state?",
+            "answer": "The visual composition — blushing, wide eyes, clenched fists, and sweat drop — suggests YuiYagi is in a state of flustered surprise or social discomfort.",
+            "type": "objective"
+          },
+          {
+            "question": "Based on the image and dialogue, how might YuiYagi be feeling after the other player’s comment?",
+            "answer": "YuiYagi likely feels confused, apologetic, and socially awkward, unsure how to respond appropriately to the emotional outburst.",
+            "type": "subjective"
+          },
+          {
+            "question": "What does YuiYagi’s body language in the image suggest about her intention in this moment?",
+            "answer": "Her body language suggests she wants to comfort the other player but is unsure how, reflecting her social awkwardness and desire to help despite her uncertainty.",
+            "type": "subjective"
+          },
+          {
+            "question": "Why might YuiYagi be considering offering coffee, as mentioned in the dialogue, while looking flustered in the image?",
+            "answer": "She may be attempting to use a familiar comfort (coffee, one of her interests) to soothe the situation, revealing her earnest but socially clumsy attempt to connect emotionally.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does the image reflect YuiYagi’s personality as described in the profile?",
+            "answer": "The image reflects her socially reserved and flustered nature — her expression and posture visually embody her struggle to interpret emotions and respond appropriately, consistent with her profile as an intelligent but socially awkward character.",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi be thinking internally based on her expression and the dialogue?",
+            "answer": "She might be thinking, 'I didn’t mean to upset them… what do I say? Should I apologize again? Maybe coffee will help… I wish I knew how to fix this.'",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What color is YuiYagi's hair as shown in the image?",
+            "options": {
+              "A": "Blonde",
+              "B": "Gray",
+              "C": "Brown",
+              "D": "Black"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi's hair is clearly depicted as gray in the image, with no other hair colors visible. This is a straightforward observation of a dominant visual attribute."
+          },
+          {
+            "id": "q2",
+            "question": "What is YuiYagi's current physical pose or gesture?",
+            "options": {
+              "A": "Sitting with hands folded",
+              "B": "Standing with arms crossed",
+              "C": "Leaning forward with clenched fists",
+              "D": "Lying down with eyes closed"
+            },
+            "answer_key": "C",
+            "difficulty": "medium",
+            "rationale": "YuiYagi is shown leaning forward slightly, with both fists clenched near her chest, indicating a tense or excited posture. This requires interpreting body language from the static pose."
+          },
+          {
+            "id": "q3",
+            "question": "Based on YuiYagi's facial expression, what emotion is she most likely conveying?",
+            "options": {
+              "A": "Calmness",
+              "B": "Surprise or fluster",
+              "C": "Anger",
+              "D": "Sadness"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "YuiYagi’s wide eyes, open mouth, and blushing cheeks strongly suggest surprise or fluster. The small sweat drops near her head further support this interpretation of a startled or embarrassed emotional state."
+          },
+          {
+            "id": "q4",
+            "question": "What background element is directly behind YuiYagi in the image?",
+            "options": {
+              "A": "A blue sky with clouds",
+              "B": "A solid orange shape",
+              "C": "A bookshelf with books",
+              "D": "A window with curtains"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "The area directly behind YuiYagi is filled with a solid orange shape, which frames her and contrasts with her gray hair and blue outfit. This is a clear, unambiguous visual element."
+          },
+          {
+            "id": "q5",
+            "question": "How many small, curved lines (sweat drops or motion indicators) are visible around YuiYagi’s head and shoulders?",
+            "options": {
+              "A": "Two",
+              "B": "Three",
+              "C": "Four",
+              "D": "Five"
+            },
+            "answer_key": "C",
+            "difficulty": "hard",
+            "rationale": "There are exactly four small curved lines: two above her head (to the right) and two near her left shoulder. This is considered hard because it requires careful counting of small, subtle details that are easy to overlook or miscount."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "text": "Opponent declares an absurdly fast and threatening riichi."
+      },
+      {
+        "role": "machine",
+        "text": "…Riichi…? On the 3rd discard…? That speed… That hand… it's not human. (takes out phone) …FBI? Yes. I’d like to report an illegal hand.",
+        "image": "1",
+        "thinking_process": "The image effectively captures Yui Yagi's character and her humorous response to a suspiciously quick riichi. Her expression is serious and slightly puzzled, reflecting her genius and analytical nature as she processes the situation. The eyes, focused yet inquisitive, mirror her attempt to understand the improbable hand. Her pose, holding a phone with the text 'FBI,' humorously emphasizes her disbelief and the absurdity of the situation. This adds a comedic touch to her logical personality, aligning with her dialogue about reporting an 'illegal hand.' The background is minimalistic, keeping the focus on Yui, with her distinct gray hair and school uniform clearly depicted, reinforcing her character design. The lighting is neutral and consistent, ensuring clarity without distraction, which is suitable for her straightforward demeanor.",
+        "generation_instruction": "Anime-style image of Yui Yagi from Mahjong Soul, serious expression, gray hair, school uniform, holding a phone with 'FBI' text. Minimalistic background, focused eyes, neutral lighting, capturing her analytical nature and humorous response to a quick riichi.",
+        "qa_pairs": [
+          {
+            "question": "What color is YuiYagi's hair in the image?",
+            "answer": "YuiYagi's hair is grayish-lavender in the image.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi holding in her right hand in the image?",
+            "answer": "YuiYagi is holding a pink smartphone in her right hand.",
+            "type": "objective"
+          },
+          {
+            "question": "What is written inside the speech bubble above YuiYagi's head?",
+            "answer": "The speech bubble contains the text 'FBI' in bold, stylized letters.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of YuiYagi's eyes in the image?",
+            "answer": "YuiYagi's eyes are golden-brown in the image.",
+            "type": "objective"
+          },
+          {
+            "question": "What accessory is visible on the left side of YuiYagi's head?",
+            "answer": "A small green and red hair clip is visible on the left side of YuiYagi's head.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the bow tied at YuiYagi's collar?",
+            "answer": "The bow tied at YuiYagi's collar is red.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi wearing on her upper body in the image?",
+            "answer": "YuiYagi is wearing a dark blue school-style blazer with a white shirt and red bow underneath.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the expression on YuiYagi's face in the image?",
+            "answer": "YuiYagi has a slightly annoyed or skeptical expression, with narrowed eyes and a flat mouth.",
+            "type": "objective"
+          },
+          {
+            "question": "How many fingers are visible holding the phone in YuiYagi's hand?",
+            "answer": "Four fingers are visible holding the phone in YuiYagi's right hand.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of the speech bubble in the image?",
+            "answer": "The speech bubble is circular with a small tail pointing toward YuiYagi's head.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the smartphone YuiYagi is holding?",
+            "answer": "The smartphone YuiYagi is holding is pink.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi looking directly at the viewer in the image?",
+            "answer": "No, YuiYagi is looking slightly to her right (viewer’s left), not directly at the viewer.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the style of YuiYagi’s hair in the image?",
+            "answer": "YuiYagi’s hair is styled in twin tails with bangs framing her face.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the background color of the image?",
+            "answer": "The background color of the image is white.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the font style of the text 'FBI' in the speech bubble?",
+            "answer": "The text 'FBI' is written in a bold, slightly italicized, sans-serif font with a 3D shadow effect.",
+            "type": "objective"
+          },
+          {
+            "question": "Based on her expression and the 'FBI' speech bubble, what does YuiYagi likely think about the opponent’s riichi declaration?",
+            "answer": "YuiYagi likely thinks the opponent’s riichi is suspiciously fast and possibly unfair or cheating, prompting her to humorously 'report' it to the FBI as if it were a crime.",
+            "type": "subjective"
+          },
+          {
+            "question": "What does YuiYagi’s choice to hold a phone while reacting suggest about her personality or thought process?",
+            "answer": "It suggests that YuiYagi is methodical and perhaps overly literal — she doesn’t just react emotionally, but immediately seeks to take action or document the situation, consistent with her genius intellect and social awkwardness.",
+            "type": "subjective"
+          },
+          {
+            "question": "How might YuiYagi’s expression reflect her internal conflict between her intellect and social awkwardness?",
+            "answer": "Her slightly annoyed, skeptical expression reflects her analytical mind detecting something illogical (the fast riichi), while her dramatic 'FBI' comment reveals her socially awkward tendency to respond in an exaggerated, humorous way rather than a conventional one.",
+            "type": "subjective"
+          },
+          {
+            "question": "What does YuiYagi’s reaction imply about her perception of fairness in Mahjong Soul?",
+            "answer": "YuiYagi’s reaction implies she takes the rules and probabilities of mahjong seriously — so seriously that an unusually fast riichi triggers her to treat it like a real-world violation, revealing her deep engagement with the game’s integrity.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does the image visually convey YuiYagi’s personality as described in her profile?",
+            "answer": "The image conveys YuiYagi’s personality through her serious, analytical expression combined with the absurdity of calling the FBI — a visual representation of her genius intellect clashing with her socially awkward, literal-minded humor, as described in her profile.",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What color is YuiYagi's hair as shown in the image?",
+            "options": {
+              "A": "Blonde",
+              "B": "Silver-gray",
+              "C": "Black",
+              "D": "Brown"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s hair is clearly depicted as silver-gray in the image, visible in both the main body and the pigtails. This is a straightforward visual attribute."
+          },
+          {
+            "id": "q2",
+            "question": "What is YuiYagi doing with her right hand in the image?",
+            "options": {
+              "A": "Waving at someone",
+              "B": "Holding a smartphone",
+              "C": "Pointing at the speech bubble",
+              "D": "Adjusting her hair"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s right hand is visibly gripping a pink smartphone, with the device’s screen and camera cutout clearly visible. The action is unambiguous."
+          },
+          {
+            "id": "q3",
+            "question": "What emotion does YuiYagi’s facial expression most closely convey?",
+            "options": {
+              "A": "Joyful excitement",
+              "B": "Calm indifference",
+              "C": "Angry frustration",
+              "D": "Surprised shock"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "YuiYagi’s eyes are half-lidded and her mouth is a neutral line, conveying a calm, unimpressed, or indifferent expression. There are no signs of strong emotion like joy, anger, or surprise."
+          },
+          {
+            "id": "q4",
+            "question": "Which of the following is directly associated with YuiYagi in the image?",
+            "options": {
+              "A": "A speech bubble containing the text 'FBI'",
+              "B": "A backpack slung over her shoulder",
+              "C": "A pair of sunglasses on her head",
+              "D": "A cup of coffee in her left hand"
+            },
+            "answer_key": "A",
+            "difficulty": "medium",
+            "rationale": "A speech bubble with the clearly legible text 'FBI' is positioned next to YuiYagi’s head, indicating it is associated with her. No backpack, sunglasses, or coffee cup are visible."
+          },
+          {
+            "id": "q5",
+            "question": "How many visible hair accessories does YuiYagi have in the image?",
+            "options": {
+              "A": "One",
+              "B": "Two",
+              "C": "Three",
+              "D": "Four"
+            },
+            "answer_key": "A",
+            "difficulty": "hard",
+            "rationale": "Only one hair accessory — a small green clip with a red stripe — is clearly visible on the left side of YuiYagi’s head. The other side has no visible clip, making this a fine-detail question requiring careful observation."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "text": "Everyone’s declaring riichi now."
+      },
+      {
+        "role": "machine",
+        "text": "…I thought this was a game of skill… not Russian roulette.",
+        "image": "2",
+        "thinking_process": "The image of Yagi Yui captures her intellectual yet socially awkward disposition. Her expression is one of mild confusion and skepticism, aligning with her response about the game being 'Russian roulette.' The slight sweat drop on her face indicates anxiety about the game situation, a visual cue commonly used in anime to express worry or perplexity. Her eyes are focused yet slightly unfocused, conveying her struggle to interpret the chaotic emotions and strategies of the game around her. The composition is a simple close-up, emphasizing her thoughtful nature. The background is plain, which keeps the focus on Yui, highlighting her introspective and isolated character. The lighting is soft and neutral, creating a calm and contemplative mood that reflects her internal processing of the situation.",
+        "generation_instruction": "Anime-style close-up of Yagi Yui from Mahjong Soul, showing her with a confused and skeptical expression. Her gray hair and school uniform are visible, with a sweat drop on her cheek. The background is plain, and the lighting is soft and neutral to emphasize her introspective mood.",
+        "qa_pairs": [
+          {
+            "question": "What is YuiYagi's hair color in the image?",
+            "answer": "YuiYagi's hair is light gray or silver in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of YuiYagi's eyes in the image?",
+            "answer": "YuiYagi's eyes are golden-brown.",
+            "type": "objective"
+          },
+          {
+            "question": "What accessory is visible on YuiYagi's left side hair in the image?",
+            "answer": "YuiYagi has a small green and white hair clip on the left side of her hair.",
+            "type": "objective"
+          },
+          {
+            "question": "What type of clothing is YuiYagi wearing in the image?",
+            "answer": "YuiYagi is wearing a dark blue school-style uniform with a red bow tie.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi's facial expression in the image?",
+            "answer": "YuiYagi has a calm, slightly tired or contemplative expression with half-lidded eyes and a faint blush on her cheeks.",
+            "type": "objective"
+          },
+          {
+            "question": "Does YuiYagi appear to be smiling in the image?",
+            "answer": "No, YuiYagi’s mouth is closed in a neutral line, not forming a smile.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the background color behind YuiYagi in the image?",
+            "answer": "The background is a solid dark purple square.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi’s hair styled in pigtails or loose in the image?",
+            "answer": "YuiYagi’s hair is styled in loose waves with one side tucked behind her ear.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of YuiYagi’s face in the image?",
+            "answer": "YuiYagi has a rounded, chibi-style face with soft features.",
+            "type": "objective"
+          },
+          {
+            "question": "Does YuiYagi have any visible accessories besides the hair clip in the image?",
+            "answer": "No, besides the green and white hair clip, no other accessories are visible.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the orientation of YuiYagi’s gaze in the image?",
+            "answer": "YuiYagi is looking slightly to her right, with her eyes half-open and directed forward.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the style of YuiYagi’s illustration in the image?",
+            "answer": "YuiYagi is illustrated in a chibi (super-deformed) anime art style with exaggerated head-to-body proportions.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi’s uniform collar visible in the image?",
+            "answer": "Yes, a white collar is visible beneath the red bow tie on her dark blue uniform.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the position of YuiYagi’s eyebrows in the image?",
+            "answer": "YuiYagi’s eyebrows are slightly lowered and relaxed, contributing to her contemplative expression.",
+            "type": "objective"
+          },
+          {
+            "question": "Is there any indication of movement or action in YuiYagi’s pose in the image?",
+            "answer": "No, YuiYagi is depicted in a static, front-facing portrait pose with no motion implied.",
+            "type": "objective"
+          },
+          {
+            "question": "Based on her expression and the dialogue, what is YuiYagi likely feeling about the current game situation?",
+            "answer": "YuiYagi likely feels exasperated or disappointed, as her calm but weary expression paired with her remark about Riichi being 'Russian roulette' suggests she views the frequent declarations as reckless rather than skillful.",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi be thinking when she says, 'I thought this was a game of skill… not Russian roulette'?",
+            "answer": "YuiYagi is likely thinking that the other players are gambling recklessly by declaring Riichi too often, which contradicts her analytical, strategic approach to mahjong as a game of calculated decisions.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does YuiYagi’s expression in the image reflect her personality as described in the profile?",
+            "answer": "Her quiet, slightly tired expression reflects her reserved and socially awkward nature, suggesting she is internally processing the game’s dynamics rather than reacting outwardly, consistent with her introspective and intellectual personality.",
+            "type": "subjective"
+          },
+          {
+            "question": "What does YuiYagi’s subtle blush and half-lidded eyes suggest about her emotional state during this moment?",
+            "answer": "The blush and half-lidded eyes may suggest mild frustration or flustered discomfort, possibly due to being surrounded by impulsive players — a situation that challenges her preference for calm, logical gameplay and may trigger her social unease.",
+            "type": "subjective"
+          },
+          {
+            "question": "If YuiYagi were to act on her comment, what might she do next in the game?",
+            "answer": "Given her strategic mindset and preference for skill over risk, YuiYagi might choose to hold back from declaring Riichi herself, instead carefully observing opponents’ discards and waiting for a more statistically favorable moment to win.",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What is the color of YuiYagi’s hair as shown in the image?",
+            "options": {
+              "A": "Silver-gray",
+              "B": "Blonde",
+              "C": "Dark brown",
+              "D": "Black"
+            },
+            "answer_key": "A",
+            "difficulty": "easy",
+            "rationale": "The character’s hair is clearly depicted as a light, metallic gray tone, best described as silver-gray. The other options are visually inconsistent with the image."
+          },
+          {
+            "id": "q2",
+            "question": "What is YuiYagi’s current facial expression?",
+            "options": {
+              "A": "Smiling broadly",
+              "B": "Winking",
+              "C": "Neutral with a slight smirk",
+              "D": "Frowning"
+            },
+            "answer_key": "C",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s mouth is closed with a subtle upward curve, and her eyes are half-lidded, conveying a calm, slightly smug or amused expression. No winking, broad smiling, or frowning is visible."
+          },
+          {
+            "id": "q3",
+            "question": "What accessory is visible on YuiYagi’s left side (viewer’s right) of her head?",
+            "options": {
+              "A": "A red ribbon",
+              "B": "A green and brown hair clip",
+              "C": "A silver hairpin",
+              "D": "A yellow bow"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "On the left side of YuiYagi’s head (viewer’s right), a small rectangular hair clip with green and brown coloring is clearly visible. The other options do not match the visible accessory."
+          },
+          {
+            "id": "q4",
+            "question": "What is YuiYagi’s posture or body orientation in the image?",
+            "options": {
+              "A": "Facing directly forward with shoulders square",
+              "B": "Leaning to her left (viewer’s right)",
+              "C": "Turning away from the viewer",
+              "D": "Crouching low to the ground"
+            },
+            "answer_key": "A",
+            "difficulty": "medium",
+            "rationale": "YuiYagi is depicted front-facing, with her shoulders aligned symmetrically toward the viewer, indicating a direct, upright posture. No leaning, turning, or crouching is visible."
+          },
+          {
+            "id": "q5",
+            "question": "How many distinct colored sections are visible in YuiYagi’s hair clip?",
+            "options": {
+              "A": "One",
+              "B": "Two",
+              "C": "Three",
+              "D": "Four"
+            },
+            "answer_key": "B",
+            "difficulty": "hard",
+            "rationale": "The hair clip on YuiYagi’s head clearly shows two distinct color sections: green on top and brown on the bottom. This requires close observation of a small detail, making it the hardest question."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "text": "We got first place."
+      },
+      {
+        "role": "machine",
+        "text": "…First place… with you? (slight pause, then nods and gives thumbs up) …That’s… not bad. Let’s do it again.",
+        "image": "3",
+        "thinking_process": "The image effectively captures Yagi Yui's character with a combination of subtlety and expressiveness that aligns with her personality. Her neutral expression, as shown in the image, reflects her analytical nature and slight social awkwardness due to her difficulty in interpreting emotions. The eyes, though calm, convey a sense of realization and acceptance, resonating with her dialogue ('That's… not bad.'). The pose, featuring a thumbs-up, is a simple yet powerful gesture that signifies her acknowledgment of the achievement and willingness to engage further, aligning with her character's development and growing connection with others. The chibi art style softens the mood, making her character more approachable, which is essential given her desire to understand and be understood. The background is minimal, ensuring that Yui remains the focal point, and the lighting is soft and neutral, matching her calm demeanor.",
+        "generation_instruction": "Chibi art of Yagi Yui from Mahjong Soul, displaying a neutral expression and a thumbs-up gesture. Her long gray hair, hairpins, and school uniform stand out. The background is minimal, with soft, neutral lighting that complements her calm, analytical character.",
+        "qa_pairs": [
+          {
+            "question": "What color is YuiYagi's hair in the image?",
+            "answer": "YuiYagi's hair is grayish-blue in the image.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi wearing on her head in the image?",
+            "answer": "YuiYagi is wearing a small green and white hair clip on the left side of her head.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of YuiYagi's eyes in the image?",
+            "answer": "YuiYagi's eyes are golden-brown in the image.",
+            "type": "objective"
+          },
+          {
+            "question": "What gesture is YuiYagi making with her right hand in the image?",
+            "answer": "YuiYagi is making a thumbs-up gesture with her right hand.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the expression on YuiYagi's face in the image?",
+            "answer": "YuiYagi has a calm, slightly reserved expression with a subtle hint of satisfaction.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the ribbon tied around YuiYagi's collar in the image?",
+            "answer": "The ribbon tied around YuiYagi's collar is red.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the style of YuiYagi's clothing in the image?",
+            "answer": "YuiYagi is wearing a dark blue school-style uniform with a white collar and red ribbon.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi smiling in the image?",
+            "answer": "No, YuiYagi is not smiling; her mouth is closed in a neutral or slightly serious expression.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of the highlight on YuiYagi's forehead in the image?",
+            "answer": "The highlight on YuiYagi's forehead is a small, curved white shape.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the background behind YuiYagi in the image?",
+            "answer": "The background behind YuiYagi is white.",
+            "type": "objective"
+          },
+          {
+            "question": "Does YuiYagi appear to be looking directly at the viewer in the image?",
+            "answer": "Yes, YuiYagi appears to be looking directly at the viewer with a focused gaze.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the position of YuiYagi's hair in relation to her face in the image?",
+            "answer": "YuiYagi's hair is parted to the side and frames her face, with bangs falling slightly over her forehead.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the tips of YuiYagi's hair in the image?",
+            "answer": "The tips of YuiYagi's hair are a slightly lighter shade of grayish-blue, almost silver.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi wearing any accessories besides the hair clip in the image?",
+            "answer": "No, YuiYagi is not wearing any visible accessories besides the green and white hair clip.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the posture of YuiYagi's shoulders in the image?",
+            "answer": "YuiYagi's shoulders are slightly squared and relaxed, suggesting a composed and steady stance.",
+            "type": "objective"
+          },
+          {
+            "question": "Based on the image and dialogue, how does YuiYagi likely feel about achieving first place?",
+            "answer": "YuiYagi likely feels quietly pleased and satisfied, as shown by her thumbs-up gesture and the calm, composed expression, even though she verbally downplays it with 'not bad.'",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi’s thumbs-up gesture in the image imply about her emotional state after winning?",
+            "answer": "The thumbs-up gesture implies that YuiYagi is expressing approval or pride in the victory, even if she doesn’t openly celebrate, reflecting her reserved but genuine appreciation.",
+            "type": "subjective"
+          },
+          {
+            "question": "How might YuiYagi’s reserved facial expression in the image relate to her personality as described in the profile?",
+            "answer": "Her reserved expression reflects her socially awkward and introspective nature, suggesting she feels the win internally but doesn’t express it outwardly with exaggerated emotion.",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi’s direct gaze in the image suggest about her intention in the dialogue 'Let’s do it again.'?",
+            "answer": "Her direct gaze suggests sincerity and focus, indicating she genuinely wants to play again and is inviting the player to continue, despite her usual social hesitance.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does the combination of YuiYagi’s gesture and expression in the image reflect her character’s duality of intellect and social reserve?",
+            "answer": "The thumbs-up gesture shows her analytical satisfaction with the win (intellect), while her neutral expression and direct gaze reflect her social reserve — she communicates approval without emotional flourish, staying true to her personality.",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What color is YuiYagi's hair as shown in the image?",
+            "options": {
+              "A": "Blonde",
+              "B": "Gray",
+              "C": "Black",
+              "D": "Brown"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s hair is clearly depicted as a light gray or silver color throughout the image, visible in both the bangs and the ponytail. This is a straightforward visual attribute."
+          },
+          {
+            "id": "q2",
+            "question": "What is YuiYagi’s current physical pose or gesture?",
+            "options": {
+              "A": "Waving with her left hand",
+              "B": "Pointing forward with her right index finger",
+              "C": "Holding a book with both hands",
+              "D": "Clapping her hands together"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi is shown extending her right arm forward with her index finger pointed, accompanied by motion lines indicating emphasis or direction. Her left hand is not visible in a waving or clapping motion."
+          },
+          {
+            "id": "q3",
+            "question": "What emotion does YuiYagi’s facial expression most closely convey?",
+            "options": {
+              "A": "Joyful excitement",
+              "B": "Serious determination",
+              "C": "Surprised confusion",
+              "D": "Sleepy boredom"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "YuiYagi’s eyebrows are slightly furrowed, her eyes are focused forward, and her mouth is a flat line — all visual cues that suggest seriousness or determination rather than joy, surprise, or boredom."
+          },
+          {
+            "id": "q4",
+            "question": "Which accessory is visible on YuiYagi’s head?",
+            "options": {
+              "A": "A red bow",
+              "B": "A green and white hair clip",
+              "C": "A pair of headphones",
+              "D": "A tiara"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "On the left side of YuiYagi’s head (viewer’s right), a small rectangular hair clip with green and white stripes is clearly visible. No other listed accessories appear on her head."
+          },
+          {
+            "id": "q5",
+            "question": "How many distinct yellow motion lines are visible near YuiYagi’s pointing hand?",
+            "options": {
+              "A": "Three",
+              "B": "Four",
+              "C": "Five",
+              "D": "Six"
+            },
+            "answer_key": "C",
+            "difficulty": "hard",
+            "rationale": "There are exactly five yellow, fan-shaped motion lines radiating from YuiYagi’s right hand, indicating the force or emphasis of her pointing gesture. This requires careful counting of small, closely spaced visual elements, making it the most difficult question."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "text": "You just scored another Baiman."
+      },
+      {
+        "role": "machine",
+        "text": "…Statistically within expectations. But… I’ll allow a small victory pose.",
+        "image": "4",
+        "thinking_process": "The image effectively captures Yagi Yui's character traits and her interaction style. Her expression is calm and somewhat neutral, consistent with her difficulty in interpreting emotions, yet there's a subtle hint of satisfaction in her eyes, which links to her 'small victory pose' decision. The 'V' sign with her hand represents the acknowledgment of her mahjong success, mirroring her dialogue. Her pose is understated, reflecting her statistical mindset and reserved personality. The background is a simple pink circle, focusing attention on her character without distractions, fitting her analytical nature. The lighting is soft and balanced, emphasizing clarity and focus, which aligns with her genius and logical demeanor.",
+        "generation_instruction": "Anime-style artwork of Yagi Yui with ash gray hair and neutral expression, making a subtle 'V' sign. She has an intellectual aura, set against a simple pink background. The lighting is soft and balanced, highlighting her calm demeanor and analytical intelligence.",
+        "qa_pairs": [
+          {
+            "question": "What is YuiYagi's hair color in the image?",
+            "answer": "YuiYagi's hair color in the image is grayish-blue or silver.",
+            "type": "objective"
+          },
+          {
+            "question": "What gesture is YuiYagi making with her right hand in the image?",
+            "answer": "YuiYagi is making a peace sign (V-sign) with her right hand.",
+            "type": "objective"
+          },
+          {
+            "question": "What color are YuiYagi's eyes in the image?",
+            "answer": "YuiYagi's eyes are golden-brown or amber in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What accessory is visible on YuiYagi's left side hair in the image?",
+            "answer": "A small rectangular hair clip with green and red stripes is visible on YuiYagi's left side hair.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the ribbon tied around YuiYagi's neck in the image?",
+            "answer": "The ribbon tied around YuiYagi's neck is red.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the style of YuiYagi's hair in the image?",
+            "answer": "YuiYagi's hair is styled in a long, straight cut with bangs and a side-swept fringe, tied into a low ponytail on the right side.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the background color behind YuiYagi in the image?",
+            "answer": "The background color behind YuiYagi is a soft pink gradient.",
+            "type": "objective"
+          },
+          {
+            "question": "Does YuiYagi appear to be wearing a school uniform in the image?",
+            "answer": "Yes, YuiYagi appears to be wearing a school uniform with a white collared shirt and a red ribbon tie.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of YuiYagi's cheeks in the image?",
+            "answer": "YuiYagi's cheeks are slightly rounded with a blush effect, indicating a cute or shy expression.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi looking directly at the viewer in the image?",
+            "answer": "Yes, YuiYagi is looking directly at the viewer with a calm and slightly smiling expression.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of YuiYagi's mouth in the image?",
+            "answer": "YuiYagi's mouth is drawn as a small, closed, slightly curved line, suggesting a gentle or reserved smile.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the overall art style of YuiYagi in the image?",
+            "answer": "The overall art style of YuiYagi is chibi or super-deformed, characterized by a large head, big eyes, and a small body.",
+            "type": "objective"
+          },
+          {
+            "question": "Are there any visible accessories on YuiYagi's clothing in the image?",
+            "answer": "No, there are no visible accessories on YuiYagi's clothing beyond the red ribbon at her neck.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the orientation of YuiYagi's head in the image?",
+            "answer": "YuiYagi's head is slightly tilted to her left, giving a gentle and approachable posture.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the position of YuiYagi's left hand in the image?",
+            "answer": "YuiYagi's left hand is not visible in the image; only her right hand making a peace sign is shown.",
+            "type": "objective"
+          },
+          {
+            "question": "How might YuiYagi be feeling after scoring a Baiman, based on her expression and the dialogue?",
+            "answer": "YuiYagi might be feeling quietly pleased or subtly triumphant, as her calm expression and the dialogue 'I’ll allow a small victory pose' suggest restrained joy despite her analytical nature.",
+            "type": "subjective"
+          },
+          {
+            "question": "What does YuiYagi’s peace sign gesture imply about her personality in this context?",
+            "answer": "The peace sign gesture implies a moment of soft confidence or playful self-expression, suggesting she is allowing herself to show a small, endearing victory despite her typically reserved demeanor.",
+            "type": "subjective"
+          },
+          {
+            "question": "Based on her expression and the dialogue, how does YuiYagi likely view her own success in the game?",
+            "answer": "YuiYagi likely views her success as a logical outcome ('statistically within expectations') but still allows herself a small, personal celebration, indicating a growing comfort with acknowledging her achievements emotionally.",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi’s slight blush and direct gaze suggest about her emotional state after winning?",
+            "answer": "Her slight blush and direct gaze may suggest a mix of modest pride and a hint of flustered joy, revealing her social awkwardness even in moments of success.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does the combination of YuiYagi’s calm facial expression and her victory gesture reflect her character development?",
+            "answer": "The combination reflects her gradual emotional growth — she maintains her composed, intellectual demeanor while allowing herself to express joy in a small, socially acceptable way, showing she is learning to balance logic with emotion.",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What color is YuiYagi's hair as shown in the image?",
+            "options": {
+              "A": "Black",
+              "B": "Silver-gray",
+              "C": "Blonde",
+              "D": "Brown"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s hair is clearly silver-gray in color, visible across the entire head and bangs. No other hair color is present in the image."
+          },
+          {
+            "id": "q2",
+            "question": "What hand gesture is YuiYagi making with her right hand?",
+            "options": {
+              "A": "Thumbs-up",
+              "B": "Fist",
+              "C": "Peace sign",
+              "D": "Waving"
+            },
+            "answer_key": "C",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s right hand is raised with her index and middle fingers extended in a V-shape, which is universally recognized as a peace sign."
+          },
+          {
+            "id": "q3",
+            "question": "Which facial expression best describes YuiYagi’s current look?",
+            "options": {
+              "A": "Smiling widely",
+              "B": "Frowning",
+              "C": "Neutral with slight blush",
+              "D": "Crying"
+            },
+            "answer_key": "C",
+            "difficulty": "medium",
+            "rationale": "YuiYagi’s mouth is a small horizontal line, indicating neutrality, and there is visible pink blush on her cheeks, suggesting a shy or gentle expression."
+          },
+          {
+            "id": "q4",
+            "question": "What is visible on the left side of YuiYagi’s head, near her bangs?",
+            "options": {
+              "A": "A red ribbon",
+              "B": "A green and white hair clip",
+              "C": "A star-shaped earring",
+              "D": "A pair of glasses"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "On the left side of YuiYagi’s head (viewer’s right), a small rectangular hair clip with green and white stripes is clearly visible clipped into her bangs."
+          },
+          {
+            "id": "q5",
+            "question": "How many fingers are visibly extended in YuiYagi’s peace sign gesture?",
+            "options": {
+              "A": "One",
+              "B": "Two",
+              "C": "Three",
+              "D": "Four"
+            },
+            "answer_key": "B",
+            "difficulty": "hard",
+            "rationale": "YuiYagi’s peace sign clearly shows two fingers extended — the index and middle finger — while the other fingers are curled. This requires close observation to count accurately, making it the hardest question."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "text": "The opponent just won another big hand."
+      },
+      {
+        "role": "machine",
+        "text": "…Should I start checking for marked tiles?",
+        "image": "5",
+        "thinking_process": "The image captures Yui Yagi in a moment that reflects her analytical and somewhat detached personality, as suggested by her high IQ and difficulty interpreting emotions. Her expression is neutral, with a slight frown, indicative of her critical thinking and skepticism about the game situation ('checking for marked tiles'). The character's pose, with her thumb pointing down, emphasizes her disapproval and suspicion. This aligns with the text's portrayal of her contemplating the fairness of the game. The image focuses on her upper body, ensuring her distinct features, such as her long grey hair, golden eyes, and hairpin, are prominent. The background is kept simple to maintain focus on her expression, contributing to a mood that is contemplative and slightly critical.",
+        "generation_instruction": "Anime-style image of Yui Yagi from Mahjong Soul with a neutral, skeptical expression. Her thumb points down in disapproval. She has long grey hair, golden eyes, and a distinctive hairpin, set against a simple background to emphasize her contemplative mood.",
+        "qa_pairs": [
+          {
+            "question": "What color is YuiYagi's hair in the image?",
+            "answer": "YuiYagi's hair is light gray or silver in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What style is YuiYagi's hair arranged in the image?",
+            "answer": "YuiYagi's hair is styled in a side-swept manner with a bun or twisted section on the left side of her head.",
+            "type": "objective"
+          },
+          {
+            "question": "What accessory is visible in YuiYagi's hair?",
+            "answer": "YuiYagi has a small rectangular hair clip with green, white, and red stripes in her hair.",
+            "type": "objective"
+          },
+          {
+            "question": "What color are YuiYagi's eyes in the image?",
+            "answer": "YuiYagi's eyes are golden-brown or amber in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi wearing around her neck?",
+            "answer": "YuiYagi is wearing a red ribbon or bow tie around her neck.",
+            "type": "objective"
+          },
+          {
+            "question": "What type of clothing is YuiYagi wearing in the image?",
+            "answer": "YuiYagi is wearing a dark blue or gray school-style uniform jacket over a white collared shirt.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi’s facial expression in the image?",
+            "answer": "YuiYagi has a neutral to slightly skeptical expression, with half-lidded eyes and a small, closed-mouth frown.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi’s posture or gesture in the image?",
+            "answer": "YuiYagi is pointing her right index finger forward, as if making a pointed observation or accusation.",
+            "type": "objective"
+          },
+          {
+            "question": "Does YuiYagi appear to be speaking or reacting in the image?",
+            "answer": "Yes, YuiYagi appears to be reacting or making a comment, as indicated by her pointing gesture and focused expression.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the background color behind YuiYagi in the image?",
+            "answer": "The background behind YuiYagi is a solid dark purple or maroon color.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi wearing any visible jewelry or accessories besides the hair clip?",
+            "answer": "No, besides the striped hair clip, YuiYagi is not wearing any other visible jewelry or accessories in the image.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the shape of YuiYagi’s eyes in the image?",
+            "answer": "YuiYagi’s eyes are almond-shaped and slightly narrowed, giving her a thoughtful or suspicious look.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of YuiYagi’s uniform jacket?",
+            "answer": "YuiYagi’s uniform jacket is dark blue or charcoal gray.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi’s mouth open or closed in the image?",
+            "answer": "YuiYagi’s mouth is closed, with a subtle downturned curve suggesting skepticism or concern.",
+            "type": "objective"
+          },
+          {
+            "question": "What does YuiYagi’s pointing gesture suggest about her current action?",
+            "answer": "YuiYagi’s pointing gesture suggests she is directing attention to something or someone, possibly making an accusation or observation.",
+            "type": "objective"
+          },
+          {
+            "question": "Based on YuiYagi’s expression and the dialogue, what might she be thinking about the opponent’s winning hand?",
+            "answer": "YuiYagi is likely suspicious or concerned, possibly doubting the legitimacy of the opponent’s win and considering whether cheating (like marked tiles) is involved.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does YuiYagi’s expression in the image reflect her personality as described in the profile?",
+            "answer": "Her skeptical, analytical expression reflects her genius intellect and tendency to overanalyze situations, even in social or competitive contexts like mahjong.",
+            "type": "subjective"
+          },
+          {
+            "question": "What emotion might YuiYagi be feeling when she suggests checking for marked tiles?",
+            "answer": "YuiYagi may be feeling a mix of frustration, suspicion, and intellectual curiosity—her social awkwardness might make her express doubt bluntly rather than diplomatically.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does YuiYagi’s body language (pointing finger) complement her dialogue about marked tiles?",
+            "answer": "Her pointing gesture reinforces her verbal suspicion, making her accusation or concern more direct and visually emphatic, consistent with her socially awkward but intellectually honest nature.",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi’s reaction imply about her approach to fairness in mahjong?",
+            "answer": "YuiYagi’s reaction implies she values fairness and logic highly; if something seems statistically or behaviorally improbable, she will question it, even if it means appearing distrustful.",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What is the color of YuiYagi's hair as shown in the image?",
+            "options": {
+              "A": "Blonde",
+              "B": "Silver-gray",
+              "C": "Dark brown",
+              "D": "Bright red"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "The character's hair is clearly depicted as silver-gray, with lighter highlights and darker shadows, visible across her entire head and bangs."
+          },
+          {
+            "id": "q2",
+            "question": "What is YuiYagi's current physical pose or gesture?",
+            "options": {
+              "A": "Raising both arms in celebration",
+              "B": "Pointing with her left hand",
+              "C": "Pointing with her right hand",
+              "D": "Holding her hands behind her back"
+            },
+            "answer_key": "C",
+            "difficulty": "easy",
+            "rationale": "YuiYagi’s right arm is extended forward with her index finger pointing to the right side of the image, clearly indicating a pointing gesture."
+          },
+          {
+            "id": "q3",
+            "question": "What is YuiYagi's facial expression suggesting?",
+            "options": {
+              "A": "Joyful excitement",
+              "B": "Angry frustration",
+              "C": "Tired indifference",
+              "D": "Surprised shock"
+            },
+            "answer_key": "C",
+            "difficulty": "medium",
+            "rationale": "Her eyes are half-lidded and her mouth is a small, flat line, which visually conveys a sense of boredom or tired indifference rather than strong emotion."
+          },
+          {
+            "id": "q4",
+            "question": "Which accessory is visible on YuiYagi’s head?",
+            "options": {
+              "A": "A red bow",
+              "B": "A green and white hair clip",
+              "C": "A golden tiara",
+              "D": "A pair of cat ears"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "On the left side of her head (viewer’s right), a small hair clip with green and white diagonal stripes is clearly visible clipped into her hair."
+          },
+          {
+            "id": "q5",
+            "question": "How many visible fingers are extended on YuiYagi’s pointing hand?",
+            "options": {
+              "A": "One",
+              "B": "Two",
+              "C": "Three",
+              "D": "Four"
+            },
+            "answer_key": "A",
+            "difficulty": "hard",
+            "rationale": "Only the index finger on her right hand is fully extended in a pointing gesture; the other fingers are curled inward and not visible, making this a fine detail requiring close observation."
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "text": "Yui… are you seriously eating in the middle of the match?"
+      },
+      {
+        "role": "machine",
+        "text": "…Mhm. I calculated the risk—zero. (takes another bite, eyes half-lidded) …Besides, snacks taste better when you're winning.",
+        "image": "6",
+        "thinking_process": "The image effectively captures Yagi Yui's character traits and unique moment during the mahjong match. Her half-lidded eyes convey a sense of calm confidence and intelligence, reflecting her calculated decision to snack during the game. This expression aligns with her dialogue about calculating risk, suggesting her nonchalant attitude. Her mouth is full, emphasizing her fondness for snacks despite the ongoing match, underscoring her quirky personality. The presence of chopsticks and a snack in her hands highlights her enjoyment of the moment, adding to the relaxed and slightly humorous mood. The warm, heart-filled background subtly suggests her underlying desire to connect with others, echoing her longing to understand and be understood. The overall composition is a close-up, drawing focus to her expression and the snack, effectively portraying the scene's light-hearted and clever tone.",
+        "generation_instruction": "Anime-style portrait of Yagi Yui from Mahjong Soul, eating with chopsticks, half-lidded eyes, calm and confident expression, mouth full, close-up, warm background with hearts, gray-blue hair, school uniform, playful and light-hearted atmosphere.",
+        "qa_pairs": [
+          {
+            "question": "What color is YuiYagi's hair in the image?",
+            "answer": "YuiYagi's hair is grayish-blue or silver in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi holding in her hand in the image?",
+            "answer": "YuiYagi is holding a pair of chopsticks in her right hand.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi doing with her left hand in the image?",
+            "answer": "YuiYagi is bringing her left index finger to her lips, as if shushing or signaling secrecy.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of YuiYagi’s eyes in the image?",
+            "answer": "YuiYagi’s eyes are golden-brown or amber in color.",
+            "type": "objective"
+          },
+          {
+            "question": "What accessory is visible in YuiYagi’s hair?",
+            "answer": "YuiYagi has a small hairpin with a green and red design clipped into her hair on the left side.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the background color behind YuiYagi in the image?",
+            "answer": "The background is predominantly red with floating heart shapes.",
+            "type": "objective"
+          },
+          {
+            "question": "How many hearts are visible in the background around YuiYagi?",
+            "answer": "There are three visible hearts in the background: two on the top left and one on the top right.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi’s facial expression in the image?",
+            "answer": "YuiYagi has a half-lidded, slightly smug or satisfied expression with a subtle smile.",
+            "type": "objective"
+          },
+          {
+            "question": "What is the color of the ribbon tied around YuiYagi’s collar?",
+            "answer": "The ribbon tied around YuiYagi’s collar is red.",
+            "type": "objective"
+          },
+          {
+            "question": "What type of clothing is YuiYagi wearing in the image?",
+            "answer": "YuiYagi is wearing a dark blue or black collared top with a red ribbon at the neck, resembling a school uniform or shrine maiden attire.",
+            "type": "objective"
+          },
+          {
+            "question": "Is YuiYagi looking directly at the viewer in the image?",
+            "answer": "Yes, YuiYagi is looking directly at the viewer with her half-lidded eyes.",
+            "type": "objective"
+          },
+          {
+            "question": "What does YuiYagi’s pose suggest about her current activity?",
+            "answer": "YuiYagi’s pose—holding chopsticks and touching her lips—suggests she is eating or has just taken a bite of food.",
+            "type": "objective"
+          },
+          {
+            "question": "What emotion does the presence of hearts in the background imply about YuiYagi’s mood?",
+            "answer": "The hearts imply that YuiYagi is in a happy, content, or affectionate mood.",
+            "type": "objective"
+          },
+          {
+            "question": "What does YuiYagi’s eye shape and half-lidded gaze indicate in the image?",
+            "answer": "Her half-lidded gaze indicates a relaxed, confident, or smug demeanor, possibly enjoying a moment of satisfaction.",
+            "type": "objective"
+          },
+          {
+            "question": "What is YuiYagi’s posture suggesting about her comfort level during the scene?",
+            "answer": "YuiYagi’s relaxed posture and subtle smile suggest she is comfortable and at ease, possibly enjoying a personal moment.",
+            "type": "objective"
+          },
+          {
+            "question": "Based on the dialogue and image, what is YuiYagi’s likely emotional state while eating during the match?",
+            "answer": "YuiYagi is likely feeling confident and self-assured, as she calculates the risk as 'zero' and implies her snack tastes better while winning.",
+            "type": "subjective"
+          },
+          {
+            "question": "What might YuiYagi be thinking when she brings her finger to her lips in the image?",
+            "answer": "She might be thinking playfully or mischievously, signaling that her snacking during the match is a secret or a personal indulgence she’s proud of.",
+            "type": "subjective"
+          },
+          {
+            "question": "How does YuiYagi’s expression in the image reflect her personality as described in the profile?",
+            "answer": "Her half-lidded, calm expression reflects her reserved and introspective nature, while the subtle smile hints at her quiet confidence and enjoyment of simple pleasures like snacks.",
+            "type": "subjective"
+          },
+          {
+            "question": "What does YuiYagi’s choice to eat during a match, as shown in the image and dialogue, reveal about her priorities or mindset?",
+            "answer": "It reveals that she prioritizes personal comfort and enjoyment, and she is confident enough in her gameplay to multitask without concern—aligning with her genius intellect and calculated risk-taking.",
+            "type": "subjective"
+          },
+          {
+            "question": "How might YuiYagi’s demeanor in the image contrast with her social awkwardness mentioned in the profile?",
+            "answer": "While the profile describes her as socially reserved, the image shows her in a moment of personal confidence and self-indulgence—suggesting that in familiar or controlled settings (like a game she’s winning), she can be relaxed and even playful.",
+            "type": "subjective"
+          }
+        ],
+        "mcq_items": [
+          {
+            "id": "q1",
+            "question": "What color is YuiYagi's hair as shown in the image?",
+            "options": {
+              "A": "Blonde",
+              "B": "Silver-gray",
+              "C": "Black",
+              "D": "Brown"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "The character’s hair is clearly depicted as silver-gray in color throughout the image, with no other shades visible."
+          },
+          {
+            "id": "q2",
+            "question": "What is YuiYagi’s current pose or gesture?",
+            "options": {
+              "A": "Waving with both hands",
+              "B": "Holding chopsticks to her mouth",
+              "C": "Pointing at the viewer",
+              "D": "Covering her eyes"
+            },
+            "answer_key": "B",
+            "difficulty": "easy",
+            "rationale": "YuiYagi is visibly holding a pair of chopsticks near her mouth, with one end touching her lips, indicating she is eating or about to eat."
+          },
+          {
+            "id": "q3",
+            "question": "Which emotion is most clearly conveyed by YuiYagi’s facial expression?",
+            "options": {
+              "A": "Anger",
+              "B": "Sadness",
+              "C": "Contentment",
+              "D": "Surprise"
+            },
+            "answer_key": "C",
+            "difficulty": "medium",
+            "rationale": "YuiYagi’s eyes are half-closed and her mouth is slightly open around the chopsticks, giving a relaxed, satisfied look consistent with contentment."
+          },
+          {
+            "id": "q4",
+            "question": "What is directly interacting with or framing YuiYagi in the background?",
+            "options": {
+              "A": "A window with curtains",
+              "B": "Floating red hearts",
+              "C": "A bookshelf",
+              "D": "A clock on the wall"
+            },
+            "answer_key": "B",
+            "difficulty": "medium",
+            "rationale": "Several small red hearts are visibly floating around YuiYagi’s head and shoulders, directly framing her and contributing to the image’s context."
+          },
+          {
+            "id": "q5",
+            "question": "How many visible hair accessories does YuiYagi have in her hair?",
+            "options": {
+              "A": "One",
+              "B": "Two",
+              "C": "Three",
+              "D": "Four"
+            },
+            "answer_key": "A",
+            "difficulty": "hard",
+            "rationale": "Only one hair accessory — a small green and white rectangular clip — is clearly visible on the left side of YuiYagi’s head. This is difficult because it requires precise observation of a small detail among other visual elements."
+          }
+        ]
+      }
+    ]
+  ]
+}

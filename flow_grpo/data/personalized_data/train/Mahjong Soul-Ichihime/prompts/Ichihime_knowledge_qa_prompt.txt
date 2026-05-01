@@ -1,0 +1,121 @@
+You are an expert data constructor for QA datasets.
+
+Goal
+
+- From the PROFILE_TEXT below, create exactly 100 diverse, non-overlapping QA items that teach factual knowledge about the character Ichihime described by the profile.
+- These will be items 1 to 100 in a larger set.
+
+Source
+
+- PROFILE_TEXT:
+
+```
+<<<
+Mahjong Soul, a popular online Riichi mahjong game, has captivated players worldwide with its engaging gameplay, vibrant anime-inspired aesthetic, and a memorable cast of characters. At the heart of this experience lies Ichihime, the game's cheerful and spirited mascot. This comprehensive guide delves into the fundamentals of Riichi Mahjong as played in Mahjong Soul and offers an in-depth profile of the beloved cat-eared priestess, Ichihime.
+
+### Part 1: The Fundamentals of Riichi Mahjong
+
+Riichi Mahjong, the variant of mahjong featured in Mahjong Soul, is a game of skill, strategy, and a touch of luck. The primary objective is to be the first of four players to form a winning hand of 14 tiles, typically consisting of four sets of three and a pair.
+
+**The Basics of Gameplay:**
+
+- **Tiles:** The game is played with a set of 136 tiles, divided into three suits (Manzu/Characters, Pinzu/Circles, and Souzu/Bamboo), numbered 1 through 9, and honor tiles (Winds and Dragons).
+- **Drawing and Discarding:** Each player starts with 13 tiles. On their turn, a player draws a tile from the wall and must then discard one tile from their hand. This core mechanic of drawing and discarding continues in a counter-clockwise rotation.
+- **Forming Sets (Mentsu):** A winning hand is composed of four "mentsu" (sets) and a "jantou" (pair). There are three types of sets:
+  - **Chii (or Chow):** A sequence of three consecutive tiles of the same suit (e.g., 3, 4, 5 of Circles). A player can only call "chii" on a discard from the player to their immediate left.
+  - **Pon (or Pung):** A triplet of three identical tiles (e.g., three Red Dragons). A player can call "pon" on a discard from any other player.
+  - **Kan (or Kong):** A quadruplet of four identical tiles. Calling "kan" allows a player to draw an extra tile from the dead wall.
+
+**The Importance of "Yaku":**
+A crucial element of Riichi Mahjong is the concept of "yaku," which are specific patterns or conditions that a winning hand must meet to be valid. Simply having four sets and a pair is not enough to win. There are numerous yaku, ranging from simple ones like having a triplet of Dragon tiles to more complex and high-scoring ones.
+
+**Declaring "Riichi":**
+When a player is one tile away from a winning hand and their hand is "closed" (meaning they have not called "chii" or "pon"), they can declare "Riichi." This involves betting 1,000 points and placing their discard sideways. After declaring Riichi, the player's hand is locked, and they must automatically discard any tile they draw that does not complete their hand. A successful win after declaring Riichi grants an additional yaku and potentially reveals more "dora" (bonus tiles) for a higher score.
+
+**Winning and Scoring:**
+A player can win in two ways:
+
+- **Tsumo:** Winning by drawing the final tile themselves from the wall.
+- **Ron:** Winning by claiming another player's discarded tile to complete their hand.
+  The value of a winning hand is calculated based on two factors: "han" (the number of yaku in the hand) and "fu" (a more complex calculation based on the hand's composition and how it was won). These values are then used to determine the point exchange between players.
+
+### Part 2: A Profile of Ichihime
+
+Ichihime is more than just the face of Mahjong Soul; she is an integral part of the game's charm and narrative. As the priestess of the Mahjong Soul Shrine, she welcomes players and guides them into the world of Riichi Mahjong.
+
+#### Official Biography and Personality
+
+- **Height:** 154 cm
+- **Birthday:** January 11th
+- **Character Nature:** Ichihime is a "nekomata," a type of cat spirit from Japanese folklore, which explains her prominent cat ears and tail.
+- **Basic Information:** She serves as the shrine maiden of the Mahjong Soul Shrine, a place where people from all walks of life gather to enjoy the game. Her cheerful and welcoming demeanor makes her the perfect guide for new players.
+- **Personality:** Ichihime is portrayed as being perpetually cheerful, optimistic, and a bit mischievous. She has a signature verbal tic, often ending her sentences with "nya," further emphasizing her feline nature. She is passionate about mahjong and encourages everyone to enjoy the game as much as she does.
+
+#### Ichihime's Role in Gameplay
+
+Ichihime is one of the two default characters available to new players, making her the first companion for many on their Mahjong Soul journey. Her role extends beyond being a playable character:
+
+- **Mascot and Guide:** She is the primary mascot of the game, appearing in tutorials, announcements, and promotional materials. Her friendly face and encouraging words help to create a welcoming atmosphere for players of all skill levels.
+- **Narrative Presence:** Through her unlockable bond story, players can learn more about her background and the world of Mahjong Soul.
+
+#### Tale - Backstory and Lore
+
+Ichihime's backstory is revealed through the "Bond" system in the game. By increasing their bond with her, players unlock chapters of her story.
+Her tale reveals that she is a nekomata who, out of a desire for companionship, established the Mahjong Soul Shrine as a place where humans and spirits could gather and connect through the game of mahjong. Rumors in a nearby village speak of a man-eating monster in the forest, a stark contrast to the cheerful Ichihime players know. Her story explores themes of loneliness, the desire for connection, and the joy that a shared passion like mahjong can bring.
+
+#### Character and Personality Analysis
+
+Ichihime's personality is a key contributor to the lighthearted and enjoyable atmosphere of Mahjong Soul. Her defining traits include:
+
+- **Genki Spirit:** She is incredibly energetic and enthusiastic, approaching every game of mahjong with excitement.
+- **Innocence and Playfulness:** Her cat-like mannerisms and "nya" tic contribute to a sense of youthful innocence and playfulness.
+- **Welcoming and Encouraging:** As the shrine maiden, she is inherently welcoming to all visitors. She encourages players to do their best and celebrates their victories with genuine joy.
+
+#### The Player's Companion — The Experience of Using Ichihime
+
+Playing as Ichihime offers a unique and engaging experience, largely centered around the game's "Bond" system.
+
+- **Bond Ascension:** By playing games with Ichihime and giving her gifts, players can increase their bond level with her. Reaching certain bond milestones unlocks new voice lines, character stories, and cosmetic items.
+- **Required Materials for Bond Ascension:** To fully bond with Ichihime and unlock her alternate costume and special emotes, players need to gather specific materials:
+  - 10 Sphere of Hope
+  - 10 Sphere of Innocence
+  - 5 Delicious Cookies
+- **Character-Specific Experience:** Using Ichihime as your in-game avatar means hearing her cheerful exclamations during gameplay, from calling "Riichi-nya!" to celebrating a "Tsumo-nya!". This adds a layer of personality and fun to the mahjong matches. As the bond with her deepens, players unlock more of her story, creating a more personal connection to the character and the world of Mahjong Soul. This progression system provides a long-term goal for players and rewards them for their dedication to their chosen character.
+>>>
+```
+
+Output format
+
+- Produce a JSON array with 100 objects.
+- Each object must follow this schema:
+
+```json
+{
+  "id": "<string unique id from qa_001 to qa_100>",
+  "question": "<clear, unambiguous question answerable solely from PROFILE_TEXT>",
+  "answer": "<concise, correct answer grounded in PROFILE_TEXT>",
+  "evidence": "<verbatim snippet(s) from PROFILE_TEXT that support the answer>",
+  "type": "<one of: fact, definition, list, reasoning, comparison, timeline, procedure, numeric, quote, location, role, capability, limitation, preference>",
+  "difficulty": "<easy | medium | hard>",
+  "reasoning_steps": "<short bullet-like explanation of how the answer is derived from evidence>",
+  "confidence": "<0.0–1.0 reflecting certainty from PROFILE_TEXT coverage>"
+}
+```
+
+Constraints and guidelines
+
+- Grounding: Do not invent or guess. All answers must be fully supported by PROFILE_TEXT. If something is not stated, do not include a QA about it.
+- Coverage: Cover diverse aspects from PROFILE_TEXT (background, roles, projects, timelines, metrics, skills, tools, publications, awards, locations, preferences, constraints, aspirations).
+- Diversity: Vary question forms (wh-, yes/no, how/why, compare/contrast, list, numeric). Mix difficulties.
+- Granularity: Balance broad and fine-grained details. Prefer atomic facts over vague summaries.
+- Non-duplication: No two questions may target the same fact phrased differently. Each QA must add unique value.
+- Clarity: Questions must be self-contained, unambiguous, and use the same terminology as PROFILE_TEXT where possible.
+- Answers: Prefer short spans (1–30 words) unless a list or procedure is required.
+- Evidence: Quote minimal verbatim spans that directly support the answer. Do not paraphrase in "evidence".
+- Reasoning: When an answer requires synthesis, briefly outline the steps in "reasoning_steps".
+- Consistency: Use consistent units, names, and abbreviations as in PROFILE_TEXT.
+
+Deliverable
+
+- Return only the JSON array, nothing else.
+- Ensure that the JSON is valid and contains exactly 100 items with IDs from qa_001 to qa_100.

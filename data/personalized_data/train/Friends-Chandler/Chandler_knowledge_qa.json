@@ -1,0 +1,1235 @@
+{
+  "description": "Chandler Bing is defined by his sharp, sarcastic wit, often a defense mechanism from his parents' divorce. Initially struggling with commitment and a mundane data processing job, his journey is one of emotional growth. He's a loyal, caring friend, especially to his roommate Joey, and eventually finds happiness with his wife, Monica. His unique, emphatic way of speaking is one of his most memorable traits, often punctuated with the catchphrase, 'Could that BE any more...'",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Chandler Bing's full name?",
+      "answer": "Chandler Muriel Bing",
+      "evidence": "* **Full Name:** Chandler Muriel Bing",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists Chandler's full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "When was Chandler Bing born?",
+      "answer": "April 8, 1968",
+      "evidence": "* **Born:** April 8, 1968",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Who is Chandler Bing's father?",
+      "answer": "Charles Bing",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The family section identifies Charles Bing as Chandler's father."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is Chandler Bing's mother's profession?",
+      "answer": "Erotic romance novelist",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states that Nora Tyler Bing is an erotic romance novelist."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What does Chandler Bing's father do for a living?",
+      "answer": "He is a gay female impersonator who stars in a Las Vegas drag show.",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes Charles Bing's occupation in the family section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What significant event happened during Chandler's childhood that affected him emotionally?",
+      "answer": "His parents announced their divorce over Thanksgiving dinner.",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly states that the announcement of his parents' divorce over Thanksgiving dinner caused emotional issues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "Who is Chandler's college roommate?",
+      "answer": "Ross Geller",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The relationship section identifies Ross Geller as Chandler's college roommate."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "Who is Chandler's roommate during the series?",
+      "answer": "Joey Tribbiani",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states that Joey Tribbiani is Chandler's roommate."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "Which friend does Chandler often provide financial support to?",
+      "answer": "Joey Tribbiani",
+      "evidence": "He is intelligent, affable, and caring towards his friends, often providing financial support to Joey.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section explicitly states Chandler supports Joey financially."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What is Chandler's initial career field in the series?",
+      "answer": "Statistical analysis and data reconfiguration",
+      "evidence": "For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\" a job he dislikes.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The occupation section specifies Chandler's early job title."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "Does Chandler like his initial job?",
+      "answer": "No, he dislikes it.",
+      "evidence": "For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\" a job he dislikes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states that Chandler dislikes his job in statistical analysis."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What career does Chandler transition to later in the series?",
+      "answer": "Advertising as a junior copywriter",
+      "evidence": "He later transitions to a career in advertising as a junior copywriter.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The occupation section states Chandler moves into advertising as a junior copywriter."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What is Chandler's primary form of humor?",
+      "answer": "Sarcastic sense of humor",
+      "evidence": "Chandler is best known for his sarcastic sense of humor, often making jokes when he is uncomfortable.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section identifies sarcasm as his primary humor style."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "Why does Chandler use sarcasm frequently?",
+      "answer": "It is a coping mechanism developed after his parents' divorce.",
+      "evidence": "This is a coping mechanism he developed after his parents' divorce.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links his sarcasm to discomfort and identifies it as a coping mechanism from childhood trauma."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What trait does Chandler struggle with for much of the series?",
+      "answer": "Commitment issues",
+      "evidence": "However, he also struggles with insecurity and commitment issues for a significant portion of the series.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section explicitly states he has commitment issues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "Who does Chandler marry in the series?",
+      "answer": "Monica Geller",
+      "evidence": "He is also close with Monica Geller (whom he later marries), Rachel Green, and Phoebe Buffay.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The relationship section states Monica Geller is someone he later marries."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "Is Chandler capable of deep emotional commitment?",
+      "answer": "Yes, he is capable of deep love and devotion.",
+      "evidence": "Despite his fears, he is capable of deep love and devotion, as seen in his relationship with Monica.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile acknowledges his fears but confirms his capacity for deep love."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is a distinctive feature of Chandler's speech pattern?",
+      "answer": "His catchphrase, \"Could that BE any more...\"",
+      "evidence": "He has a distinctive, often-imitated cadence, particularly with his catchphrase, \"Could that BE any more...\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The linguistic habits section highlights this catchphrase as distinctive."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What inspired Chandler's speech pattern on the show?",
+      "answer": "It was inspired by actor Matthew Perry's own way of speaking.",
+      "evidence": "This speech pattern was reportedly inspired by actor Matthew Perry's own way of speaking.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section attributes the speech pattern to Matthew Perry."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "List three of Chandler's closest friends.",
+      "answer": "Ross Geller, Joey Tribbiani, Monica Geller",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani. He is also close with Monica Geller (whom he later marries), Rachel Green, and Phoebe Buffay.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists Ross, Joey, and Monica as close friends."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What show is Chandler a character on?",
+      "answer": "Friends",
+      "evidence": "a beloved character from the iconic television series *Friends*",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction identifies the show as *Friends*."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "Who portrayed Chandler Bing?",
+      "answer": "Matthew Perry",
+      "evidence": "a beloved character from the iconic television series *Friends*, portrayed by the late Matthew Perry.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The introduction states Matthew Perry portrayed Chandler."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What kind of character is Chandler described as being?",
+      "answer": "Realistic",
+      "evidence": "He is a realistic character who makes mistakes but is always willing to learn from them.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile describes Chandler as a realistic character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "Does Chandler make mistakes?",
+      "answer": "Yes",
+      "evidence": "He is a realistic character who makes mistakes but is always willing to learn from them.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states he makes mistakes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What does Chandler do after making mistakes?",
+      "answer": "He is willing to learn from them.",
+      "evidence": "He is a realistic character who makes mistakes but is always willing to learn from them.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he is willing to learn from his mistakes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Chandler Bing's full name?",
+      "answer": "Chandler Muriel Bing",
+      "evidence": "* **Full Name:** Chandler Muriel Bing",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Chandler's full name under the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "When was Chandler Bing born?",
+      "answer": "April 8, 1968",
+      "evidence": "* **Born:** April 8, 1968",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly provided in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Who is Chandler Bing's mother?",
+      "answer": "Nora Tyler Bing",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The family section identifies Nora Tyler Bing as Chandler's mother."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What is Chandler Bing's father's profession?",
+      "answer": "A gay female impersonator who stars in a Las Vegas drag show",
+      "evidence": "* **Family:** ...and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The family section specifies Charles Bing's profession and performance location."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "How did Chandler's parents announce their divorce?",
+      "answer": "Over Thanksgiving dinner",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states the event occurred during Thanksgiving dinner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What is the primary reason for Chandler's emotional issues according to the profile?",
+      "answer": "His parents' divorce announced over Thanksgiving dinner",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links the divorce announcement to his emotional issues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "Which college roommate is Chandler particularly close to?",
+      "answer": "Ross Geller",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Ross Geller is explicitly named as Chandler's college roommate and close friend."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "Who is Chandler's roommate during the series?",
+      "answer": "Joey Tribbiani",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Joey Tribbiani is identified as Chandler's roommate."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What job does Chandler have for most of the series?",
+      "answer": "Statistical analysis and data reconfiguration",
+      "evidence": "For most of the series, Chandler works in 'statistical analysis and data reconfiguration,' a job he dislikes.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The occupation section specifies his long-term job title."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "Does Chandler enjoy his job in statistical analysis?",
+      "answer": "No, he dislikes it",
+      "evidence": "For most of the series, Chandler works in 'statistical analysis and data reconfiguration,' a job he dislikes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states he dislikes the job."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What career does Chandler transition to later in the series?",
+      "answer": "Advertising as a junior copywriter",
+      "evidence": "He later transitions to a career in advertising as a junior copywriter.",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile mentions his career shift to advertising."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What is Chandler best known for in terms of personality?",
+      "answer": "His sarcastic sense of humor",
+      "evidence": "Chandler is best known for his sarcastic sense of humor, often making jokes when he is uncomfortable.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section opens with this trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "Why does Chandler use sarcasm frequently?",
+      "answer": "As a coping mechanism developed after his parents' divorce",
+      "evidence": "This is a coping mechanism he developed after his parents' divorce.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links sarcasm to his childhood trauma."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "Is Chandler intelligent according to the profile?",
+      "answer": "Yes",
+      "evidence": "He is intelligent, affable, and caring towards his friends...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Intelligence is explicitly listed as one of his traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "How does Chandler support Joey financially?",
+      "answer": "By providing financial support",
+      "evidence": "He is...caring towards his friends, often providing financial support to Joey.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile notes he provides financial support to Joey."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What major personal struggle does Chandler face for much of the series?",
+      "answer": "Commitment issues",
+      "evidence": "However, he also struggles with insecurity and commitment issues for a significant portion of the series.",
+      "type": "limitation",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Commitment issues are explicitly named as a struggle."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "Who does Chandler marry in the series?",
+      "answer": "Monica Geller",
+      "evidence": "He is also close with Monica Geller (whom he later marries)...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states he later marries Monica Geller."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What does Chandler prove capable of despite his fears?",
+      "answer": "Deep love and devotion",
+      "evidence": "However, he also struggles with insecurity and commitment issues for a significant portion of the series. Despite his fears, he is capable of deep love and devotion, as seen in his relationship with Monica.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile contrasts his fears with his capacity for deep love."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What is distinctive about Chandler's speech pattern?",
+      "answer": "His frequent use of sarcasm and witty one-liners, and a distinctive cadence",
+      "evidence": "Chandler's speech is characterized by his frequent use of sarcasm and witty one-liners. He has a distinctive, often-imitated cadence...",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section describes both sarcasm and cadence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is Chandler's catchphrase mentioned in the profile?",
+      "answer": "Could that BE any more...",
+      "evidence": "particularly with his catchphrase, 'Could that BE any more...'",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The catchphrase is directly quoted in the linguistic section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What inspired Chandler's distinctive speech pattern?",
+      "answer": "Actor Matthew Perry's own way of speaking",
+      "evidence": "This speech pattern was reportedly inspired by actor Matthew Perry's own way of speaking.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile attributes the cadence to Matthew Perry's natural speech."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "Which character does Chandler provide financial support to?",
+      "answer": "Joey Tribbiani",
+      "evidence": "He is...caring towards his friends, often providing financial support to Joey.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states he supports Joey financially."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What genre does Chandler's mother write?",
+      "answer": "Erotic romance novels",
+      "evidence": "Son of Nora Tyler Bing, an erotic romance novelist...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Nora Tyler Bing's profession is specified in the family section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "Where does Chandler's father perform in a drag show?",
+      "answer": "Las Vegas",
+      "evidence": "...Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "location",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The location is explicitly mentioned in the family description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "How is Chandler described in terms of personal growth?",
+      "answer": "A realistic character who makes mistakes but is willing to learn from them",
+      "evidence": "He is a realistic character who makes mistakes but is always willing to learn from them.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile concludes with this description of his character arc."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Chandler Bing's full name?",
+      "answer": "Chandler Muriel Bing",
+      "evidence": "* **Full Name:** Chandler Muriel Bing",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists Chandler's full name under 'Personal Details.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "On what date was Chandler Bing born?",
+      "answer": "April 8, 1968",
+      "evidence": "* **Born:** April 8, 1968",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly stated under 'Personal Details.'"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Who is Chandler's mother and what is her profession?",
+      "answer": "Nora Tyler Bing, an erotic romance novelist",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The family section identifies Nora Tyler Bing as Chandler's mother and states her profession."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What is Chandler's father's name and occupation?",
+      "answer": "Charles Bing, a gay female impersonator who stars in a Las Vegas drag show",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The family section provides both the name and occupation of Chandler's father."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "How did Chandler's parents announce their divorce?",
+      "answer": "Over Thanksgiving dinner",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that the divorce was announced over Thanksgiving dinner."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What significant emotional event from Chandler's childhood is mentioned in the profile?",
+      "answer": "His parents' divorce, announced over Thanksgiving dinner",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text identifies the divorce announcement as a key emotional event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "Who is Chandler's college roommate?",
+      "answer": "Ross Geller",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly states Ross Geller is Chandler's college roommate."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "Who is Chandler's roommate during the series?",
+      "answer": "Joey Tribbiani",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Joey Tribbiani is Chandler's roommate."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "Which of Chandler's friends does he later marry?",
+      "answer": "Monica Geller",
+      "evidence": "He is also close with Monica Geller (whom he later marries), Rachel Green, and Phoebe Buffay.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile notes that Chandler later marries Monica Geller."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What is Chandler's job for most of the series?",
+      "answer": "Statistical analysis and data reconfiguration",
+      "evidence": "For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\" a job he dislikes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupation section specifies his job during most of the series."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "Did Chandler enjoy his job in statistical analysis and data reconfiguration?",
+      "answer": "No, he disliked it",
+      "evidence": "For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\" a job he dislikes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states he dislikes the job."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What career does Chandler transition to later in the series?",
+      "answer": "Advertising as a junior copywriter",
+      "evidence": "He later transitions to a career in advertising as a junior copywriter.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states his later career move."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What is Chandler best known for in terms of personality?",
+      "answer": "His sarcastic sense of humor",
+      "evidence": "Chandler is best known for his sarcastic sense of humor, often making jokes when he is uncomfortable.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The personality section begins by stating his most notable trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Why does Chandler use sarcasm frequently?",
+      "answer": "As a coping mechanism developed after his parents' divorce",
+      "evidence": "This is a coping mechanism he developed after his parents' divorce.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text links his sarcasm to a coping mechanism.",
+        "It specifies the origin of the mechanism as his parents' divorce."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What personality trait does Chandler struggle with for much of the series?",
+      "answer": "Commitment issues",
+      "evidence": "He also struggles with insecurity and commitment issues for a significant portion of the series.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists commitment issues as a struggle."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Is Chandler capable of deep emotional commitment?",
+      "answer": "Yes, as shown in his relationship with Monica",
+      "evidence": "Despite his fears, he is capable of deep love and devotion, as seen in his relationship with Monica.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile acknowledges his fears but confirms his capacity for love and devotion."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "How does Chandler treat his friends financially?",
+      "answer": "He often provides financial support, especially to Joey",
+      "evidence": "He is intelligent, affable, and caring towards his friends, often providing financial support to Joey.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile mentions his financial support to friends, specifically Joey."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What is one of Chandler's key character traits besides humor?",
+      "answer": "He is caring towards his friends",
+      "evidence": "He is intelligent, affable, and caring towards his friends...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists 'caring towards his friends' as one of his traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What is Chandler's distinctive speech pattern inspired by?",
+      "answer": "Actor Matthew Perry's own way of speaking",
+      "evidence": "This speech pattern was reportedly inspired by actor Matthew Perry's own way of speaking.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section attributes the speech pattern to Matthew Perry."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What is Chandler's catchphrase mentioned in the profile?",
+      "answer": "Could that BE any more...",
+      "evidence": "He has a distinctive, often-imitated cadence, particularly with his catchphrase, \"Could that BE any more...\"",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly quotes his catchphrase."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "Does Chandler make mistakes but learn from them?",
+      "answer": "Yes",
+      "evidence": "He is a realistic character who makes mistakes but is always willing to learn from them.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states he makes mistakes and learns from them."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What was Chandler's initial career before advertising?",
+      "answer": "Statistical analysis and data reconfiguration",
+      "evidence": "For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\"... He later transitions to a career in advertising...",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states his job before transitioning to advertising."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What is the name of the television series Chandler is from?",
+      "answer": "Friends",
+      "evidence": "a beloved character from the iconic television series *Friends*",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The opening sentence identifies the show as *Friends*."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "Who portrayed Chandler Bing?",
+      "answer": "Matthew Perry",
+      "evidence": "a beloved character from the iconic television series *Friends*, portrayed by the late Matthew Perry.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states Matthew Perry portrayed Chandler."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What emotional issues does Chandler have a source for?",
+      "answer": "His parents' divorce",
+      "evidence": "His parents' divorce during his childhood... is a significant source of his emotional issues.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile identifies the divorce as the source of his emotional issues."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Chandler Bing's full name?",
+      "answer": "Chandler Muriel Bing",
+      "evidence": "### A Quintessential Look at a \"Friend\": Conversational Scenarios with Chandler Bing\n\nThe images provided capture the multifaceted personality of Chandler Muriel Bing, a beloved character from the iconic television series *Friends*, portrayed by the late Matthew Perry.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the first sentence of the source text.",
+        "No inference is needed; the name is directly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "When was Chandler Bing born?",
+      "answer": "April 8, 1968",
+      "evidence": "* **Born:** April 8, 1968",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthdate is listed under 'Personal Details'.",
+        "It is presented in a clear, unambiguous format."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Who is Chandler Bing's mother and what is her profession?",
+      "answer": "Nora Tyler Bing, an erotic romance novelist",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mother's name and profession are explicitly stated in the Family section.",
+        "Both pieces of information are directly linked in the same sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is Chandler Bing's father's name and occupation?",
+      "answer": "Charles Bing, a gay female impersonator who performs in a Las Vegas drag show",
+      "evidence": "* **Family:** Son of Nora Tyler Bing, an erotic romance novelist, and Charles Bing, a gay female impersonator who stars in a Las Vegas drag show.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The father’s name and occupation are clearly stated in the Family section.",
+        "The detail includes both identity and professional activity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What significant event during Chandler's childhood contributed to his emotional issues?",
+      "answer": "His parents' divorce, which was announced over Thanksgiving dinner",
+      "evidence": "His parents' divorce during his childhood, announced over Thanksgiving dinner, is a significant source of his emotional issues.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The event and its emotional impact are directly stated.",
+        "The timing (Thanksgiving dinner) is specified, making it a unique detail."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "Who was Chandler's college roommate?",
+      "answer": "Ross Geller",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence explicitly identifies Ross Geller as Chandler's college roommate.",
+        "No ambiguity in the relationship description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "Which friend did Chandler live with during the series?",
+      "answer": "Joey Tribbiani",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'roommate' refers to cohabitation during the series.",
+        "Joey Tribbiani is explicitly named as that roommate."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "Who does Chandler marry in the series?",
+      "answer": "Monica Geller",
+      "evidence": "He is also close with Monica Geller (whom he later marries), Rachel Green, and Phoebe Buffay.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The parenthetical explicitly states Chandler later marries Monica Geller.",
+        "No inference beyond the text is required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What was Chandler's job for most of the series?",
+      "answer": "Statistical analysis and data reconfiguration",
+      "evidence": "* **Occupation:** For most of the series, Chandler works in \"statistical analysis and data reconfiguration,\" a job he dislikes.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The job title is directly stated in the Occupation section.",
+        "Quotation marks indicate the exact phrasing used in the show."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "Did Chandler enjoy his job in statistical analysis and data reconfiguration?",
+      "answer": "No, he disliked it",
+      "evidence": "a job he dislikes",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states Chandler disliked the job.",
+        "This makes the answer a straightforward negation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What career did Chandler transition to later in the series?",
+      "answer": "Advertising as a junior copywriter",
+      "evidence": "He later transitions to a career in advertising as a junior copywriter.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The new career path is directly stated in the Occupation section.",
+        "The transition is marked by the word 'later'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What is Chandler best known for in terms of personality?",
+      "answer": "His sarcastic sense of humor",
+      "evidence": "Chandler is best known for his sarcastic sense of humor, often making jokes when he is uncomfortable.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence begins with a definitive statement about what he is best known for.",
+        "Sarcasm is the first and primary trait mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "Why does Chandler use sarcasm frequently?",
+      "answer": "As a coping mechanism due to his parents' divorce",
+      "evidence": "This is a coping mechanism he developed after his parents' divorce.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states sarcasm is a defense mechanism.",
+        "It explicitly links this behavior to his parents' divorce.",
+        "Thus, the cause is directly provided."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "How does Chandler show care for his friends financially?",
+      "answer": "He provides financial support to Joey",
+      "evidence": "He is intelligent, affable, and caring towards his friends, often providing financial support to Joey.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text mentions a specific instance of financial care: supporting Joey.",
+        "No other financial examples are given, so this is the only valid answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What major personal struggle does Chandler face for much of the series?",
+      "answer": "Insecurity and commitment issues",
+      "evidence": "However, he also struggles with insecurity and commitment issues for a significant portion of the series.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly names both insecurity and commitment issues.",
+        "The duration ('significant portion') is also specified."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "Despite his fears, what is Chandler capable of in relationships?",
+      "answer": "Deep love and devotion",
+      "evidence": "However, he also struggles with insecurity and commitment issues for a significant portion of the series. Despite his fears, he is capable of deep love and devotion, as seen in his relationship with Monica.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text contrasts his fears with his capacity for love.",
+        "The phrase 'deep love and devotion' is used verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What distinctive speech pattern is Chandler known for?",
+      "answer": "His catchphrase, 'Could that BE any more...'",
+      "evidence": "He has a distinctive, often-imitated cadence, particularly with his catchphrase, \"Could that BE any more...\"",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The catchphrase is explicitly named as a hallmark of his speech.",
+        "It is enclosed in quotes for clarity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What inspired Chandler's speech pattern according to the text?",
+      "answer": "Actor Matthew Perry's own way of speaking",
+      "evidence": "This speech pattern was reportedly inspired by actor Matthew Perry's own way of speaking.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The inspiration is attributed directly to Matthew Perry.",
+        "The word 'reportedly' indicates sourcing, but the claim is still explicit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What kind of character is Chandler described as in terms of realism?",
+      "answer": "A realistic character who makes mistakes but is willing to learn from them",
+      "evidence": "He is a realistic character who makes mistakes but is always willing to learn from them.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly defines Chandler's realism in behavioral terms.",
+        "The answer is a direct quote of the defining clause."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "List the six main friends Chandler is close with.",
+      "answer": "Ross Geller, Joey Tribbiani, Monica Geller, Rachel Green, Phoebe Buffay, and himself as part of the group",
+      "evidence": "Chandler's closest friends are his college roommate, Ross Geller, and his roommate, Joey Tribbiani. He is also close with Monica Geller (whom he later marries), Rachel Green, and Phoebe Buffay.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists Ross, Joey, Monica, Rachel, and Phoebe by name.",
+        "Chandler is implicitly part of the core six, though not listed as 'close with himself'.",
+        "The group is known as the six main characters of Friends."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_096",
+      "question": "Is Chandler's humor primarily used in comfortable situations?",
+      "answer": "No, he uses humor when uncomfortable",
+      "evidence": "Chandler is best known for his sarcastic sense of humor, often making jokes when he is uncomfortable.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states he jokes when uncomfortable.",
+        "This contradicts the idea of humor in comfort."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What role does Chandler eventually take on beyond being a friend?",
+      "answer": "Husband and father",
+      "evidence": "Chandler's character evolves from a man with commitment issues and a job no one can quite remember to a loving husband and father.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The evolution is described from single man to family man.",
+        "The end state includes both husband and father roles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What is the name of the television series Chandler appears in?",
+      "answer": "Friends",
+      "evidence": "The images provided capture the multifaceted personality of Chandler Muriel Bing, a beloved character from the iconic television series *Friends*",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The show is named in italics in the first paragraph.",
+        "It is unambiguously identified as the series he is from."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Who portrayed Chandler Bing in the series?",
+      "answer": "Matthew Perry",
+      "evidence": "a beloved character from the iconic television series *Friends*, portrayed by the late Matthew Perry.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The actor is directly named in the opening sentence.",
+        "The word 'portrayed' links actor to character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What does Chandler's linguistic style include besides sarcasm?",
+      "answer": "Witty one-liners and a distinctive cadence",
+      "evidence": "Chandler's speech is characterized by his frequent use of sarcasm and witty one-liners. He has a distinctive, often-imitated cadence",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists sarcasm and witty one-liners as key features.",
+        "It separately mentions a distinctive cadence.",
+        "Together, these form the non-sarcasm elements of his speech style."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

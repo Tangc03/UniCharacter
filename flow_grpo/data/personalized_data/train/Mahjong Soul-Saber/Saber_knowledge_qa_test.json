@@ -1,0 +1,146 @@
+{
+  "description": "Saber is a powerful Servant from Fate/stay night, appearing in Mahjong Soul as a guest character. Renowned for her strength and loyalty, she is a serious and dignified knight. Though her petite frame belies her power, she is second to none in battle. Beneath her stoic exterior, she harbors a fondness for well-prepared meals and plush toys. She acts as a loyal protector to her Master, bound by fate and duty.",
+  "opening": "Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Saber's role in *Mahjong Soul*?",
+      "options": {
+        "A": "She is a tournament referee who enforces the rules of play.",
+        "B": "She is a playable avatar with character-specific voice lines and animations.",
+        "C": "She teaches players how to perform the Riichi declaration.",
+        "D": "She is the main antagonist in the game's story mode."
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Saber's primary role in *Mahjong Soul* is that of a playable avatar. Players who obtained her during the collaboration event can select her to represent them in matches.",
+      "rationale": "The PROFILE_TEXT explicitly states that Saber's role is as a playable avatar, with unique voice lines and animations. The other options are not mentioned or supported by the text."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which game mechanic in *Mahjong Soul* does Saber use to declare a high-risk winning strategy?",
+      "options": {
+        "A": "Pon",
+        "B": "Kan",
+        "C": "Riichi",
+        "D": "Chii"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Special animations for winning hands or declaring Riichi.",
+      "rationale": "The text states that Saber has special animations for declaring Riichi, a key game mechanic. The other options are types of melds but not specifically linked to her in this context."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is Saber's height according to her official profile?",
+      "options": {
+        "A": "160cm",
+        "B": "154cm",
+        "C": "170cm",
+        "D": "149cm"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Height: 154cm",
+      "rationale": "The profile clearly lists Saber's height as 154cm. The other options are not mentioned in the text."
+    },
+    {
+      "id": "mcq_004",
+      "question": "Which of the following is one of Saber's stated interests?",
+      "options": {
+        "A": "Sword fighting",
+        "B": "Playing mahjong competitively",
+        "C": "Healthy meals",
+        "D": "Collecting honor tiles"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Interests: Healthy meals, plushies",
+      "rationale": "The profile explicitly lists 'healthy meals' as one of Saber's interests. The other options, while possibly plausible, are not stated in the text."
+    },
+    {
+      "id": "mcq_005",
+      "question": "How is Saber's personality described in *Mahjong Soul*?",
+      "options": {
+        "A": "Playful and mischievous",
+        "B": "Loyal, serious, and dignified",
+        "C": "Lazy and indifferent to rules",
+        "D": "Aggressive and power-hungry"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Saber's personality in *Mahjong Soul* is consistent with her established character. She is portrayed as loyal, serious, and immensely powerful, true to her nature as a knightly Servant.",
+      "rationale": "The text directly describes her as loyal, serious, and dignified. Other personality traits are not supported by the profile."
+    },
+    {
+      "id": "mcq_006",
+      "question": "Which voice actor provides Saber's voice in *Mahjong Soul*?",
+      "options": {
+        "A": "Rie Kugimiya",
+        "B": "Ayako Kawasumi",
+        "C": "Romi Park",
+        "D": "Miyuki Sawashiro"
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "Voice Actor: Ayako Kawasumi",
+      "rationale": "The profile explicitly lists Ayako Kawasumi as Saber's voice actor. The other names are not mentioned and are distractors based on other anime voice actors."
+    },
+    {
+      "id": "mcq_007",
+      "question": "What special effect is associated with Saber's Riichi declaration in *Mahjong Soul*?",
+      "options": {
+        "A": "Cursed Realm",
+        "B": "Holy Light",
+        "C": "Void's Blessing",
+        "D": "Sakura Storm"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Special effects for Riichi (\"Void's Blessing\") and winning (\"Cursed Realm\")",
+      "rationale": "The text specifically names \"Void's Blessing\" as the effect for her Riichi declaration. \"Cursed Realm\" is for winning, not Riichi, making C the correct choice."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What must a player do to unlock Saber's 'Full Bond' outfit in *Mahjong Soul*?",
+      "options": {
+        "A": "Win 100 matches using Saber as the avatar",
+        "B": "Purchase it with real money",
+        "C": "Complete a special in-game quest",
+        "D": "Reach maximum bond level through gifts and gameplay"
+      },
+      "answer_key": "D",
+      "difficulty": "medium",
+      "evidence": "Achieving a full bond unlocks a unique \"Full Bond\" outfit and three exclusive emotes.",
+      "rationale": "The text states that the 'Full Bond' outfit is unlocked by achieving full bond level, which requires bond points and materials through gameplay and gifting. It was not available for direct purchase like her other outfit."
+    },
+    {
+      "id": "mcq_009",
+      "question": "Which item is Saber's preferred gift in *Mahjong Soul*?",
+      "options": {
+        "A": "Wishing Stones",
+        "B": "Star Dust",
+        "C": "Delicious Cookie",
+        "D": "Sphere of Light"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "5 Delicious Cookie (her preferred purple gift)",
+      "rationale": "The bond ascension materials list explicitly identifies 'Delicious Cookie' as her preferred gift. This is a hard question because the detail is nested within a list of materials and not repeated elsewhere."
+    },
+    {
+      "id": "mcq_010",
+      "question": "Which quote is attributed to Saber upon her introduction in *Mahjong Soul*?",
+      "options": {
+        "A": "Let the tiles decide our fate!",
+        "B": "Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.",
+        "C": "Victory is only achieved through perfect hand composition.",
+        "D": "A true warrior never fears a bad draw."
+      },
+      "answer_key": "B",
+      "difficulty": "hard",
+      "evidence": "Her introductory quote in the game reflects this: \"Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.\"",
+      "rationale": "The quote in option B is directly provided in the profile as her in-game introduction. The other quotes are plausible but not present in the text, making this a hard question due to the need for exact recall."
+    }
+  ]
+}

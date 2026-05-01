@@ -1,0 +1,1308 @@
+{
+  "description": "Joey Tribbiani is a charming, loyal, and simple-minded aspiring actor from Queens. He is fiercely devoted to his friends and comes from a large Italian-American family. While not the sharpest, his good nature shines through. He is famous for his insatiable appetite, his refusal to share food, and his iconic pick-up line, 'How you doin'?'. Despite his struggles as an actor, his optimism and love for life are unshakable.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Joey Tribbiani's profession?",
+      "answer": "Aspiring actor",
+      "evidence": "An aspiring actor with a charming naivete",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly describes Joey as 'an aspiring actor'.",
+        "This directly identifies his profession."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "Where is Joey Tribbiani from?",
+      "answer": "Queens, New York",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states Joey is 'from Queens, New York'.",
+        "This specifies his place of origin."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "How many sisters does Joey have?",
+      "answer": "Seven",
+      "evidence": "He comes from a large family with seven sisters.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly states Joey has 'seven sisters'.",
+        "This is a clear numerical fact."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What is Joey Tribbiani's ethnicity?",
+      "answer": "Italian-American",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT identifies Joey as 'Italian-American'.",
+        "This specifies his ethnic background."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "Who are Joey's close friends?",
+      "answer": "Chandler, Ross, Monica, Rachel, and Phoebe",
+      "evidence": "He is fiercely loyal to his friends—Chandler, Ross, Monica, Rachel, and Phoebe",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT lists five friends by name.",
+        "These are the individuals identified as Joey’s close friends."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What is Joey's most famous pick-up line?",
+      "answer": "How you doin'?",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states his 'go-to pick-up line'.",
+        "It quotes the line verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "Which soap opera does Joey land a significant role on?",
+      "answer": "Days of Our Lives",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT names the soap opera as *Days of Our Lives*.",
+        "It directly links Joey to the show through his role."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What character does Joey play on *Days of Our Lives*?",
+      "answer": "Dr. Drake Ramoray",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies the character name as 'Dr. Drake Ramoray'.",
+        "This is the role he plays on the show."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "Is Joey known for sharing food?",
+      "answer": "No",
+      "evidence": "and his staunch refusal to share it",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT mentions 'his staunch refusal to share it', referring to food.",
+        "This indicates he does not share."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What type of food is Joey especially fond of?",
+      "answer": "Sandwiches and pizza",
+      "evidence": "He is famously known for his love of food, particularly sandwiches and pizza",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states his love for food, 'particularly sandwiches and pizza'.",
+        "This identifies his preferred food items."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "How is Joey described in terms of intelligence?",
+      "answer": "Dim-witted",
+      "evidence": "Despite his dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT uses the term 'dim-witted' to describe Joey.",
+        "This is a direct character trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "Who played Joey Tribbiani?",
+      "answer": "Matt LeBlanc",
+      "evidence": "which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT refers to 'actor Matt LeBlanc' in relation to Joey’s traits.",
+        "This implies LeBlanc is the actor portraying Joey."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What trait did Matt LeBlanc emphasize in portraying Joey?",
+      "answer": "Dim-witted nature",
+      "evidence": "which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states LeBlanc 'leaned into' Joey's dim-witted nature.",
+        "This shows the trait he emphasized."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "Is Joey financially successful as an actor?",
+      "answer": "No, he often struggles financially",
+      "evidence": "Though often struggling financially as an actor",
+      "type": "limitation",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states he 'often struggling financially as an actor'.",
+        "This confirms his financial situation."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What personality trait balances Joey's macho exterior?",
+      "answer": "Sweet and compassionate nature",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man who deeply values his friendships",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT contrasts his 'macho exterior' with being 'sweet and compassionate'.",
+        "This reveals the balancing inner trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What is a key value for Joey?",
+      "answer": "Friendship",
+      "evidence": "who deeply values his friendships",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT ends by stating Joey 'deeply values his friendships'.",
+        "This identifies friendship as a core value."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "How does Joey act toward his friends emotionally?",
+      "answer": "As their protector and confidant",
+      "evidence": "often acting as their protector and confidant",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT says Joey 'often acting as their protector and confidant'.",
+        "This describes his emotional role in friendships."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What is notable about Joey's persona with women?",
+      "answer": "Womanizing yet charming",
+      "evidence": "emblematic of his womanizing yet charming persona",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT describes his persona as 'womanizing yet charming'.",
+        "This captures the duality of his romantic image."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What does Joey's catchphrase symbolize?",
+      "answer": "His womanizing yet charming persona",
+      "evidence": "\"How you doin'?\", has become an iconic catchphrase, emblematic of his womanizing yet charming persona",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states the catchphrase is 'emblematic of his womanizing yet charming persona'.",
+        "This explains its symbolic meaning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What is Joey's most endearing quality despite his simplicity?",
+      "answer": "Good-natured and caring spirit",
+      "evidence": "Joey possesses a good-natured and caring spirit",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Joey has a 'good-natured and caring spirit'.",
+        "This is presented as a positive trait despite his simplicity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What kind of spirit does Joey possess?",
+      "answer": "Good-natured and caring",
+      "evidence": "Joey possesses a good-natured and caring spirit",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly describes his spirit as 'good-natured and caring'.",
+        "This defines his inner disposition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "Is Joey loyal to his friends?",
+      "answer": "Yes, he is fiercely loyal",
+      "evidence": "He is fiercely loyal to his friends",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT states 'He is fiercely loyal to his friends'.",
+        "This confirms his loyalty."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What duality is present in Joey's character?",
+      "answer": "Macho exterior with a sweet and compassionate interior",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT contrasts 'macho exterior' with 'sweet and compassionate man'.",
+        "This highlights the duality in his character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What aspect of Joey's personality became more prominent over time?",
+      "answer": "His dim-witted nature",
+      "evidence": "which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT says his 'dim-witted nature' became 'more prominent'.",
+        "This indicates a development over time."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What is Joey's role in the friend group beyond being an actor?",
+      "answer": "Protector and confidant",
+      "evidence": "often acting as their protector and confidant",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT identifies his role as 'protector and confidant'.",
+        "This defines his social function in the group."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Joey Tribbiani's profession?",
+      "answer": "Actor",
+      "evidence": "An aspiring actor with a charming naivete",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile describes Joey as an 'aspiring actor'.",
+        "This directly indicates his profession."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "Where is Joey Tribbiani from?",
+      "answer": "Queens, New York",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Joey’s origin.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "How many sisters does Joey have?",
+      "answer": "Seven",
+      "evidence": "He comes from a large family with seven sisters",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The number of sisters is directly stated.",
+        "No further interpretation required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What is Joey's most famous pick-up line?",
+      "answer": "How you doin'?",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly names the phrase as his 'go-to pick-up line'.",
+        "It is presented verbatim."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "On which soap opera did Joey land a significant role?",
+      "answer": "Days of Our Lives",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The show name is clearly stated in the context of his major acting role.",
+        "No ambiguity exists in the reference."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What character did Joey play on *Days of Our Lives*?",
+      "answer": "Dr. Drake Ramoray",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The character name is directly provided in the profile.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "Is Joey known for sharing his food?",
+      "answer": "No",
+      "evidence": "famously known for his love of food... and his staunch refusal to share it",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'staunch refusal to share it' directly negates food-sharing behavior.",
+        "This indicates his non-sharing habit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What type of food is Joey especially known for loving?",
+      "answer": "Sandwiches and pizza",
+      "evidence": "famously known for his love of food, particularly sandwiches and pizza",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile specifies 'particularly sandwiches and pizza' as his favorites.",
+        "This identifies his top food preferences."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "Who are Joey's closest friends?",
+      "answer": "Chandler, Ross, Monica, Rachel, and Phoebe",
+      "evidence": "He is fiercely loyal to his friends—Chandler, Ross, Monica, Rachel, and Phoebe",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The names are explicitly listed after 'his friends'.",
+        "No additional interpretation is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "Does Joey have a compassionate side despite his dim-witted nature?",
+      "answer": "Yes",
+      "evidence": "Despite his dim-witted nature... Joey possesses a good-natured and caring spirit",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile contrasts his intelligence with his emotional traits.",
+        "It confirms a caring and good-natured spirit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What is Joey's cultural background?",
+      "answer": "Italian-American",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'Italian-American' is used directly to describe him.",
+        "This establishes his cultural identity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What trait became more prominent as Matt LeBlanc leaned into it?",
+      "answer": "Dim-witted nature",
+      "evidence": "his dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence explicitly states that the 'dim-witted nature' became more prominent.",
+        "It links this to the actor's performance choices."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What dual aspects define Joey's personality according to the profile?",
+      "answer": "Endearing childishness and surprising compassion",
+      "evidence": "Joey's personality is a blend of endearing childishness and surprising moments of compassion",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile defines his personality using this exact phrase.",
+        "It combines two contrasting traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "Does Joey struggle financially as an actor?",
+      "answer": "Yes",
+      "evidence": "Though often struggling financially as an actor",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'often struggling financially' directly confirms this.",
+        "No interpretation beyond the text is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What role does Joey often take on within his friend group?",
+      "answer": "Protector and confidant",
+      "evidence": "often acting as their protector and confidant",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he 'acts as' these roles.",
+        "These are explicitly named social functions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "Is Joey’s loyalty to his friends described as strong?",
+      "answer": "Yes",
+      "evidence": "He is fiercely loyal to his friends",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'fiercely' modifies 'loyal', indicating intensity.",
+        "This confirms the strength of his loyalty."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What is the name of the character who analyzes Joey in the profile text?",
+      "answer": "None",
+      "evidence": "This analysis, paired with a series of conversational scenarios, delves into the nuances of his character",
+      "type": "fact",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The analysis is presented as impersonal ('this analysis').",
+        "No individual character is named as the analyst."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "What type of spirit does Joey possess despite his intelligence level?",
+      "answer": "Good-natured and caring",
+      "evidence": "Joey possesses a good-natured and caring spirit",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile directly describes his spirit using these adjectives.",
+        "They are independent of his intelligence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What kind of exterior does Joey have, according to the profile?",
+      "answer": "Macho",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The word 'macho' is used to describe his exterior.",
+        "It contrasts with his inner qualities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What lies beneath Joey's macho exterior?",
+      "answer": "A sweet and compassionate man",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence directly states what lies beneath his exterior.",
+        "No inference is required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "Is Joey’s charm related to his interactions with women?",
+      "answer": "Yes",
+      "evidence": "his womanizing yet charming persona",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'womanizing yet charming persona' links charm to romantic/sexual interactions.",
+        "This confirms the connection."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What does the profile suggest about Joey’s emotional values?",
+      "answer": "He deeply values his friendships",
+      "evidence": "who deeply values his friendships",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'deeply values his friendships' directly states his emotional priority.",
+        "It reflects his core values."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What show is *Days of Our Lives* classified as in the profile?",
+      "answer": "Soap opera",
+      "evidence": "on the soap opera *Days of Our Lives*",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'soap opera' is used directly to classify the show.",
+        "No ambiguity in categorization."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "Is Joey described as having a complex personality?",
+      "answer": "Yes",
+      "evidence": "a blend of endearing childishness and surprising moments of compassion",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The profile describes contrasting traits: childishness and compassion.",
+        "This duality indicates complexity in his character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What aspect of Joey's persona is described as 'iconic'?",
+      "answer": "His catchphrase 'How you doin'?'",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'iconic' is explicitly applied to the catchphrase.",
+        "This identifies the specific aspect of his persona."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "Where is Joey Tribbiani from?",
+      "answer": "Queens, New York",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Joey's origin.",
+        "The phrase 'from Queens, New York' directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "What is Joey Tribbiani's profession?",
+      "answer": "Actor",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile identifies Joey as an actor.",
+        "The word 'actor' appears in the first sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "How many sisters does Joey have?",
+      "answer": "Seven",
+      "evidence": "He comes from a large family with seven sisters.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence clearly states the number of sisters.",
+        "No inference needed; the number is directly given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What is Joey Tribbiani's most famous catchphrase?",
+      "answer": "How you doin'?",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase is explicitly labeled as his 'go-to pick-up line'.",
+        "It is described as an 'iconic catchphrase'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What role does Joey play on the soap opera *Days of Our Lives*?",
+      "answer": "Dr. Drake Ramoray",
+      "evidence": "He lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly states the character he plays.",
+        "The show and role are both named in one clause."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "On which soap opera does Joey land a significant role?",
+      "answer": "Days of Our Lives",
+      "evidence": "He lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The show name is stated directly in the sentence.",
+        "It is the only soap opera mentioned in connection with Joey."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "Is Joey financially successful as an actor?",
+      "answer": "No, he often struggles financially.",
+      "evidence": "Though often struggling financially as an actor",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'struggling financially' directly contradicts financial success.",
+        "The word 'though' sets up contrast, but the fact remains stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What does Joey refuse to share?",
+      "answer": "Food",
+      "evidence": "He is famously known for his love of food, particularly sandwiches and pizza, and his staunch refusal to share it.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence states his refusal to share food.",
+        "The pronoun 'it' refers to 'food' mentioned earlier."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What types of food is Joey especially known for loving?",
+      "answer": "Sandwiches and pizza",
+      "evidence": "He is famously known for his love of food, particularly sandwiches and pizza",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'particularly' signals specific examples.",
+        "Sandwiches and pizza are listed immediately after."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "Who are Joey's closest friends?",
+      "answer": "Chandler, Ross, Monica, Rachel, and Phoebe",
+      "evidence": "He is fiercely loyal to his friends—Chandler, Ross, Monica, Rachel, and Phoebe",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The names are listed after the dash following 'friends'.",
+        "They are explicitly named as the group he is loyal to."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "How does Joey's personality balance opposing traits?",
+      "answer": "He has a macho exterior but is sweet and compassionate inside.",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase contrasts 'macho exterior' with inner qualities.",
+        "The sentence directly compares outer and inner traits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What is one way Joey shows loyalty to his friends?",
+      "answer": "By acting as their protector and confidant.",
+      "evidence": "He is fiercely loyal to his friends—Chandler, Ross, Monica, Rachel, and Phoebe—often acting as their protector and confidant.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence lists two roles: protector and confidant.",
+        "Either role demonstrates loyalty through action."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What became a more prominent trait in Joey as the series progressed?",
+      "answer": "His dim-witted nature",
+      "evidence": "His dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The clause explicitly states what became more prominent.",
+        "It links the trait to the actor's performance choices."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "Why might Joey's dim-witted nature have become more pronounced?",
+      "answer": "Because Matt LeBlanc leaned into it.",
+      "evidence": "His dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The causal link is implied by 'as' in the sentence.",
+        "'Leaned into it' suggests intentional amplification by the actor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What nationality is Joey Tribbiani?",
+      "answer": "Italian-American",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'Italian-American' is used directly in the profile.",
+        "It is part of his identity as stated in the first sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Is Joey known for being intelligent?",
+      "answer": "No, he is known for being dim-witted.",
+      "evidence": "His dim-witted nature, which became a more prominent trait",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'dim-witted' directly contradicts high intelligence.",
+        "It is described as a prominent character trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What does Joey value deeply?",
+      "answer": "His friendships",
+      "evidence": "He deeply values his friendships.",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence states this explicitly.",
+        "No interpretation beyond the literal meaning is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What kind of spirit does Joey possess?",
+      "answer": "A good-natured and caring spirit",
+      "evidence": "Joey possesses a good-natured and caring spirit.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct quote from the profile.",
+        "It describes the essence of his character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "What is Joey's attitude toward women?",
+      "answer": "Womanizing yet charming",
+      "evidence": "His go-to pick-up line... emblematic of his womanizing yet charming persona",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase 'womanizing yet charming' is used to describe his persona.",
+        "It is tied directly to his behavior with women via the pick-up line."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "Does Joey care about his friends?",
+      "answer": "Yes, he is caring and loyal.",
+      "evidence": "He is fiercely loyal to his friends... Joey possesses a good-natured and caring spirit.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Multiple sentences confirm his caring nature and loyalty.",
+        "Both adjectives are used explicitly in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What is one reason Joey is considered endearing?",
+      "answer": "His charming naivete",
+      "evidence": "An aspiring actor with a charming naivete, Joey's personality is a blend of endearing childishness",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The word 'endearing' is linked to 'childishness' and 'charming naivete'.",
+        "These traits are presented as sources of his appeal."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What dual aspects define Joey's personality?",
+      "answer": "Endearing childishness and surprising moments of compassion",
+      "evidence": "Joey's personality is a blend of endearing childishness and surprising moments of compassion.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence explicitly states the two aspects.",
+        "They are joined by 'and', indicating a dual composition."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What kind of moments reveal Joey's deeper character?",
+      "answer": "Surprising moments of compassion",
+      "evidence": "Joey's personality is a blend of endearing childishness and surprising moments of compassion.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The phrase identifies 'surprising moments of compassion' as key.",
+        "These moments contrast with his usual childishness."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "Is Joey's charm related to his behavior with women?",
+      "answer": "Yes, his pick-up line reflects his charming persona.",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase, emblematic of his womanizing yet charming persona.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The catchphrase is described as emblematic of his persona.",
+        "That persona is labeled as 'charming' in the context of romantic pursuit."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What kind of actor is Joey described as?",
+      "answer": "An aspiring actor",
+      "evidence": "An aspiring actor with a charming naivete",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'aspiring actor' is used directly in the profile.",
+        "It indicates his current status in his career."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "Where is Joey Tribbiani from?",
+      "answer": "Queens, New York",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Joey's origin.",
+        "The phrase 'from Queens, New York' directly answers the question."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What is Joey Tribbiani's profession?",
+      "answer": "Actor",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'actor' is explicitly used in the profile to describe Joey.",
+        "No other profession is mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "How many sisters does Joey have?",
+      "answer": "Seven",
+      "evidence": "He comes from a large family with seven sisters.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence directly states the number of sisters.",
+        "No inference is needed; the number is explicitly given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is Joey's most famous catchphrase?",
+      "answer": "How you doin'?",
+      "evidence": "His go-to pick-up line, \"How you doin'?\", has become an iconic catchphrase",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT quotes the exact phrase.",
+        "It is labeled as his 'go-to pick-up line' and 'iconic catchphrase'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "On which soap opera did Joey land a significant role?",
+      "answer": "Days of Our Lives",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The sentence explicitly names the soap opera.",
+        "It is the only project mentioned where he lands a significant role."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What character did Joey play on *Days of Our Lives*?",
+      "answer": "Dr. Drake Ramoray",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The role is directly named in the profile.",
+        "It is the only acting role specified besides being an actor in general."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "Is Joey known for sharing his food?",
+      "answer": "No",
+      "evidence": "his staunch refusal to share it",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'staunch refusal to share' clearly indicates he does not share.",
+        "The 'it' refers to food, as previously mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What types of food is Joey especially fond of?",
+      "answer": "Sandwiches and pizza",
+      "evidence": "He is famously known for his love of food, particularly sandwiches and pizza",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT specifies 'particularly sandwiches and pizza'.",
+        "These are highlighted examples of his food preferences."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "Who are Joey's closest friends?",
+      "answer": "Chandler, Ross, Monica, Rachel, and Phoebe",
+      "evidence": "He is fiercely loyal to his friends—Chandler, Ross, Monica, Rachel, and Phoebe",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The list is explicitly provided after the em dash.",
+        "These are the only friends named in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "Does Joey value his friendships?",
+      "answer": "Yes",
+      "evidence": "he deeply values his friendships",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'deeply values his friendships' directly confirms this.",
+        "This is stated as a core aspect of his character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "Is Joey financially stable as an actor?",
+      "answer": "No",
+      "evidence": "Though often struggling financially as an actor",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'often struggling financially' indicates instability.",
+        "This directly contradicts financial stability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What is Joey's ethnic background?",
+      "answer": "Italian-American",
+      "evidence": "An Italian-American actor from Queens, New York",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'Italian-American' is used directly in the profile.",
+        "It is the only descriptor of his ethnicity."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What does Joey's personality combine, according to the profile?",
+      "answer": "Endearing childishness and surprising moments of compassion",
+      "evidence": "Joey's personality is a blend of endearing childishness and surprising moments of compassion",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence defines his personality as a 'blend' of two traits.",
+        "Both traits are explicitly listed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "Why did Joey's dim-witted nature become more prominent over time?",
+      "answer": "Because Matt LeBlanc leaned into it",
+      "evidence": "his dim-witted nature, which became a more prominent trait as actor Matt LeBlanc leaned into it",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text attributes the prominence of the trait to the actor's performance choice.",
+        "The causal link is explicitly stated with 'as actor Matt LeBlanc leaned into it'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What role does Joey often play among his friends?",
+      "answer": "Protector and confidant",
+      "evidence": "often acting as their protector and confidant",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists two roles: 'protector' and 'confidant'.",
+        "These are the only relational roles specified beyond friendship."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "Is Joey's charm contradicted by his intelligence level in the profile?",
+      "answer": "No, he is described as dim-witted but charming",
+      "evidence": "Despite his dim-witted nature... his womanizing yet charming persona",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The word 'Despite' sets up a contrast between dim-wittedness and charm.",
+        "Both traits are affirmed: he is dim-witted but still charming."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What kind of persona does Joey have with women?",
+      "answer": "Womanizing yet charming",
+      "evidence": "his womanizing yet charming persona",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile uses the exact phrase 'womanizing yet charming'.",
+        "This is the only descriptor of his romantic persona."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "Does Joey have a good-natured personality?",
+      "answer": "Yes",
+      "evidence": "Joey possesses a good-natured and caring spirit",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The phrase 'good-natured and caring spirit' directly confirms this.",
+        "It is a stated character trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What is the nature of Joey's loyalty to his friends?",
+      "answer": "Fiercely loyal",
+      "evidence": "He is fiercely loyal to his friends",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The adverb 'fiercely' modifies 'loyal', defining the intensity.",
+        "This is the only descriptor of his loyalty."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What lies beneath Joey's macho exterior?",
+      "answer": "A sweet and compassionate man",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence directly states what lies beneath the exterior.",
+        "The traits 'sweet' and 'compassionate' are emphasized."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "Is Joey's aspiration to be an actor mentioned in the profile?",
+      "answer": "Yes",
+      "evidence": "An aspiring actor with a charming naivete",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The term 'aspiring actor' explicitly states his career goal.",
+        "It is used as a direct descriptor in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What trait complements Joey's naivete?",
+      "answer": "Charming",
+      "evidence": "An aspiring actor with a charming naivete",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The word 'charming' is used to describe his naivete.",
+        "It is the only adjective linked directly to that trait."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "Is Joey's caring nature mentioned in the profile?",
+      "answer": "Yes",
+      "evidence": "Joey possesses a good-natured and caring spirit",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The word 'caring' is explicitly used in the text.",
+        "It is part of a direct character description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "Does the profile suggest Joey is complex despite his simple pleasures?",
+      "answer": "Yes",
+      "evidence": "Underneath the macho exterior lies a sweet and compassionate man who deeply values his friendships",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The contrast between 'macho exterior' and inner compassion suggests depth.",
+        "Valuing deep friendships adds emotional complexity beyond 'simple pleasures'.",
+        "The text contrasts surface traits with deeper values."
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "qa_100",
+      "question": "What is the primary source of Joey's fame according to the profile?",
+      "answer": "His role as Dr. Drake Ramoray on *Days of Our Lives*",
+      "evidence": "he lands a significant role as Dr. Drake Ramoray on the soap opera *Days of Our Lives*",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "No other role or achievement is described as 'significant'.",
+        "This is the only professional milestone highlighted in the profile.",
+        "It is the sole acting role with specific detail."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

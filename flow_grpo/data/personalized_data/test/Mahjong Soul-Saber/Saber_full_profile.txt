@@ -1,0 +1,85 @@
+Here is a comprehensive look at the character Saber in the game *Mahjong Soul*, including an overview of the game's core mechanics.
+
+### 1. The Fundamentals of Riichi Mahjong
+
+*Mahjong Soul* is based on Japanese Riichi Mahjong, a four-player game that combines skill, strategy, and a degree of luck. The ultimate goal is to finish the game with the most points by completing a winning hand of 14 tiles.
+
+**Game Setup and Tiles:**
+The game is played with a set of 136 tiles, which are divided into three suits and honor tiles.
+*   **Suits:** These include Characters (Manzu), Circles (Pinzu), and Bamboo (Souzu), each numbered 1 through 9.
+*   **Honors:** These are split into Wind tiles (East, South, West, North) and Dragon tiles (White, Green, Red).
+*   **Red Fives (Aka Dora):** Some sets include special red-colored "5" tiles from each suit that act as bonus tiles to increase a hand's value.
+
+Each player starts with 13 tiles, and the dealer begins with 14. The remaining tiles form a central "wall" from which players draw.
+
+**Gameplay and Turns:**
+Players take turns in anti-clockwise order. A turn consists of drawing one tile from the wall and then discarding one tile from your hand into the center of the table. The objective is to form a winning hand, which typically consists of four sets of three tiles (melds) and one pair.
+
+**Melds (Calling Tiles):**
+Players can complete their melds by using a tile discarded by another player. This is called "melding" or "calling."
+*   **Chii:** Calling a discarded tile from the player to your left to complete a sequence (e.g., 5-6-7 of the same suit).
+*   **Pon:** Calling a discarded tile from any player to complete a triplet (three identical tiles).
+*   **Kan:** Calling a tile to form a quad (four identical tiles).
+When a player makes a call, they must reveal the completed meld. A hand with one or more revealed melds is considered "open."
+
+**Winning the Hand (Yaku and Riichi):**
+To legally win a round, a player's hand must contain at least one *yaku*, which is a specific winning pattern or condition. This is a key feature of Riichi Mahjong that prevents players from winning with just any combination of melds and a pair.
+
+A crucial yaku is **Riichi**. A player can declare "Riichi" when their hand is concealed (no open melds) and is just one tile away from completion (*tenpai*). To do this, they place a 1,000-point stick on the table and discard a tile sideways. After declaring Riichi, their hand is locked, and they must automatically discard any tile they draw that doesn't complete their hand. Declaring Riichi is a high-risk, high-reward strategy that can significantly increase a hand's value if won.
+
+**Scoring:**
+Scoring in Riichi Mahjong is complex, combining two factors:
+*   **Han:** The value derived from the yaku and any bonus "Dora" tiles in the hand. Dora are indicator tiles that add value but do not count as a yaku on their own.
+*   **Fu:** "Minipoints" awarded based on the composition of the hand, such as the types of melds, the winning tile wait, and how the hand was won.
+
+---
+
+### 2. A Profile of Saber
+
+Saber is a limited-time guest character in *Mahjong Soul*, featured as part of a collaboration event with the movie series *Fate/stay night [Heaven's Feel]*.
+
+#### **Official Biography and Personality**
+
+*   **Height:** 154cm
+*   **Birthday:** Unknown
+*   **Blood Type:** Unknown
+*   **Voice Actor:** Ayako Kawasumi
+*   **Interests:** Healthy meals, plushies
+*   **Preferred Item:** Cookies
+*   **Official Biography:** "One of the seven Servants. Though her petite frame stands at just around five feet tall, Saber's strength makes her second to none as a Servant."
+
+#### **Saber's Role in Gameplay**
+
+Saber's primary role in *Mahjong Soul* is that of a playable avatar. Players who obtained her during the collaboration event can select her to represent them in matches. While she does not possess unique skills that alter the rules of mahjong, using her provides a unique aesthetic experience. This includes her own set of voice lines for various in-game actions, character-specific emotes, and special animations for winning hands or declaring Riichi.
+
+The collaboration also introduced themed decorations, such as special effects for Riichi ("Void's Blessing") and winning ("Cursed Realm"), further immersing players in the *Fate/stay night* atmosphere.
+
+#### **Tale - Backstory and Lore**
+
+Saber's backstory is not original to *Mahjong Soul*. Her lore is entirely derived from her role in the *Fate/stay night* franchise. The game presents her as she is in the source material: a powerful and legendary hero summoned as a Servant for the Holy Grail War. Her introductory quote in the game reflects this: *"Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine."*
+
+While some characters in *Mahjong Soul* have their own story segments that unlock with bond progression, guest characters like Saber typically do not have an integrated narrative within the game itself. Her presence is a crossover feature rather than an expansion of the *Mahjong Soul* lore.
+
+#### **Character and Personality Analysis**
+
+Saber's personality in *Mahjong Soul* is consistent with her established character. She is portrayed as loyal, serious, and immensely powerful, true to her nature as a knightly Servant. Her voice lines and interactions reflect a dignified and focused demeanor. The mention of her interests in "healthy meals" and "plushies" in her official profile adds a touch of her more private, softer side, which is also a nod to fans of the original series.
+
+#### **The Player's Companion — The Experience of Using Saber**
+
+As a playable character, the experience of using Saber revolves around personalization and character progression through the game's "Bond" system.
+
+**Obtaining Saber:**
+Saber was an exclusive character available for a limited time through the "Sakura Collab" and "Bamboo Collab" summons (the game's gacha system) during the *Fate/stay night [Heaven's Feel]* event.
+
+**Bond Ascension and Materials:**
+Players can increase their "Bond" with a character by playing games with them as their avatar or by giving them gifts. As the bond level increases, players unlock additional voice lines and updated avatar graphics.
+
+To reach the maximum bond level (five full hearts) and perform a "Bond Ascension" for Saber, players need the following specific materials:
+*   50,000 max bond points
+*   10 Sphere of Innocence
+*   10 Sphere of Light
+*   5 Delicious Cookie (her preferred purple gift)
+*   10 Wishing Stones
+*   100 Star Dust
+
+Achieving a full bond unlocks a unique "Full Bond" outfit and three exclusive emotes. Additionally, Saber has a special animated "Fated Night" outfit that was available for purchase separately during the event.

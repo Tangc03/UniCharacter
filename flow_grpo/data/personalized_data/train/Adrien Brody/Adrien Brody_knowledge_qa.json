@@ -1,0 +1,1210 @@
+{
+  "description": "Adrien Brody is an introspective and enigmatic American actor and artist, known for his deep commitment to method acting. He often portrays complex characters, drawing from a profound artistic sensibility and his own rich heritage. Despite his fame, he is a private, thoughtful individual who values authentic creative expression, whether through acting, painting, or music. His articulate and philosophical nature reveals a dedicated artist constantly exploring the depths of the human condition.",
+  "opening": "",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is Adrien Brody's full name?",
+      "answer": "Adrien Nicholas Brody",
+      "evidence": "* **Name:** Adrien Nicholas Brody",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states Adrien Brody's full name under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "When was Adrien Brody born?",
+      "answer": "April 14, 1973",
+      "evidence": "* **Date of Birth:** April 14, 1973",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly provided in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "Where was Adrien Brody born?",
+      "answer": "Woodhaven, Queens, New York City",
+      "evidence": "* **Place of Birth:** Woodhaven, Queens, New York City",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is explicitly listed under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What are Adrien Brody's occupations?",
+      "answer": "Actor, Producer",
+      "evidence": "* **Occupation:** Actor, Producer",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupations are directly stated in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "Who is Adrien Brody's mother and what is her profession?",
+      "answer": "Sylvia Plachy, a photographer",
+      "evidence": "* **Heritage:** Son of photographer Sylvia Plachy...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The heritage section identifies Sylvia Plachy as his mother and states her profession as photographer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What is the ancestral background of Adrien Brody's mother?",
+      "answer": "Hungarian descent",
+      "evidence": "...Sylvia Plachy, who is of Hungarian descent...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text specifies Sylvia Plachy's descent directly after her name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What is the ancestral background of Adrien Brody's father?",
+      "answer": "Polish Jewish descent",
+      "evidence": "...Elliot Brody, who is of Polish Jewish descent.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states Elliot Brody's descent immediately after his name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What was Adrien Brody's childhood stage name for magic shows?",
+      "answer": "The Amazing Adrien",
+      "evidence": "As a child, he performed magic shows at children's birthday parties as \"The Amazing Adrien\".",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The early life section mentions his childhood magic performances and the name he used."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "Why was Adrien Brody comfortable in front of the camera from a young age?",
+      "answer": "Because his mother was a photographer.",
+      "evidence": "His mother's work as a photographer made him comfortable in front of the camera from a young age.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The cause-effect relationship is explicitly stated in the 'Early Life' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "How would you describe Adrien Brody's personality based on the profile?",
+      "answer": "Complex, introspective, enigmatic, unconventional, and deeply committed to his craft.",
+      "evidence": "Adrien Brody presents as a complex and introspective individual... described as enigmatic and unconventional... deeply committed to his craft.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Multiple descriptors are used in the 'Personality Traits' section to characterize him."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What acting technique is Adrien Brody known for?",
+      "answer": "Immersive method acting",
+      "evidence": "He is known for his immersive method acting and willingness to undergo significant physical and emotional transformations for his roles.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states his association with method acting."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "Does Adrien Brody seek the spotlight?",
+      "answer": "No",
+      "evidence": "He is not one to seek the spotlight and has expressed discomfort with the more superficial aspects of celebrity.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly states he does not seek the spotlight."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What does Adrien Brody value highly?",
+      "answer": "His privacy",
+      "evidence": "Despite his fame, Brody identifies as an introvert who is relatively shy and values his privacy.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states he values his privacy as part of his personality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "How does Adrien Brody speak in interviews?",
+      "answer": "Articulate and thoughtful",
+      "evidence": "He is articulate and thoughtful in interviews...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The trait is directly attributed in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What themes does Adrien Brody often reflect on in relation to his roles?",
+      "answer": "Heritage and displacement",
+      "evidence": "He often reflects on his personal connection to his roles, particularly those that touch upon themes of heritage and displacement.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The linguistic habits section identifies these specific themes."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What forms of creative expression does Adrien Brody pursue besides acting?",
+      "answer": "Painting and music",
+      "evidence": "He is passionate about various forms of creative expression, including painting and music...",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists painting and music as additional creative pursuits."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "Who is a director that appreciates Adrien Brody's versatility?",
+      "answer": "Wes Anderson",
+      "evidence": "His friends and collaborators, like director Wes Anderson, appreciate his versatility...",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Wes Anderson is named as a collaborator who appreciates Brody's range."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What types of characters can Adrien Brody portray according to the profile?",
+      "answer": "Deeply serious and overtly comedic",
+      "evidence": "...ability to portray a wide range of characters, from deeply serious to overtly comedic.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The range of characters is explicitly described in the personality section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "How does Adrien Brody describe the nature of his profession?",
+      "answer": "Dramatic",
+      "evidence": "...acknowledging the dramatic nature of his profession.",
+      "type": "fact",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The linguistic habits section notes he acknowledges the dramatic nature of acting."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Is Adrien Brody described as an extrovert?",
+      "answer": "No, he is described as an introvert.",
+      "evidence": "Despite his fame, Brody identifies as an introvert...",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly identifies him as an introvert."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What kind of transformations does Adrien Brody undergo for roles?",
+      "answer": "Significant physical and emotional transformations",
+      "evidence": "...willingness to undergo significant physical and emotional transformations for his roles.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies both physical and emotional transformations."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What does Adrien Brody have a deep connection to regarding his family?",
+      "answer": "His family's history of immigration and the hardships they faced.",
+      "evidence": "He has a deep connection to his family's history of immigration and the hardships they faced.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "This is stated verbatim in the heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What tone can Adrien Brody's speech take in addition to being earnest?",
+      "answer": "Self-deprecatingly humorous",
+      "evidence": "His speech can be both earnest and, at times, self-deprecatingly humorous...",
+      "type": "fact",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The linguistic habits section mentions both earnestness and self-deprecating humor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What does Adrien Brody speak about in relation to art?",
+      "answer": "The importance of art, creativity, and understanding the human condition.",
+      "evidence": "...often speaking about the importance of art, creativity, and understanding the human condition.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile lists these three topics as central to his discussions about art."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What trait complements Adrien Brody's intense dramatic work?",
+      "answer": "A playful and whimsical side",
+      "evidence": "This reflects a playful and whimsical side to his personality that complements his more intense and dramatic work.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The text states that his playful and whimsical side complements his dramatic work."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is Adrien Brody's full name?",
+      "answer": "Adrien Nicholas Brody",
+      "evidence": "* **Name:** Adrien Nicholas Brody",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly listed under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "On what date was Adrien Brody born?",
+      "answer": "April 14, 1973",
+      "evidence": "* **Date of Birth:** April 14, 1973",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birth date is directly provided in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Where was Adrien Brody born?",
+      "answer": "Woodhaven, Queens, New York City",
+      "evidence": "* **Place of Birth:** Woodhaven, Queens, New York City",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The place of birth is explicitly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What are Adrien Brody's occupations?",
+      "answer": "Actor, Producer",
+      "evidence": "* **Occupation:** Actor, Producer",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupations are listed directly under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What is the heritage of Adrien Brody's mother?",
+      "answer": "Hungarian",
+      "evidence": "who is of Hungarian descent",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states Sylvia Plachy is of Hungarian descent.",
+        "Sylvia Plachy is identified as Adrien Brody's mother."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What is the heritage of Adrien Brody's father?",
+      "answer": "Polish Jewish",
+      "evidence": "who is of Polish Jewish descent",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states Elliot Brody is of Polish Jewish descent.",
+        "Elliot Brody is identified as Adrien Brody's father."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What did Adrien Brody do as a child at birthday parties?",
+      "answer": "Performed magic shows as 'The Amazing Adrien'",
+      "evidence": "As a child, he performed magic shows at children's birthday parties as \"The Amazing Adrien\"",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The activity is described in the 'Early Life' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What was Adrien Brody's mother's profession?",
+      "answer": "Photographer",
+      "evidence": "Sylvia Plachy, who is of Hungarian descent, and retired history professor and painter Elliot Brody",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Sylvia Plachy is named and her profession as a photographer is stated in the Heritage sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What was Adrien Brody's father's profession?",
+      "answer": "Retired history professor and painter",
+      "evidence": "retired history professor and painter Elliot Brody",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profession is directly mentioned in the Heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "How did Adrien Brody's mother's career influence him?",
+      "answer": "It made him comfortable in front of the camera from a young age",
+      "evidence": "His mother's work as a photographer made him comfortable in front of the camera from a young age",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence directly links his mother's photography to his comfort with cameras."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "How is Adrien Brody described in terms of personality?",
+      "answer": "Complex and introspective, enigmatic, unconventional, deeply committed to his craft",
+      "evidence": "Adrien Brody presents as a complex and introspective individual, driven by a profound artistic sensibility. He is often described as enigmatic and unconventional... deeply committed to his craft",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Multiple descriptors are used in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What acting method is Adrien Brody known for?",
+      "answer": "Immersive method acting",
+      "evidence": "known for his immersive method acting and willingness to undergo significant physical and emotional transformations for his roles",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile explicitly states his use of immersive method acting."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What physical and emotional commitment does Adrien Brody show for his roles?",
+      "answer": "He undergoes significant physical and emotional transformations",
+      "evidence": "willingness to undergo significant physical and emotional transformations for his roles",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The commitment is directly described in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "How does Adrien Brody identify socially?",
+      "answer": "As an introvert",
+      "evidence": "Despite his fame, Brody identifies as an introvert who is relatively shy and values his privacy",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states he identifies as an introvert."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Does Adrien Brody seek the spotlight?",
+      "answer": "No, he does not seek the spotlight",
+      "evidence": "He is not one to seek the spotlight and has expressed discomfort with the more superficial aspects of celebrity",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states he does not seek the spotlight."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "How does Adrien Brody speak in interviews?",
+      "answer": "Articulate and thoughtful",
+      "evidence": "He is articulate and thoughtful in interviews",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is directly stated in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "What themes does Adrien Brody often reflect on in relation to his roles?",
+      "answer": "Heritage and displacement",
+      "evidence": "He often reflects on his personal connection to his roles, particularly those that touch upon themes of heritage and displacement",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The themes are explicitly mentioned in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "Who is a director that appreciates Adrien Brody's versatility?",
+      "answer": "Wes Anderson",
+      "evidence": "His friends and collaborators, like director Wes Anderson, appreciate his versatility",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Wes Anderson is named as a collaborator who appreciates Brody's versatility."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What range of characters can Adrien Brody portray according to collaborators?",
+      "answer": "From deeply serious to overtly comedic",
+      "evidence": "ability to portray a wide range of characters, from deeply serious to overtly comedic",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The range is explicitly described in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What other creative pursuits does Adrien Brody engage in besides acting?",
+      "answer": "Painting and music",
+      "evidence": "He is passionate about various forms of creative expression, including painting and music",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The creative pursuits are listed in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "How does Adrien Brody approach his creative pursuits outside acting?",
+      "answer": "With the same level of dedication as his acting",
+      "evidence": "which he pursues with the same level of dedication as his acting",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The level of dedication is directly compared to his acting."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What tone can Adrien Brody's speech take in interviews?",
+      "answer": "Earnest and self-deprecatingly humorous",
+      "evidence": "His speech can be both earnest and, at times, self-deprecatingly humorous",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The two tones are explicitly mentioned in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What kind of artist does Adrien Brody consider himself?",
+      "answer": "A dedicated artist seeking to understand and portray the depths of human experience",
+      "evidence": "His language is that of a dedicated artist who is constantly seeking to understand and portray the depths of human experience",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The self-concept is described in the final sentence of 'Linguistic Habits'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What connection does Adrien Brody have to his family's history?",
+      "answer": "A deep connection to their immigration and hardships",
+      "evidence": "He has a deep connection to his family's history of immigration and the hardships they faced",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The nature of the connection is explicitly stated in the 'Heritage' sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "What does Adrien Brody value personally?",
+      "answer": "Privacy",
+      "evidence": "values his privacy",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The value is directly stated in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Adrien Brody's full name?",
+      "answer": "Adrien Nicholas Brody",
+      "evidence": "### **Character Profile: Adrien Brody**\n\n**Personal Details:**\n\n* **Name:** Adrien Nicholas Brody",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated in the 'Name' field under 'Personal Details'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "When was Adrien Brody born?",
+      "answer": "April 14, 1973",
+      "evidence": "* **Date of Birth:** April 14, 1973",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly listed in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "Where was Adrien Brody born?",
+      "answer": "Woodhaven, Queens, New York City",
+      "evidence": "* **Place of Birth:** Woodhaven, Queens, New York City",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is explicitly mentioned in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "What are Adrien Brody's occupations?",
+      "answer": "Actor, Producer",
+      "evidence": "* **Occupation:** Actor, Producer",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupations are listed in the 'Personal Details' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "Who is Adrien Brody's mother and what is her profession?",
+      "answer": "Sylvia Plachy, a photographer",
+      "evidence": "Son of photographer Sylvia Plachy, who is of Hungarian descent",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The mother's name and profession are stated directly in the 'Heritage' sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What is the ethnic background of Adrien Brody's mother?",
+      "answer": "Hungarian",
+      "evidence": "Sylvia Plachy, who is of Hungarian descent",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The descent of Sylvia Plachy is explicitly stated in the 'Heritage' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "Who is Adrien Brody's father and what were his professions?",
+      "answer": "Elliot Brody, a retired history professor and painter",
+      "evidence": "and retired history professor and painter Elliot Brody, who is of Polish Jewish descent",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The father's name and professions are directly stated in the 'Heritage' sentence."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is the ethnic and religious background of Adrien Brody's father?",
+      "answer": "Polish Jewish",
+      "evidence": "Elliot Brody, who is of Polish Jewish descent",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The descent of Elliot Brody is explicitly mentioned in the 'Heritage' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What personal connection does Adrien Brody have to his family history?",
+      "answer": "He has a deep connection to his family's history of immigration and the hardships they faced.",
+      "evidence": "He has a deep connection to his family's history of immigration and the hardships they faced.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct quote from the 'Heritage' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What did Adrien Brody do as a child for entertainment?",
+      "answer": "Performed magic shows at children's birthday parties as 'The Amazing Adrien'",
+      "evidence": "As a child, he performed magic shows at children's birthday parties as \"The Amazing Adrien\".",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The activity and stage name are clearly stated in the 'Early Life' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "How did Adrien Brody's mother influence his comfort with cameras?",
+      "answer": "Her work as a photographer made him comfortable in front of the camera from a young age.",
+      "evidence": "His mother's work as a photographer made him comfortable in front of the camera from a young age.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence directly links his mother's photography to his comfort with cameras."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "How is Adrien Brody's personality generally described?",
+      "answer": "Complex and introspective, enigmatic and unconventional, deeply committed to his craft.",
+      "evidence": "Adrien Brody presents as a complex and introspective individual, driven by a profound artistic sensibility. He is often described as enigmatic and unconventional... deeply committed to his craft",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The description is synthesized from multiple adjectives and phrases in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What acting method is Adrien Brody known for?",
+      "answer": "Immersive method acting",
+      "evidence": "known for his immersive method acting and willingness to undergo significant physical and emotional transformations for his roles",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The method acting style is explicitly mentioned in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What kind of transformations does Adrien Brody undergo for roles?",
+      "answer": "Significant physical and emotional transformations",
+      "evidence": "willingness to undergo significant physical and emotional transformations for his roles",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The nature of the transformations is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "How does Adrien Brody identify socially despite his fame?",
+      "answer": "As an introvert who is relatively shy and values his privacy",
+      "evidence": "Despite his fame, Brody identifies as an introvert who is relatively shy and values his privacy",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct statement in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "What is Adrien Brody's attitude toward the superficial aspects of celebrity?",
+      "answer": "He has expressed discomfort with them",
+      "evidence": "He is not one to seek the spotlight and has expressed discomfort with the more superficial aspects of celebrity",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence explicitly states his discomfort with celebrity superficiality."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "How does Adrien Brody behave in interviews?",
+      "answer": "He is articulate and thoughtful",
+      "evidence": "He is articulate and thoughtful in interviews",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The behavior in interviews is directly described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What themes does Adrien Brody often discuss in interviews?",
+      "answer": "The importance of art, creativity, and understanding the human condition",
+      "evidence": "often speaking about the importance of art, creativity, and understanding the human condition",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The themes are listed in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "Who is a collaborator that appreciates Adrien Brody's versatility?",
+      "answer": "Director Wes Anderson",
+      "evidence": "His friends and collaborators, like director Wes Anderson, appreciate his versatility",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "Wes Anderson is specifically named as an appreciative collaborator."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What range of characters can Adrien Brody portray according to collaborators?",
+      "answer": "From deeply serious to overtly comedic",
+      "evidence": "ability to portray a wide range of characters, from deeply serious to overtly comedic",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The range is explicitly described in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What other creative pursuits does Adrien Brody engage in besides acting?",
+      "answer": "Painting and music",
+      "evidence": "He is passionate about various forms of creative expression, including painting and music",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The other creative pursuits are listed in the 'Personality Traits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "How does Adrien Brody approach his other creative pursuits compared to acting?",
+      "answer": "With the same level of dedication",
+      "evidence": "which he pursues with the same level of dedication as his acting",
+      "type": "comparison",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The sentence compares his dedication across creative fields."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "How does Adrien Brody speak in terms of style?",
+      "answer": "Thoughtfully and often with a philosophical bent",
+      "evidence": "Brody speaks thoughtfully and often with a philosophical bent",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The speaking style is directly stated in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What are two characteristics of Adrien Brody's speech?",
+      "answer": "Articulate and expressive, choosing words carefully",
+      "evidence": "He is articulate and expressive, choosing his words carefully",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Two characteristics are explicitly mentioned in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What themes in roles does Adrien Brody often reflect on personally?",
+      "answer": "Heritage and displacement",
+      "evidence": "He often reflects on his personal connection to his roles, particularly those that touch upon themes of heritage and displacement",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The themes are explicitly named in the 'Linguistic Habits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Adrien Brody's full name?",
+      "answer": "Adrien Nicholas Brody",
+      "evidence": "### **Character Profile: Adrien Brody**\n\n**Personal Details:**\n\n* **Name:** Adrien Nicholas Brody",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The full name is explicitly stated under the 'Name' field in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "When was Adrien Brody born?",
+      "answer": "April 14, 1973",
+      "evidence": "* **Date of Birth:** April 14, 1973",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The date of birth is directly provided in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "Where was Adrien Brody born?",
+      "answer": "Woodhaven, Queens, New York City",
+      "evidence": "* **Place of Birth:** Woodhaven, Queens, New York City",
+      "type": "location",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthplace is clearly listed under 'Place of Birth'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What are Adrien Brody's occupations?",
+      "answer": "Actor, Producer",
+      "evidence": "* **Occupation:** Actor, Producer",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The occupations are explicitly listed in the Personal Details section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "Who is Adrien Brody's mother and what is her profession?",
+      "answer": "Sylvia Plachy, a photographer",
+      "evidence": "* **Heritage:** Son of photographer Sylvia Plachy, who is of Hungarian descent",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The name and profession of his mother are stated in the Heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What is the ethnic background of Adrien Brody's father?",
+      "answer": "Polish Jewish descent",
+      "evidence": "and retired history professor and painter Elliot Brody, who is of Polish Jewish descent.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The father's ethnic background is specified in the Heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What was Adrien Brody's childhood performance persona called?",
+      "answer": "The Amazing Adrien",
+      "evidence": "As a child, he performed magic shows at children's birthday parties as \"The Amazing Adrien\".",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The nickname is directly mentioned in the Early Life section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What type of performances did Adrien Brody do as a child?",
+      "answer": "Magic shows at children's birthday parties",
+      "evidence": "As a child, he performed magic shows at children's birthday parties as \"The Amazing Adrien\".",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The nature of his childhood performances is described in the Early Life section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "How did Adrien Brody's mother influence his comfort with cameras?",
+      "answer": "Her work as a photographer made him comfortable in front of the camera from a young age.",
+      "evidence": "His mother's work as a photographer made him comfortable in front of the camera from a young age.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The causal relationship between his mother's profession and his comfort is stated explicitly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What personality trait is Adrien Brody often described as having?",
+      "answer": "Enigmatic and unconventional",
+      "evidence": "He is often described as enigmatic and unconventional, choosing to follow his creative instincts rather than a conventional career path.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "These descriptors are directly used in the Personality Traits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "Why does Adrien Brody avoid a conventional career path?",
+      "answer": "He chooses to follow his creative instincts.",
+      "evidence": "choosing to follow his creative instincts rather than a conventional career path.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The reason is directly given in the Personality Traits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What acting method is Adrien Brody known for?",
+      "answer": "Immersive method acting",
+      "evidence": "He is deeply committed to his craft, known for his immersive method acting and willingness to undergo significant physical and emotional transformations for his roles.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The acting method is explicitly named in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What physical and emotional commitment is Adrien Brody known for in his roles?",
+      "answer": "Significant physical and emotional transformations",
+      "evidence": "known for his immersive method acting and willingness to undergo significant physical and emotional transformations for his roles.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The commitment is directly described in the Personality Traits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "How does Adrien Brody identify socially despite his fame?",
+      "answer": "As an introvert who is relatively shy and values his privacy",
+      "evidence": "Despite his fame, Brody identifies as an introvert who is relatively shy and values his privacy.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "His self-identification is stated in the Personality Traits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What aspect of celebrity does Adrien Brody express discomfort with?",
+      "answer": "The more superficial aspects of celebrity",
+      "evidence": "has expressed discomfort with the more superficial aspects of celebrity.",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "His discomfort is explicitly mentioned in relation to superficial celebrity culture."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "How does Adrien Brody typically speak in interviews?",
+      "answer": "Thoughtfully and often with a philosophical bent",
+      "evidence": "He is articulate and thoughtful in interviews, often speaking about the importance of art, creativity, and understanding the human condition.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The description of his interview style is directly supported by the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What themes does Adrien Brody often reflect on in relation to his roles?",
+      "answer": "Heritage and displacement",
+      "evidence": "He often reflects on his personal connection to his roles, particularly those that touch upon themes of heritage and displacement.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The themes are explicitly listed in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What creative activities does Adrien Brody pursue outside of acting?",
+      "answer": "Painting and music",
+      "evidence": "He is passionate about various forms of creative expression, including painting and music, which he pursues with the same level of dedication as his acting.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The additional creative pursuits are listed in the Personality Traits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What quality do Adrien Brody's collaborators appreciate in him?",
+      "answer": "His versatility and ability to portray a wide range of characters",
+      "evidence": "His friends and collaborators, like director Wes Anderson, appreciate his versatility and ability to portray a wide range of characters, from deeply serious to overtly comedic.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The quality is directly stated as appreciated by collaborators."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What contrasting sides of Adrien Brody's personality are mentioned?",
+      "answer": "A playful and whimsical side complements his more intense and dramatic work",
+      "evidence": "This reflects a playful and whimsical side to his personality that complements his more intense and dramatic work.",
+      "type": "comparison",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The contrast between playful and intense aspects is explicitly drawn in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "How does Adrien Brody describe the nature of his profession?",
+      "answer": "He acknowledges the dramatic nature of his profession with self-deprecating humor",
+      "evidence": "His speech can be both earnest and, at times, self-deprecatingly humorous, acknowledging the dramatic nature of his profession.",
+      "type": "quote",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The description of how he talks about his job includes both earnestness and self-deprecating humor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What is the focus of Adrien Brody's artistic exploration?",
+      "answer": "Understanding and portraying the depths of human experience",
+      "evidence": "His language is that of a dedicated artist who is constantly seeking to understand and portray the depths of human experience.",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The purpose of his artistry is explicitly defined in the Linguistic Habits section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What familial history does Adrien Brody have a deep connection to?",
+      "answer": "His family's history of immigration and the hardships they faced",
+      "evidence": "He has a deep connection to his family's history of immigration and the hardships they faced.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The familial history is directly stated in the Heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What was Adrien Brody's father's profession before retirement?",
+      "answer": "History professor and painter",
+      "evidence": "and retired history professor and painter Elliot Brody",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The father's professions are listed in the Heritage section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What dual artistic influences did Adrien Brody experience in his upbringing?",
+      "answer": "Photography from his mother and painting/history from his father",
+      "evidence": "Son of photographer Sylvia Plachy... and retired history professor and painter Elliot Brody... His mother's work as a photographer made him comfortable in front of the camera from a young age.",
+      "type": "reasoning",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The mother's influence is in photography, as stated.",
+        "The father's dual role as a painter and history professor indicates artistic and academic influence.",
+        "Together, these form dual artistic influences from both parents."
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

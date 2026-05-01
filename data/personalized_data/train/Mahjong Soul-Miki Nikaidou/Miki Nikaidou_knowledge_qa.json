@@ -1,0 +1,1273 @@
+{
+  "description": "Miki Nikaidou is an intelligent and mysterious mahjong player with a flirtatious and unpredictable nature. She carries an air of calm confidence, often teasing those around her with a playful charm. Miki has a deep appreciation for luxury, especially gorgeous gems, and is accompanied by her pet hedgehog. While her motives can be hard to read, she approaches every situation, from a high-stakes game to a casual conversation, with a sharp intellect and an enigmatic smile.",
+  "opening": "Hoho, have you been waiting long? Let's make this next game interesting, shall we?",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is the full name of the character Miki Nikaidou in Japanese?",
+      "answer": "二階堂 美樹",
+      "evidence": "* **Name:** Miki Nikaidou (二階堂 美樹)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The name is explicitly given in the profile under the 'Name' field with the Japanese characters in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "Who is the voice actor for Miki Nikaidou?",
+      "answer": "Chiwa Saitou (斎藤 千和)",
+      "evidence": "* **Voice Actor:** Chiwa Saitou (斎藤 千和)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is directly stated in the 'Official Biography and Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "On what date is Miki Nikaidou's birthday?",
+      "answer": "February 14th",
+      "evidence": "* **Birthday:** February 14th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday is explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "How old is Miki Nikaidou?",
+      "answer": "24",
+      "evidence": "* **Age:** 24",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The age is directly provided in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What is Miki Nikaidou's height in centimeters?",
+      "answer": "168cm",
+      "evidence": "* **Height:** 168cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is explicitly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "What is Miki Nikaidou's blood type?",
+      "answer": "A",
+      "evidence": "* **Blood Type:** A",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The blood type is listed in the official biography section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "What are Miki Nikaidou's two stated interests?",
+      "answer": "Gems and Hedgehog pets",
+      "evidence": "* **Interests:** Gems, Hedgehog pets",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The interests are directly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What is the name of the game in which Miki Nikaidou appears?",
+      "answer": "Mahjong Soul",
+      "evidence": "Here is a detailed collection of information regarding Mahjong Soul and the character Miki Nikaidou.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The game is named in the opening line of the PROFILE_TEXT."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What variant of mahjong is Mahjong Soul based on?",
+      "answer": "Riichi Mahjong",
+      "evidence": "Mahjong Soul is based on **Riichi Mahjong** (also known as Japanese Modern Mahjong), a popular variant of the game.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The game's basis is clearly stated in the first section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What is the goal of Riichi Mahjong?",
+      "answer": "To be the first player to complete a legal winning hand and finish the game with more points than any other player.",
+      "evidence": "* **The Goal:** The ultimate goal is to be the first player to complete a legal winning hand and to finish the game with more points than any other player.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The goal is explicitly defined in the 'Fundamentals of Riichi Mahjong' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What is the composition of a standard winning hand in Riichi Mahjong?",
+      "answer": "Four sets (melds) and one pair.",
+      "evidence": "* **The Hand:** A standard winning hand consists of 14 tiles, divided into **four sets (melds)** and **one pair**.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The composition is clearly defined in the hand rules section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What are the two types of melds in a Riichi Mahjong hand?",
+      "answer": "Koutsu (triplet) and Shuntsu (sequence)",
+      "evidence": "These can be either a *Koutsu* (triplet, three identical tiles) or a *Shuntsu* (sequence, three consecutive tiles in the same suit).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The two meld types are explicitly named and defined."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "Why is a yaku required to win a hand in Riichi Mahjong?",
+      "answer": "Because having four sets and a pair is not enough; a specific scoring pattern (yaku) is mandatory to win.",
+      "evidence": "Unlike some other mahjong variants, you cannot win a hand just by having four sets and a pair. Your hand *must* contain at least one *yaku* (a specific scoring pattern).",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states that unlike other variants, a yaku is required.",
+        "It clarifies that a winning hand must have at least one yaku."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What is the benefit of declaring Riichi in a game of Riichi Mahjong?",
+      "answer": "It grants the Riichi yaku, adds one ura-dora, and often increases the hand's value significantly.",
+      "evidence": "**Benefit:** Winning after declaring Riichi grants you the *Riichi* yaku, adds one *dora* (bonus tile) via the *ura-dora*, and often increases the hand's value significantly.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefits are explicitly listed under the 'Riichi (Ready Hand)' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What happens if you declare Riichi and draw a tile that does not complete your hand?",
+      "answer": "You must automatically discard it unless it can form a concealed kan.",
+      "evidence": "You can no longer change your hand. You must automatically discard any tile you draw that does not complete your hand (unless it can be used to form a concealed *kan*).",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rule is clearly stated in the 'Riichi' section under risk."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "Can dora tiles alone allow a player to win a hand in Riichi Mahjong?",
+      "answer": "No, dora do not count as yaku; a separate yaku is still required to win.",
+      "evidence": "These tiles add *han* (double value) to a winning hand, but they *do not* count as yaku. You still need a separate yaku to win.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states that dora do not count as yaku.",
+        "It reiterates that a separate yaku is needed to win."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "What are the three types of fuurou (calls) in Riichi Mahjong?",
+      "answer": "Chii, Pon, Kan",
+      "evidence": "* **Chii:** Calling to complete a sequence... * **Pon:** Calling to complete a triplet... * **Kan:** Calling to complete a quad...",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three types are explicitly named and defined under 'Fuurou (Calling Tiles)'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What disadvantage does opening your hand via fuurou have regarding Riichi?",
+      "answer": "It disqualifies you from using Riichi and many concealed-hand yaku.",
+      "evidence": "The main drawback is that opening your hand disqualifies you from using *Riichi* and many other valuable concealed-hand yaku...",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The drawback is explicitly stated in the 'Fuurou' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What role does Miki Nikaidou play in Mahjong Soul gameplay?",
+      "answer": "She serves as a cosmetic avatar with unique voice lines and emotes, but has no gameplay advantages.",
+      "evidence": "In Mahjong Soul, characters (or *Janshi*) are primarily cosmetic. They do not have any abilities that affect the rules of mahjong or give you a statistical advantage. Miki's role is to serve as the player's avatar.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The role is defined in the 'Role in Gameplay' section.",
+        "It emphasizes cosmetic use and lack of mechanical effect."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "Is Miki Nikaidou a paid or free character in Mahjong Soul?",
+      "answer": "Free",
+      "evidence": "Miki Nikaidou is one of the **initial free characters** available to all new players, alongside Ichihime.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states she is an 'initial free character'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "What are the bond story chapters for Miki Nikaidou in order?",
+      "answer": "Tenhoukaku, Agate, Mahjong Competition, Dinner, Date, Experience",
+      "evidence": "Her story segments are unlocked sequentially: * **Bond Lv. 1:** Tenhoukaku * **Bond Lv. 2:** Agate * **Bond Lv. 3:** Mahjong Competition * **Bond Lv. 4:** Dinner * **Bond Lv. 5:** Date * **Max Bond:** Experience",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The stories are listed in sequential order by bond level."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "What real-life figures inspired the character Miki Nikaidou?",
+      "answer": "The Nikaidou Sisters (Rumi Nikaidou and Aki Nikaidou)",
+      "evidence": "The character 'Miki Nikaidou' is directly inspired by two famous, real-life professional mahjong players: the **Nikaidou Sisters (二階堂姉妹)**. Her name, **Miki (美樹)**, is a portmanteau of the sisters' first names: Ru**mi** Nikaidou (二階堂 瑠美) and A**ki** Nikaidou (二階堂 亜樹).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The inspiration is explicitly stated, including the origin of her name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "What gifts increase bond points by 50% when given to Miki Nikaidou?",
+      "answer": "Diamonds (e.g., Green Diamond, Blue Diamond, Purple Diamond)",
+      "evidence": "Based on her bio (loves gems), her preferred gifts are **Diamonds** (e.g., Green Diamond, Blue Diamond, Purple Diamond).",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The preferred gifts are stated under 'Preferred Gifts'.",
+        "The reason is linked to her interest in gems."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What does Miki Nikaidou unlock at maximum bond level (Level 5)?",
+      "answer": "The ability to audibly announce the han of winning hands (e.g., 'Mangan', 'Haneman').",
+      "evidence": "**Level 5 (Max):** Unlocks the ability for her to audibly announce the *han* (point value) of your winning hands (e.g., 'Mangan,' 'Haneman').",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The unlock is explicitly listed under 'Bond Level Unlocks'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What materials are required to perform Miki Nikaidou's Bond Ascension?",
+      "answer": "Heart of the Ocean x5, Sphere of Love x10, Sphere of Wisdom x10, Wishing Stone x10, Star Dust x100",
+      "evidence": "* **Heart of the Ocean** x5... * **Sphere of Love** x10 * **Sphere of Wisdom** x10 * **Wishing Stone** x10 * **Star Dust** x100",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The required materials are explicitly listed under 'Miki's Bond Ascension Materials'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is the name of the character described in the profile?",
+      "answer": "Miki Nikaidou",
+      "evidence": [
+        "* **Name:** Miki Nikaidou (二階堂 美樹)"
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists the character's name under the 'Name' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "Who is the voice actor for Miki Nikaidou?",
+      "answer": "Chiwa Saitou",
+      "evidence": [
+        "* **Voice Actor:** Chiwa Saitou (斎藤 千和)"
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is directly stated in the 'Voice Actor' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "What is Miki Nikaidou's birthday?",
+      "answer": "February 14th",
+      "evidence": [
+        "* **Birthday:** February 14th"
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday is explicitly listed in the profile under 'Birthday'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "How tall is Miki Nikaidou?",
+      "answer": "168cm",
+      "evidence": [
+        "* **Height:** 168cm"
+      ],
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is given in centimeters in the 'Height' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "What is Miki Nikaidou's blood type?",
+      "answer": "A",
+      "evidence": [
+        "* **Blood Type:** A"
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The blood type is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "What are Miki Nikaidou's interests according to her official biography?",
+      "answer": "Gems and hedgehog pets",
+      "evidence": [
+        "* **Interests:** Gems, Hedgehog pets"
+      ],
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Interests' bullet point lists two items: gems and hedgehog pets."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What is the primary game mode that Mahjong Soul is based on?",
+      "answer": "Riichi Mahjong",
+      "evidence": [
+        "Mahjong Soul is based on **Riichi Mahjong** (also known as Japanese Modern Mahjong), a popular variant of the game."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first sentence of section 1 explicitly names the game mode."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What is the goal of Riichi Mahjong?",
+      "answer": "To be the first player to complete a legal winning hand and finish with more points than others.",
+      "evidence": [
+        "* **The Goal:** The ultimate goal is to be the first player to complete a legal winning hand and to finish the game with more points than any other player."
+      ],
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The goal is clearly defined in the 'The Goal' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "How many tiles are in a standard winning hand in Riichi Mahjong?",
+      "answer": "14",
+      "evidence": [
+        "* **The Hand:** A standard winning hand consists of 14 tiles, divided into **four sets (melds)** and **one pair**."
+      ],
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The number of tiles is directly stated in the 'The Hand' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What must a player have in addition to four sets and a pair to win a hand in Riichi Mahjong?",
+      "answer": "At least one yaku",
+      "evidence": [
+        "* **Yaku (Winning Patterns):** Unlike some other mahjong variants, you cannot win a hand just by having four sets and a pair. Your hand *must* contain at least one *yaku* (a specific scoring pattern)."
+      ],
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The necessity of a yaku is explicitly stated in the 'Yaku' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "What is the benefit of declaring 'Riichi' in Riichi Mahjong?",
+      "answer": "It grants the *Riichi* yaku, adds one *ura-dora*, and increases the hand's value significantly.",
+      "evidence": [
+        "* **Benefit:** Winning after declaring Riichi grants you the *Riichi* yaku, adds one *dora* (bonus tile) via the *ura-dora*, and often increases the hand's value significantly."
+      ],
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefits are listed under the 'Benefit' bullet point in the 'Riichi' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What is the risk of declaring 'Riichi'?",
+      "answer": "You can no longer change your hand and must discard any tile you draw that doesn't complete it.",
+      "evidence": [
+        "* **Risk:** You can no longer change your hand. You must automatically discard any tile you draw that does not complete your hand (unless it can be used to form a concealed *kan*)."
+      ],
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The risk is clearly outlined in the 'Risk' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What role do dora tiles play in a winning hand?",
+      "answer": "They add han (double value) to a winning hand but do not count as yaku.",
+      "evidence": [
+        "* **Dora (Bonus Tiles):** These tiles add *han* (double value) to a winning hand, but they *do not* count as yaku. You still need a separate yaku to win."
+      ],
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The role of dora is explained in the 'Dora' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What is the purpose of 'Fuurou' in Riichi Mahjong?",
+      "answer": "To call an opponent's discard to complete a meld, but it opens your hand.",
+      "evidence": [
+        "* **Fuurou (Calling Tiles):** You can 'call' an opponent's discard to complete a meld, but this opens your hand."
+      ],
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The purpose is directly stated in the 'Fuurou' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "What are the three types of calls in Fuurou?",
+      "answer": "Chii, Pon, and Kan",
+      "evidence": [
+        " * **Chii:** Calling to complete a sequence...",
+        " * **Pon:** Calling to complete a triplet...",
+        " * **Kan:** Calling to complete a quad..."
+      ],
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The three types are explicitly named and defined in the Fuurou section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is Miki Nikaidou's role in Mahjong Soul gameplay?",
+      "answer": "She serves as a cosmetic avatar with unique voice lines and emotes.",
+      "evidence": [
+        "In Mahjong Soul, characters (or *Janshi*) are primarily cosmetic... Miki's role is to serve as the player's avatar.",
+        "She provides unique visuals, a full set of voice lines... and a distinct set of emotes..."
+      ],
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The role is described in the 'Miki Nikaidou's Role in Gameplay' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "Is Miki Nikaidou a paid character in Mahjong Soul?",
+      "answer": "No, she is a starter character available for free.",
+      "evidence": [
+        "Miki Nikaidou is one of the **initial free characters** available to all new players..."
+      ],
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile states she is one of the initial free characters."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "How is Miki Nikaidou's personality described in her official biography?",
+      "answer": "Intelligent with a flirtatious nature, making her unpredictable.",
+      "evidence": [
+        "She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable."
+      ],
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The description is directly quoted from the official biography."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What real-life figures inspired the character Miki Nikaidou?",
+      "answer": "The Nikaidou Sisters (Rumi and Aki Nikaidou).",
+      "evidence": [
+        "The character 'Miki Nikaidou' is directly inspired by two famous, real-life professional mahjong players: the **Nikaidou Sisters (二階堂姉妹)**.",
+        "Her name, **Miki (美樹)**, is a portmanteau of the sisters' first names: Ru**mi** Nikaidou (二階堂 瑠美) and A**ki** Nikaidou (二階堂 亜樹)."
+      ],
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The inspiration and name derivation are explicitly stated in the 'Real-World Inspiration' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What is the name of Miki Nikaidou's max bond story chapter?",
+      "answer": "Experience",
+      "evidence": [
+        "* **Max Bond:** Experience"
+      ],
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Max Bond' story title is listed in the 'Tale - Backstory and Lore' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What are Miki Nikaidou's preferred gifts for increasing bond points?",
+      "answer": "Diamonds (e.g., Green Diamond, Blue Diamond, Purple Diamond)",
+      "evidence": [
+        "her preferred gifts are **Diamonds** (e.g., Green Diamond, Blue Diamond, Purple Diamond)."
+      ],
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The preferred gifts are explicitly listed in the 'Preferred Gifts' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "What reward does Max Bond Level 5 unlock for Miki Nikaidou?",
+      "answer": "The ability to audibly announce the han value of winning hands.",
+      "evidence": [
+        "Level 5 (Max): Unlocks the ability for her to audibly announce the *han* (point value) of your winning hands (e.g., 'Mangan,' 'Haneman')."
+      ],
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The specific reward is detailed in the 'Bond Level Unlocks' section under Level 5."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What materials are required for Miki Nikaidou's Bond Ascension?",
+      "answer": "Heart of the Ocean x5, Sphere of Love x10, Sphere of Wisdom x10, Wishing Stone x10, Star Dust x100",
+      "evidence": [
+        "* **Heart of the Ocean** x5",
+        "* **Sphere of Love** x10",
+        "* **Sphere of Wisdom** x10",
+        "* **Wishing Stone** x10",
+        "* **Star Dust** x100"
+      ],
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are listed in the 'Miki's Bond Ascension Materials' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What rewards does Miki Nikaidou's Bond Ascension provide?",
+      "answer": "A new outfit, new emotes, and the final story chapter.",
+      "evidence": [
+        "1. **New Outfit:** Unlocks her exclusive 'Bond Promise' outfit...",
+        "2. **New Emotes:** Unlocks her final set of three character-specific emotes.",
+        "3. **Final Story:** Unlocks the final chapter of her backstory."
+      ],
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The three rewards are explicitly listed under 'Rewards for Bond Ascension'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "Can Miki Nikaidou's voice lines affect gameplay mechanics in Mahjong Soul?",
+      "answer": "No, her voice lines are purely cosmetic.",
+      "evidence": [
+        "In Mahjong Soul, characters (or *Janshi*) are primarily cosmetic. They do not have any abilities that affect the rules of mahjong or give you a statistical advantage."
+      ],
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that characters are purely cosmetic and do not affect gameplay."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is Miki Nikaidou's full name in Japanese characters?",
+      "answer": "二階堂 美樹",
+      "evidence": "* **Name:** Miki Nikaidou (二階堂 美樹)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly lists her name with the Japanese characters in parentheses."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "Who is the voice actor for Miki Nikaidou?",
+      "answer": "Chiwa Saitou",
+      "evidence": "* **Voice Actor:** Chiwa Saitou (斎藤 千和)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Voice Actor' field in the profile directly states the answer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "What is Miki Nikaidou's birthday?",
+      "answer": "February 14th",
+      "evidence": "* **Birthday:** February 14th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday is explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "How old is Miki Nikaidou?",
+      "answer": "24",
+      "evidence": "* **Age:** 24",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The age is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What is Miki Nikaidou's height in centimeters?",
+      "answer": "168cm",
+      "evidence": "* **Height:** 168cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What is Miki Nikaidou's blood type?",
+      "answer": "A",
+      "evidence": "* **Blood Type:** A",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The blood type is directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What are Miki Nikaidou's two main interests as listed in her biography?",
+      "answer": "Gems and Hedgehog pets",
+      "evidence": "* **Interests:** Gems, Hedgehog pets",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The 'Interests' field in the profile lists these two items."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is the main goal in Riichi Mahjong according to the profile?",
+      "answer": "To be the first player to complete a legal winning hand and finish with more points than others.",
+      "evidence": "* **The Goal:** The ultimate goal is to be the first player to complete a legal winning hand and to finish the game with more points than any other player.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The goal is defined in the 'The Goal' bullet point."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What must a winning hand in Riichi Mahjong include beyond four sets and a pair?",
+      "answer": "At least one yaku.",
+      "evidence": "* **Yaku (Winning Patterns):** ... your hand *must* contain at least one *yaku* (a specific scoring pattern).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies that having four sets and a pair is not enough; a yaku is required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "Can Miki Nikaidou affect gameplay mechanics in Mahjong Soul?",
+      "answer": "No, she is purely cosmetic.",
+      "evidence": "In Mahjong Soul, characters (or *Janshi*) are primarily cosmetic. They do not have any abilities that affect the rules of mahjong or give you a statistical advantage.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile states that characters are purely cosmetic and do not affect rules or stats."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "Is Miki Nikaidou a paid or free character in Mahjong Soul?",
+      "answer": "Free",
+      "evidence": "Miki Nikaidou is one of the **initial free characters** available to all new players, alongside Ichihime.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states she is an 'initial free character'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What does declaring 'Riichi' require about a player's hand condition?",
+      "answer": "The hand must be tenpai and menzenchin (fully concealed).",
+      "evidence": "If you have a *tenpai* (ready) hand—meaning you are one tile away from winning—and your hand is *menzenchin* (fully concealed, no 'called' melds), you can declare 'Riichi.'",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The condition for declaring Riichi is explicitly defined in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What is the penalty if you declare Riichi and draw a tile that doesn't complete your hand?",
+      "answer": "You must automatically discard it (unless it can form a concealed kan).",
+      "evidence": "You can no longer change your hand. You must automatically discard any tile you draw that does not complete your hand (unless it can be used to form a concealed *kan*).",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes the restriction after declaring Riichi."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What benefit does winning after declaring Riichi provide?",
+      "answer": "It grants the Riichi yaku, adds one ura-dora, and often increases the hand's value significantly.",
+      "evidence": "Winning after declaring Riichi grants you the *Riichi* yaku, adds one *dora* (bonus tile) via the *ura-dora*, and often increases the hand's value significantly.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefits are listed in the 'Benefit' subsection of 'Riichi'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What are dora tiles used for in Riichi Mahjong?",
+      "answer": "They add han (double value) to a winning hand.",
+      "evidence": "These tiles add *han* (double value) to a winning hand, but they *do not* count as yaku.",
+      "type": "function",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The purpose of dora is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Can you call Chii from any opponent in Riichi Mahjong?",
+      "answer": "No, only from the player to your left.",
+      "evidence": "* **Chii:** Calling to complete a sequence (can only be done from the player to your left).",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rule for Chii specifies it can only be done from the player to your left."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What real-life figures inspired the character Miki Nikaidou?",
+      "answer": "The Nikaidou Sisters (Rumi and Aki Nikaidou).",
+      "evidence": "The character 'Miki Nikaidou' is directly inspired by two famous, real-life professional mahjong players: the **Nikaidou Sisters (二階堂姉妹)**. Her name, **Miki (美樹)**, is a portmanteau of the sisters' first names: Ru**mi** Nikaidou and A**ki** Nikaidou.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Real-World Inspiration' section identifies the Nikaidou Sisters as inspiration.",
+        "Her name is a portmanteau of Rumi and Aki."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What is the name of the first story unlocked in Miki Nikaidou's Bond progression?",
+      "answer": "Tenhoukaku",
+      "evidence": "* **Bond Lv. 1:** Tenhoukaku",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The list under 'In-Game Stories' shows the first story is 'Tenhoukaku'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "At what Bond Level does Miki Nikaidou unlock her final story?",
+      "answer": "Level 5 (Max Bond)",
+      "evidence": "* **Max Bond:** Experience",
+      "type": "timeline",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Max Bond' entry corresponds to the final story chapter 'Experience'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "What are Miki Nikaidou's preferred gifts in the Bond system?",
+      "answer": "Diamonds (e.g., Green Diamond, Blue Diamond, Purple Diamond)",
+      "evidence": "her preferred gifts are **Diamonds** (e.g., Green Diamond, Blue Diamond, Purple Diamond).",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states her preferred gifts are Diamonds, with examples."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "What reward does Miki Nikaidou unlock upon Bond Ascension?",
+      "answer": "A new outfit, new emotes, and the final story chapter.",
+      "evidence": "Rewards for Bond Ascension: 1. **New Outfit:** ... 2. **New Emotes:** ... 3. **Final Story:** ...",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Rewards for Bond Ascension' section lists three items."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What materials are required to perform Miki Nikaidou's Bond Ascension?",
+      "answer": "Heart of the Ocean x5, Sphere of Love x10, Sphere of Wisdom x10, Wishing Stone x10, Star Dust x100",
+      "evidence": "* **Miki's Bond Ascension Materials:** * **Heart of the Ocean** x5 ... * **Sphere of Love** x10 ... * **Sphere of Wisdom** x10 ... * **Wishing Stone** x10 ... * **Star Dust** x100",
+      "type": "procedure",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The materials are listed in bullet points under 'Miki's Bond Ascension Materials'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What does Miki Nikaidou unlock at Bond Level 5?",
+      "answer": "The ability to audibly announce the han of winning hands (e.g., 'Mangan', 'Haneman').",
+      "evidence": "* **Level 5 (Max):** Unlocks the ability for her to audibly announce the *han* (point value) of your winning hands (e.g., 'Mangan,' 'Haneman').",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile specifies what is unlocked at Level 5."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "How can a player increase their Bond Level with Miki Nikaidou?",
+      "answer": "By playing games using her in Silver-rank rooms or higher and by giving her gifts.",
+      "evidence": "You increase your Bond Level with Miki by: 1. **Playing Games:** Using her as your active character in Silver-rank rooms or higher. 2. **Giving Gifts:** Gifting her items from your inventory.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The two methods are explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What is the primary personality trait that makes Miki Nikaidou unpredictable?",
+      "answer": "Her flirtatious and teasing nature.",
+      "evidence": "She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable.",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile links her flirtatiousness directly to her unpredictability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is Miki Nikaidou's birthday?",
+      "answer": "February 14th",
+      "evidence": "Birthday: February 14th",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists Miki Nikaidou's birthday under the 'Official Biography and Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "What is Miki Nikaidou's age?",
+      "answer": "24",
+      "evidence": "Age: 24",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT directly states Miki Nikaidou's age in the 'Official Biography and Personality' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What is Miki Nikaidou's height?",
+      "answer": "168cm",
+      "evidence": "Height: 168cm",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT provides Miki Nikaidou's height under 'Official Biography and Personality'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "What is Miki Nikaidou's blood type?",
+      "answer": "A",
+      "evidence": "Blood Type: A",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT lists her blood type as A in the biography section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "Who is the voice actor for Miki Nikaidou?",
+      "answer": "Chiwa Saitou",
+      "evidence": "Voice Actor: Chiwa Saitou (斎藤 千和)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This information is directly stated under 'Official Biography and Personality'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What are Miki Nikaidou's interests according to her official biography?",
+      "answer": "Gems and hedgehog pets",
+      "evidence": "Interests: Gems, Hedgehog pets",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly lists her interests as 'Gems, Hedgehog pets'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "What type of mahjong does Mahjong Soul use?",
+      "answer": "Riichi Mahjong",
+      "evidence": "Mahjong Soul is based on **Riichi Mahjong** (also known as Japanese Modern Mahjong)",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The first sentence of 'The Fundamentals of Riichi Mahjong' states the game variant used."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What is the goal of Riichi Mahjong?",
+      "answer": "To be the first player to complete a legal winning hand and finish with more points than others.",
+      "evidence": "The goal is to be the first player to complete a legal winning hand and to finish the game with more points than any other player.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The goal is explicitly defined in the 'Fundamentals of Riichi Mahjong' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "What constitutes a standard winning hand in Riichi Mahjong?",
+      "answer": "Four sets and one pair, totaling 14 tiles.",
+      "evidence": "A standard winning hand consists of 14 tiles, divided into **four sets (melds)** and **one pair**.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The structure of a winning hand is defined under 'The Hand' in the fundamentals section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "Why can't a player win in Riichi Mahjong with just four sets and a pair?",
+      "answer": "Because the hand must contain at least one yaku to be valid.",
+      "evidence": "you cannot win a hand just by having four sets and a pair. Your hand *must* contain at least one *yaku* (a specific scoring pattern).",
+      "type": "reasoning",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explains that a yaku is required in addition to the basic hand structure."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What is the benefit of declaring Riichi in a game of Riichi Mahjong?",
+      "answer": "It grants the Riichi yaku, adds one ura-dora, and increases hand value significantly.",
+      "evidence": "Winning after declaring Riichi grants you the *Riichi* yaku, adds one *dora* (bonus tile) via the *ura-dora*, and often increases the hand's value significantly.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefits of declaring Riichi are listed under the 'Riichi (Ready Hand)' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What are the two conditions required to declare Riichi?",
+      "answer": "The hand must be tenpai (one tile away from winning) and menzenchin (fully concealed).",
+      "evidence": "If you have a *tenpai* (ready) hand... and your hand is *menzenchin* (fully concealed, no 'called' melds), you can declare 'Riichi.'",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The two conditions are stated in the same sentence describing when Riichi can be declared."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "What is the role of dora in Riichi Mahjong?",
+      "answer": "Dora tiles add han (double value) to a winning hand but do not count as yaku.",
+      "evidence": "These tiles add *han* (double value) to a winning hand, but they *do not* count as yaku.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The purpose and limitation of dora are clearly outlined in the 'Dora (Bonus Tiles)' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What are the three types of fuurou (called melds) in Riichi Mahjong?",
+      "answer": "Chii, Pon, and Kan",
+      "evidence": "Chii: Calling to complete a sequence... Pon: Calling to complete a triplet... Kan: Calling to complete a quad",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The three types of fuurou are defined with their respective names and functions."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "From which player can a Chii be called?",
+      "answer": "Only from the player to your left",
+      "evidence": "Chii: Calling to complete a sequence (can only be done from the player to your left).",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The restriction on Chii is explicitly stated in the 'Fuurou' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "What is Miki Nikaidou's role in Mahjong Soul gameplay?",
+      "answer": "She is a cosmetic avatar with no gameplay advantages.",
+      "evidence": "In Mahjong Soul, characters (or *Janshi*) are primarily cosmetic. They do not have any abilities that affect the rules of mahjong or give you a statistical advantage.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text clarifies that characters like Miki are purely cosmetic.",
+        "No mechanical effects are attributed to her."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "Is Miki Nikaidou a paid character in Mahjong Soul?",
+      "answer": "No, she is one of the initial free characters.",
+      "evidence": "Miki Nikaidou is one of the **initial free characters** available to all new players, alongside Ichihime.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states she is a free starter character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "How is Miki Nikaidou's personality described in her official biography?",
+      "answer": "Intelligent with a flirtatious nature, making her unpredictable.",
+      "evidence": "She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable.",
+      "type": "quote",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "This is a direct quote from her official biography."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What real-life inspiration is Miki Nikaidou based on?",
+      "answer": "The Nikaidou Sisters, specifically a portmanteau of Rumi and Aki Nikaidou.",
+      "evidence": "The character 'Miki Nikaidou' is directly inspired by two famous, real-life professional mahjong players: the Nikaidou Sisters... Her name, Miki (美樹), is a portmanteau of the sisters' first names: Ru**mi** Nikaidou... and A**ki** Nikaidou.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text directly states her inspiration and explains the etymology of her name."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What does increasing Bond Level with Miki unlock?",
+      "answer": "Backstory chapters, new voice lines, and the ability to announce han values at max level.",
+      "evidence": "Unlocks her backstory chapters and new voice lines... unlocks the ability for her to audibly announce the *han* (point value) of your winning hands.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The 'Bond Level Unlocks' section outlines what each level provides.",
+        "Max level specifically enables han announcement."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What gifts increase Bond Points with Miki Nikaidou by 50%?",
+      "answer": "Diamonds (e.g., Green Diamond, Blue Diamond, Purple Diamond)",
+      "evidence": "her preferred gifts are **Diamonds** (e.g., Green Diamond, Blue Diamond, Purple Diamond)",
+      "type": "preference",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies that Miki's preferred gifts are Diamonds, which give +50% Bond Points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "What materials are required to perform Miki Nikaidou's Bond Ascension?",
+      "answer": "Heart of the Ocean x5, Sphere of Love x10, Sphere of Wisdom x10, Wishing Stone x10, Star Dust x100",
+      "evidence": "Miki's Bond Ascension Materials: Heart of the Ocean x5... Sphere of Love x10... Sphere of Wisdom x10... Wishing Stone x10... Star Dust x100",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are explicitly listed under 'Miki's Bond Ascension Materials'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What rewards does Miki Nikaidou's Bond Ascension provide?",
+      "answer": "A new outfit, new emotes, and the final chapter of her backstory.",
+      "evidence": "Unlocks her exclusive 'Bond Promise' outfit... Unlocks her final set of three character-specific emotes... Unlocks the final chapter of her backstory.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Each reward is listed under 'Rewards for Bond Ascension'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What is the name of the first Bond Story chapter for Miki Nikaidou?",
+      "answer": "Tenhoukaku",
+      "evidence": "Bond Lv. 1: Tenhoukaku",
+      "type": "fact",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The first story is listed under 'Tale - Backstory and Lore'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What archetype does Miki Nikaidou embody according to her personality analysis?",
+      "answer": "The 'cool, mature, older sister' (or onee-san) archetype with a playful and mysterious edge.",
+      "evidence": "She embodies the 'cool, mature, older sister' (or *onee-san*) archetype, but with a playful and mysterious edge.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The archetype is directly described in the 'Character and Personality Analysis' section."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

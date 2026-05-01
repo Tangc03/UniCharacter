@@ -1,0 +1,146 @@
+{
+  "description": "Sun Wukong, the Monkey King, is a mischievous and immensely powerful immortal born from a mystical stone. Known as the \"Great Sage, Equal of Heaven,\" he is rebellious, proud, and cunning, wielding the magical Ruyi Jingu Bang. Despite his playful and often arrogant nature, he is fiercely loyal and brave, dedicated to protecting his master, Tang Sanzang, on their epic journey. He can be impulsive and impatient, but his heart is just, and he never hesitates to fight demons.",
+  "opening": "",
+  "mcq_items": [
+    {
+      "id": "mcq_001",
+      "question": "What is Sun Wukong's origin according to the profile?",
+      "options": {
+        "A": "He was born from a mystical stone on the Mountain of Flowers and Fruit.",
+        "B": "He was created by the Jade Emperor to guard Heaven.",
+        "C": "He was born from a peach tree in the Garden of Immortality.",
+        "D": "He was a mortal boy who achieved immortality through cultivation."
+      },
+      "answer_key": "A",
+      "difficulty": "easy",
+      "evidence": "Origin: Born from a mystical stone on the Mountain of Flowers and Fruit, nourished by the energies of Heaven and Earth.",
+      "rationale": "The profile explicitly states that Wukong was born from a mystical stone on the Mountain of Flowers and Fruit, making option A correct. The other options are not mentioned."
+    },
+    {
+      "id": "mcq_002",
+      "question": "Which of the following is one of Sun Wukong's titles?",
+      "options": {
+        "A": "Emperor of the East",
+        "B": "Handsome Monkey King",
+        "C": "Guardian of the Southern Gate",
+        "D": "Dragon King of the Sea"
+      },
+      "answer_key": "B",
+      "difficulty": "easy",
+      "evidence": "Titles: Handsome Monkey King (美猴王), Great Sage, Equal of Heaven (齊天大聖), Pilgrim (行者).",
+      "rationale": "The profile clearly lists 'Handsome Monkey King' as one of Wukong's titles. The other options are not mentioned in the text."
+    },
+    {
+      "id": "mcq_003",
+      "question": "What is Sun Wukong's weapon of choice?",
+      "options": {
+        "A": "A golden spear that summons lightning",
+        "B": "A magical bow made of phoenix feathers",
+        "C": "Ruyi Jingu Bang, a staff that changes size",
+        "D": "A flaming sword forged in hellfire"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Weapon of Choice: Ruyi Jingu Bang (如意金箍棒), a magical staff that can change size at his will, weighing 17,548 lbs.",
+      "rationale": "The profile explicitly identifies the Ruyi Jingu Bang as Wukong's weapon. The other options are not mentioned and are therefore incorrect."
+    },
+    {
+      "id": "mcq_004",
+      "question": "Who is Sun Wukong's master in Taoist cultivation?",
+      "options": {
+        "A": "Tang Sanzang",
+        "B": "Zhu Bajie",
+        "C": "Puti Zushi",
+        "D": "The Jade Emperor"
+      },
+      "answer_key": "C",
+      "difficulty": "easy",
+      "evidence": "Master: He learned his powers from the Taoist master Puti Zushi (also referred to as Patriarch Subhuti).",
+      "rationale": "The profile states that Wukong learned his powers from Puti Zushi. Tang Sanzang is his later master on the journey, but not the one from whom he learned his powers. Thus, C is correct."
+    },
+    {
+      "id": "mcq_005",
+      "question": "Which personality trait is NOT listed as part of Sun Wukong's character in the profile?",
+      "options": {
+        "A": "Mischievous and Playful",
+        "B": "Loyal and Just",
+        "C": "Humble and Selfless",
+        "D": "Proud and Arrogant"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Personality Traits: Sun Wukong is a character of immense complexity... Proud and Arrogant: Wukong is immensely proud of his abilities...",
+      "rationale": "The profile lists mischievous, loyal, and proud traits but never mentions 'humble and selfless.' In fact, pride is emphasized, making C the correct (incorrect) choice as it is not listed."
+    },
+    {
+      "id": "mcq_006",
+      "question": "How does Sun Wukong typically carry his staff when not in use?",
+      "options": {
+        "A": "He places it in a magical sheath on his back.",
+        "B": "He shrinks it to needle size and keeps it behind his ear.",
+        "C": "He hides it in a cloud that follows him.",
+        "D": "He entrusts it to Zhu Bajie for safekeeping."
+      },
+      "answer_key": "B",
+      "difficulty": "medium",
+      "evidence": "He often shrinks it to the size of a needle and keeps it tucked behind his ear.",
+      "rationale": "This detail is explicitly stated in the profile. The other options are not mentioned and are therefore incorrect."
+    },
+    {
+      "id": "mcq_007",
+      "question": "Why do Wukong's adversaries often mock him using the title 'Bìmǎwēn'?",
+      "options": {
+        "A": "Because it was a title bestowed by the Buddha as a punishment.",
+        "B": "Because it was a heroic title from his battle against the Dragon Kings.",
+        "C": "Because it was a lowly position he once held in Heaven.",
+        "D": "Because it means 'defeated monkey' in ancient language."
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "He was also mockingly called Bìmǎwēn, a title for the head of the Heavenly Stables. ... His adversaries often use his former lowly title, 'Bìmǎwēn,' to mock him.",
+      "rationale": "The profile states that 'Bìmǎwēn' was a lowly title (head of the Heavenly Stables) and that adversaries use it to mock him, confirming C as correct."
+    },
+    {
+      "id": "mcq_008",
+      "question": "What motivates Sun Wukong to protect Tang Sanzang during the journey to the West?",
+      "options": {
+        "A": "A reward of immortality from the Buddha",
+        "B": "A magical contract that binds him",
+        "C": "His loyalty and sense of justice",
+        "D": "Fear of punishment from the Jade Emperor"
+      },
+      "answer_key": "C",
+      "difficulty": "medium",
+      "evidence": "Loyal and Just: Despite his rebellious beginnings, he develops a fierce loyalty to his master, Tang Sanzang, and is dedicated to protecting him. He possesses a strong sense of justice...",
+      "rationale": "The profile directly states that Wukong's motivation stems from loyalty and justice. While external forces may have initially bound him, the stated motivation in the text is internal—loyalty and justice."
+    },
+    {
+      "id": "mcq_009",
+      "question": "Which linguistic habit is associated with how Sun Wukong speaks to his master, Tang Sanzang?",
+      "options": {
+        "A": "Mocking and sarcastic tone",
+        "B": "Boastful declarations of power",
+        "C": "Respectful address, sometimes with exasperation",
+        "D": "Silent obedience without speech"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Respectful to His Master: While generally informal, he addresses his master, Tang Sanzang, with respect, albeit sometimes with a hint of exasperation at his master's naivete.",
+      "rationale": "This detail is specific and requires distinguishing Wukong's tone with his master from his general speech patterns. It is harder because the profile contrasts this respect with his usual informality and impatience."
+    },
+    {
+      "id": "mcq_010",
+      "question": "What event in Sun Wukong's past is directly linked to his rebellious and impulsive nature, as described in the profile?",
+      "options": {
+        "A": "His training under Puti Zushi",
+        "B": "His decision to follow Tang Sanzang",
+        "C": "His havoc in Heaven after being given a low-ranking position",
+        "D": "His battle with the Dragon Kings for the Ruyi Jingu Bang"
+      },
+      "answer_key": "C",
+      "difficulty": "hard",
+      "evidence": "Rebellious and Impulsive: Wukong has a strong rebellious streak... This rebellious nature led him to wreak havoc in Heaven after being given a low-ranking position.",
+      "rationale": "The profile explicitly connects his rebellion and impulsiveness to the event of wreaking havoc in Heaven due to a low-ranking post. This is a hard question because it requires linking a personality trait to a specific past action described in a complex sentence."
+    }
+  ]
+}

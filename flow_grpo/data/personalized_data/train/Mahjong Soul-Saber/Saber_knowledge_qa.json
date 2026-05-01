@@ -1,0 +1,1252 @@
+{
+  "description": "Saber is a powerful Servant from Fate/stay night, appearing in Mahjong Soul as a guest character. Renowned for her strength and loyalty, she is a serious and dignified knight. Though her petite frame belies her power, she is second to none in battle. Beneath her stoic exterior, she harbors a fondness for well-prepared meals and plush toys. She acts as a loyal protector to her Master, bound by fate and duty.",
+  "opening": "Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.",
+  "qa_items": [
+    {
+      "id": "qa_001",
+      "question": "What is the main goal of Riichi Mahjong as played in *Mahjong Soul*?",
+      "answer": "To finish the game with the most points by completing a winning hand of 14 tiles.",
+      "evidence": "The ultimate goal is to finish the game with the most points by completing a winning hand of 14 tiles.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly defines the goal of the game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_002",
+      "question": "How many tiles are used in a standard *Mahjong Soul* game?",
+      "answer": "136 tiles.",
+      "evidence": "The game is played with a set of 136 tiles, which are divided into three suits and honor tiles.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The total number of tiles is directly stated in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_003",
+      "question": "What are the three suits in Riichi Mahjong?",
+      "answer": "Characters (Manzu), Circles (Pinzu), and Bamboo (Souzu).",
+      "evidence": "Suits: These include Characters (Manzu), Circles (Pinzu), and Bamboo (Souzu), each numbered 1 through 9.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three suits are explicitly listed in the 'Suits' section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_004",
+      "question": "What are the two categories of honor tiles in Riichi Mahjong?",
+      "answer": "Wind tiles and Dragon tiles.",
+      "evidence": "Honors: These are split into Wind tiles (East, South, West, North) and Dragon tiles (White, Green, Red).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT divides honors into two categories."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_005",
+      "question": "What special function do red fives serve in the game?",
+      "answer": "They act as bonus tiles to increase a hand's value.",
+      "evidence": "Some sets include special red-colored \"5\" tiles from each suit that act as bonus tiles to increase a hand's value.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text states the functional role of red fives."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_006",
+      "question": "How many tiles does each player start with in Riichi Mahjong?",
+      "answer": "13 tiles, except the dealer who starts with 14.",
+      "evidence": "Each player starts with 13 tiles, and the dealer begins with 14.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The starting tile count is directly specified for non-dealers and dealers."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_007",
+      "question": "In what order do players take turns in *Mahjong Soul*?",
+      "answer": "Anti-clockwise order.",
+      "evidence": "Players take turns in anti-clockwise order.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The turn order is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_008",
+      "question": "What must a player do during their turn in Riichi Mahjong?",
+      "answer": "Draw one tile from the wall and then discard one tile from their hand.",
+      "evidence": "A turn consists of drawing one tile from the wall and then discarding one tile from your hand into the center of the table.",
+      "type": "procedure",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The turn structure is clearly defined in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_009",
+      "question": "What is a 'Chii' in Riichi Mahjong?",
+      "answer": "Calling a discarded tile from the player to your left to complete a sequence.",
+      "evidence": "Chii: Calling a discarded tile from the player to your left to complete a sequence (e.g., 5-6-7 of the same suit).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The definition of Chii is directly provided with an example."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_010",
+      "question": "What is required to form a 'Pon'?",
+      "answer": "Calling a discarded tile from any player to complete a triplet of three identical tiles.",
+      "evidence": "Pon: Calling a discarded tile from any player to complete a triplet (three identical tiles).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The requirement for forming a Pon is explicitly defined."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_011",
+      "question": "What is a 'Kan' in Riichi Mahjong?",
+      "answer": "Calling a tile to form a quad of four identical tiles.",
+      "evidence": "Kan: Calling a tile to form a quad (four identical tiles).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The definition of Kan is directly given."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_012",
+      "question": "What is a 'yaku' in Riichi Mahjong?",
+      "answer": "A specific winning pattern or condition required to legally win a round.",
+      "evidence": "To legally win a round, a player's hand must contain at least one *yaku*, which is a specific winning pattern or condition.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The PROFILE_TEXT defines yaku as a necessary condition for winning."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_013",
+      "question": "What is the 'Riichi' yaku?",
+      "answer": "Declaring Riichi when the hand is concealed and one tile away from completion (tenpai), placing a 1,000-point stick and locking the hand.",
+      "evidence": "A crucial yaku is **Riichi**. A player can declare \"Riichi\" when their hand is concealed (no open melds) and is just one tile away from completion (*tenpai*). To do this, they place a 1,000-point stick on the table and discard a tile sideways.",
+      "type": "definition",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The definition combines several elements: concealed hand, tenpai status, point deposit, and locked hand."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_014",
+      "question": "What happens to a player's hand after declaring Riichi?",
+      "answer": "The hand is locked, and they must automatically discard any tile drawn that doesn't complete the hand.",
+      "evidence": "After declaring Riichi, their hand is locked, and they must automatically discard any tile they draw that doesn't complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The consequence of declaring Riichi is explicitly described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_015",
+      "question": "What are the two main factors in Riichi Mahjong scoring?",
+      "answer": "Han and Fu.",
+      "evidence": "Scoring in Riichi Mahjong is complex, combining two factors: *Han* and *Fu*.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The two scoring components are named directly."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_016",
+      "question": "What is Saber's height according to her official profile?",
+      "answer": "154cm.",
+      "evidence": "Height: 154cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The value is explicitly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_017",
+      "question": "Who is the voice actor for Saber in *Mahjong Soul*?",
+      "answer": "Ayako Kawasumi.",
+      "evidence": "Voice Actor: Ayako Kawasumi",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_018",
+      "question": "What are Saber's interests as listed in her profile?",
+      "answer": "Healthy meals and plushies.",
+      "evidence": "Interests: Healthy meals, plushies",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The interests are explicitly listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_019",
+      "question": "What is Saber's preferred item in *Mahjong Soul*?",
+      "answer": "Cookies.",
+      "evidence": "Preferred Item: Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preferred item is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_020",
+      "question": "What role does Saber serve in *Mahjong Soul*?",
+      "answer": "A playable avatar with character-specific voice lines, emotes, and animations.",
+      "evidence": "Saber's primary role in *Mahjong Soul* is that of a playable avatar... including her own set of voice lines for various in-game actions, character-specific emotes, and special animations.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text defines her role as an avatar with aesthetic features."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_021",
+      "question": "Does Saber have unique gameplay-altering skills in *Mahjong Soul*?",
+      "answer": "No, she does not possess unique skills that alter the rules of mahjong.",
+      "evidence": "While she does not possess unique skills that alter the rules of mahjong, using her provides a unique aesthetic experience.",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states she lacks gameplay-altering skills."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_022",
+      "question": "Where does Saber's backstory originate?",
+      "answer": "The *Fate/stay night* franchise.",
+      "evidence": "Saber's backstory is not original to *Mahjong Soul*. Her lore is entirely derived from her role in the *Fate/stay night* franchise.",
+      "type": "origin",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The origin of her backstory is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_023",
+      "question": "How can players obtain Saber in *Mahjong Soul*?",
+      "answer": "Through the 'Sakura Collab' and 'Bamboo Collab' summons during the *Fate/stay night [Heaven's Feel]* event.",
+      "evidence": "Saber was an exclusive character available for a limited time through the \"Sakura Collab\" and \"Bamboo Collab\" summons (the game's gacha system) during the *Fate/stay night [Heaven's Feel]* event.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of obtaining her is described as a limited-time gacha event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_024",
+      "question": "What materials are needed to perform a Bond Ascension for Saber?",
+      "answer": "50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie, 10 Wishing Stones, and 100 Star Dust.",
+      "evidence": "To reach the maximum bond level (five full hearts) and perform a \"Bond Ascension\" for Saber, players need the following specific materials: 50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie (her preferred purple gift), 10 Wishing Stones, 100 Star Dust.",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are explicitly listed in the Bond Ascension section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_025",
+      "question": "What does achieving a full bond with Saber unlock?",
+      "answer": "A unique 'Full Bond' outfit and three exclusive emotes.",
+      "evidence": "Achieving a full bond unlocks a unique \"Full Bond\" outfit and three exclusive emotes.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rewards for full bond are directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_026",
+      "question": "What is the primary game mode in which Saber appears?",
+      "answer": "Saber appears in *Mahjong Soul* as a playable avatar.",
+      "evidence": "Saber's primary role in *Mahjong Soul* is that of a playable avatar.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states Saber's main function in the game.",
+        "It specifies she serves as an avatar, not a mechanic or narrative character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_027",
+      "question": "Is Saber a permanent character in *Mahjong Soul*?",
+      "answer": "No, Saber is a limited-time guest character.",
+      "evidence": "Saber is a limited-time guest character in *Mahjong Soul*, featured as part of a collaboration event.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text clearly describes her as 'limited-time' and 'guest'.",
+        "This implies temporary availability."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_028",
+      "question": "Which franchise is Saber originally from?",
+      "answer": "Saber is from the *Fate/stay night* franchise.",
+      "evidence": "Saber is a limited-time guest character in *Mahjong Soul*, featured as part of a collaboration event with the movie series *Fate/stay night [Heaven's Feel]*.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The collaboration event links her to *Fate/stay night [Heaven's Feel]*.",
+        "This confirms her origin."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_029",
+      "question": "What is Saber's height according to her official profile?",
+      "answer": "154cm",
+      "evidence": "Height: 154cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile lists her height directly as 154cm."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_030",
+      "question": "Does Saber have a known birthday in the profile?",
+      "answer": "No, her birthday is unknown.",
+      "evidence": "Birthday: Unknown",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states 'Birthday: Unknown'."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_031",
+      "question": "Who is the voice actor for Saber in *Mahjong Soul*?",
+      "answer": "Ayako Kawasumi",
+      "evidence": "Voice Actor: Ayako Kawasumi",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile directly lists Ayako Kawasumi as the voice actor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_032",
+      "question": "What are Saber's stated interests in the official profile?",
+      "answer": "Healthy meals and plushies.",
+      "evidence": "Interests: Healthy meals, plushies",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile clearly enumerates her interests."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_033",
+      "question": "What is Saber's preferred item in *Mahjong Soul*?",
+      "answer": "Cookies",
+      "evidence": "Preferred Item: Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The profile explicitly states her preferred item."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_034",
+      "question": "What does declaring 'Riichi' require in Riichi Mahjong?",
+      "answer": "A concealed hand one tile away from completion and a 1,000-point stick placed on the table.",
+      "evidence": "A player can declare 'Riichi' when their hand is concealed (no open melds) and is just one tile away from completion (*tenpai*). To do this, they place a 1,000-point stick on the table and discard a tile sideways.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The conditions for Riichi are defined in the rules section.",
+        "Both concealment and the point stake are required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_035",
+      "question": "What happens to a player's hand after declaring Riichi?",
+      "answer": "The hand is locked, and they must discard any tile drawn that doesn't complete the hand.",
+      "evidence": "After declaring Riichi, their hand is locked, and they must automatically discard any tile they draw that doesn't complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rule following Riichi declaration is clearly stated.",
+        "It includes automatic discarding of non-winning tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_036",
+      "question": "Does Saber alter the rules of mahjong in *Mahjong Soul*?",
+      "answer": "No, Saber does not have unique skills that alter the rules.",
+      "evidence": "While she does not possess unique skills that alter the rules of mahjong, using her provides a unique aesthetic experience.",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states she lacks rule-altering abilities.",
+        "Her role is purely aesthetic."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_037",
+      "question": "What kind of experience does using Saber provide in-game?",
+      "answer": "Aesthetic experience with unique voice lines, emotes, and animations.",
+      "evidence": "Using her provides a unique aesthetic experience. This includes her own set of voice lines for various in-game actions, character-specific emotes, and special animations for winning hands or declaring Riichi.",
+      "type": "role",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text specifies that her value lies in presentation, not mechanics.",
+        "Voice lines, emotes, and animations are listed as features."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_038",
+      "question": "What is the name of Saber's special Riichi effect in *Mahjong Soul*?",
+      "answer": "Void's Blessing",
+      "evidence": "The collaboration also introduced themed decorations, such as special effects for Riichi ('Void's Blessing') and winning ('Cursed Realm').",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The profile names the special Riichi effect directly.",
+        "It is associated with the collaboration theme."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_039",
+      "question": "What is the name of Saber's special winning hand animation?",
+      "answer": "Cursed Realm",
+      "evidence": "The collaboration also introduced themed decorations, such as special effects for Riichi ('Void's Blessing') and winning ('Cursed Realm').",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The winning animation is named in the same sentence as the Riichi effect.",
+        "It is part of the themed decorations."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_040",
+      "question": "Does Saber have an original backstory in *Mahjong Soul*?",
+      "answer": "No, her backstory is derived entirely from *Fate/stay night*.",
+      "evidence": "Saber's backstory is not original to *Mahjong Soul*. Her lore is entirely derived from her role in the *Fate/stay night* franchise.",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states her lore is not original.",
+        "It confirms it comes from the source material."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_041",
+      "question": "What is Saber's introductory quote in *Mahjong Soul*?",
+      "answer": "Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.",
+      "evidence": "Her introductory quote in the game reflects this: \"Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.\"",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The quote is directly provided in the profile.",
+        "It is attributed as her in-game introduction."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_042",
+      "question": "Do guest characters like Saber have integrated narratives in *Mahjong Soul*?",
+      "answer": "No, they typically do not have an integrated narrative.",
+      "evidence": "While some characters in *Mahjong Soul* have their own story segments... guest characters like Saber typically do not have an integrated narrative within the game itself.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text contrasts regular characters with guest ones.",
+        "It explicitly states guest characters lack narrative integration."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_043",
+      "question": "How can players increase their bond level with Saber?",
+      "answer": "By playing games with her as the avatar or giving her gifts.",
+      "evidence": "Players can increase their \"Bond\" with a character by playing games with them as their avatar or by giving them gifts.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method to increase bond is clearly outlined.",
+        "Two actions are specified: playing and gifting."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_044",
+      "question": "What materials are required to perform a Bond Ascension for Saber?",
+      "answer": "50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie, 10 Wishing Stones, and 100 Star Dust.",
+      "evidence": "To reach the maximum bond level... and perform a \"Bond Ascension\" for Saber, players need: 50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie (her preferred purple gift), 10 Wishing Stones, 100 Star Dust.",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The full list of materials is enumerated in the text.",
+        "All items are specified with exact quantities."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_045",
+      "question": "What does achieving full bond with Saber unlock?",
+      "answer": "A unique 'Full Bond' outfit and three exclusive emotes.",
+      "evidence": "Achieving a full bond unlocks a unique \"Full Bond\" outfit and three exclusive emotes.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The rewards for full bond are explicitly listed.",
+        "They include visual and expressive content."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_046",
+      "question": "What is the name of Saber's special animated outfit available during the event?",
+      "answer": "Fated Night",
+      "evidence": "Additionally, Saber has a special animated \"Fated Night\" outfit that was available for purchase separately during the event.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The outfit name is directly stated.",
+        "It is specified as event-exclusive and purchasable."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_047",
+      "question": "Was Saber obtainable through regular gameplay?",
+      "answer": "No, she was only available via limited-time summons.",
+      "evidence": "Saber was an exclusive character available for a limited time through the \"Sakura Collab\" and \"Bamboo Collab\" summons (the game's gacha system) during the event.",
+      "type": "limitation",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of acquisition is clearly defined.",
+        "It specifies gacha summons during a limited event."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_048",
+      "question": "What type of tile sets are used in *Mahjong Soul*?",
+      "answer": "Characters (Manzu), Circles (Pinzu), Bamboo (Souzu), and honor tiles (Winds and Dragons).",
+      "evidence": "These include Characters (Manzu), Circles (Pinzu), and Bamboo (Souzu), each numbered 1 through 9. Honors: These are split into Wind tiles (East, South, West, North) and Dragon tiles (White, Green, Red).",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The tile categories are fully listed in the fundamentals section.",
+        "Suits and honors are both described."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_049",
+      "question": "What is a 'yaku' in Riichi Mahjong?",
+      "answer": "A specific winning pattern or condition required to legally win a hand.",
+      "evidence": "To legally win a round, a player's hand must contain at least one *yaku*, which is a specific winning pattern or condition.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The definition is directly provided in the text.",
+        "It specifies the necessity for legal victory."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_050",
+      "question": "How many tiles does each player start with in Riichi Mahjong?",
+      "answer": "Each player starts with 13 tiles, except the dealer who starts with 14.",
+      "evidence": "Each player starts with 13 tiles, and the dealer begins with 14.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The starting tile count is clearly stated.",
+        "A distinction is made for the dealer."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_051",
+      "question": "What is the name of the mahjong variant used in *Mahjong Soul*?",
+      "answer": "Japanese Riichi Mahjong",
+      "evidence": "Mahjong Soul is based on Japanese Riichi Mahjong",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states the game's basis."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_052",
+      "question": "How many tiles does each player start with in *Mahjong Soul*?",
+      "answer": "13 tiles",
+      "evidence": "Each player starts with 13 tiles, and the dealer begins with 14.",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The statement specifies the starting hand for non-dealer players."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_053",
+      "question": "How many tiles are in the full set used in *Mahjong Soul*?",
+      "answer": "136 tiles",
+      "evidence": "The game is played with a set of 136 tiles",
+      "type": "numeric",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The number is directly stated in the game setup section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_054",
+      "question": "Which three suits are used in *Mahjong Soul*?",
+      "answer": "Characters (Manzu), Circles (Pinzu), and Bamboo (Souzu)",
+      "evidence": "These include Characters (Manzu), Circles (Pinzu), and Bamboo (Souzu), each numbered 1 through 9.",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The three suits are explicitly listed in the PROFILE_TEXT."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_055",
+      "question": "What are the two categories of honor tiles in *Mahjong Soul*?",
+      "answer": "Wind tiles and Dragon tiles",
+      "evidence": "These are split into Wind tiles (East, South, West, North) and Dragon tiles (White, Green, Red).",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text states the two honor tile categories."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_056",
+      "question": "What is the special name for the red-colored '5' tiles in *Mahjong Soul*?",
+      "answer": "Red Fives (Aka Dora)",
+      "evidence": "Some sets include special red-colored \"5\" tiles from each suit that act as bonus tiles to increase a hand's value.",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The term \"Red Fives (Aka Dora)\" is defined as the bonus red 5 tiles."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_057",
+      "question": "What is the goal of a player in *Mahjong Soul*?",
+      "answer": "To finish the game with the most points by completing a winning hand of 14 tiles",
+      "evidence": "The ultimate goal is to finish the game with the most points by completing a winning hand of 14 tiles.",
+      "type": "definition",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The goal is directly stated in the game description."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_058",
+      "question": "What is a 'Chii' in Riichi Mahjong?",
+      "answer": "Calling a discarded tile from the player to your left to complete a sequence",
+      "evidence": "Chii: Calling a discarded tile from the player to your left to complete a sequence (e.g., 5-6-7 of the same suit).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The definition is provided in the Melds section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_059",
+      "question": "What is a 'Pon' in Riichi Mahjong?",
+      "answer": "Calling a discarded tile from any player to complete a triplet",
+      "evidence": "Pon: Calling a discarded tile from any player to complete a triplet (three identical tiles).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The definition is clearly given in the Melds section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_060",
+      "question": "What is required for a player to legally win a round in Riichi Mahjong?",
+      "answer": "At least one yaku",
+      "evidence": "To legally win a round, a player's hand must contain at least one *yaku*, which is a specific winning pattern or condition.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The condition for legal victory is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_061",
+      "question": "What is the 'Riichi' yaku in Riichi Mahjong?",
+      "answer": "A declaration made when a concealed hand is one tile away from completion",
+      "evidence": "A crucial yaku is **Riichi**. A player can declare \"Riichi\" when their hand is concealed (no open melds) and is just one tile away from completion (*tenpai*).",
+      "type": "definition",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The definition of Riichi is clearly described in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_062",
+      "question": "What must a player do to declare Riichi in *Mahjong Soul*?",
+      "answer": "Place a 1,000-point stick on the table and discard a tile sideways",
+      "evidence": "To do this, they place a 1,000-point stick on the table and discard a tile sideways.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The required actions are explicitly listed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_063",
+      "question": "What happens to a player's hand after declaring Riichi?",
+      "answer": "It becomes locked, and they must discard any tile they draw that doesn't complete their hand",
+      "evidence": "After declaring Riichi, their hand is locked, and they must automatically discard any tile they draw that doesn't complete their hand.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The consequence of declaring Riichi is directly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_064",
+      "question": "What two factors determine scoring in Riichi Mahjong?",
+      "answer": "Han and Fu",
+      "evidence": "Scoring in Riichi Mahjong is complex, combining two factors: Han and Fu",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The two scoring components are explicitly named."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_065",
+      "question": "What is Saber's height in centimeters?",
+      "answer": "154cm",
+      "evidence": "Height: 154cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is directly listed in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_066",
+      "question": "Who is the voice actor for Saber in *Mahjong Soul*?",
+      "answer": "Ayako Kawasumi",
+      "evidence": "Voice Actor: Ayako Kawasumi",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is explicitly listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_067",
+      "question": "What are Saber's interests according to her profile?",
+      "answer": "Healthy meals and plushies",
+      "evidence": "Interests: Healthy meals, plushies",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The interests are directly stated in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_068",
+      "question": "What is Saber's preferred item in *Mahjong Soul*?",
+      "answer": "Cookies",
+      "evidence": "Preferred Item: Cookies",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preferred item is explicitly listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_069",
+      "question": "In which game is Saber a limited-time guest character?",
+      "answer": "Mahjong Soul",
+      "evidence": "Saber is a limited-time guest character in *Mahjong Soul*",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The game is directly mentioned in the profile."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_070",
+      "question": "Which movie series is the collaboration event in *Mahjong Soul* based on?",
+      "answer": "Fate/stay night [Heaven's Feel]",
+      "evidence": "featured as part of a collaboration event with the movie series *Fate/stay night [Heaven's Feel]*",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The collaboration source is explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_071",
+      "question": "Does Saber have unique gameplay skills that alter the rules of mahjong in *Mahjong Soul*?",
+      "answer": "No",
+      "evidence": "While she does not possess unique skills that alter the rules of mahjong, using her provides a unique aesthetic experience.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states she lacks rule-altering skills."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_072",
+      "question": "What does using Saber as an avatar provide in *Mahjong Soul*?",
+      "answer": "Unique voice lines, character-specific emotes, and special animations",
+      "evidence": "This includes her own set of voice lines for various in-game actions, character-specific emotes, and special animations for winning hands or declaring Riichi.",
+      "type": "list",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The benefits of using her are listed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_073",
+      "question": "What are the special effects associated with Saber in *Mahjong Soul*?",
+      "answer": "Void's Blessing for Riichi and Cursed Realm for winning",
+      "evidence": "The collaboration also introduced themed decorations, such as special effects for Riichi (\"Void's Blessing\") and winning (\"Cursed Realm\")",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The two special effects are named in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_074",
+      "question": "What materials are needed to perform a Bond Ascension for Saber?",
+      "answer": "50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie, 10 Wishing Stones, 100 Star Dust",
+      "evidence": "To reach the maximum bond level (five full hearts) and perform a \"Bond Ascension\" for Saber, players need the following specific materials: 50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie (her preferred purple gift), 10 Wishing Stones, 100 Star Dust",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "All required materials are listed in the Bond Ascension section."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_075",
+      "question": "What does achieving a full bond with Saber unlock in *Mahjong Soul*?",
+      "answer": "A unique Full Bond outfit and three exclusive emotes",
+      "evidence": "Achieving a full bond unlocks a unique \"Full Bond\" outfit and three exclusive emotes.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The unlocked rewards are explicitly stated in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_076",
+      "question": "What is the name of the game in which Saber appears as a guest character?",
+      "answer": "Mahjong Soul",
+      "evidence": "Saber is a limited-time guest character in *Mahjong Soul*",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The PROFILE_TEXT explicitly states that Saber appears in *Mahjong Soul*.",
+        "This is a direct factual mention."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_077",
+      "question": "Which movie series is the collaboration event featuring Saber based on?",
+      "answer": "Fate/stay night [Heaven's Feel]",
+      "evidence": "featured as part of a collaboration event with the movie series *Fate/stay night [Heaven's Feel]*",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The collaboration event is directly tied to *Fate/stay night [Heaven's Feel]* as stated in the text.",
+        "No inference is needed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_078",
+      "question": "What is Saber's height according to her official profile?",
+      "answer": "154cm",
+      "evidence": "* **Height:** 154cm",
+      "type": "numeric",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The height is explicitly listed under Saber's profile details.",
+        "It is a direct numeric fact."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_079",
+      "question": "Who is the voice actor for Saber in Mahjong Soul?",
+      "answer": "Ayako Kawasumi",
+      "evidence": "* **Voice Actor:** Ayako Kawasumi",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The voice actor is directly listed in the profile section.",
+        "No interpretation required."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_080",
+      "question": "What are Saber's interests as listed in her official profile?",
+      "answer": "Healthy meals and plushies",
+      "evidence": "* **Interests:** Healthy meals, plushies",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The interests are explicitly listed in bullet form.",
+        "Only two are mentioned: healthy meals and plushies."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_081",
+      "question": "What is Saber's preferred item in Mahjong Soul?",
+      "answer": "Cookies",
+      "evidence": "* **Preferred Item:** Cookies",
+      "type": "preference",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The preferred item is directly stated in the profile.",
+        "No ambiguity in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_082",
+      "question": "Does Saber have a known birthday in the profile?",
+      "answer": "No",
+      "evidence": "* **Birthday:** Unknown",
+      "type": "fact",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The birthday field is explicitly marked as 'Unknown'.",
+        "Therefore, she does not have a known birthday."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_083",
+      "question": "What is the primary role of Saber in Mahjong Soul gameplay?",
+      "answer": "Playable avatar",
+      "evidence": "Saber's primary role in *Mahjong Soul* is that of a playable avatar.",
+      "type": "role",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly states her primary role.",
+        "She serves as an avatar for players during matches."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_084",
+      "question": "Does Saber have unique gameplay-altering skills in Mahjong Soul?",
+      "answer": "No",
+      "evidence": "While she does not possess unique skills that alter the rules of mahjong",
+      "type": "capability",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text directly states she lacks skills that change mahjong rules.",
+        "Thus, no gameplay-altering abilities are present."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_085",
+      "question": "What special features does using Saber as an avatar provide in Mahjong Soul?",
+      "answer": "Character-specific voice lines, emotes, and special animations for winning or declaring Riichi",
+      "evidence": "This includes her own set of voice lines for various in-game actions, character-specific emotes, and special animations for winning hands or declaring Riichi.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text lists three features: voice lines, emotes, and animations.",
+        "These are tied to using her as an avatar."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_086",
+      "question": "What is the name of the special Riichi declaration effect introduced during Saber's collaboration event?",
+      "answer": "Void's Blessing",
+      "evidence": "special effects for Riichi (\"Void's Blessing\")",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The special effect name is given in quotes after 'Riichi'.",
+        "It is explicitly linked to the collaboration."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_087",
+      "question": "What lore source does Saber's backstory in Mahjong Soul come from?",
+      "answer": "The Fate/stay night franchise",
+      "evidence": "Saber's backstory is not original to *Mahjong Soul*. Her lore is entirely derived from her role in the *Fate/stay night* franchise.",
+      "type": "source",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text clearly states her backstory is from the *Fate/stay night* franchise.",
+        "It is not original to the game."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_088",
+      "question": "Does Saber have an integrated narrative within Mahjong Soul?",
+      "answer": "No",
+      "evidence": "guest characters like Saber typically do not have an integrated narrative within the game itself",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text explicitly states that guest characters lack integrated narratives.",
+        "Saber is specified as such a guest character."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_089",
+      "question": "What is Saber's personality in Mahjong Soul according to the profile?",
+      "answer": "Loyal, serious, and immensely powerful with a dignified and focused demeanor",
+      "evidence": "She is portrayed as loyal, serious, and immensely powerful... reflect a dignified and focused demeanor.",
+      "type": "character",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text describes her personality traits directly.",
+        "It combines her knightly nature and demeanor."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_090",
+      "question": "What does the mention of Saber's interest in plushies suggest about her character?",
+      "answer": "A softer, private side beyond her serious demeanor",
+      "evidence": "adds a touch of her more private, softer side, which is also a nod to fans of the original series",
+      "type": "character",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The interest in plushies is described as revealing a softer side.",
+        "It contrasts with her otherwise serious portrayal."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_091",
+      "question": "How can players obtain Saber in Mahjong Soul?",
+      "answer": "Through the 'Sakura Collab' and 'Bamboo Collab' summons during the Fate/stay night [Heaven's Feel] event",
+      "evidence": "Saber was an exclusive character available for a limited time through the \"Sakura Collab\" and \"Bamboo Collab\" summons... during the *Fate/stay night [Heaven's Feel]* event.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The method of obtaining her is specified as gacha summons.",
+        "The event and summon names are explicitly stated."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_092",
+      "question": "What is required to perform a Bond Ascension for Saber in Mahjong Soul?",
+      "answer": "50,000 max bond points, 10 Sphere of Innocence, 10 Sphere of Light, 5 Delicious Cookie, 10 Wishing Stones, and 100 Star Dust",
+      "evidence": "To reach the maximum bond level... and perform a \"Bond Ascension\" for Saber, players need... 50,000 max bond points... 10 Sphere of Innocence... 10 Sphere of Light... 5 Delicious Cookie... 10 Wishing Stones... 100 Star Dust",
+      "type": "list",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "The full list of materials is provided in the Bond Ascension section.",
+        "All items and quantities are explicitly listed."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_093",
+      "question": "What reward do players receive upon fully bonding with Saber?",
+      "answer": "A unique 'Full Bond' outfit and three exclusive emotes",
+      "evidence": "Achieving a full bond unlocks a unique \"Full Bond\" outfit and three exclusive emotes.",
+      "type": "capability",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The text directly states the rewards for full bonding.",
+        "Only these two rewards are mentioned."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_094",
+      "question": "What special outfit was available for Saber during the collaboration event?",
+      "answer": "Fated Night outfit",
+      "evidence": "Saber has a special animated \"Fated Night\" outfit that was available for purchase separately during the event.",
+      "type": "fact",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The outfit name is given in quotes and linked to the event.",
+        "It was separately purchasable."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_095",
+      "question": "What is the name of Saber's introductory quote in Mahjong Soul?",
+      "answer": "Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.",
+      "evidence": "Her introductory quote in the game reflects this: \"Servant, Saber. I have come in response to your summons. From this moment on, my sword stands with you, and your fate is bound with mine.\"",
+      "type": "quote",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The quote is provided verbatim in the text.",
+        "It is explicitly labeled as her introductory quote."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_096",
+      "question": "What is the purpose of the Bond system with Saber in Mahjong Soul?",
+      "answer": "To unlock additional voice lines, updated avatar graphics, and perform Bond Ascension",
+      "evidence": "Players can increase their \"Bond\" with a character by playing games... unlock additional voice lines and updated avatar graphics... perform a \"Bond Ascension\"",
+      "type": "purpose",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The Bond system allows progression through gameplay or gifting.",
+        "Rewards include voice lines, graphics, and ascension."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_097",
+      "question": "Are red five tiles considered a yaku in Riichi Mahjong?",
+      "answer": "No",
+      "evidence": "Red Fives (Aka Dora): Some sets include special red-colored \"5\" tiles... act as bonus tiles to increase a hand's value... Dora are indicator tiles that add value but do not count as a yaku on their own.",
+      "type": "capability",
+      "difficulty": "hard",
+      "reasoning_steps": [
+        "Red fives are a type of Dora.",
+        "Dora tiles add value but do not count as yaku.",
+        "Therefore, red fives are not yaku."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_098",
+      "question": "What are the two main factors used in scoring a hand in Riichi Mahjong?",
+      "answer": "Han and Fu",
+      "evidence": "Scoring in Riichi Mahjong is complex, combining two factors: * **Han:** ... * **Fu:** ...",
+      "type": "list",
+      "difficulty": "easy",
+      "reasoning_steps": [
+        "The text explicitly lists Han and Fu as the two scoring factors.",
+        "Each is defined in subsequent bullet points."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_099",
+      "question": "What must a player do to declare Riichi in Mahjong Soul?",
+      "answer": "Have a concealed hand one tile away from completion, place a 1,000-point stick, and discard a tile sideways",
+      "evidence": "A player can declare \"Riichi\" when their hand is concealed... and is just one tile away from completion... place a 1,000-point stick on the table and discard a tile sideways.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "Three conditions are required: concealed hand, tenpai, and the physical actions.",
+        "All are explicitly listed in the text."
+      ],
+      "confidence": 1.0
+    },
+    {
+      "id": "qa_100",
+      "question": "What happens after a player declares Riichi and draws a tile that doesn't complete their hand?",
+      "answer": "They must automatically discard the drawn tile",
+      "evidence": "After declaring Riichi, their hand is locked, and they must automatically discard any tile they draw that doesn't complete their hand.",
+      "type": "procedure",
+      "difficulty": "medium",
+      "reasoning_steps": [
+        "The consequence of drawing a non-winning tile is explicitly stated.",
+        "The discard is mandatory and automatic."
+      ],
+      "confidence": 1.0
+    }
+  ]
+}
