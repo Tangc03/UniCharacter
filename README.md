@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2605.08129-b31b1b.svg)](https://arxiv.org/abs/2605.08129)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=github-pages)](https://tangc03.github.io/UniCharacter.github.io/)
 [![Dataset RoleScape20](https://img.shields.io/badge/🤗%20Dataset-RoleScape20-yellow)](https://huggingface.co/datasets/Tangc03/RoleScape20)
 [![Model UniCharacter](https://img.shields.io/badge/🤗%20Model-UniCharacter-yellow)](https://huggingface.co/Tangc03/UniCharacter)
