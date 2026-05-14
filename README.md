@@ -313,8 +313,4 @@ For questions or suggestions, please open an Issue or contact Chao Tang (tc_2003
 }
 ```
 
-<p align="center">
-  <a href="https://star-history.com/#Tangc03/UniCharacter&Date">
-    <img src="https://api.star-history.com/svg?repos=Tangc03/UniCharacter&type=Date" alt="Star History Chart">
-  </a>
-</p>
+![Star History Chart](https://api.star-history.com/image?repos=Tangc03/UniCharacter&type=Date)
