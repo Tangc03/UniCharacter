@@ -303,3 +303,18 @@ UniCharacter/
 For questions or suggestions, please open an Issue or contact Chao Tang (tc_2003@stu.pku.edu.cn)
 
 ## 📜 Citation
+
+```
+@article{tang2026towards,
+  title={Towards Customized Multimodal Role-Play},
+  author={Tang, Chao and Wu, Jianzong and Shi, Qingyu and Tian, Ye and Zhang, Aixi and Jiang, Hao and Zhang, Jiangning and Tong, Yunhai},
+  journal={arXiv preprint arXiv:2605.08129},
+  year={2026}
+}
+```
+
+<p align="center">
+  <a href="https://star-history.com/#Tangc03/UniCharacter&Date">
+    <img src="https://api.star-history.com/svg?repos=Tangc03/UniCharacter&type=Date" alt="Star History Chart">
+  </a>
+</p>
